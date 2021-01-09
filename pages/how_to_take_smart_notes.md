@@ -2,7 +2,7 @@
 title: how to take smart notes
 ---
 
-## DONE How to take smart notes: 1542866502
+## DOING How to take smart notes: 1542866502
 :PROPERTIES:
 :todo: 1610155300253
 :done: 1610155326860
