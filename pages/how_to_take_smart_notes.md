@@ -10,7 +10,7 @@ what is it to think?
 
 what is the form of the idea?
 
-what is the academic mode? a questioning / questing towards \?truth? interesting questions? 
+what is the academic mode? a questioning / questing towards \?truth? interesting questions? if so---or if anything like it is so---such a mode must be spread throughout society.  
 
  an idea is a picture of an aesthetic. 
 	-> a note is a picture of an idea?
