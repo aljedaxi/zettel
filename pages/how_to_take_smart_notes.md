@@ -10,7 +10,9 @@ what is it to think?
 
 what is the form of the idea?
 
-an idea is a picture of an aesthetic. 
+what is the academic mode? 
+
+ an idea is a picture of an aesthetic. 
 	-> a note is a picture of an idea?
 	-> a note is an idea?
 	
