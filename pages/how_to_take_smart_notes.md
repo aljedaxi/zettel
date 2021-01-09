@@ -2,9 +2,10 @@
 title: how to take smart notes
 ---
 
-## DOING How to take smart notes: 1542866502
+## DONE How to take smart notes: 1542866502
 :PROPERTIES:
 :todo: 1610155300253
+:done: 1610155326860
 :END:
 
 systems can only act upon an interface. your interfaces must be designed to expose the aspects of the system that [should change?]
