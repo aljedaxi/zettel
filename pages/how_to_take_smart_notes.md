@@ -18,7 +18,7 @@ what is the academic mode? a questioning / questing towards \?truth? interesting
 
 the "good reader" is the reader who understands that a text is a system of purposeful [[Lichtung]]en and occlusions. the "poor reader" sees only that which is lit.
  -> the "good reader" is in "dialog" (their reading is dialectical), while the "poor reader" is listening.
- -> to "see only that which is lit" is to subconsciously accept the author's system / TODO as a given  
+ -> to "see only that which is lit" is to subconsciously accept the author's system 
 
  an idea is a picture of an aesthetic.
     -> ie --- an idea??
