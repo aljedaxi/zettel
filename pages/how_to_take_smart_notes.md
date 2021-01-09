@@ -12,7 +12,7 @@ what is the form of the idea?
 
 what is the academic mode? a questioning / questing towards \?truth? interesting questions? if so---or if anything like it is so---such a mode must be spread throughout society. every question ever asked may and should be treated with dignity.
 
-the "good reader" is the reader who understands that a text is a system of purposeful [[Lichtung]]en and occlusions. the "poor reader" sees only that which is lit. 
+the "good reader" is the reader who understands that a text is a system of purposeful [[Lichtung]]en and occlusions. the "poor reader" sees only that which is lit. the "good reader" is in "dialog" (their reading is dialectical), while the "poor reader" is listening.
 
  an idea is a picture of an aesthetic. 
 	-> a note is a picture of an idea?
