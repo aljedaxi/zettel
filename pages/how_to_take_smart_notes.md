@@ -20,7 +20,8 @@ the "good reader" is the reader who understands that a text is a system of purpo
  -> the "good reader" is in "dialog" (their reading is dialectical), while the "poor reader" is listening.
  -> to "see only that which is lit" is to subconsciously accept the author's system / TODO as a given  
 
- an idea is a picture of an aesthetic. 
+ an idea is a picture of an aesthetic.
+    -> ie --- an idea??
 	-> a note is a picture of an idea?
 	-> a note is an idea?
 	
