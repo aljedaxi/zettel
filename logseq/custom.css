@@ -58,8 +58,8 @@
   --ls-menu-hover-color: var(--light-background);
   --ls-table-tr-even-background-color: var(--light-background);
 
-  --ls-head-text-color: var(--foreground);
-  --ls-title-text-color: var(--foreground);
+  --ls-head-text-color: var(--white);
+  --ls-title-text-color: var(--white);
 
   --ls-link-text-color: var(--accent);
   --ls-link-text-hover-color: var(--accent);
