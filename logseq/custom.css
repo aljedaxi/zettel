@@ -71,9 +71,9 @@
   --ls-tag-text-color: var(--accent);
   --ls-tag-text-hover-color: var(--accent);
 
-  --ls-block-bullet-border-color: var(--current-line);
-  --ls-block-bullet-color: var(--foreground);
-  --ls-block-highlight-color: var(--current-line);
+  --ls-block-bullet-border-color: var(--accent);
+  --ls-block-bullet-color: var(--accent);
+  --ls-block-highlight-color: var(--accent);
   --ls-block-properties-background-color: var(--light-background);
 
   --ls-page-checkbox-color: transparent;
