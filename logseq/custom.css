@@ -11,7 +11,8 @@
   --lighter-background: var(--background);
   --dark-background: var(--background);
   --darker-background: var(--background);
-	--accent: var(--pink);
+  --accent: var(--pink);
+  --offccent: var(--white);
   --foreground: var(--pink);
   --current-line: var(--pink);
   --comment: var(--white);
@@ -49,8 +50,8 @@
   --ls-active-primary-color: var(--accent);
   --ls-active-secondary-color: var(--accent);
 
-  --ls-primary-text-color: var(--foreground);
-  --ls-secondary-text-color: var(--white-hover);
+  --ls-primary-text-color: var(--accent);
+  --ls-secondary-text-color: var(--accent);
 
   --ls-search-background-color: var(--background);
   --ls-border-color: var(--comment);
@@ -60,15 +61,15 @@
   --ls-head-text-color: var(--foreground);
   --ls-title-text-color: var(--foreground);
 
-  --ls-link-text-color: var(--pink);
-  --ls-link-text-hover-color: var(--pink-hover);
+  --ls-link-text-color: var(--accent);
+  --ls-link-text-hover-color: var(--accent);
 
-  --ls-link-ref-text-color: var(--pink);
-  --ls-link-ref-text-hover-color: var(--pink-hover);
-  --ls-block-ref-link-text-color: var(--ls-border-color);
+  --ls-link-ref-text-color: var(--accent);
+  --ls-link-ref-text-hover-color: var(--accent);
+  --ls-block-ref-link-text-color: var(--accent);
 
-  --ls-tag-text-color: var(--purple);
-  --ls-tag-text-hover-color: var(--purple-hover);
+  --ls-tag-text-color: var(--accent);
+  --ls-tag-text-hover-color: var(--accent);
 
   --ls-block-bullet-border-color: var(--current-line);
   --ls-block-bullet-color: var(--foreground);
@@ -80,7 +81,7 @@
 
   --ls-page-blockquote-color: var(--foreground);
   --ls-page-blockquote-bg-color: var(--light-background);
-  --ls-page-blockquote-border-color: var(--yellow);
+  --ls-page-blockquote-border-color: var(--white);
 
   --ls-page-inline-code-color: var(--orange);
   --ls-page-inline-code-bg-color: var(--background);
