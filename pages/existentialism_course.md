@@ -2,9 +2,6 @@
 title: existentialism course
 ---
 
-se
----
-
 ## a grammatical analysis of `ism` reveals
 ### in politics, identity
 ### in religion, identity
