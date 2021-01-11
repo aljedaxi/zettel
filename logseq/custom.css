@@ -50,8 +50,8 @@
   --ls-active-primary-color: var(--accent);
   --ls-active-secondary-color: var(--accent);
 
-  --ls-primary-text-color: var(--accent);
-  --ls-secondary-text-color: var(--accent);
+  --ls-primary-text-color: var(--white);
+  --ls-secondary-text-color: var(--white);
 
   --ls-search-background-color: var(--background);
   --ls-border-color: var(--comment);
