@@ -71,9 +71,9 @@
   --ls-tag-text-color: var(--accent);
   --ls-tag-text-hover-color: var(--accent);
 
-  --ls-block-bullet-border-color: var(--current-line);
-  --ls-block-bullet-color: var(--foreground);
-  --ls-block-highlight-color: var(--current-line);
+  --ls-block-bullet-border-color: var(--accent);
+  --ls-block-bullet-color: var(--accent);
+  --ls-block-highlight-color: var(--accent);
   --ls-block-properties-background-color: var(--light-background);
 
   --ls-page-checkbox-color: transparent;
@@ -105,27 +105,27 @@ body {
   letter-spacing: var(--ls-font-letter-spacing);
   line-height: var(--ls-font-line-height);
   font-size: var(--ls-page-text-size);
-  background-color: #282a36;
+  background-color: var(--background);
 }
 
 i {
-  color: var(--yellow);
+  color: var(--accent);
 }
 
 b {
-  color: var(--orange);
+  color: var(--accent);
 }
 
 mark {
-  background-color: var(--yellow);
+  background-color: var(--accent);
 }
 
 .bg-orange-400 {
-  background-color: var(--orange);
+  background-color: var(--accent);
 }
 
 .bg-green-600 {
-  background-color: var(--green);
+  background-color: var(--white);
 }
 
 .dark-theme .form-checkbox {
@@ -134,13 +134,13 @@ mark {
 }
 
 .external-link {
-  color: var(--cyan);
+  color: var(--accent);
   text-decoration: none;
   border-bottom: none;
 }
 
 .external-link:hover {
-  color: var(--cyan-hover);
+  color: var(--accent);
 }
 
 .ls-block h1,
@@ -213,23 +213,23 @@ mark {
   background: rgba(255, 255, 255, 0.1);
 }
 .cm-s-default span.cm-comment {
-  color: var(--comment);
+  color: var(--white);
 }
 .cm-s-default span.cm-string,
 .cm-s-default span.cm-string-2 {
-  color: var(--yellow);
+  color: var(--accent);
 }
 .cm-s-default span.cm-number {
-  color: var(--purle);
+  color: var(--accent);
 }
 .cm-s-default span.cm-variable {
-  color: var(--green);
+  color: var(--accent);
 }
 .cm-s-default span.cm-variable-2 {
-  color: var(--white);
+  color: var(--accent);
 }
 .cm-s-default span.cm-def {
-  color: var(--green);
+  color: var(--accent);
 }
 .cm-s-default span.cm-operator {
   color: var(--pink);
@@ -238,29 +238,29 @@ mark {
   color: var(--pink);
 }
 .cm-s-default span.cm-atom {
-  color: var(--purple);
+  color: var(--accent);
 }
 .cm-s-default span.cm-meta {
-  color: var(--white);
+  color: var(--accent);
 }
 .cm-s-default span.cm-tag {
-  color: var(--pink);
+  color: var(--accent);
 }
 .cm-s-default span.cm-attribute {
-  color: var(--green);
+  color: var(--accent);
 }
 .cm-s-default span.cm-qualifier {
-  color: var(--green);
+  color: var(--accent);
 }
 .cm-s-default span.cm-property {
-  color: var(--cyan);
+  color: var(--accent);
 }
 .cm-s-default span.cm-builtin {
-  color: var(--green);
+  color: var(--accent);
 }
 .cm-s-default span.cm-variable-3,
 .cm-s-default span.cm-type {
-  color: var(--orange);
+  color: var(--accent);
 }
 
 .cm-s-default .CodeMirror-activeline-background {
