@@ -232,10 +232,10 @@ mark {
   color: var(--accent);
 }
 .cm-s-default span.cm-operator {
-  color: var(--pink);
+  color: var(--accent);
 }
 .cm-s-default span.cm-keyword {
-  color: var(--pink);
+  color: var(--accent);
 }
 .cm-s-default span.cm-atom {
   color: var(--accent);
@@ -250,7 +250,7 @@ mark {
   color: var(--accent);
 }
 .cm-s-default span.cm-qualifier {
-  color: var(--white);
+  color: var(--accent);
 }
 .cm-s-default span.cm-property {
   color: var(--white);
