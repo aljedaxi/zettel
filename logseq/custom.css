@@ -253,10 +253,10 @@ mark {
   color: var(--accent);
 }
 .cm-s-default span.cm-property {
-  color: var(--accent);
+  color: var(--white);
 }
 .cm-s-default span.cm-builtin {
-  color: var(--accent);
+  color: var(--white);
 }
 .cm-s-default span.cm-variable-3,
 .cm-s-default span.cm-type {
