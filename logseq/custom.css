@@ -46,8 +46,8 @@
   --ls-quaternary-background-color: var(--light-background);
   --ls-quinary-background-color: var(--darker-background);
 
-  --ls-active-primary-color: var(--foreground);
-  --ls-active-secondary-color: var(--foreground);
+  --ls-active-primary-color: var(--accent);
+  --ls-active-secondary-color: var(--accent);
 
   --ls-primary-text-color: var(--foreground);
   --ls-secondary-text-color: var(--white-hover);
