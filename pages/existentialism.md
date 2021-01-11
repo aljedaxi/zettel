@@ -6,6 +6,6 @@ title: existentialism
 ### in politics, identity
 ### in religion, identity
 ### in philosophy, identity
-### the identity itself---`${x}ism`---by presenting `x` as essential
+### the identity defines itself---`${x}ism`---by presenting `x` as essential
 ### **GET FUCKED**
 ##
