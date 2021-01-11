@@ -2,6 +2,6 @@
   background: black;
 }
 
-svg, h1.title, a,  {
+svg, h1.title, a, .repos {
   color: #dc899c;
 }
