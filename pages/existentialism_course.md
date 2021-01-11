@@ -2,5 +2,4 @@
 title: existentialism
 ---
 
-###
-### **GET FUCKED**
+### a grammatical analysis of `ism` reveals
