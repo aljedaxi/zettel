@@ -6,4 +6,5 @@ title: existentialism course
 #### the identity defines itself---`${x}ism`---by presenting `x` as essential
 #### **GET FUCKED**
 ## "[Dasein is] that entity which in its Being has this very Being as an issue" [source](https://en.wikipedia.org/wiki/Dasein) this prefigures the existential crisis
+## "For Karl Jaspers, the term Dasein meant existence in its most minimal sense, the realm of objectivity and science, in opposition to what Jaspers called "Existenz", the realm of authentic being" [source](https://en.wikipedia.org/wiki/Dasein#Karl_Jaspers'_Dasein_and_Existenz)
 ##
