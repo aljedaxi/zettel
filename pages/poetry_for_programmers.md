@@ -6,5 +6,6 @@ title: poetry for programmers
 ## the poetry of the tractatus
 ### the poetry of math and logic
 ### the poetry of [[thought]]
+#### thereby, the aesthesis, organization
 ### [[intellectual rigor]]?
-##
+## and ultimately all forms of communication
