@@ -8,3 +8,6 @@ title: zotero extension
 ### https://github.com/argenos/zotero-mdnotes
 ### reformat it so that each citation is a note, in your citation format
 ### so you can go like [[big chungus, 2017]]
+## prior art:
+### https://github.com/hannesfrank/remnote-zotero-import
+###
