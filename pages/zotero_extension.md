@@ -16,3 +16,7 @@ big chungus
 big chungus
 ```
 ##
+#+BEGIN_NOTE
+big chungus
+#+END_NOTE
+##
