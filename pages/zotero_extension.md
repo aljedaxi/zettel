@@ -10,5 +10,6 @@ title: zotero extension
 ### so you can go like [[big chungus, 2017]]
 ## prior art:
 ### https://github.com/hannesfrank/remnote-zotero-import
+### https://github.com/melat0nin/zotero-roam-export
 ## add to https://github.com/logseq/awesome-logseq later
 ##
