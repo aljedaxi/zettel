@@ -109,11 +109,11 @@ body {
 }
 
 i {
-  color: var(--accent);
+  color: var(--white);
 }
 
 b {
-  color: var(--accent);
+  color: var(--white);
   font-weight: bold;
 }
 
