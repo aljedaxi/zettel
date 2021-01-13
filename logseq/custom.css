@@ -121,6 +121,10 @@ mark {
   background-color: var(--accent);
 }
 
+code {
+  background-color: var(--accent);
+}
+
 .bg-orange-400 {
   background-color: var(--accent);
 }
