@@ -10,4 +10,7 @@ title: existentialism course
 ## to "take existence seriously" is to take existence as zuhanden
 ### which is a question of *how* to exist
 ## "a philosophical problem has the form 'i don't know my way about'" [source](https://www.brainyquote.com/topics/philosophical-problem-quotes)
-##
+### "universal maps for the philosophically perplexed"
+#### the answer to the questions of philosophy is to read
+#### however, this presents the philosophical territory as "perplexion"
+### about what?
