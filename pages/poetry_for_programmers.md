@@ -9,4 +9,4 @@ title: poetry for programmers
 #### thereby, the aesthesis, organization
 ### [[intellectual rigor]]?
 ## and ultimately all forms of communication
-##
+## to make sense of code; [[sensemaking]]
