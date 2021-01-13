@@ -6,4 +6,5 @@ title: picture
 a series of measurements, arranged such that 
 the picture_'s [[gestalt]] recapitulates 
 the pictured's [[gestalt]].
+## the picture [[makes sense]] of the pictured.
 ##
