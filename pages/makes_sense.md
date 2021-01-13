@@ -2,4 +2,4 @@
 title: makes sense
 ---
 
-## ## see [[sensemaking]] 
+## see [[sensemaking]]
