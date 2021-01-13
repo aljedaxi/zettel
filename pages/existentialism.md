@@ -15,3 +15,4 @@ title: existentialism course
 #### the answer to the questions of philosophy is to read
 #### however, this presents the philosophical territory as "perplexion"
 ### about what?
+## oh i'm Kierkegaard,
