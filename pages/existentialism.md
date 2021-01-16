@@ -9,7 +9,7 @@ title: existentialism course
 ## "For Karl Jaspers, the term Dasein meant existence in its most minimal sense, the realm of objectivity and science, in opposition to what Jaspers called "Existenz", the realm of authentic being" [source](https://en.wikipedia.org/wiki/Dasein#Karl_Jaspers'_Dasein_and_Existenz)
 ## to "take existence seriously" is to take existence as zuhanden
 ### which is a question of *how* to exist
-### the existential [[mode]] , to Heidegger, is zuhandenheit
+### the existential [[mode]] , to Heidegger, is [[zuhandenheit]]
 ## "a philosophical problem has the form 'i don't know my way about'" [source](https://www.brainyquote.com/topics/philosophical-problem-quotes)
 ### systematizing as "universal maps for the philosophically perplexed"
 #### the answer to the questions of philosophy is to read
