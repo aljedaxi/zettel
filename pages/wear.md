@@ -2,7 +2,8 @@
 title: wear
 ---
 
-## ``` ```
+##
+```
 i invite you to wear a suit, to move;
    to sense the wearing of that suit;
              to wear a leather jacket;
@@ -10,3 +11,4 @@ i invite you to wear a suit, to move;
     how are you speaking?then?
 & now---how are you thinking,
                 wearing these words?
+```
