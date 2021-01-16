@@ -2,7 +2,8 @@
 title: wear
 ---
 
-## i invite you to wear a suit, to move;
+## ``` ```
+i invite you to wear a suit, to move;
    to sense the wearing of that suit;
              to wear a leather jacket;
              to sharpen your fingernails and blacken your lips;
