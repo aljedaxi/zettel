@@ -13,4 +13,4 @@ i invite you to wear a suit, to move;
                 wearing these words?
 ```
 ## i *am* a cat; but “Our narrative perspective, Aineko, is *not* a talking cat: it's a vastly superintelligent AI, coolly calculating, that has worked out that human beings are more easily manipulated if they think they're dealing with a furry toy. “ is *not* a cat.
-is it the manipulative aspect?
+is it the manipulative aspect? the inauthenticity?
