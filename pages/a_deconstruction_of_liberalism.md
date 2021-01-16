@@ -4,4 +4,4 @@ title: a deconstruction of liberalism
 
 ## on Liberty
 ### what is it for something to be free?
-#### the english tradition,
+#### the anglo rhetorical tradition, stemming from
