@@ -10,4 +10,4 @@ title: poetry for programmers
 ### [[intellectual rigor]]?
 ## and ultimately all forms of communication
 ## to make sense of code; [[sensemaking]]
-##
+## the word coding itself reflects
