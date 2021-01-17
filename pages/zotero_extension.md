@@ -12,4 +12,5 @@ title: zotero extension
 ### https://github.com/hannesfrank/remnote-zotero-import
 ### https://github.com/melat0nin/zotero-roam-export
 ## add to https://github.com/logseq/awesome-logseq later
+## this is the proper way to do it: https://www.zotero.org/support/dev/client_coding/http_integration_protocol
 ##
