@@ -13,5 +13,5 @@ title: existentialism course
 ## "a philosophical problem has the form 'i don't know my way about'" [source](https://www.brainyquote.com/topics/philosophical-problem-quotes)
 ### systematizing as "universal maps for the philosophically perplexed"
 #### the answer to the questions of philosophy is to read
-#### however, this presents the philosophical territory as "perplexion"
+#### however, this presents the philosophical territory as "perplexion", rather than that of which one is perplexed
 ##
