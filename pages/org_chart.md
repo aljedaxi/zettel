@@ -14,4 +14,4 @@ but practically useless otherwise.
 ### divisional:
 - skill set (ie, marketing, sales, IT)
 - domain    (ie, catalogs, deals,)
-  - market  (consumer, b2b, )
+  - market  (consumer, b2b, non-profit, )
