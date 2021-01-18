@@ -12,7 +12,7 @@ finding managers to complain and suck up to,
 but practically useless otherwise.
 ## the following relations may be highlighted:
 ### divisional:
-- skill set (ie, marketing, sales, IT)
+- skill set (eg, marketing, sales, IT)
 - domain
-  - product (ie, catalogs, deals,)
-  - market  (consumer, b2b, non-profit, )
+  - product (eg, catalogs, deals,)
+  - market/customer
