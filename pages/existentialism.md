@@ -19,3 +19,5 @@ the worst thing is for it to be impossible
 the second best is for it to be possible, and approaching,
 the best is for it to be actual
 & vice versa.
+
+when kierkegaard speaks of ascension and descension,
