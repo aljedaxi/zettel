@@ -15,4 +15,4 @@ title: existentialism course
 #### the answer to the questions of philosophy is to read
 #### however, this presents the philosophical territory as "perplexion", rather than that of which one is perplexed
 ## Despair is an imbalance.
-### Despair doesn't
+### Every time the imbalance manafests itself, "one must go back to the relation"
