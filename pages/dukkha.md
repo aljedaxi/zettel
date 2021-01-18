@@ -1,5 +1,6 @@
 ---
-title: despair
+title: dukkha
+alias: despair
 ---
 ## one may either sate one's hunger, or not
 one strives to sate one's hunger.
