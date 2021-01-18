@@ -18,4 +18,4 @@ but practically useless otherwise.
   - market/customer
 - geography
 - business processes: order fulfillment, sales, R&D
--
+- matrices (intersections of 1 or more of the above)
