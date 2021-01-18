@@ -13,4 +13,5 @@ but practically useless otherwise.
 ## the following relations may be highlighted:
 ### divisional:
 - skill set (ie, marketing, sales, IT)
+- domain    (ie, catalogs, deals,)
 -
