@@ -17,4 +17,4 @@ title: existentialism course
 #### however, this presents the philosophical territory as "perplexion", rather than that of which one is perplexed
 ## you cannot escape that you are you
 ### you cannot escape your existence
-### [[despair]] as the ground of existence
+### [[dukkha]] as the ground of existence
