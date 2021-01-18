@@ -14,10 +14,5 @@ title: existentialism course
 ### systematizing as "universal maps for the philosophically perplexed"
 #### the answer to the questions of philosophy is to read
 #### however, this presents the philosophical territory as "perplexion", rather than that of which one is perplexed
-## relative to a good thing
-the worst thing is for it to be impossible
-the second best is for it to be possible, and approaching,
-the best is for it to be actual
-& vice versa.
-
-when kierkegaard speaks of ascension and descension, he doesn't speak of
+## Despair is an imbalance.
+### Despair doesn't
