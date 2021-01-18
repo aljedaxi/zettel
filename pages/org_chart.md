@@ -16,3 +16,4 @@ but practically useless otherwise.
 - domain
   - product (eg, catalogs, deals,)
   - market/customer
+- geography
