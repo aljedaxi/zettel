@@ -15,9 +15,4 @@ title: existentialism course
 ### systematizing as "universal maps for the philosophically perplexed"
 #### the answer to the questions of philosophy is to read
 #### however, this presents the philosophical territory as "perplexion", rather than that of which one is perplexed
-## Despair is an imbalance.
-### To bring an illness upon oneself is to put oneself in bad circumstances
-### thence, as the cause of the sickness moves further into the past, to place the blame on the sick individual is cruel;
-the progress of the sickness is not the individual's fault
-### but not with despair! you're always to blame 4 despairing!
-###
+##
