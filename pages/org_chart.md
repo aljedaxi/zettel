@@ -10,4 +10,5 @@ function emerges from form, and action emerges from function.
 ) the traditional org chart is useful for 
 finding managers to complain and suck up to, 
 but practically useless otherwise.
-## the following
+## the following relations may be highlighted:
+###
