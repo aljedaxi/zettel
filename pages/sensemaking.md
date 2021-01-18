@@ -6,5 +6,3 @@ title: sensemaking
 
 ## https://diffractionscollective.org/nooscopy-101/
 ## you run into interesting people all the time. then you make sense of them. they then cease to be interesting.
-## #sensorium
-##
