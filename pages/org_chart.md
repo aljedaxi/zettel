@@ -11,4 +11,6 @@ function emerges from form, and action emerges from function.
 finding managers to complain and suck up to, 
 but practically useless otherwise.
 ## the following relations may be highlighted:
-###
+### divisional:
+- skill set (ie, marketing, sales, IT)
+-
