@@ -19,3 +19,6 @@ but practically useless otherwise.
 - geography
 - business processes: order fulfillment, sales, R&D
 - matrices (intersections of 1 or more of the above)
+### representational structures:
+- traditional
+- circular (execs in the middle, proles on the outside)
