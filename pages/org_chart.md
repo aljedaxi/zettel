@@ -22,3 +22,4 @@ but practically useless otherwise.
 ### representational structures:
 - traditional
 - circular (execs in the middle, proles on the outside; rings represent positions)
+### [source](https://www.atlassian.com/blog/teamwork/9-common-org-charts-demystified)
