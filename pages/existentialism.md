@@ -20,4 +20,4 @@ the second best is for it to be possible, and approaching,
 the best is for it to be actual
 & vice versa.
 
-when kierkegaard speaks of ascension and descension,
+when kierkegaard speaks of ascension and descension, he doesn't speak of
