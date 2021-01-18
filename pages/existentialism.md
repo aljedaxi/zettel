@@ -15,4 +15,4 @@ title: existentialism course
 ### systematizing as "universal maps for the philosophically perplexed"
 #### the answer to the questions of philosophy is to read
 #### however, this presents the philosophical territory as "perplexion", rather than that of which one is perplexed
-## you cannot escape your existence
+##
