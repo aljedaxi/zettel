@@ -21,4 +21,4 @@ but practically useless otherwise.
 - matrices (intersections of 1 or more of the above)
 ### representational structures:
 - traditional
-- circular (execs in the middle, proles on the outside)
+- circular (execs in the middle, proles on the outside; rings represent positions)
