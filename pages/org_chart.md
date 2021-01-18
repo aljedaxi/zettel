@@ -17,3 +17,4 @@ but practically useless otherwise.
   - product (eg, catalogs, deals,)
   - market/customer
 - geography
+- business processes:
