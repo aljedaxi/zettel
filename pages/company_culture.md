@@ -7,4 +7,4 @@ title: company culture
 - Messenger  : Ethos
 - Incentives : our responses to incentives follow predictable heuristics
 - Norms      : we're strongly influenced by others
-- Defaults
+- Defaults   : we default to defaults
