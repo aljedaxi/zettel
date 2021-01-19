@@ -2,5 +2,5 @@
 title: company culture
 ---
 
-## the culture of the company is:
+## company culture is
 ##
