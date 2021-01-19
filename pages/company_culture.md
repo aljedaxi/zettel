@@ -10,4 +10,5 @@ title: company culture
 - Defaults   : we default to defaults
 - Salience   : our attention is drawn to novel, interesting, shiny
 - Priming    : we aren't [[conscious]] of our influences
-- Affect     :
+- Affect     : emotional responses will fuck everything up
+-
