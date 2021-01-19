@@ -8,3 +8,4 @@ title: company culture
 - Incentives : our responses to incentives follow predictable heuristics
 - Norms      : we're strongly influenced by others
 - Defaults   : we default to defaults
+- Salience   : our attention is drawn to novel, interesting, shiny
