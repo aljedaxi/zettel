@@ -6,4 +6,4 @@ title: company culture
 ## whenever you create a policy, consider the following:
 - Messenger  : Ethos
 - Incentives : our responses to incentives follow predictable heuristics
--
+- Norms      :
