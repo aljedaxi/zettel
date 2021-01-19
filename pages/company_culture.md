@@ -9,4 +9,5 @@ title: company culture
 - Norms      : we're strongly influenced by others
 - Defaults   : we default to defaults
 - Salience   : our attention is drawn to novel, interesting, shiny
-- Priming    : we aren't conscious of our influences
+- Priming    : we aren't [[conscious]] of our influences
+-
