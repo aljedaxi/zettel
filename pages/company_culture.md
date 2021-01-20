@@ -4,7 +4,6 @@ title: company culture
 
 ## company culture is
 ## whenever you create a policy, consider the following:
-```
 Messenger  : Ethos
 Incentives : responses to incentives follow predictable heuristics
 Norms      : we're strongly influenced by others
@@ -14,4 +13,3 @@ Priming    : we aren't [[conscious]] of our influences
 Affect     : emotional responses will fuck everything up
 Commitment : we keep our word an reciprocate favors
 Ego        : we like to feel good about ourselves
-```
