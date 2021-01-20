@@ -18,4 +18,7 @@ Priming
 : we aren't [[conscious]] of our influences
 Affect     
 : emotional responses will fuck everything up
-Commitment
+Commitment 
+: we keep our word an reciprocate favors
+Ego        
+: we like to feel good about ourselves
