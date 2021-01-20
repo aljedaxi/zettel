@@ -10,4 +10,4 @@ title: poetry for programmers
 ### [[intellectual rigor]]?
 ## and ultimately all forms of communication
 ## to make sense of code; [[sensemaking]]
-### me and my friend have the same problem: the arches of our feet de-arch-ify. we've both found the same solution: walking digitigrade. and i know for me, i've gained a strange appreciation for a distinguished feminine elegance
+### me and my friend have the same problem: the arches of our feet de-arch-ify. we've both found the same solution: walking digitigrade. and i know for me, i've gained a strange appreciation for a distinguished feminine elegance; perhaps not because of it, but certainly not in spite of it.
