@@ -16,13 +16,18 @@ Norms
 
 Defaults   
 : we default to defaults
+
 Salience   
 : our attention is drawn to novel, interesting, shiny
+
 Priming    
 : we aren't [[conscious]] of our influences
+
 Affect     
 : emotional responses will fuck everything up
+
 Commitment 
-: we keep our word an reciprocate favors
+: we keep our word an reciprocate favours
+
 Ego        
 : we like to feel good about ourselves
