@@ -10,8 +10,10 @@ Messenger
 
 Incentives 
 : responses to incentives follow predictable heuristics
+
 Norms      
 : we're strongly influenced by others
+
 Defaults   
 : we default to defaults
 Salience   
