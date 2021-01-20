@@ -7,6 +7,7 @@ title: company culture
 
 Messenger
 : Ethos
+
 Incentives 
 : responses to incentives follow predictable heuristics
 Norms      
