@@ -8,7 +8,7 @@ title: poetry for programmers
 ### the poetry of [[thought]]
 #### thereby, the aesthesis, organization
 ### [[intellectual rigor]]?
-### ... thereby we shall construct a series of numbered propositions–— to act as a table of contents,
+### ... thereby we shall construct a series of numbered propositions—in the style of 20th centurys most esteemed mystical poet, Ludwig Wittgenstein— to act as a table of contents, and a scaffolding 4 further conversation.
  *code*
 ### simultaneous hyperfetishization of writing with disparagement of the humanities
 ## to make sense of code; [[sensemaking]]
