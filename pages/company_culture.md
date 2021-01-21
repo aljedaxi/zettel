@@ -4,6 +4,9 @@ title: company culture
 
 ## company culture is
 ## whenever you create a policy, consider the following:
+:PROPERTIES:
+:id: 60077f27-0ba4-4c8d-b693-932b12771459
+:END:
 
 Messenger
 : Ethos
