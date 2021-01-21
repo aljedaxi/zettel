@@ -2,4 +2,4 @@
 title: sickness unto death
 ---
 
-## the self
+## there is always a self, in the process of becoming The Self.
