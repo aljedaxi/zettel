@@ -9,6 +9,7 @@ title: poetry for programmers
 #### thereby, the aesthesis, organization
 ### [[intellectual rigor]]?
 ## and ultimately all forms of communication
+##
 ## i do not write code; i *code*
 ### simultaneous hyperfetishization of writing with disparagement of the humanities
 ## ... thereby we shall construct a series of numbered propositions—in the style of 20th centurys most esteemed mystical poet, Ludwig Wittgenstein— to act as a table of contents, and a scaffolding 4 further conversation.
