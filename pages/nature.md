@@ -7,7 +7,7 @@ alias: natural
 ### the carving of the natural from the supernatural recapitulates the carving of the physical (physis) from the non-physical, phenomena from noumena, experts from laypeople.
 #### in the absence of serious education, laypeople are no longer able to [[make sense]] of the physical
 ##### combine this with boomers, the powerful,
-##### at the outset of illness, one is thrust bureaucratic clarity---a shooting of the cat---an
+##### at the outset of illness, one is thrust bureaucratic clarity---a shooting of the cat---an weak gloss over the obvious complication festering beneath (chaos, to the onlooker)
 #### the physical becomes [[complicated]]; the spiritual becomes [[clear]]
 ### physis
 ### natural philosophy
