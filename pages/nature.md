@@ -14,4 +14,7 @@ alias: natural
 #### the physical becomes [[complicated]]; the spiritual becomes [[clear]]
 ### physis
 ### natural philosophy
-### /TODO Heidegger, Ted Kaczynski
+### TODO Heidegger, Ted Kaczynski
+:PROPERTIES:
+:todo: 1611439006503
+:END:
