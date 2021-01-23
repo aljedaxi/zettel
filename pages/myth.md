@@ -1,3 +1,6 @@
+## Historian and University of Manitoba professor Adele Perry wrote in an op-ed for the Winnipeg Free Press that it was not until the 1960s and 1970s that Canadians began to commemorate Macdonald as the founder of Canada. Macdonald’s face didn’t even appear on the $10 bill until 1971. 
+
+Perry argues that these commemorative acts at this time in Canada’s history “mainly tell us about the aspirations and anxieties of some English-speaking Canadians” during a period “marked by Québécois nationalism, Indigenous resistance, the challenges of feminism and a Canada that was less and less white.”
 ---
 title: metamodernity
 ---
