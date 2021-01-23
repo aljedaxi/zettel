@@ -11,6 +11,7 @@ alias: natural
 ##### illness itself tears the conception of "the body" away from the self; the *senselessness* of physicality forces itself upon the body, rupturing the barrier between "self" and "world"
 ###### agency (sense) must be clawed back by returning to clarity; "natural" cures [[make sense]] to the layperson
 ####### snake oil has the extra advantage of extending one's agency over all illness
+#######
 #### the physical becomes [[complicated]]; the spiritual becomes [[clear]]
 ### physis
 ### natural philosophy
