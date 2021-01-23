@@ -11,4 +11,4 @@ alias: natural
 #### the physical becomes [[complicated]]; the spiritual becomes [[clear]]
 ### physis
 ### natural philosophy
-##
+## sickness
