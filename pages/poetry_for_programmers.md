@@ -12,7 +12,7 @@ title: poetry for programmers
 #### [[intellectual rigor]]?
 ### and ultimately all forms of communication
 ### the way we define programming defines the way we program
-####
+#### https://lizkeogh.com/2013/06/17/theres-no-such-thing-as-declarative-and-imperative/
 ### i do not write code; i *code*
 #### simultaneous hyperfetishization of writing with disparagement of the humanities
 ##
