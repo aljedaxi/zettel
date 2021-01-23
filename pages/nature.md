@@ -8,6 +8,7 @@ alias: natural
 #### in the absence of serious education, laypeople are no longer able to [[make sense]] of the physical
 ##### combine this with boomers, the powerful,
 ##### at the outset of illness, one is thrust bureaucratic clarity---a shooting of the cat---an weak gloss over the obvious complication festering beneath (chaos, to the onlooker)
+##### illness itself tears the conception of "the body" away from the self;
 #### the physical becomes [[complicated]]; the spiritual becomes [[clear]]
 ### physis
 ### natural philosophy
