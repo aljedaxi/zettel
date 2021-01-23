@@ -11,7 +11,7 @@ alias: natural
 ##### illness itself tears the conception of "the body" away from the self; the *senselessness* of physicality forces itself upon the body, rupturing the barrier between "self" and "world"
 ###### agency (sense) must be clawed back by returning to clarity; "natural" cures [[make sense]] to the layperson
 ####### snake oil has the extra advantage of extending one's agency over all illness
-####### Physicians need to be given time to listen to their patients – not necessarily because that will allow them to identify and cure illnesses more easily, but because being invited to tell your story is an essential part of the healing process.
+####### "Physicians need to be given time to listen to their patients – not necessarily because that will allow them to identify and cure illnesses more easily, but because being invited to tell your story is an essential part of the healing process." [https://aeon.co/essays/natural-healing-is-metaphysically-incoherent-but-valuable]
 ####### Mainstream medicine needn’t swap scientific naturalism for natural medicine’s contradictory grab bag of anti-establishment inclusivity. But it would do well to address the need for metaphysical consolation that explains why patients seek out natural medicine despite those contradictions.
 #### the physical becomes [[complicated]]; the spiritual becomes [[clear]]
 ### physis
