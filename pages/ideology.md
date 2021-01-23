@@ -4,5 +4,6 @@ title: ideology
 
 ## WHAT IS THE MEAT OF THE IDEOLOGY?
 ## consider a gramatical analysis of ism:
-neoliberalism: what the neolibs say they'll do
-buddhism: what the buddhists say they do
+neoliberalism: the rhetoric the neolibs identify with
+buddhism: the rhetoric the buddhists identify with
+existentialism: the rhetoric edgelords identify with
