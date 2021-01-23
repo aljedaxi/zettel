@@ -13,8 +13,7 @@ title: poetry for programmers
 ### the way we define programming defines the way we program
 ### i do not write code; i *code*
 #### simultaneous hyperfetishization of writing with disparagement of the humanities
-## ... thereby we shall construct a series of numbered propositions—in the style of 20th centurys most esteemed mystical poet, Ludwig Wittgenstein— to act as a table of contents, and a scaffolding 4 further conversation.
- *code*
+##
 ## to make sense of code; [[sensemaking]]
 ### me and my friend have the same problem: the arches of our feet de-arch-ify. we've both found the same solution: walking digitigrade. and i know for me, i've gained a strange appreciation for a distinguished feminine elegance; perhaps not because of it, but certainly not in spite of it.
 ### ((600846c6-7b2b-4df2-94b3-12896937d075))
