@@ -15,7 +15,7 @@ alias: natural
 ####### "Mainstream medicine ... would do well to address the need for metaphysical consolation" [https://aeon.co/essays/natural-healing-is-metaphysically-incoherent-but-valuable]
 ### physis
 ### natural philosophy
-### TODO Heidegger, Ted Kaczynski
+## TODO Heidegger, Ted Kaczynski
 :PROPERTIES:
 :todo: 1611439006503
 :END:
