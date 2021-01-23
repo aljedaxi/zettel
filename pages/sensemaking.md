@@ -1,5 +1,6 @@
 ---
 title: sensemaking
+alias: make sense, makes sense
 ---
 
 ## https://archive.org/stream/GlobalConsciousnessThroughNoosphere/11-19Rpf10007_djvu.txt
