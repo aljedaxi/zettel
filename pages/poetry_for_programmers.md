@@ -4,6 +4,7 @@ title: poetry for programmers
 
 ## outline
 ### read Cummings
+###
 ### the poetry of the tractatus
 #### the poetry of math and logic
 #### the poetry of [[thought]]
