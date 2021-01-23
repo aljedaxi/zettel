@@ -2,4 +2,4 @@
 title: nature
 ---
 
-## nature existed
+## nature existed (from about 300BCE)
