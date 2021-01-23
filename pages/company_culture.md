@@ -34,4 +34,5 @@ Commitment
 
 Ego        
 : we like to feel good about ourselves
-## decision making crowdsourcing tools
+## decision making crowd source ing tools
+###
