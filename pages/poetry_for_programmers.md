@@ -13,6 +13,7 @@ title: poetry for programmers
 ### and ultimately all forms of communication
 ### the way we define programming defines the way we program
 #### https://lizkeogh.com/2013/06/17/theres-no-such-thing-as-declarative-and-imperative/
+#### to name is magick
 ### i do not write code; i *code*
 #### simultaneous hyperfetishization of writing with disparagement of the humanities
 ### finally, i would like to ask "what it is to be a poet"
