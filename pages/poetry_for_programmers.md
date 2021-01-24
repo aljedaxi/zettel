@@ -15,6 +15,10 @@ title: poetry for programmers
 #### https://lizkeogh.com/2013/06/17/theres-no-such-thing-as-declarative-and-imperative/
 ### i do not write code; i *code*
 #### simultaneous hyperfetishization of writing with disparagement of the humanities
+### finally, i would like to ask "what it is to be a poet"
+#### the man who was thursday
+#### to live something
+#### "and living means making a choice", between monday and thursday---for/in that moment.
 ##
 ## to make sense of code; [[sensemaking]]
 ### me and my friend have the same problem: the arches of our feet de-arch-ify. we've both found the same solution: walking digitigrade. and i know for me, i've gained a strange appreciation for a distinguished feminine elegance; perhaps not because of it, but certainly not in spite of it.
