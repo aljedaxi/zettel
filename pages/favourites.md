@@ -2,5 +2,5 @@
 title: favourites
 ---
 
-## song  : Blumenkranz
-## album:
+## song : blumenkranz
+## album: i don't like shit, i don't go outside
