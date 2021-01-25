@@ -8,8 +8,8 @@ title: cynefin
 ### thereby, if a solution worked in the past, you know it'll work in the future
 ### a best practice should be understood relative to a pattern
 ### the difference between clear and complicated is the ability to find the best practice
-## Complex is when you don't know what you're doing,
-##
+## Complex is when you don't know what you're doing, but you have the capacity to probe safely
+###
 ## Chaos is when you can't fail safely
 ### If you want violent revolution, the totality of people's lives must be thrust into chaos
 ####
