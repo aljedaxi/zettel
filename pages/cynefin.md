@@ -14,4 +14,4 @@ title: cynefin
 3. Someone in our organization has done this (or we have access to expertise some other way). ->
 2. Someone in our team’s done this.
 1. We all know how to do this.
-##
+## [https://lizkeogh.com/cynefin-for-everyone/]
