@@ -1,5 +1,5 @@
 ---
-title: company culture
+title: organizational culture
 ---
 
 ## company culture is
