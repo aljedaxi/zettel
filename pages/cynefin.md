@@ -5,7 +5,8 @@ title: cynefin
 ## cynefin is a [[sensemaking]] framework
 ## [[Order]] $$\supset$$ {[[clear]], [[complicated]]}
 ### a best practice should be understood relative to a pattern
-###
+### an ordered system is one in which one can draw lines between cause and effect
+### thereby, if a solution worked in the past, you know it'll work in the future
 ## disorder is when you don't know what domain you're in, and you act in accordance with whatever domain speaks most to you
 ## 5. Nobody’s done this before.                    -> complex
 4. Someone’s done this, but not in this context. -> complex
