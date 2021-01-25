@@ -13,6 +13,7 @@ title: cynefin
 ### If you want violent revolution, the totality of people's lives must be thrust into chaos
 ####
 ## disorder is when you don't know what domain you're in, and you act in accordance with whatever domain speaks most to you
+### so everyone acts like they're in a different domain, so
 ## 5. Nobody’s done this before.                    -> complex
 4. Someone’s done this, but not in this context. -> complex
 3. Someone in our organization has done this (or we have access to expertise some other way). ->
