@@ -9,7 +9,7 @@ title: cynefin
 ### a best practice should be understood relative to a pattern
 ### the difference between clear and complicated is the ability to find the best practice
 ## Complex is when you don't know what you're doing, but you have the capacity to probe safely
-###
+### your outcome in those situations is a function of company culture
 ## Chaos is when you can't fail safely
 ### If you want violent revolution, the totality of people's lives must be thrust into chaos
 ####
