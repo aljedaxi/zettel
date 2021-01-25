@@ -10,6 +10,8 @@ title: cynefin
 ### the difference between clear and complicated is the ability to find the best practice
 ## Complex is when you don't know what you're doing, but you can fail in a safe way
 ## Chaos is when you can't fail safely
+### If you want violent revolution, the totality of people's lives must be thrust into chaos
+####
 ## disorder is when you don't know what domain you're in, and you act in accordance with whatever domain speaks most to you
 ## 5. Nobody’s done this before.                    -> complex
 4. Someone’s done this, but not in this context. -> complex
