@@ -17,5 +17,7 @@ Rewards
 Industrial relations
 Employee participation and communication
 Health and safety
-Personal wellbeing
-Administrative responsibilities [https://www.digitalhrtech.com/human-resources-functions/]
+Personal well-being
+Administrative responsibilities 
+[https://www.digitalhrtech.com/human-resources-functions/]
+###
