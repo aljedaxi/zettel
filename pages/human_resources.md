@@ -7,7 +7,7 @@ title: human resources
 ## functions
 ### a 'Function' is an organizational entity, typically characterized by a special area of knowledge or experience. Examples would be a team operating the SAP environment, a software development department, or - to name a function outside of the IT organization - a Human Resources (HR) department. ITIL 'Processes', in contrast, are clusters of activities which produce a defined outcome, like the ITIL Incident Management process.
 [https://wiki.en.it-processmaps.com/index.php/ITIL_Functions]
-### Human resource planning
+### Human resource planning -> system 5, strategic level
 Recruitment and selection
 Performance management
 Learning and development
