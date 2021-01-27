@@ -11,7 +11,7 @@ title: human resources
 Recruitment and selection
 Performance management
 Learning and development
-Career planning
+Career planning -> NO NO NO
 Function evaluation
 Rewards
 Industrial relations
