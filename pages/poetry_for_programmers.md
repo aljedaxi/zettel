@@ -17,6 +17,7 @@ title: poetry for programmers
 #### to name is magick
 #### the ability to focus is a function of working memory management
 ##### to be meaningful is to be memorable
+##### to focus on one thing, it has to be one thing
 ### i do not write code; i *code*
 #### simultaneous hyperfetishization of writing with disparagement of the humanities
 ### finally, i would like to ask "what it is to be a poet"
