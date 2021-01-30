@@ -13,4 +13,5 @@ Acidity
 : does it dry your mouth out?
 
 Sweetness
+: it's less like sugariness, and more like---does it taste sweet?
 :
