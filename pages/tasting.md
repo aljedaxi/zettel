@@ -2,4 +2,15 @@
 title: tasting
 ---
 
-## for coffee, rate the following categories on int and quality
+## for coffee, rate the following categories on intensity and quality:
+
+Aroma
+: don't worry too much about this
+
+Acidity
+: professionals love this; normal people don't. it provides freshness and crispness.
+: you feel it along the sides of the tongue, but taste it everywhere.
+: 
+
+Sweetness
+:
