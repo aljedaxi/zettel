@@ -16,7 +16,7 @@ Sweetness
 : it's less like sugariness, and more like---does it taste sweet?
 
 Body
-: this is something closer to texture
+: this is something closer to texture. which feels richer and fuller?
 
 Finish
 :
