@@ -22,5 +22,5 @@ Finish
 : something with no aftertaste has nothing
 
 Flavour
-: Fruit = ['fresh fruits', 'cooked fruits', 'tropical/fermented']
+: Fruit $$\supset$$ ['fresh fruits', 'cooked fruits', 'tropical/fermented']
 ##
