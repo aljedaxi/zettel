@@ -10,7 +10,6 @@ Aroma
 Acidity
 : professionals love this; normal people don't. it provides freshness and crispness.
 : you feel it along the sides of the tongue, but taste it everywhere.
-: 
 
 Sweetness
 :
