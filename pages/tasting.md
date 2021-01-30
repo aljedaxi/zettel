@@ -25,5 +25,7 @@ Flavour
 : Fruit $$\supset$$ {'fresh fruits', 'cooked fruits', 'tropical/fermented'}
 : fresh is high acidity, while cooked is usually lower, and tropical 
 : Caramelizations $$\supset$$ {baked stuff, caramels, chocolates}
-:
+
+Overall
+: If you like it, mark that
 ##
