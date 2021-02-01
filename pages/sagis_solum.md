@@ -85,7 +85,31 @@ drags him down all his life.
 „da xi“, she struggled to say.
 «the Dai shi? What?» 
 „uh—yeah. Totally.”
-###
+### Ends 
+Aljedaxi is renamed αljedaxi—in between
+Aljedaxi and        aljedaxi. Clears up the naming collision with the book.
+    she then talks about how she is, and always was a lower case eye poet: a recontextualization of her past behavior. 
+
+Chaghaybou starts begging, begging hysterically with daxi, talking about how she doesn't want to die. They give the old "teleported you isn't you" thing, before daxi places its hand on her heart.»sorry, got so caught up in the story, i forgot it was fiction.«
+
+Sabi and daxi say something really heart warming. «go out and bear the title aljedaxi.»
+
+APPA was holding a katana this whole time, garbed all in WHITE. this is mentioned at the beginning of the scene, but not focused on. 
+daxi says a poem, sits in seiza,
+      「…splendid, the great Mongolian long sword…
+      „also sprach Zen Buddhismus:
+      „kill the Buddha!“
+      It enters screenplay mode.
+      Komm Süßer Tod starts playing. 
+and AP|PA cuts its fucking head off. 
+Ink, instead of blood, spills from its head. Everyone, everything gets covered with it,except Sabi,already garbed in black. It flows out. It covers the world. 
+       “letting me down letting me down letting me down…”
+       Sabi wakes up in a beach. «the ocean, the shore; the forest, the horizon: everything begins and ends at the beach.» the sea is ink. In the distance floats a massive iceberg, the color of daxi's eyes. Venus sings atop it. She wondered to herself what it hailed. 
+       «is this the evening of the earth? Or the dawn of a miserable morning? Which star are you now, venus?» 
+      … 
+       «well ain't that a kick in the teeth.»
+       
+#Saga
 ## AP|PA manifesto 
 
 …in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
