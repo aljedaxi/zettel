@@ -1,0 +1,5 @@
+---
+title: great man theory
+---
+
+## 
