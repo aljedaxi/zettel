@@ -19,3 +19,4 @@ Both the post modern and the modern must be held in the mind at once—it is as 
 "…the flux destroys the cowardice of the postmodern, and the naïveté of the modern.
 
 You won't find shelter in this helter skelter."
+##
