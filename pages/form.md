@@ -2,6 +2,6 @@
 title: form
 ---
 
-## see [[logic]], [[aesthetic philosophy]]
+## see [[logic]]
 ## Form is [[aesthetic]].
 ##
