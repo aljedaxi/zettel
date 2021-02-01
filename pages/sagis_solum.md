@@ -115,7 +115,10 @@ Conatus is an expression of a fit behavior of living beings
 Wille zur Macht is a bending of fitness.
      Here we find a true willing.
 ### Entropy is what turns cause to effect, and effect to cause.
-###
+### Sabi's got a exhibit because lord knows i never will.
+There's a pedestal. Upon it is a vase. And there are the scrolls with people on them, looking at this vase. 
+
+Art is entirely a question of attitude.
 ## AP|PA manifesto 
 
 …in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
