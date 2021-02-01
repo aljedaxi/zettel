@@ -11,9 +11,6 @@ Nescio, / sed fie/ri /
 / - u u    / - u u  / -
 / senti'et / excruci/or.
 
-
-Nescio, sed fieri sentio et excrucior.
-
 hate swells in love.& perhaps you ask, just why do i feel this [way]? 
 What do i know but this 
 feeling, & suff'ring abound.
