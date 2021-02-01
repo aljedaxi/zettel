@@ -31,7 +31,17 @@ Al : the
 Je : manifestation, avatar of
 Daxi : the force, the principle, the book, that which puts the daxi in the daxīn.
 #Saga
-###
+### I am not
+>For people who feel long-term that their >body does not match their internal sense >of gender, it is not a choice. It is a >burden they didn't choose, and they need >professional and social support.
+>>>Need
+
+
+>I've known plenty of transmen and women
+>and genderqueer people and I honestly
+>can't imagine someone who is
+>"legitimately" trans surviving past 25
+>without transitioning or killing
+>themselves. Dysphoria is that intense.
 ## AP|PA manifesto 
 
 …in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
