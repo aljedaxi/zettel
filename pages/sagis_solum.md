@@ -124,6 +124,12 @@ A personification of truth gets on stage
  «Boo!» shouts Sabi «you can't just say you're truth anymore! What theory of truth are you?» 
  “the true theory of truth!” she says
  «that doesn't make any sense!
+### Matoi's by Sabi, yeah? 
+We'll have a prematoi, in which both Sabi and i explain our past with kill la kill, which will give us two separate lenses to interpret the work. The author comes prekilled, cut and packaged! 
+
+Also, have sabi get in an argument with someone wearing a instant coffee shirt.
+Then Daxi. Kind of highlight this difference between them.
+###
 ## AP|PA manifesto 
 
 …in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
