@@ -85,7 +85,7 @@ drags him down all his life.
 „da xi“, she struggled to say.
 «the Dai shi? What?» 
 „uh—yeah. Totally.”
-### Ends 
+### # Ends 
 Aljedaxi is renamed αljedaxi—in between
 Aljedaxi and        aljedaxi. Clears up the naming collision with the book.
     she then talks about how she is, and always was a lower case eye poet: a recontextualization of her past behavior. 
@@ -108,8 +108,7 @@ Ink, instead of blood, spills from its head. Everyone, everything gets covered w
        «is this the evening of the earth? Or the dawn of a miserable morning? Which star are you now, venus?» 
       … 
        «well ain't that a kick in the teeth.»
-       
-#Saga
+###
 ## AP|PA manifesto 
 
 …in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
