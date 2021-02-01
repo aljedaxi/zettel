@@ -120,7 +120,7 @@ i am above(it: this is)my guillotine
       blade in the gut of Good Taste
 ##
 ```
- # Doubt 2 
+# Doubt 2 
 “there's something about cross
          -dressing.”      they said;
       “, something about cross
@@ -132,7 +132,6 @@ i am above(it: this is)my guillotine
            become a cloud of un-
                              identifiabl
                                -ity.”
-               “who knows what i am.” 
-#Busters
+               “who knows what i am.”
 ```
 ##
