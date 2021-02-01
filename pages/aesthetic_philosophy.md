@@ -6,7 +6,8 @@ title: aesthetic philosophy
 the aesthesis is the bundle of information, the informatic quanta; the first derivative of the form.
 ## A chair is a complex system. What emerges from the form of the chair---the aesthetic of chair---is the aesthesis of chair? the aesthetic of chair.
 ## To attempt an understanding without a definition is folly; to attempt a definition without an understanding is folly.
-##
+## To perform is transcendent:
+It is to lose oneself in an Aesthetic. It is to become that Aesthetic; to merge one's being with that Aesthetic.
 ##
 ```
 Aesthetic is manifest  archetype
