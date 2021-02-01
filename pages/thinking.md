@@ -1,5 +1,6 @@
 ---
 title: thinking
+alias: think
 ---
 
 ## slow thinking is the Reflective System;
