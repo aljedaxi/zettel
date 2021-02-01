@@ -114,6 +114,7 @@ Conatus is an expression of a fit behavior of living beings
      At this level it may be bent, but that accomplished nothing. Better to roll with it, or suffer death. This cannot happen at the genetic level, for the genes habe no real will. 
 Wille zur Macht is a bending of fitness.
      Here we find a true willing.
+### Entropy is what turns cause to effect, and effect to cause.
 ###
 ## AP|PA manifesto 
 
