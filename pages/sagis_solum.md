@@ -53,6 +53,7 @@ Sugariness hurts the stomach. Brightness hurts the eyes.
 ### Brush  
 … Daxi walks in, sits on the couch and pulls out a brush. sabi just curls up on her lap, like
 > Daxi starts brushing sabi's hair, and it's then you realize {that the way the brush is made, it's probably very pleasant on the scalp; the brush was made for cats}. „everyone around here's got a bit of it in them“ she says; doesn't usually wear eyeliner but you notice, this time, her eyes
+
 > „it's something in the air;something in the ink that runs through our veins. Everyone's a little…feline.“
 ###
 ## AP|PA manifesto 
