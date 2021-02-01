@@ -81,7 +81,7 @@ he goes from honor to honor, strong in his conviction.
 He who refuses does not repent. Asked again,
 he’d still say no. Yet that no—the right no—
 drags him down all his life.
-#Poetry#not_my_own
+###
 ## AP|PA manifesto 
 
 …in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
