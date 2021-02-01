@@ -491,4 +491,33 @@ can count my age on four hands.
 ```
 ##
 ```
+Mono no aware 
+
+     upon a time, there lived 
+          a lass. 
+… 
+ but i've lost her, 
+     i've lost them all,i live
+in the endless solitude   of 
+               pitch perfect posture 
+ & the wordleß scream   %
+            of quiet desperation
+                        %see if you can't 
+                         figure out how to 
+                         layer two s', one 
+                         slightly atop the 
+                                     other
+              . 
+
+i wish i had lived
+  a hundred years of perfect
+                     solitude. 
+         had i known    nothing    (human)     
+   (had i been known to nothing) 
+         there could be nothing for them
+        to lord over me.            those
+ who i have not lost.   but
+ who   have     lost
+                     me.
 ```
+##
