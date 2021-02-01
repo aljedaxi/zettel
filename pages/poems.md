@@ -193,3 +193,20 @@ Throat, or cut-throat.
      no regard for romance, no—
 ```
 ##
+```
+Ensō 
+
+ what  gender  am i,
+when all my world's 
+ the give
+ of  a        brush,
+and the flow of Ink?
+
+{what,  who,  when}
+       is     there
+{      to    be  ,
+       worth being}, 
+ save     the focus
+ that  lays the Ink?
+```
+##
