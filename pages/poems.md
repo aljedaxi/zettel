@@ -437,3 +437,36 @@ If life is the story, then death is the crux,
  Without water, what's there in the wine?
 ```
 ##
+```
+# Love 
+if only i could
+        i'd never let anyone go
+                      anywhere from me
+            hold them tighter than my skin
+            keep them warmer than my heart
+
+     i am whatever
+(& she is)whatever she is
+ & we are        — this — we
+  whatever it is we be  —
+           Heididledi! 
+         be ever by me,      3
+             you storm
+       of purest glee! 
+
+     „i just— “ — i — mew,  even now;
+         in the winter;
+                wrapped in your warmth.
+
+         as the riddle of
+       your corpus unfurled,   before
+       your form had firmed,   
+       your
+            hands had gained their grace— 
+            how did you lie?  
+            what forms informed you?
+       your
+           touch tells torrid tales.
+       i'm found,ashèn,sweltering
+              in  your tenderness.
+```
