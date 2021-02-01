@@ -242,4 +242,143 @@ the gods,the green,the sprawl,spring
   sprawl as:    :are we.
  the mind=>slips,finds=>the soul,fox
  holed=>10,000 times=>in ."
+## 「         the two stopped,
+       drew near.               」 
+
+
+                for  ΔΙΟΤΊΜΑ.
+                THE  DILEMMA
+              ∨
+                PRE- SYMPOSIUM
+                from ΔΑΞΙ   .
+
+
+«
+are you familiar—            my dear
+                —with the hedgehog's
+                          dilemma ?»
+        “    . . .    ” 
+        »             two hedgehog s
+        [are]draw[n]close,
+            together     ,as two thoughts
+                         , 
+  two beetles in  one box;
+  one bird  in two flocks.     before
+ they can be draw n       as one line
+              in      two   —   —   —
+                    spots     —   —
+            they    stop .
+                                —speared
+                          by
+           their    step ,   their
+           [ ass-^-back---wards ]approach.
+        » 
+        “  let's take               —
+                         ,forAsecond,
+,my dear,
+        —  two some steps,
+                   back—,—yeah?     ”
+    the music comes
+                   back  
+                       on.they take
+         two beats back  ,to the grace
+           of old Vienna .
+                         “
+           look me dead  ;  square. 
+           takeme bythe      eye.
+       and think  back,
+           take   back      this fire:
+       to  the black-cold   coal   , 
+       of  a   cold first   taste  ,
+       of  a   wax-drip     path   , 
+       to  the    nascent   embrace.
+       we  are here by this moment,
+       dancing up to that   place :
+       seeking solemn       satori—
+       when we're one,      by our grace.
+                         ”  the two moved
+    in parallel spines,       never quite
+     poking the other.  
+      just   as they     
+       relifed  the     
+        boney-cold     of solitude, 
+             so,
+they   rebore   the
+      recurrent      that
+     cured them of it.             Ερως.
+   »Diotima—
+   «       “aye,
+            a  constant     question[ing]
+         of transcendence.
+       that is love.that is
+ what it is to live,
+      truly to live,this
+               life  of the lover of Life;
+           the love  of the liver of Love
+              .
+       through love, we live     the life
+         worth living;
+                     we love
+       through living           that life
+              .
+         grasp love     as you grasp Love,
+           the form,                 LOVE,
+     and grasp for me   as you grasp
+           for love,  for Love,  for LOVE.
+         live with me   as you live,
+           for love,  for Love,  for LOVE.
+         love with me   as we  love,
+           for love,  for Love,  for LOVE
+             .
+              ! 
+take me! show me!
+       give me
+               love!
+rake me! know me! 
+       Live me Love!
+            we neither are beggars,
+                       nor beauties
+            in love.
+            we neither are lovers,
+                       nor lovèds
+            in love.       
+            it's something more potent,
+                           transcendent
+            in love.
+            just stick to  the loving,
+                     transcend lovers'
+               love.
+            we're not simple lovers.
+            we're            livers
+            of love.
+              ”
+             (
+           she's little   to learn—
+           but    so much to live —
+          from socrates
+               )       ,empassioned,
+            he 
+                 
+
+
+
+
+
+
+
+      Διοτίμα:
+sorry if this platonism's
+              a bit  too neo.   (for you)
+        i imagine we've both 
+     taken liberties with you
+      're philosophy         ,Plato&i. 
+       don't take it personally.
+            it's  my favorite hobby.
+            just ask Wittgenstein.
+
+
+
+
+
+%anywho, the thing that gets me is that these fucking hedgehogs are so noided they can't even approach each other face first. They back into each other. Like, scheiß, show a little love.
 ##
