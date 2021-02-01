@@ -22,7 +22,7 @@ title: how to take smart notes
 	-> the answer to the question is a next note
 	-> "do not brainstorm for a topic" [1p29]
 ## Teachers mistake the following of [[best practices]] for expertise[1p65]. environmental variables are systematically ignored until the situation can be reduced to something [[clear]]. what does this say about Kantianism? "an exclusive use of analytical rationality tends to impede further improvement [1p63]".
-## To think about an argument is to think the logical form of the argument.
+##
 ## '"no, no!" Feynmann protested, "They aren't a record of my thinking process. They are my thinking process. **I actually did the work on the paper**.[1p91]
 ## the act of learning is the act of drawing connections. the propositions of the text are made [[meaningful]] through their integration with what the learner already knows.
 ### to have forgotten is to not be able to recall; 
