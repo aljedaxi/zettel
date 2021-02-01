@@ -24,4 +24,7 @@ Sabi meets Daxi in a theater, before a play. Daxi's at the bar.
     Desire, as outlined in the Bhagavad Gita 
     Knowledge, as understood my Socrates in knowledge as virtue.
     Habit as knowledge.
-###
+### A 
+
+She felt as though the Aesthetic she comes perfectly matched the Aesthetic of the situation. The two were in perfect harmony. She and the strange on which she performed were two interpretations of the same feel; the lines between the two were as sharp as ever, and yet invisible:not because of their translucency, but because of how well they blended in. The two almost seemed like the same thing, more than the same feel: two parts of a bigger picture.
+The feeling was—sublime.
