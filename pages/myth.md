@@ -9,3 +9,15 @@ title: metamodernity
 ## the rise of the shrek-style antihero represents the beginning of the meta-modern mode
 ### the transition innocence -> anti-hero -> hero is a recapitulation of the phygenetic transition modernity -> postmodernity -> metamodernity
 ## the ironic mode must be weaponized in service of sincerity
+## Are not only for me 
+
+The clouds paint the sky with a scant urgency,
+The stony–bed rivers do warble gladly,
+The grasses, they sing in so many a key,
+And the stars are not only/simply for me
+
+And the stars shine for more than just me
+
+Und die Sterne sind nicht für nur mich
+
+#poetry
