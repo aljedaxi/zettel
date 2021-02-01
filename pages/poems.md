@@ -62,7 +62,7 @@ And though  we fully know it,
             via          vox? 
 So here's  my prediction,
           (my)abdication,
-           of    the box. 
+           of    the box.
 ```
 ```
 Beetle in a 
