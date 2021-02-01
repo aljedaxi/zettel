@@ -68,7 +68,20 @@ Fetishism is moving away from the herbal forum towards a particular manifestatio
 When we manifest that character in the character Carol, consider how Daxi—who, in Canon, wrote the tractati—would react to this character she wrote, but never knew. 
 
 So, we'll manifest this character Carol on the levels of daxi, Chaghaybou, and Daxi.
-###
+### Che Fece ... Il Gran Refiuto 
+
+BY C. P. CAVAFY
+TRANSLATED BY EDMUND KEELEY
+For some people the day comes
+when they have to declare the great Yes
+or the great No. It’s clear at once who has the Yes
+ready within him; and saying it,
+
+he goes from honor to honor, strong in his conviction.
+He who refuses does not repent. Asked again,
+he’d still say no. Yet that no—the right no—
+drags him down all his life.
+#Poetry#not_my_own
 ## AP|PA manifesto 
 
 …in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
