@@ -209,4 +209,27 @@ and the flow of Ink?
  save     the focus
  that  lays the Ink?
 ```
-##
+## Free Verse 
+the violent water's frothing mouth does feed 
+the stills and waves    ;   eddying into the
+margins, foaming white with rage.  the edges
+guide the bubbling lines     :     alēae  in
+a box.         The Ravens and i—black as ink—
+all do our best to watch.
+
+The violent water's frothing mouth does sing
+A siren's reeeeeeeeee;the crows and i listen, 
+respond,with free verse,out of key. the dice
+turn up   a number   I'm   afraid      i can
+not read           —before i can decipher it,
+it's changed by a crow's feet.
+
+The violent water's frothing mouth   extends
+into the deeps;stretched about four steps of
+concrete,rolling with each leap. the bubbles
+speak in warbling tongues, which I cannot re-
+peat;and yet   the Ravens warble on,   their
+truth their wingèd beat. 
+
+
+#Poetry#course
