@@ -85,6 +85,7 @@ drags him down all his life.
 „da xi“, she struggled to say.
 «the Dai shi? What?» 
 „uh—yeah. Totally.”
+###
 ## AP|PA manifesto 
 
 …in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
