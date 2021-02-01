@@ -2,8 +2,7 @@
 title: character names
 ---
 
-## Names 
-Winter's night {
+## Winter's night {
     Ludmila
     Lotaria
 } 
