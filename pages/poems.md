@@ -94,15 +94,4 @@ O, to live 'mongst long lived grass,
 'long their tide-shift, iridescent mass,
 Whose aleatory works outlast,
 Each human piece, which try surpass
-
-The Beauty of the windswept rain,
-Upon the skin; upon the pane;
-Below the moon or streetlight's 
-
-
-
-
-By violet stalks of wheat forgotten.
-
-
-#Poetry
+##
