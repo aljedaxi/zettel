@@ -1,5 +1,6 @@
 ---
 title: aesthetic philosophy
+alias: aesthetics, aesthetic
 ---
 
 ## Aesthetics emerges from the forms, from energy, information. 
