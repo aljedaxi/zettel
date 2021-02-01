@@ -5,7 +5,6 @@ title: how to take smart notes
 ## How to take smart notes: 1542866502
 ## systems can only act upon an interface. your interfaces must be designed to expose the aspects of the system that [should change?]
 ## what is it to think?
-### Thinking emerges from having thought
 ## what is the form of the idea?
 ## what is the academic mode? a questioning / questing towards \?truth? interesting questions? if so---or if anything like it is so---such a mode must be spread throughout society. every question ever asked may and should be treated with dignity.
 ## the "good reader" is the reader who understands that a text is a system of purposeful [[Lichtung]]en and occlusions. the "poor reader" sees only that which is lit.
