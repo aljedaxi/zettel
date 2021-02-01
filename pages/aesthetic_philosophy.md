@@ -8,9 +8,8 @@ the aesthesis is the bundle of information, the informatic quanta; the first der
 ## To attempt an understanding without a definition is folly; to attempt a definition without an understanding is folly.
 ## To perform is transcendent:
 It is to lose oneself in an Aesthetic. It is to become that Aesthetic; to merge one's being with that Aesthetic.
-## https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world
-   “Even if you could somehow translate a chair’s atoms into data points, would that get you to the important stuff?” 
-    A good way to traslate a chair's atoms into data is to sit on it.
+## “Even if you could somehow translate a chair’s atoms into data points, would that get you to the important stuff?” [https://aeon.co/essays/do-you-know-your-stuff-the-ethics-of-the-material-world]
+A good way to traslate a chair's atoms into data is to sit on it.
 ##
 ```
 Aesthetic is manifest  archetype
