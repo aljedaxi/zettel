@@ -44,13 +44,13 @@ Daxi : the force, the principle, the book, that which puts the daxi in the daxī
 unless that is their name.
    maybe
   they're just always a pen.
-# Brightness of prose 
+### Brightness of prose 
 …the brightness of the prose is staring to get to me."
 
 "brightness? Not sugariness?" 
 
 Sugariness hurts the stomach. Brightness hurts the eyes.
-## AP|PA manifesto 
+#### AP|PA manifesto 
 
 …in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
 It's like if, instead of writing the Communist manifesto, Marx simply went out and created a Communist society. This is the power we hold in our hands, and yet, so many refuse to use.
