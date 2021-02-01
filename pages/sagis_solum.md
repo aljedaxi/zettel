@@ -50,6 +50,7 @@ unless that is their name.
 "brightness? Not sugariness?" 
 
 Sugariness hurts the stomach. Brightness hurts the eyes.
+###
 ## AP|PA manifesto 
 
 …in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
