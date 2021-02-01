@@ -94,4 +94,16 @@ O, to live 'mongst long lived grass,
 'long their tide-shift, iridescent mass,
 Whose aleatory works outlast,
 Each human piece, which try surpass
-##
+## Continental 
+Continental is wide and open and feels a bit Gothic—ie, gothicismus—as opposed to, say, cybergoth ravers. The tables are marble topped, and the feet are cast iron, clawy. The seats are all on the old side. Decorations are sparse; the walls are all pure white, the ground a lovely tan-orange tile. One side is all window, and the 5 o'clock sun casts dramatic shadows through the front parlor. 
+The rest of the lighting is supplied by gallery lights, or ye Olde hanging filament bulbs. 
+…There's something unnerving about the back. There's something unnerving about the whole place. I feel like i'm in a noir picture, or a doldrums song. And the music doesn't help—its at just the same volume as the drone of the Airconditioning (or something) and generally, I feel disconnected with reality. 
+Which, i dunno, had its upsides and its downsides. 
+The espresso :
+The crema's prime feature is its creaminess—bubbliness. It's served on a white tray, in a white mug, with sparkling water and a dark chocolate. It's gently caramely, gently fruity, gently acid; always gentle. And yet there's something about it. Something nips at the edges of my awareness, something i can't quite place my tongue on. Something feels… watery: there's a superficiality to it; a distance. Like you're tasting it through a commodore 64. Bitterness reactions hit me, but there's little bitterness. My neck is stiff. I feel lightheaded. 
+Maybe i'm just having an existential crisis. Or maybe this coffee is a bit strange. 
+Don't like the bottom. 
+
+Light 7.
+
+#Espresso
