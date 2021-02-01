@@ -521,3 +521,36 @@ i wish i had lived
                      me.
 ```
 ##
+```
+      mono no aware
+         :  a ballad of wheat
+           in an age of iron
+
+    */*    characters:
+        la sagrada familia
+  basílica sagrada familia
+           sagrada familia no kami
+       los árboles de Barcelona
+                    y
+                      Barcelona „an sich“
+    /
+
+   「Maria Sama
+          の心」blazes deep
+     in the concrete flesh
+  rides the rays of poetry,     out
+    off the altar chandelier    . 
+
+     it's hard—stone—to say
+      how soft stone can
+              
+          
+
+
+    … 
+and when the souvenirs are sold,
+the
+the tourists turn their cameras round, 
+the town just dissappears. 
+```
+##
