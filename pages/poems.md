@@ -209,8 +209,7 @@ and the flow of Ink?
  save     the focus
  that  lays the Ink?
 ```
-## Free Verse 
-the violent water's frothing mouth does feed 
+## the violent water's frothing mouth does feed 
 the stills and waves    ;   eddying into the
 margins, foaming white with rage.  the edges
 guide the bubbling lines     :     alēae  in
@@ -229,7 +228,4 @@ into the deeps;stretched about four steps of
 concrete,rolling with each leap. the bubbles
 speak in warbling tongues, which I cannot re-
 peat;and yet   the Ravens warble on,   their
-truth their wingèd beat. 
-
-
-#Poetry#course
+truth their wingèd beat.
