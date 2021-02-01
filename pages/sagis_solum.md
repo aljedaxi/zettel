@@ -69,9 +69,9 @@ When we manifest that character in the character Carol, consider how Daxi—who,
 
 So, we'll manifest this character Carol on the levels of daxi, Chaghaybou, and Daxi.
 ### Che Fece ... Il Gran Refiuto 
-
 BY C. P. CAVAFY
 TRANSLATED BY EDMUND KEELEY
+
 For some people the day comes
 when they have to declare the great Yes
 or the great No. It’s clear at once who has the Yes
