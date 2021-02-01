@@ -104,4 +104,9 @@ Maybe i'm just having an existential crisis. Or maybe this coffee is a bit stran
 Don't like the bottom. 
 
 Light 7.
-##
+## Dai shi 
+„…to cross the—
+„da xi“, she struggled to say.
+«the Dai shi? What?» 
+„uh—yeah. Totally.”
+#Saga
