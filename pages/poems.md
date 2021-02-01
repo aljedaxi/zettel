@@ -135,3 +135,20 @@ i am above(it: this is)my guillotine
                “who knows what i am.”
 ```
 ##
+```
+# Drunk.2 
+I am death
+          ly
+             intoxicated
+  now, in    the grip of
+             non-gripance
+       it    only makes sense to
+             communicate with those
+             who i so dearly
+                  —so dearly—
+  miss.      who i
+                   so dearly wish
+    to speak with,                to meet again
+meet me, carol, meet me
+```
+##
