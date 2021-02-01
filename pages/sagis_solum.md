@@ -26,4 +26,8 @@ Sabi meets Daxi in a theater, before a play. Daxi's at the bar.
     Habit as knowledge.
 ### She felt as though the Aesthetic she embodied perfectly matched the Aesthetic of the situation. She and the stage on which she performed were two manifestations of the same feel; the lines between the two were as sharp as ever, and yet invisible:not because of their translucency, but because of how well they blended in. The two almost seemed like the same thing, more than the same feel: two parts of a bigger picture.
 The feeling was—sublime.
-##
+###
+## AP|PA manifesto 
+
+…in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
+It's like if, instead of writing the Communist manifesto, Marx simply went out and created a Communist society. This is the power we hold in our hands, and yet, so many refuse to use.
