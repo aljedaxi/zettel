@@ -118,4 +118,19 @@ art was edged; closer, closer, coming,
 i stopped sucking(up to it)
 i am above(it: this is)my guillotine
       blade in the gut of Good Taste
-##
+## ```
+## Doubt 2 
+“there's something about cross
+         -dressing.”      they said;
+      “, something about cross
+              -ing those lines;
+      existing in  limbo,      between
+                             — beyond —
+      expectation.”
+      “instead of a fixed form, you
+           become a cloud of un-
+                             identifiabl
+                               -ity.”
+               “who knows what i am.” 
+#Busters
+```
