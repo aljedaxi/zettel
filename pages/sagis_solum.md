@@ -55,6 +55,19 @@ Sugariness hurts the stomach. Brightness hurts the eyes.
 > Daxi starts brushing sabi's hair, and it's then you realize {that the way the brush is made, it's probably very pleasant on the scalp; the brush was made for cats}. „everyone around here's got a bit of it in them“ she says; doesn't usually wear eyeliner but you notice, this time, her eyes
 
 > „it's something in the air;something in the ink that runs through our veins. Everyone's a little…feline.“
+### # Carol  
+Consider this Carol Carol—the fetishized Carol—to be a character. And she is a point in a graph.
+
+Fetishism is moving away from the herbal forum towards a particular manifestation. Instead of looking for the most beautiful, we instead limit ourselves to the most beautiful Korean, regardless of, say, whether there is a more beautiful white woman or not.
+    it would be fine too say “a 10/10 white woman is, to me, the equivalent of a 7/10 Korean”. that is simply knowing one's tastes. The problem, however, lies in prestiging one group over another even when the proper weights are put in place.
+    as per usual, there is a problem with brutal honesty, following your desires precisely: what are you to go for in the end? Our system is set up such that you make choice, and stick with it. 
+    Pair bonding. But we are surrounded by choices. This is where fetishism comes in handy: my obsession with Carol books me to her. What if i went for every qt that day across from me on the train? This can be mirrored in daxi's paralysis. All these characters, deeply in love, paralyzed by the Excrucior, the pulling in all directions—
+    Maybe love is just an economy based on resource scarcity. 
+
+
+When we manifest that character in the character Carol, consider how Daxi—who, in Canon, wrote the tractati—would react to this character she wrote, but never knew. 
+
+So, we'll manifest this character Carol on the levels of daxi, Chaghaybou, and Daxi.
 ###
 ## AP|PA manifesto 
 
