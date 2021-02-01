@@ -44,7 +44,6 @@ Daxi : the force, the principle, the book, that which puts the daxi in the daxī
 unless that is their name.
    maybe
   they're just always a pen.
-### ```
 # Brightness of prose 
 …the brightness of the prose is staring to get to me."
 
