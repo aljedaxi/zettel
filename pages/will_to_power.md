@@ -2,4 +2,4 @@
 title: will to power
 ---
 
-## ca
+## connatus is a thoroughly pre-darwinian idea:
