@@ -229,7 +229,8 @@ concrete,rolling with each leap. the bubbles
 speak in warbling tongues, which I cannot re-
 peat;and yet   the Ravens warble on,   their
 truth their wingèd beat.
-## Furry 
+## Furry
+
 there is a pagan
      [is m]says "the world
       is as:    :is me,
@@ -241,6 +242,4 @@ the gods,the green,the sprawl,spring
   sprawl as:    :are we.
  the mind=>slips,finds=>the soul,fox
  holed=>10,000 times=>in ."
-
-
-#Poetry
+##
