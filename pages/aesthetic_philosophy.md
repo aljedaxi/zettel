@@ -17,3 +17,4 @@ Aesthetic is manifest  archetype
 ```
 Aesthetic is pattern, subconsciously manifest
 Aesthetic is pattern, in a single sensation — VNVS AESTHETIKOS
+##
