@@ -45,3 +45,23 @@ in webs,constellating
 :what day may become.
 ```
 ##
+```
+Beetle in a 
+# box 
+
+        Für Wittgenstein
+
+We each have  our own beetle,
+         raw  and      fetal, 
+          in  our        box. 
+we feel its  form-free features,
+             measure  creatures, 
+             by its thoughts. 
+And though  we fully know it, 
+            can we   show it, 
+            via          vox? 
+So here's  my prediction,
+          (my)abdication,
+           of    the box. 
+```
+##
