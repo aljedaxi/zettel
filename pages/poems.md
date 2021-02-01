@@ -86,12 +86,3 @@ So much more
          than we needed to breathe. 
 ```
 ##
-```
-# Brightness of prose 
-…the brightness of the prose is staring to get to me."
-
-"brightness? Not sugariness?" 
-
-Sugariness hurts the stomach. Brightness hurts the eyes. 
-```
-##
