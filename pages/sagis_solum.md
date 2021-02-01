@@ -119,6 +119,11 @@ Wille zur Macht is a bending of fitness.
 There's a pedestal. Upon it is a vase. And there are the scrolls with people on them, looking at this vase. 
 
 Art is entirely a question of attitude.
+### Futurist portrait 
+A personification of truth gets on stage
+ «Boo!» shouts Sabi «you can't just say you're truth anymore! What theory of truth are you?» 
+ “the true theory of truth!” she says
+ «that doesn't make any sense!
 ## AP|PA manifesto 
 
 …in this sense, the aesthetic philosopher of which I speak is greater than that of the past, for when the latter merely states their statement, the former *makes* it. Their statement is *manifest* in their work; it rings out in all elements—the thematic, pragmatic—and—of course, Aesthetic—in perfect harmony. 
