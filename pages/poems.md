@@ -152,3 +152,44 @@ I am death
 meet me, carol, meet me
 ```
 ##
+```
+afford me but
+                         a petite dwelling
+                        —aljedaxi
+just enough
+            for me,    & 
+my paperwhite daughters,
+   Carol, Edda, heroic verse
+   —their many boyfriends,
+            bound(friends,)—
+by steel set calligraphy, wracked 
+by shelves of hard paper, judicable
+by a symbol of symboline symbols,
+                  judged by the pre-
+                         assurance
+    there cannot be         the time
+to know them all perfectly.
+so we know them not at all.
+existence weighs just as heavily
+    as time presses down—
+          a press without type
+                        —each word a Cut
+Throat, or cut-throat.
+                       you make 'The Cut',
+        or you get cut, you dig?
+        ain't all my girls made it alive.
+  gotta keep some kind of qualityControl,
+                        you dig?
+
+
+
+
+ quick to read, awful to write,
+  you'd expect a greater respect
+   for poetry. But my daughters come home, 
+    every night, crying of how
+     all the boys  just want sex;
+     quick exhaustion of memetic drive;
+     no regard for romance, no—
+```
+##
