@@ -85,4 +85,25 @@ my, how little space we knew!
 So much more
          than we needed to breathe. 
 ```
-##
+## Bäume 
+O, to be in windswept trees,
+a raging, storming mass of leaves,
+and i drop within its sea—
+convecting through eternity
+
+O, to live 'mongst long lived grass,
+'long their tide-shift, iridescent mass,
+Whose aleatory works outlast,
+Each human piece, which try surpass
+
+The Beauty of the windswept rain,
+Upon the skin; upon the pane;
+Below the moon or streetlight's 
+
+
+
+
+By violet stalks of wheat forgotten.
+
+
+#Poetry
