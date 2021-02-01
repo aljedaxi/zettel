@@ -108,6 +108,12 @@ Ink, instead of blood, spills from its head. Everyone, everything gets covered w
        «is this the evening of the earth? Or the dawn of a miserable morning? Which star are you now, venus?» 
       … 
        «well ain't that a kick in the teeth.»
+### Entropy is the expression of a fit behavior of reality
+    Entropy is shaped by traits which are the forces of nature themselves. They may be changed, but how? In this sense, this fitness is immobile. 
+Conatus is an expression of a fit behavior of living beings
+     At this level it may be bent, but that accomplished nothing. Better to roll with it, or suffer death. This cannot happen at the genetic level, for the genes habe no real will. 
+Wille zur Macht is a bending of fitness.
+     Here we find a true willing.
 ###
 ## AP|PA manifesto 
 
