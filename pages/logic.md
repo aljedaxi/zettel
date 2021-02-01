@@ -28,4 +28,5 @@ the limit of the system
 and the world outside the system
 ###
 ## To [[think]] about an argument is to [[think]] the logical form of the argument.
-### logic is the study of form
+### logic is the study of [[form]]
+###
