@@ -64,6 +64,4 @@ So here's  my prediction,
           (my)abdication,
            of    the box. 
 ```
-```
-
-```
+## good for her
