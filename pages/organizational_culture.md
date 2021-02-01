@@ -37,5 +37,5 @@ Ego
 ## decision making crowd source ing tools
 ### https://citizenos.com/product/
 ### loomio
-## The Plurality Playbook
+## The [[Plurality]] Playbook
 https://www.pluralpride.com/playbook
