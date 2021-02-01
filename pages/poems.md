@@ -471,3 +471,22 @@ if only i could
               in  your tenderness.
 ```
 ##
+```
+# Millenials_ruin_Western_Civilization.gif 
+
+    special thanks to Seneca. 
+
+the youth have no senses.
+and,  of place; of taste, of time. 
+their world was        never mine.
+  the studious,  are old,    not
+by lived lives,  but annexed times.
+          i
+am young. i 
+can count my age on four hands.
+          two hands,    in Carthage.
+          three letters in Rome,   Athens.
+          four strokes, in the old capital
+                           京都市。
+```
+##
