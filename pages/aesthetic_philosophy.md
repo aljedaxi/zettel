@@ -9,8 +9,8 @@ the aesthesis is the bundle of information, the informatic quanta; the first der
 ##
 ##
 ```
-Aesthetic is manifest archetype
-             Archetype manifested
+Aesthetic is manifest  archetype
+             archetype manifested
 ```
 Aesthetic is pattern, subconsciously manifest
 Aesthetic is pattern, in a single sensation — VNVS AESTHETIKOS
