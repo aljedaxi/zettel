@@ -24,22 +24,4 @@ Sabi meets Daxi in a theater, before a play. Daxi's at the bar.
     Desire, as outlined in the Bhagavad Gita 
     Knowledge, as understood my Socrates in knowledge as virtue.
     Habit as knowledge.
-### A closer 
-Read this again before writing this.
-
-https://thelastpsychiatrist.com/2009/01/can_narcissism_be_cured.html
-
-Close the first one with this. 
-
-Sabi meets Daxi in a theater, before a play. Daxi's at the bar.
-    “you come here often?” ; it's Sabi, but without her «quotation marks». Say something about how i spoil my readers with my quotation marks.
-    The play begins. This one was written by Sabi. The curtains draw back, and there's Sabi on stage. At a bar. Daxi walks on, and asks “you come here often?”
-    Sabi tiene to daxi and says «i fucking hate it here. I don't know why I'm here. It's out of character for me to be here.»
-    „but you're here. Something about this place must agree with you, or you wouldn't be here.“
-    Themes:
-    Knowledge is virtue
-    Human character : is a human character? The resulting of the human to the character, as outlined in the above article.
-    Desire, as outlined in the Bhagavad Gita 
-    Knowledge, as understood my Socrates in knowledge as virtue.
-    Habit as knowledge. 
-#Saga
+###
