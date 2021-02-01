@@ -104,9 +104,18 @@ Maybe i'm just having an existential crisis. Or maybe this coffee is a bit stran
 Don't like the bottom. 
 
 Light 7.
-## Dai shi 
-„…to cross the—
-„da xi“, she struggled to say.
-«the Dai shi? What?» 
-„uh—yeah. Totally.”
-#Saga
+## death came 
+all over my chest
+in a series of stony-sweet kisses
+in a putrefying glaze of golden grimace
+
+such is death in life   light caught in
+an uncaught cup        a shattered hope
+of a pour, now over      the floor
+
+art was edged; closer, closer, coming,
+    til
+i stopped sucking(up to it)
+i am above(it: this is)my guillotine
+      blade in the gut of Good Taste
+##
