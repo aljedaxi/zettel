@@ -85,8 +85,7 @@ my, how little space we knew!
 So much more
          than we needed to breathe. 
 ```
-## Bäume 
-O, to be in windswept trees,
+## O, to be in windswept trees,
 a raging, storming mass of leaves,
 and i drop within its sea—
 convecting through eternity
