@@ -423,7 +423,9 @@ as letters (re)incarnate ever on,
 like Socrates and Plato;
 like courier new terminals in OSX. 
 ```
-## Life 
+##
+```
+# Life 
 Illusions exist to be pierced and puzzled, 
         And such is the meaning of life. 
 A choice without options is moot & a muzzle, 
@@ -433,5 +435,5 @@ What good is existence in stasis? In flux,
     There's signal—and noise—on the line. 
 If life is the story, then death is the crux, 
  Without water, what's there in the wine?
-
-#Poetry
+```
+##
