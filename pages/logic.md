@@ -23,4 +23,7 @@ title: logic
     accuracy? 
 
 "logic is the general form of Abstraction"
+## there is the end of the system,
+the limit of the system
+and the world outside the system
 ##
