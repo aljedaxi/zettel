@@ -385,3 +385,42 @@ sorry if this platonism's
 %anywho, the thing that gets me is that these fucking hedgehogs are so noided they can't even approach each other face first. They back into each other. Like, scheiß, show a little love.
 ```
 ##
+```
+# Letters 
+¡MUST BE PRESENTED WRITTEN
+ BY HAND,
+,IN CURSIVE,
+ WITH LONG ESSES          !
+
+it sometimes astounds me—truly—that
+there was a time when letters were written
+Letters! 
+On Paper!
+                               that
+this time I hold so dearly
+—a romanticism,  ein Spuk—
+is no false God—
+an elder God, a  dead God,
+—but a temporal God.Within, 
+and without,
+
+time.
+            hwaet!
+its skelton has been found! 
+and *here* it is, drawn
+out in pretty little loops, letters 
+playing at reincarnation but losing
+
+time.
+             perhaps, 
+it's not the player, 
+but the game itself, not the loser, 
+but a thing to be lost:
+less romantic than typewriting,
+greater than typesetting,
+as letters (re)incarnate ever on,
+
+like Socrates and Plato;
+like courier new terminals in OSX. 
+```
+##
