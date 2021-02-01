@@ -64,4 +64,16 @@ So here's  my prediction,
           (my)abdication,
            of    the box. 
 ```
-## good for her
+##
+```Oh, 
+   how i knew it too good to be true ,
+how i knew i could not trust my eyes ,
+for the Geist of Bohemia Baudelaire knew
+died with that man, and his times.
+Oh, 
+   how the streets of Paris once glew,   ¹
+as they flowered, in spirit and size !
+
+1  glowed, if you will.
+```
+## ``````
