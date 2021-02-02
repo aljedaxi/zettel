@@ -39,3 +39,4 @@ Ego
 ### loomio
 ## The [[Plurality]] Playbook
 https://www.pluralpride.com/playbook
+## we need to normalize mental health days
