@@ -41,3 +41,4 @@ Ego
 https://www.pluralpride.com/playbook
 ## we need to normalize mental health days
 ## checkins before meetings? checkins during scrums?
+## listen to the podcast  developer tea
