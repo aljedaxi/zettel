@@ -43,3 +43,4 @@ https://www.pluralpride.com/playbook
 ## checkins before meetings? checkins during scrums?
 ## listen to the podcast  developer tea
 ## https://mailchi.mp/infinite/remote
+##
