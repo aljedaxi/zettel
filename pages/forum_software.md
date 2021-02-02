@@ -8,3 +8,4 @@ title: forum software
 ## the idea is to allow for collective [[sensemaking]]
 ## https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ <- this is where Vannevar Bush detailed the Memex
 ##
+##
