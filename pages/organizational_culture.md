@@ -43,7 +43,10 @@ https://www.pluralpride.com/playbook
 :PROPERTIES:
 :todo: 1612395024981
 :END:
-## checkins before meetings? checkins during scrums?
+## TODO checkins before meetings? checkins during scrums?
+:PROPERTIES:
+:todo: 1612395031008
+:END:
 ## listen to the podcast  developer tea
 ## https://mailchi.mp/infinite/remote
 ##
