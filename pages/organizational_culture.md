@@ -39,7 +39,10 @@ Ego
 ### loomio
 ## The [[Plurality]] Playbook
 https://www.pluralpride.com/playbook
-## we need to normalize mental health days
+## TODO we need to normalize mental health days
+:PROPERTIES:
+:todo: 1612395024981
+:END:
 ## checkins before meetings? checkins during scrums?
 ## listen to the podcast  developer tea
 ## https://mailchi.mp/infinite/remote
