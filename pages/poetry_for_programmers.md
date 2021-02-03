@@ -20,6 +20,7 @@ title: poetry for programmers
 ##### to focus on one thing, it has to be one thing
 ### i do not write code; i *code*
 #### simultaneous hyperfetishization of writing with disparagement of the humanities
+##### i would like to kill the concept of the code-base
 #### "one thing i'm going to talk a lot about it fetishism, which is a kinda ugly form of abstraction"
 ### finally, i would like to ask "what it is to be a poet"
 #### the man who was thursday
