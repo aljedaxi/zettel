@@ -7,5 +7,6 @@ title: forum software
 ## https://anagora.org/node/index
 ## the idea is to allow for collective [[sensemaking]]
 ## https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ <- this is where Vannevar Bush detailed the Memex
+### https://www.youtube.com/watch?v=hZ3gmh-d9oI <- Xanadu <
 ##
 ## we can think of each comment as having the form "thesis, justification"; thence we can reference comments by "thesis, author";
