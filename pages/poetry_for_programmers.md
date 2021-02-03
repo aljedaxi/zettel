@@ -25,7 +25,7 @@ title: poetry for programmers
 #### the man who was thursday
 #### to live something
 #### "and living means making a choice", between monday and thursday---for/in that moment.
-##
+## https://www.abebooks.com/Semantics-Introducing-Linguistics-Saeed-John-I/30593899377/bd?cm_mmc=ggl-_-US_Shopp_Trade-_-naa-_-naa&gclid=CjwKCAiAgc-ABhA7EiwAjev-j51yxIG6baj74HimDEGeSwOQqHIlB5r24bHA5uZsQMYUin_h6IFyOxoC0ckQAvD_BwE
 ## to make sense of code; [[sensemaking]]
 ### me and my friend have the same problem: the arches of our feet de-arch-ify. we've both found the same solution: walking digitigrade. and i know for me, i've gained a strange appreciation for a distinguished feminine elegance; perhaps not because of it, but certainly not in spite of it.
 ### ((600846c6-7b2b-4df2-94b3-12896937d075))
