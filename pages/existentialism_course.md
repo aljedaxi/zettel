@@ -11,3 +11,6 @@ one despairs *of* that which releases one from despair
 ## seriousness as a sort of authenticity
 ### what will The Outside say of you, your self?
 ## the relationship of freedom to goodness:
+milton speaks freedom in terms of djin,
+while Spinoza speaks of freedom *as* good
+##
