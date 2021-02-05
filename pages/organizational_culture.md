@@ -53,3 +53,4 @@ https://www.pluralpride.com/playbook
 :PROPERTIES:
 :todo: 1612395042552
 :END:
+Hello everyone! The company is getting large enough that
