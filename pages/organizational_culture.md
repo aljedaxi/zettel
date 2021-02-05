@@ -53,4 +53,4 @@ https://www.pluralpride.com/playbook
 :PROPERTIES:
 :todo: 1612395042552
 :END:
-Hello everyone! xMentium is getting large enough that
+Hello everyone! xMentium is getting large enough that it's hard for everyone
