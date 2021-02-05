@@ -6,4 +6,4 @@ title: existentialism course
 ## Kierkegaard himself understood that all of despair does not follow directly from christianity.
 ## one despairs *over* that which binds one to despair
 one despairs *of* that which releases one from despair
-##
+## despair -> despondency -> depression
