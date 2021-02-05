@@ -33,4 +33,4 @@ to limit talk away from code and towards: _____
 ### me and my friend have the same problem: the arches of our feet de-arch-ify. we've both found the same solution: walking digitigrade. and i know for me, i've gained a strange appreciation for a distinguished feminine elegance; perhaps not because of it, but certainly not in spite of it.
 ### ((600846c6-7b2b-4df2-94b3-12896937d075))
 ## https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/
-##
+## "a loop is a way of doing one thing over and over again. if it is infact one thing, you should be able to express it as a quantum of computation: a function.
