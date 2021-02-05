@@ -7,3 +7,5 @@ title: existentialism course
 ## one despairs *over* that which binds one to despair
 one despairs *of* that which releases one from despair
 ## despair -> despondency -> depression
+### Despair is pain arising from the idea of something past or future, wherefrom all cause of doubt has been removed. [www.ethicadb.org/pars.php?parid=3&lanid=3&lg=en]
+###
