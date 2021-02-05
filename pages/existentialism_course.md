@@ -10,4 +10,4 @@ one despairs *of* that which releases one from despair
 ### Despair is pain arising from the idea of something past or future, wherefrom all cause of doubt has been removed. [www.ethicadb.org/pars.php?parid=3&lanid=3&lg=en]
 ## seriousness as a sort of authenticity
 ### what will The Outside say of you, your self?
-##
+## the relationship of freedom to goodness:
