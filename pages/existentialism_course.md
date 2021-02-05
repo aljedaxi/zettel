@@ -13,3 +13,4 @@ one despairs *of* that which releases one from despair
 ## the relationship of freedom to goodness:
 milton speaks freedom in terms of djin,
 while Spinoza speaks of freedom *as* good
+##
