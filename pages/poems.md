@@ -562,4 +562,6 @@ my charm, as i walk through the street
 back, in the home,
 on a cold coffee evening
 of a COVID caught seething
-for
+far away from the screeching
+still soft on the breeze.
+##
