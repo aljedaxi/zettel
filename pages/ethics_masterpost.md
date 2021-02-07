@@ -2,5 +2,5 @@
 title: ethics masterpost
 ---
 
-## ethics (as in $$\eta\theta o\sigma$$) concenr
+## ethics (as in $$\eta\theta o\sigma$$) concerns
 ##
