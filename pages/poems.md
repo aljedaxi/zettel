@@ -553,4 +553,13 @@ the
 the tourists turn their cameras round, 
 the town just dissappears. 
 ```
-##
+## the wind through the gulls
+on a crisp river evening
+on a street lit light evening
+with noone to see
+my charm, as i walk through the street
+
+back, in the home,
+on a cold coffee evening
+of a COVID caught seething
+for
