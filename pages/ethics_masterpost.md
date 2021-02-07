@@ -2,4 +2,4 @@
 title: ethics masterpost
 ---
 
-## conservatism
+##
