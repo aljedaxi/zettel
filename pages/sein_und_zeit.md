@@ -22,4 +22,5 @@ ein *Befragtes*
 : that which is interrogated, the source
 
 das *Erfragtes*
-: that which is found by asking
+: the end of the asking
+##
