@@ -494,18 +494,13 @@ can count my age on four hands.
 Mono no aware 
 
      upon a time, there
-… 
- but i've lost her, 
-     i've lost them all,i live
-in the endless solitude   of 
-               pitch perfect posture 
- & the wordleß scream   %
+          . . .
+ but i have lost her, 
+     i've lost all;her,here,they/them/thither lives
+in the bottomless solitude of pitch perfect posture 
+ & the wordleß scream
             of selfswept desperation
-                        %see if you can't 
-                         figure out how to 
-                         layer two s', one 
-                         slightly atop the 
-                                     other
+
               . 
 
 i wish i had lived
