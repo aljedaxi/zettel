@@ -501,7 +501,7 @@ Mono no aware
 in the endless solitude   of 
                pitch perfect posture 
  & the wordleß scream   %
-            of quiet desperation
+            of selfswept desperation
                         %see if you can't 
                          figure out how to 
                          layer two s', one 
