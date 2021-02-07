@@ -24,3 +24,4 @@ ein *Befragtes*
 das *Erfragtes*
 : the end of the asking
 ##
+> so the meaning of being
