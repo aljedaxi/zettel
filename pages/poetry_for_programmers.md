@@ -38,4 +38,7 @@ to limit talk away from code and towards: _____
 ## https://www.youtube.com/watch?v=panKf9hzUfQ
 ###
 > css developer program the layout of webpages
+###
+> stop "writing" css and start programming css
+###
 ## A programming language exists to describe programs
