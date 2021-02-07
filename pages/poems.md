@@ -493,8 +493,7 @@ can count my age on four hands.
 ```
 Mono no aware 
 
-     upon a time, there lived 
-          a lass. 
+     upon a time, there
 … 
  but i've lost her, 
      i've lost them all,i live
