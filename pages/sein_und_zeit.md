@@ -25,4 +25,5 @@ das *Erfragtes*
 : the end of the asking
 ##
 > so the meaning of being must already be available to us in some way [25]
-##
+## being, in being prior to the realm of entities, cannot be understood by tracing the chain of causality through entities
+### something about form and energy; being is that which is being reformatted, and thence cannot be found in the formations and reformations
