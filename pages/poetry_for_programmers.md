@@ -35,4 +35,7 @@ to limit talk away from code and towards: _____
 ## https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/
 ## "a loop is a way of doing one thing over and over again. if it is infact one thing, you should be able to express it as a quantum of computation: a function."
 ### [[the allegory of the one thing]]
-##
+## https://www.youtube.com/watch?v=panKf9hzUfQ
+###
+> css developer program the layout of webpages
+###
