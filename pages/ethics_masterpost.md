@@ -2,5 +2,5 @@
 title: ethics masterpost
 ---
 
-## ethics (as in $$\epsilon\theta o\sigma$$)
+## ethics (as in $$\eta\theta o\sigma$$)
 ##
