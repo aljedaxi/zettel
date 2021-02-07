@@ -40,5 +40,8 @@ to limit talk away from code and towards: _____
 > css developer program the layout of webpages
 ###
 > stop "writing" css and start programming css
-### in declarative code, the algorithm is obscured behind the call
+###
+> in declarative code, the algorithm is obscured behind the call
+###
+>
 ## A programming language exists to describe programs
