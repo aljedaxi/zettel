@@ -522,7 +522,7 @@ i wish i had lived
 ```
 ##
 ```
-      mono no aware
+mono no aware
          :  a ballad of wheat
            in an age of iron
 
@@ -551,7 +551,7 @@ i wish i had lived
 and when the souvenirs are sold,
 the
 the tourists turn their cameras round, 
-the town just dissappears. 
+the town just dissappears.
 ```
 ## the wind through the gulls
 on a crisp river evening
