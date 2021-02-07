@@ -24,5 +24,5 @@ ein *Befragtes*
 das *Erfragtes*
 : the end of the asking
 ##
-> so the meaning of being must already be available to us in some way 25
+> so the meaning of being must already be available to us in some way [25]
 ##
