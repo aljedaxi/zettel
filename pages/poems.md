@@ -498,8 +498,7 @@ Mono no aware
  but i have lost her, 
      i've lost all;her,here,they/them/thither lives
 in the bottomless solitude of pitch perfect posture 
- & the wordleß scream
-            of selfswept desperation
+ & the wordless screams of selfswept desperation
 
               . 
 
