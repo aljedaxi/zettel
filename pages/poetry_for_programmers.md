@@ -43,6 +43,7 @@ to limit talk away from code and towards: _____
 ###
 > in declarative code, the algorithm is obscured behind the call
 ###
->
+> is non-binary a gender
+#### yes and that's a problem for me in particular!
 ## A programming language exists to describe programs
 ## don't let me into my zone
