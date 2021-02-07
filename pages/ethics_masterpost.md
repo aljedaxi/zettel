@@ -2,4 +2,5 @@
 title: ethics masterpost
 ---
 
-## ethics, as understood in
+## ethics (as in $$\epsilon\theta o\sigma$$)
+##
