@@ -14,4 +14,9 @@ again, a theory of being is presupposed but not understood
 ##
 > "the sky *is* blue" 23
 well, maybe it is in english, but is it so in spanish?
-##
+## analysis of the form of inquiry yeilds:
+sein Gefragtes
+: that which is asked about
+
+ein Befragtes
+: that which is interrogated, the source
