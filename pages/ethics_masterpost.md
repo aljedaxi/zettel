@@ -7,5 +7,5 @@ title: ethics masterpost
 ### in the post christian world, it came to be understood as concerning the soul.
 #### the cosmos is not ethical. the goodness of its working was senseless.
 #### individual judgement; individual punishment; individual reward.
-####
+### every moral call is not to *better our selves through bettering the world*, but rather to
 ##
