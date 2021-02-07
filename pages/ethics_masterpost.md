@@ -8,5 +8,5 @@ title: ethics masterpost
 #### the cosmos is not ethical. the goodness of its working was senseless.
 #### individual judgement; individual punishment; individual reward.
 ### every moral call is not to *better our selves through bettering the world*, but rather to *better the world though bettering ourselves*.
-#### at the core of this is
+#### at the core of this is the seperation of nature from
 ##
