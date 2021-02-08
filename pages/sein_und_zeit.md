@@ -33,4 +33,4 @@ logical leap, we don't know what being is yet
 ### in heidegger, alienation
 ## we have to interrogate Being through entities
 ### entities are our *Befragtes*
-###
+### which entities?
