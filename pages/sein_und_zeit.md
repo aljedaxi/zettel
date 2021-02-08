@@ -40,5 +40,5 @@ logical leap, we don't know what being is yet
 shared understanding
 inquiry
 clarification
-## {{whatever}}
+## {{https://psyche.co/guides/to-start-to-heal-from-trauma-in-your-life-write-about-it}}
 ##
