@@ -28,4 +28,6 @@ das *Erfragtes*
 ## being, in being prior to the realm of entities, cannot be understood by tracing the chain of causality through entities
 ### something about form and energy; being is that which is being reformatted, and thence cannot be found in the formations and reformations
 logical leap, we don't know what being is yet
-##
+## alienation
+### in marxism, alienation is a social thing
+### in heidegger,
