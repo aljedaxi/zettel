@@ -6,5 +6,6 @@ title: dialectics
 ## any *dia*lectical view of history is necessarily arborescent
 ## the hermeneutic cycle is as such:
 - shared understanding <> abstract
-- inquiry <> 
-- clarification
+- inquiry <> negation
+- clarification <> concrete
+##
