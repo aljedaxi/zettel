@@ -57,4 +57,5 @@ https://www.pluralpride.com/playbook
 :todo: 1612395042552
 :END:
 Hello everyone! xMentium is getting large enough that it's hard for everyone
-## [on the question of longevity]
+## [on the question of longevity](https://psyche.co/ideas/what-it-takes-to-run-a-book-club-for-more-than-half-a-century)
+##
