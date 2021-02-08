@@ -6,6 +6,6 @@ title: articles
 
 - talk about who i am, my context in the company
 - the process:
-- - company culture diagnostic tools
-  - -
+  - company culture diagnostic tools
+    - xd
 ##
