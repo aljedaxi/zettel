@@ -8,4 +8,3 @@ title: dialectics
 - shared understanding <> abstract
 - inquiry <> negation
 - clarification <> concrete
-##
