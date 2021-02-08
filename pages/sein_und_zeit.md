@@ -39,3 +39,4 @@ logical leap, we don't know what being is yet
 ## the hermeneutic cycle:
 shared understanding
 inquiry
+clarification
