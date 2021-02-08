@@ -29,4 +29,4 @@ and the world outside the system
 ###
 ## To [[think]] about an argument is to [[think]] the logical form of the argument.
 ### logic is the study of [[form]]
-###
+## Be engaged. Those who are motivated by their personal engagement in a situation are more likely to make the effort to counteract their initial judgments.
