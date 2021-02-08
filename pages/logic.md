@@ -32,3 +32,5 @@ and the world outside the system
 ## https://eldritchdata.neocities.org/Misc/DigestOfDeduction.html
 
 Be engaged. Those who are motivated by their personal engagement in a situation are more likely to make the effort to counteract their initial judgments.
+
+Believe you can be smarter. Belief and positive thinking can make it true. This will lead you to keep an open mind and ask questions.
