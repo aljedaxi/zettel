@@ -2,4 +2,4 @@
 title: me
 ---
 
-## hi! i am not [[me]]. i think [[oaths]] are kinda cool. these are my notes.
+## hi! i [[odi et amo]] not [[me]]. i think [[oaths]] are kinda cool. these are my notes.
