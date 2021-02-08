@@ -47,7 +47,10 @@ https://www.pluralpride.com/playbook
 :PROPERTIES:
 :todo: 1612395031008
 :END:
-## listen to the podcast  developer tea
+## TODO listen to the podcast  developer tea
+:PROPERTIES:
+:todo: 1612816514511
+:END:
 ## https://mailchi.mp/infinite/remote
 ## TODO write the wednesday bot opt out message
 :PROPERTIES:
