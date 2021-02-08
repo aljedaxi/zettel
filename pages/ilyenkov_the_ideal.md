@@ -1,0 +1,5 @@
+---
+title: Ilyenkov the ideal
+---
+
+## 
