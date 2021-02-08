@@ -34,3 +34,7 @@ and the world outside the system
 Be engaged. Those who are motivated by their personal engagement in a situation are more likely to make the effort to counteract their initial judgments.
 
 Believe you can be smarter. Belief and positive thinking can make it true. This will lead you to keep an open mind and ask questions.
+
+Take a step back. Imaginative thinking is enhanced when we walk away from a problem. Distance gives perspective.
+
+Take time to learn your own mental hiccups allows you to apply the time you spend on actually learning. Keep a journal. **Write everything down and then look for patterns, without jumping to conclusions.** Again gaining perspective.
