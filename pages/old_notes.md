@@ -6,7 +6,7 @@ title: old notes
 :PROPERTIES:
 :todo: 1612824076974
 :END:
-## TODO import aljedaxi/notes
+## TODO import https://github.com/aljedaxi/notes
 :PROPERTIES:
 :todo: 1612824066434
 :END:
