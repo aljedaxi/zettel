@@ -24,6 +24,8 @@ title: poetry for programmers
 to limit talk away from code and towards: _____
 ##### the codebase should be a [[picture]] of the problem space
 ###### code is a [[representation]] of your understanding of the problem
+code that you refactor is code that represents an old understanding
+the act of refactoring is recognizing this staleness
 #### "one thing i'm going to talk a lot about it fetishism, which is a kinda ugly form of abstraction"
 ### finally, i would like to ask "what it is to be a poet"
 #### the man who was thursday
