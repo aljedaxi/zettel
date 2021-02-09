@@ -52,6 +52,9 @@ the act of refactoring is recognizing this staleness
 > is non-binary a gender
 #### yes and that's a problem for me in particular!
 ## A programming language exists to describe programs
+:PROPERTIES:
+:id: 602067a4-af1a-42fb-b56c-25740976f39f
+:END:
 ##
 ##
 ## Poetry for programmers
@@ -59,5 +62,6 @@ the act of refactoring is recognizing this staleness
 #### dancing is a language that is felt instead of heard
 #### what is it to "speak" a language; to "communicate" in that language?
 #### ((602067a4-d93c-4c07-8db8-d79d2ad64966))
+#### ((602067a4-af1a-42fb-b56c-25740976f39f))
 ####
 ##
