@@ -12,6 +12,9 @@ title: poetry for programmers
 #### [[intellectual rigor]]?
 #### THE JOINTS THE JOINTS THE JOINTS
 ### and ultimately all forms of communication
+:PROPERTIES:
+:id: 602067a4-510f-42b2-93e3-daa60115a705
+:END:
 ### the way we define programming defines the way we program
 #### https://lizkeogh.com/2013/06/17/theres-no-such-thing-as-declarative-and-imperative/
 #### to name is magick
@@ -63,5 +66,8 @@ the act of refactoring is recognizing this staleness
 #### what is it to "speak" a language; to "communicate" in that language?
 #### ((602067a4-d93c-4c07-8db8-d79d2ad64966))
 #### ((602067a4-af1a-42fb-b56c-25740976f39f))
-####
+#### ((602067a4-510f-42b2-93e3-daa60115a705))
+### an exploration of what is poetical, relative to language
+### an exploration of how we can apply that to the act of programming
+#### what is the act of programming?
 ##
