@@ -74,4 +74,4 @@ and again, in terms of code
 #### ((602067a4-d93c-4c07-8db8-d79d2ad64966))
 ### an exploration of how we can apply that to the act of programming
 #### what is the act of programming?
-##
+## the abstraction talk
