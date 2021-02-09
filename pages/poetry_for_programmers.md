@@ -69,6 +69,10 @@ the act of refactoring is recognizing this staleness
 #### ((602067a4-af1a-42fb-b56c-25740976f39f))
 #### ((602067a4-510f-42b2-93e3-daa60115a705))
 ### an exploration of what is poetical, relative to language
+### an exploration of the form of `the line`
+#### we measure the complexity, our changes, in terms of lines,
+and again, in terms of code
+#### ((602067a4-d93c-4c07-8db8-d79d2ad64966))
 ### an exploration of how we can apply that to the act of programming
 #### what is the act of programming?
 ##
