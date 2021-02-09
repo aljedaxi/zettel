@@ -57,6 +57,6 @@ https://www.pluralpride.com/playbook
 :todo: 1612395042552
 :END:
 Hello everyone! The original goal of the Company Culture Committee was to help us maintain and improve our culture as we scale. While Happy Hours have been good for keeping us connected on a group level, we've been looking into ways to foster more individual connection. On this note, i've written a slack bot that will connect two random people in the company for a short, off topic conversation. We hope that, in leau of The Water Cooler---and in the wake of the pandemic---we can make our work lives a little more human.
-Everyone who's in this server and the employee directory (https://xmentium.atlassian.net/wiki/spaces/XGen/pages/21692417/Employee+Directory) is in the pool by default. If you'd like to opt out,
+Everyone who's in this server and the employee directory (https://xmentium.atlassian.net/wiki/spaces/XGen/pages/21692417/Employee+Directory) is in the pool by default. If you'd like to opt out, please
 ## [on the question of longevity](https://psyche.co/ideas/what-it-takes-to-run-a-book-club-for-more-than-half-a-century)
 ##
