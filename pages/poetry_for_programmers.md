@@ -75,4 +75,3 @@ and again, in terms of code
 ### an exploration of how we can apply that to the act of programming
 #### what is the act of programming?
 ## the [[abstraction]] talk
-##
