@@ -11,3 +11,5 @@ the first philosopher thought everything was water. the first really memorable p
 the first man to call himself a philosopher thought everything was number. at this point, it should strike us that the philosophical impetuous is the impetuous towards abstraction. it should strike us that the far east never had philosophy or religion, because philosophy abstracts things and religion things abstracts. 
 
 it should strike you all art is abstract. once you take a flower and pencil it upon a page, you abstract its appearance. this abstraction is called an image.
+## there is abstraction to, abstraction through, and abstraction from
+### we abstract to triangle, from
