@@ -56,6 +56,6 @@ https://www.pluralpride.com/playbook
 :PROPERTIES:
 :todo: 1612395042552
 :END:
-Hello everyone!
+Hello everyone! The original goal of the Company Culture Commitee was
 ## [on the question of longevity](https://psyche.co/ideas/what-it-takes-to-run-a-book-club-for-more-than-half-a-century)
 ##
