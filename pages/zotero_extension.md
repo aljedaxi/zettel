@@ -15,5 +15,8 @@ title: zotero extension
 ## this is the proper way to do it:
 ### https://www.zotero.org/support/dev/client_coding/http_integration_protocol
 ### https://github.com/zotero/zotero-google-docs-integration/blob/master/src/apps-script/Code.js
-## /TODO do this
+## TODO do this
+:PROPERTIES:
+:todo: 1612893366718
+:END:
 ##
