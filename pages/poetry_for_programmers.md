@@ -58,7 +58,7 @@ the act of refactoring is recognizing this staleness
 :PROPERTIES:
 :id: 602067a4-af1a-42fb-b56c-25740976f39f
 :END:
-##
+## Uncle Bob speaks of seperation of concerns in terms of fault lines: what am i breaking when i change this? who all is fucked?
 ##
 ## Poetry for programmers
 ### an exploration of what language is
