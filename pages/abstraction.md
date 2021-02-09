@@ -12,4 +12,5 @@ the first man to call himself a philosopher thought everything was number. at th
 
 it should strike you all art is abstract. once you take a flower and pencil it upon a page, you abstract its appearance. this abstraction is called an image.
 ## there is abstraction to, abstraction through, and abstraction from
-### we abstract to triangle, from uhhhh um
+### we abstract to triangle, from uhhhh um AAAAAAAAAAAAAAA
+##
