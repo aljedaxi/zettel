@@ -56,6 +56,6 @@ https://www.pluralpride.com/playbook
 :PROPERTIES:
 :todo: 1612395042552
 :END:
-Hello everyone! The original goal of the Company Culture Committee was to help us maintain and improve our culture as we scale. While Happy Hours have been good for keeping us connected on a group level, we've been looking into
+Hello everyone! The original goal of the Company Culture Committee was to help us maintain and improve our culture as we scale. While Happy Hours have been good for keeping us connected on a group level, we've been looking into ways to foster more individual connection. On this note, i've written a slack bot that will connect two random people in the company for a short, off topic conversation.
 ## [on the question of longevity](https://psyche.co/ideas/what-it-takes-to-run-a-book-club-for-more-than-half-a-century)
 ##
