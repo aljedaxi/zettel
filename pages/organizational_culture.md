@@ -56,6 +56,6 @@ https://www.pluralpride.com/playbook
 :PROPERTIES:
 :todo: 1612395042552
 :END:
-Hello everyone! The original goal of the Company Culture Committee was to
+Hello everyone! The original goal of the Company Culture Committee was to help us maintain and improve our culture as we scale.
 ## [on the question of longevity](https://psyche.co/ideas/what-it-takes-to-run-a-book-club-for-more-than-half-a-century)
 ##
