@@ -19,6 +19,9 @@ title: poetry for programmers
 ##### to be meaningful is to be memorable
 ##### to focus on one thing, it has to be one thing
 ### i do not write code; i *code*
+:PROPERTIES:
+:id: 602067a4-d93c-4c07-8db8-d79d2ad64966
+:END:
 #### simultaneous hyperfetishization of writing with disparagement of the humanities
 ##### i would like to kill the concept of the code-base, 
 to limit talk away from code and towards: _____
@@ -53,4 +56,8 @@ the act of refactoring is recognizing this staleness
 ##
 ## Poetry for programmers
 ### an exploration of what language is
+#### dancing is a language that is felt instead of heard
+#### what is it to "speak" a language; to "communicate" in that language?
+#### ((602067a4-d93c-4c07-8db8-d79d2ad64966))
+####
 ##
