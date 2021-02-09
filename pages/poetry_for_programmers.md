@@ -49,3 +49,8 @@ the act of refactoring is recognizing this staleness
 > is non-binary a gender
 #### yes and that's a problem for me in particular!
 ## A programming language exists to describe programs
+##
+##
+## Poetry for programmers
+### an exploration of what language is
+##
