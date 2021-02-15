@@ -58,8 +58,11 @@ the act of refactoring is recognizing this staleness
 :PROPERTIES:
 :id: 602067a4-af1a-42fb-b56c-25740976f39f
 :END:
+## Is language to have meaning? Or is it to convey meaning?
 ## Uncle Bob speaks of seperation of concerns in terms of fault lines: what am i breaking when i change this? who all is fucked?
-##
+## What is the job of the lawyer? there're certainly
+### we need to find ways to express the truth grounds of the subject
+#### the truth grounds of code are assembly
 ## Poetry for programmers
 ### an exploration of what language is
 #### dancing is a language that is felt instead of heard

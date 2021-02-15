@@ -11,4 +11,10 @@ This is Marx’s project. Migotti said that, in Kierkegaard’s terms, Marx diag
 ## usages of alienation:
 
 Hegel
-:
+: dysphoria between being in the world and being in oneself
+
+Marx
+: alienation from the means of production; alienation from your own labour, alienation from yourself, 
+
+Heidegger
+: we are alienated from our own humanity, our own nature. Das Mann is alienated; Das Mann doesn't think for himself, doesn't make his own choices.

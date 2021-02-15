@@ -38,3 +38,8 @@ Believe you can be smarter. Belief and positive thinking can make it true. This 
 Take a step back. Imaginative thinking is enhanced when we walk away from a problem. Distance gives perspective.
 
 Take time to learn your own mental hiccups allows you to apply the time you spend on actually learning. Keep a journal. **Write everything down and then look for patterns, without jumping to conclusions.** Again gaining perspective.
+## 'fire'⊃'hot' — both as conditional and as super set
+## All logical deductions are of the form 
+- p⊃q
+- In which p is the assumption and q is the conclusion. They are tautologies by definition.
+- The assumptions are the context by which q exists—ie is true.
