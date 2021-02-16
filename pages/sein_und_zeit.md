@@ -37,4 +37,4 @@ logical leap, we don't know what being is yet
 ### only we can ask the question
 #### cats may well be asking the question---playing for the same goal---but we cannot participate on the same team. our games seem to have different rules.
 ## the hermaneutic cycle is just [[dialectics]]
-##
+## [[alienation]]
