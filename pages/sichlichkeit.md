@@ -1,6 +1,6 @@
 ---
 title: sichlichkeit
-alias: self
+alias: self, sich, an sich
 ---
 
 ## philosophy must be cured of this spectre of essence
