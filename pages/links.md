@@ -7,3 +7,7 @@ title: links
 ## programming stuff:
 
 lenses:
+- https://github.com/calmm-js/partial.lenses
+
+reactive programming:
+- https://kefirjs.github.io/kefir/#static-land
