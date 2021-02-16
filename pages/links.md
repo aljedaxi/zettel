@@ -11,3 +11,6 @@ lenses:
 
 reactive programming:
 - https://kefirjs.github.io/kefir/#static-land
+
+charts:
+- https://github.com/chartjs/Chart.js
