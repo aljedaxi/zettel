@@ -37,6 +37,7 @@ Ego
 ## decision making crowd source ing tools
 ### https://citizenos.com/product/
 ### loomio
+https://atjson.condenast.io/docs/structure
 ## The [[Plurality]] Playbook
 https://www.pluralpride.com/playbook
 ## TODO we need to normalize mental health days
