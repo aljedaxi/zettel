@@ -7,3 +7,4 @@ title: politics
 ### an individual cannot share a [[thought]] with another individual without translating it into language, baking it into a cultural context.
 ## bourgeois democracy is anti-fragile:
 energy roused by discontent with the system is funneled back into the system via party politics
+##
