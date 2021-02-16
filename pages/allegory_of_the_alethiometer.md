@@ -7,3 +7,4 @@ title: allegory of the alethiometer
 I have an Allesschneider :the i ching 
 I have infinite alethiometers:
 Only i cannot read them
+## what is it to [[measure]] [[alethia]]?
