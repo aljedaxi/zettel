@@ -23,3 +23,4 @@ but practically useless otherwise.
 - traditional
 - circular (execs in the middle, proles on the outside; rings represent positions)
 ### [source](https://www.atlassian.com/blog/teamwork/9-common-org-charts-demystified)
+## https://carta.com/blog/the-shadow-organizational-chart
