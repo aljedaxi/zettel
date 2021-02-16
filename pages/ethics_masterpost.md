@@ -17,3 +17,4 @@ Who's surprised?
 But that wasn't what i'd meant to get at. Rather:
 “What is worthy of desire?”
 truly the height of prescriptivism.
+## [[hedonism]]
