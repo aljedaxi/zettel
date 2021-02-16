@@ -14,3 +14,6 @@ reactive programming:
 
 charts:
 - https://github.com/chartjs/Chart.js
+
+3d:
+- [[3d webdev]]
