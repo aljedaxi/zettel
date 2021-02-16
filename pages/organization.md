@@ -2,4 +2,5 @@
 title: organization
 ---
 
-## political organization is hampered by [[sichlichkeit]]; power is held by individuals within the organization; decisions,
+## political organization is hampered by [[sichlichkeit]]; power is held by individuals within the organization;
+when the role of the organization shifts, power must shift with it; power must be wielded unto
