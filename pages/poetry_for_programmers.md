@@ -68,7 +68,7 @@ the act of refactoring is recognizing this staleness
 #### dancing is a language that is felt instead of heard
 #### what is it to "speak" a language; to "communicate" in that language?
 ##### ((6021a3dc-5693-4e92-b37b-58462247bdd1))
-##### language as a heideggerian techne
+##### language as a heideggerian [[techne]]
 #### ((602067a4-af1a-42fb-b56c-25740976f39f))
 #### ((602067a4-510f-42b2-93e3-daa60115a705))
 ### an exploration of what is poetical, relative to language
