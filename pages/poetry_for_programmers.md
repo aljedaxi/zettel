@@ -44,10 +44,6 @@ the act of refactoring is recognizing this staleness
 ## https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/
 ## "a loop is a way of doing one thing over and over again. if it is infact one thing, you should be able to express it as a quantum of computation: a function."
 ### [[the allegory of the one thing]]
-## A programming language exists to describe programs
-:PROPERTIES:
-:id: 602067a4-af1a-42fb-b56c-25740976f39f
-:END:
 ## Is language to have meaning? Or is it to convey meaning?
 ## Uncle Bob speaks of seperation of concerns in terms of fault lines: what am i breaking when i change this? who all is fucked?
 ## What is the job of the lawyer? there're certainly
