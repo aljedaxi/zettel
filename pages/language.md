@@ -2,4 +2,5 @@
 title: language
 ---
 
-## Is language to have meaning? Or is it to convey meaning?
+## what is it to mean something?
+language communicates meanings
