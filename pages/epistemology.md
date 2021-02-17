@@ -1,5 +1,5 @@
 ---
-title: epistomology
+title: epistemology
 ---
 
 ## Optically speaking:
