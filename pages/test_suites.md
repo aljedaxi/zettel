@@ -9,4 +9,4 @@ title: test suites
 ### changes to a software system is [[complex]] without a test suite: experiments (tests) must be run continually to discover the links between the changes made and the preexisting affordances.
 the test suite creates [[governing constraints]]; the job of implementing the feature becomes [[clear]].
 ### we can test anything that has features, traits, eg, contracts;
-##
+## t
