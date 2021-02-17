@@ -9,4 +9,4 @@ title: Lichtung
   - framing, [[parergon]]
   - cupping, the interplay of sweetness, acidity; the ways of brightness
   - walking, & the facilitation of thought; how i came up with the talk ideas on the way to sanctuary
-  - ![](https://www.instagram.com/p/BeahgVWntbo/?igshid=z5gvhrrjbac3)
+  -
