@@ -54,7 +54,7 @@ the act of refactoring is recognizing this staleness
 ###
 > is non-binary a gender
 #### yes and that's a problem for me in particular!
-## Is language to have meaning? Or is it to convey meaning?
+##
 ## Uncle Bob speaks of seperation of concerns in terms of fault lines: what am i breaking when i change this? who all is fucked?
 ## What is the job of the lawyer? there're certainly
 ### we need to find ways to express the truth grounds of the subject
