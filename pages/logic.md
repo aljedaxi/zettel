@@ -43,3 +43,4 @@ Take time to learn your own mental hiccups allows you to apply the time you spen
 - p⊃q
 - In which p is the assumption and q is the conclusion. They are tautologies by definition.
 - The assumptions are the context by which q exists—ie is true.
+### [[conditionals]]
