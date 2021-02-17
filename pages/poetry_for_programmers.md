@@ -44,16 +44,11 @@ the act of refactoring is recognizing this staleness
 ## https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/
 ## "a loop is a way of doing one thing over and over again. if it is infact one thing, you should be able to express it as a quantum of computation: a function."
 ### [[the allegory of the one thing]]
-## https://www.youtube.com/watch?v=panKf9hzUfQ
-###
-> css developer program the layout of webpages
-###
-> stop "writing" css and start programming css
-###
-> in declarative code, the algorithm is obscured behind the call
-###
-> is non-binary a gender
-#### yes and that's a problem for me in particular!
+## A programming language exists to describe programs
+:PROPERTIES:
+:id: 602067a4-af1a-42fb-b56c-25740976f39f
+:END:
+## Is language to have meaning? Or is it to convey meaning?
 ## Uncle Bob speaks of seperation of concerns in terms of fault lines: what am i breaking when i change this? who all is fucked?
 ## What is the job of the lawyer? there're certainly
 ### we need to find ways to express the truth grounds of the subject
