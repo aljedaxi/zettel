@@ -13,3 +13,4 @@ t < 20th century
 
 
 https://en.wikipedia.org/wiki/Technology#Definition_and_usage
+## Epimeleia_heautou,_"care_for_the_self"
