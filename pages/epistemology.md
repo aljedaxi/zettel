@@ -1,5 +1,6 @@
 ---
 title: epistemology
+alias: epistemological
 ---
 
 ## Optically speaking:
