@@ -7,3 +7,4 @@ title: work
 ### the user was at the entry settings E page: 'new entry'
 ### the positions grid text for variant V of entry E will be S
 ### the entry E will have variants "V1, V2"
+## Positions Grid
