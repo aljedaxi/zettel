@@ -2,4 +2,7 @@
 title: work
 ---
 
-## make the thing cypress dashboard
+## TODO make the thing cypress dashboard
+:PROPERTIES:
+:todo: 1613758693141
+:END:
