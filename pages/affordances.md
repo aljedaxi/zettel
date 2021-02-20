@@ -9,4 +9,4 @@ title: affordances
 :todo: 1613792161500
 :END:
 ## the management of affordances is the reification of [[techne]] into UX
-## what an object affords is
+## what an object affords is the set of actions it presents to the user
