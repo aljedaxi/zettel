@@ -31,8 +31,7 @@ learning involves systems of recollection
 ### a Zettelkasten is a picture of a recollective system
 a model of "that which is remembered, and how"
 ## "too much [[order]] can impede learning" [p99] -> ie, too harshly governing constraints. Sense is made through the movement of propositions into [[order]], the construction of clarity.
-##
-=======
+## =======
 
 systems can only act upon an interface. your interfaces must be designed to expose the aspects of the system that [should change?]
 
