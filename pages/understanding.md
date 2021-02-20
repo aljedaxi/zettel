@@ -8,4 +8,7 @@ title: understanding
 - no word stands on its 
 - let us take equality. equality can only be understood as equality of traits, which require forms, metrics; ie, things are equal relative to measurements
   - as this is the only meaningful form of equality, it needn't be specified in
-##
+## one may speak of the ontogeny of understanding in terms of how one understands as
+- child/adult (the genesis of the individual)
+- data/whatever (the genesis of understanding)
+## /TODO whatever?
