@@ -16,3 +16,4 @@ title: Lichtung
 :PROPERTIES:
 :todo: 1613597066092
 :END:
+## [[clarity]] $$\equiv$$ [[lichtung]]
