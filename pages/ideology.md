@@ -8,5 +8,5 @@ neoliberalism: the rhetoric the neolibs identify with
 buddhism: the rhetoric the buddhists identify with
 existentialism: the rhetoric edgelords identify with
 ## Ideology didn't exist in Rome, Greece. it's phylogenisis recapitulates that of Christianity (Good&Evil). (something about the form of the [[idea]])
-## The Ontogeny of understanding doesn't recapitulate the phylogeny of ideology.
+## The Ontogeny of [[understanding]] doesn't recapitulate the phylogeny of ideology.
 ##
