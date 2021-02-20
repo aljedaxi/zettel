@@ -8,4 +8,4 @@ title: affordances
 :PROPERTIES:
 :todo: 1613792161500
 :END:
-###
+## the management of affordances is the reification of [[techne]] into UX
