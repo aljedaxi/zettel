@@ -7,3 +7,4 @@ title: ideology
 neoliberalism: the rhetoric the neolibs identify with
 buddhism: the rhetoric the buddhists identify with
 existentialism: the rhetoric edgelords identify with
+##
