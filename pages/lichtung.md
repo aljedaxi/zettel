@@ -1,5 +1,6 @@
 ---
-title: Lichtung
+title: lichtung
+alias: clearing, obscuring
 ---
 
 ## RAW NOTES:
