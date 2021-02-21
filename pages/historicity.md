@@ -2,4 +2,4 @@
 title: historicity
 ---
 
-## [[great man theory]]
+## [[great man theory]] something about how
