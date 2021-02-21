@@ -18,4 +18,3 @@ charts:
 [[game making]]
 ## [[text markup]]
 ## https://storybook.js.org/
-## [[programming languages]]
