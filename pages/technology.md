@@ -2,7 +2,7 @@
 title: technology
 ---
 
-## a history of the term:
+## a [[history]] of the term:
 
 t < 20th century
 : the *study of* the "useful arts"
