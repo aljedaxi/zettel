@@ -1,5 +1,0 @@
----
-title: truth grounds
----
-
-## 
