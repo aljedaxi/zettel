@@ -13,6 +13,7 @@ title: collections of tech links
 ## use them with https://allcontributors.org/
 ## document them with
 - https://github.com/JesterXL/hm-doc
+- bro you can combine logseq with taiko
 ## you can use this for sketching: https://reactype.io/
 ## Ethical design:
 - https://ethicaldesign.guide/
