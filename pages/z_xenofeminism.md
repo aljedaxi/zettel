@@ -2,7 +2,4 @@
 title: Xenofeminist Manifesto
 ---
 
-festo
----
-
 ##
