@@ -7,3 +7,9 @@ title: xenofeminism
 http://www.sfu.ca/~andrewf/tech2a.htm
 
 one can think of the xenofeminist appropriation of heideggerian language as an appropriation of heideggers technologies.
+
+## daxi, [Feb 22, 2021 at 11:00:45 AM]:
+but i think this is one of the most important things a computer user can do
+the proximal understanding of flexibility that one acheives from using the command line recapitulates the understanding one needs to be a successful programmer
+
+it really dramatically changes the way you relate to technology
