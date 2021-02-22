@@ -7,6 +7,7 @@ title: collections of tech links
 ## [[CSS stuff]]
 ## [[links]]
 ## use them for [[software ideas]]
+### use them with https://andrew.stwrt.ca/posts/vim-ctags
 ## how to bill https://raccoon.onyxbits.de/blog/software-development-cost/
 ## use them with https://allcontributors.org/
 ## you can use this for sketching: https://reactype.io/
