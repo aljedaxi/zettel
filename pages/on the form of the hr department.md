@@ -11,4 +11,6 @@ title: on the form of the HR department
 ### the skills of HR are "soft" -> skills that everyone in the firm should develop
 ### what is the pattern of lines for dividing labour
 ## On the Metasystem
-### the people who know the most about x
+### the people who know the most about x are best suited to solve the problems of x, given the correct tools and spaces to think about x in a generative manner
+## An Analysis of HR
+### emotional regulation of the organization
