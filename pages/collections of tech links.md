@@ -4,6 +4,8 @@ title: collections of tech links
 
 ## [[messaging clients]]
 ## [[clojure]]
+## [[CSS stuff]]
+## [[links]]
 ## use them for [[software ideas]]
 ## how to bill https://raccoon.onyxbits.de/blog/software-development-cost/
 ## use them with https://allcontributors.org/
