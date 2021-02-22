@@ -6,7 +6,7 @@ title: Zotero Bibliography
 
 ## [[Decolonising Coffee Through Flavour]]
 
-## [[Xenofeminism]]
+## [[Xenofeminist Manifesto]]
 
 ## [['Natural' healing is metaphysically incoherent but valuable]]
 

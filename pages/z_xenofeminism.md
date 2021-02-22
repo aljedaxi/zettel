@@ -1,5 +1,8 @@
 ---
-title: Xenofeminism
+title: Xenofeminist Manifesto
+---
+
+festo
 ---
 
 ##
