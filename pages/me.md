@@ -7,4 +7,3 @@ title: me
 
 bandcamp
 : https://bandcamp.com/aljedaxi
-:
