@@ -9,4 +9,3 @@ title: software ideas
 ## A database of anime girl reaction images by emotional content
 ## [[CSS stuff]]
 ## [[links]]
-## how to kill https://raccoon.onyxbits.de/blog/software-development-cost/
