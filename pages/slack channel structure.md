@@ -28,7 +28,7 @@ title: slack channel structure
   - create the following prefixes: 
     
     prod
-    : product; discussion centred around UX & features relative to a given product
+    : product; discussion centred around UX & features relative to a given product. discussions between devs and users.
     cust
     : discussion related to a given customer
 ## https://slack.com/intl/en-ca/help/articles/360017938993-What-is-a-channel#use-channels
