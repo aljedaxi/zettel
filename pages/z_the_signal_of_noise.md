@@ -31,3 +31,4 @@ title: The Signal of Noise
 > a man walking down the sidewalk in VR goggles ... sees through his enhanced eyes ... digitized live-action film – breaking the barrier ... between fleshy ... humans and patterns of information
 [9]
 ##
+> the mass of mutual strangers on the street remain strangers
