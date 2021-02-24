@@ -21,3 +21,5 @@ title: slack channel structure
 
 - suggestions for future structures
   -
+## https://slack.com/intl/en-ca/help/articles/360017938993-What-is-a-channel#use-channels
+##
