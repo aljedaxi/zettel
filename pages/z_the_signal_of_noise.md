@@ -28,3 +28,5 @@ title: The Signal of Noise
 > when Lain experiences great swaths of memories, we witness fragments ... cut-and-pasted at the director's will ... overlapped, reinterpreted ... the existence of anything 'true' is uncertain.
 [8]
 ##
+> a man walking down the sidewalk in VR goggles ... sees through his enhanced eyes ... digitized live-action film – breaking the barrier ... between fleshy ... humans and patterns of information
+[9]
