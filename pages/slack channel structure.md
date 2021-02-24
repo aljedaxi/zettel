@@ -21,6 +21,7 @@ title: slack channel structure
   - to [fix the notification issue](https://slack.com/intl/en-ca/help/articles/201355156-Configure-your-Slack-notifications#channel-specific-group-dm-notifications)
 
 - suggestions for future structures
+  - post https://slack.com/intl/en-ca/help/articles/360017938993-What-is-a-channel#use-channels somewhere public; basic introduction to the philosophy
   -
 ## https://slack.com/intl/en-ca/help/articles/360017938993-What-is-a-channel#use-channels
 ## we may conceive of all conversations as existing at the intersection of domain of the utterance, and spatio-temporal-social context of the utterance.f
