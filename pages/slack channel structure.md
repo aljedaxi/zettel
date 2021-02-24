@@ -4,7 +4,7 @@ title: slack channel structure
 
 ## Outline:
 
-- the importance of openness by default
+- the importance of [[openness by default]]
   - a definition of [[organization]]
   - relative to information, 
     another person should be roped in when you can't find an answer to a question. ie
