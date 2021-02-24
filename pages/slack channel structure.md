@@ -30,6 +30,6 @@ title: slack channel structure
     prod
     : product; discussion centred around UX & features relative to a given product. discussions between devs and users.
     cust
-    : discussion related to a given customer
+    : discussion related to a given customer. sales stuff that hooks in devs as needed
 ## https://slack.com/intl/en-ca/help/articles/360017938993-What-is-a-channel#use-channels
 ## we may conceive of all conversations as existing at the intersection of domain of the utterance, and spatio-temporal-social context of the utterance.f
