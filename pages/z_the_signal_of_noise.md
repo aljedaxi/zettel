@@ -20,3 +20,8 @@ title: The Signal of Noise
 [7]
 ##
 > nothing serves as an unambiguous index of a real-life event
+[7]
+##
+> Nothing, including human bodies and souls, is analog.
+[7]
+##
