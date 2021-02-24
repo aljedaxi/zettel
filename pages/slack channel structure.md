@@ -11,7 +11,8 @@ title: slack channel structure
       cause for questioning
     - when such an answer doesn't exist / any other event in which input is needed:
       cause for discussion
-    answers should be captured.
+    
+     answers should be captured.
 
 - an explication of the slack philosophy
 
