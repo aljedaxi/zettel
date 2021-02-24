@@ -10,7 +10,3 @@ title: nownow
 ## working on learning about web accessibility
 ## how can i teach people what my normal emotional weather looks like? what my climate looks like?
 ## Heidegger Heidegger Heidegger
-## TODO Donut copy
-:PROPERTIES:
-:todo: 1612992092672
-:END:
