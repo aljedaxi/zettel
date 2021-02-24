@@ -15,3 +15,5 @@ title: The Signal of Noise
 ##
 > [[existence]] is wholly dependent on *memory*
 [6]
+##
+> delete information ... rewrite their memories ... this is the problem of virtual memory ... digital information ... is almost infinitely malleable
