@@ -13,3 +13,5 @@ title: The Signal of Noise
 [5]
 (something about that one line in the [[Xenofeminist Manifesto]] )
 ##
+> [[existence]] is wholly dependent on *memory*
+[6]
