@@ -26,3 +26,4 @@ title: The Signal of Noise
 [7]
 ##
 > when Lain experiences great swaths of memories, we witness fragments ... cut-and-pasted at the director's will ... overlapped, reinterpreted ... the existence of anything 'true' is uncertain.
+[8]
