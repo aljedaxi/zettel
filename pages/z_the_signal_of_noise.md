@@ -32,3 +32,5 @@ title: The Signal of Noise
 [9]
 ##
 > the mass of mutual strangers on the street remain strangers
+[12]
+##
