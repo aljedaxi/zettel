@@ -2,11 +2,13 @@
 title: Zotero Bibliography
 ---
 
+## [[The Signal of Noise]]
+
 ## [[The question concerning technology, and other essays]]
 
 ## [[Decolonising Coffee Through Flavour]]
 
-## [[Xenofeminist Manifesto]]
+## [[Xenofeminism]]
 
 ## [['Natural' healing is metaphysically incoherent but valuable]]
 
