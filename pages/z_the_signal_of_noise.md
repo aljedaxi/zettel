@@ -16,7 +16,7 @@ title: The Signal of Noise
 > If I'm nowhere, who am I? Where am I?
 [15]
 ####
-> Delocalized, divorced from the indeces of physical memory, identity becomes something mutable ... if the medium for that memory is volatile ... we lose the very proof of identity ... 
+> Delocalized, divorced from the indeces of physical memory, identity becomes something mutable ... if the medium for that memory is volatile ... we lose the very proof of identity ... although we are accustomed to basing our identity on physical tokens ... 
 [15-17]
 ####
 ##
