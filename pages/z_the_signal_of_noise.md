@@ -17,6 +17,7 @@ title: The Signal of Noise
 [15]
 ####
 > Delocalized, divorced from the indeces of physical memory, identity becomes something mutable ... if the medium for that memory is volatile ... we lose the very proof of identity ...
+####
 ##
 > [[existence]] is wholly dependent on *memory*
 [6]
