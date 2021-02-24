@@ -6,5 +6,7 @@ title: The Signal of Noise
 ##
 > Users of the Wired cannot easily [[identify]] Lain ... anonymity is ensured by the de[[local]]ization of identity.
 [4]
-### identificative proximity is a function of
+###
+> her identity is ... seemingly without anchor
+[5]
 ##
