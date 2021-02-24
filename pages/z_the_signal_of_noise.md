@@ -17,3 +17,4 @@ title: The Signal of Noise
 [6]
 ##
 > delete information ... rewrite their memories ... this is the problem of virtual memory ... digital information ... is almost infinitely malleable
+> nothing serves as an unambiguous index of a real-life event
