@@ -25,7 +25,8 @@ title: slack channel structure
   - post https://slack.com/intl/en-ca/help/articles/360017938993-What-is-a-channel#use-channels somewhere public; basic introduction to the philosophy
   - RE: onboarding https://slack.com/intl/en-ca/help/articles/201898998-Set-default-channels-for-new-members
   - create the following prefixes: 
+    
     prod
-    : product; discussion centred around UX & features
+    : product; discussion centred around UX & features relative to a given product
 ## https://slack.com/intl/en-ca/help/articles/360017938993-What-is-a-channel#use-channels
 ## we may conceive of all conversations as existing at the intersection of domain of the utterance, and spatio-temporal-social context of the utterance.f
