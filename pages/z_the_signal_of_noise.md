@@ -9,6 +9,7 @@ title: The Signal of Noise
 ###
 > her identity is ... seemingly without anchor
 
-> her image is ... divorced from her identity [[Xenofeminist Manifesto]] 
+> her image is ... divorced from her identity 
 [5]
+(something about that one line in the [[Xenofeminist Manifesto]] )
 ##
