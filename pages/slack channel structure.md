@@ -21,10 +21,3 @@ title: slack channel structure
 
 - suggestions for future structures
   -
-## - an explication of the slack philosophy
-
-- regarding our current structure
-  - what is # general?
-
-- suggestions for future structures
-  - 
