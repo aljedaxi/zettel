@@ -23,4 +23,4 @@ title: slack channel structure
 - suggestions for future structures
   -
 ## https://slack.com/intl/en-ca/help/articles/360017938993-What-is-a-channel#use-channels
-## we may conceive of all conversations as existing at the intersection of domain and spatio-temporal context.
+## we may conceive of all conversations as existing at the intersection of domain and spatio-temporal-social context.
