@@ -19,6 +19,7 @@ title: slack channel structure
 - regarding our current structure
   - what is # general?
   - to [fix the notification issue](https://slack.com/intl/en-ca/help/articles/201355156-Configure-your-Slack-notifications#channel-specific-group-dm-notifications)
+    - any samesuch issues are a smell that the channel should be split
 
 - suggestions for future structures
   - post https://slack.com/intl/en-ca/help/articles/360017938993-What-is-a-channel#use-channels somewhere public; basic introduction to the philosophy
