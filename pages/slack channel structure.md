@@ -15,6 +15,7 @@ title: slack channel structure
     answers should be captured.
 
 - an explication of the slack philosophy
+  - 
 
 - regarding our current structure
   - what is # general?
