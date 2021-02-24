@@ -6,7 +6,8 @@ title: slack channel structure
 
 - the importance of openness by default
   - a definition of [[organization]]
-  -  
+  - relative to information, another person should be roped
+    - to  
 
 - an explication of the slack philosophy
 
