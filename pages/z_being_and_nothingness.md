@@ -15,5 +15,7 @@ the essence of an existent ... is the manifest law which presides over the succe
 But essence ... is ... only the concatenation of appearances ... itself an appearance.
 [2]
 ##
-> the reality of the cup is that it is there and that it is not me ... the series of its appearances is bound by a principle which does not depend on my whim
+> the reality of the cup is that it is there and that it is not me ... the series of its appearances is bound by a principle which does not depend on my whim.
+##
+>
 ## abschattung is a shading, a shadow
