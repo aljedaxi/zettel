@@ -17,11 +17,7 @@ But essence ... is ... only the concatenation of appearances ... itself an appea
 ##
 > the reality of the cup is that it is there and that it is not me ... the series of its appearances is bound by a principle which does not depend on my whim.
 [3]
-##
-> But the appearance, reduced to itself and without reference to the series of which it is a part, could be only an intuitive and subjective plenitude, the manner in which the subject is affected. If the phenomenon is to reveal itself as transcendent, it is necessary that the subject himself transcend the appearance of the total series of which it is a member. He must seize ... the principal of the serries ... the current through the electrolysis ... but if the transcendence of the object is based on the necessity of causing the appearance to be always 
-[3]
-FUCK
-## the *principal of the series* is by nature infinite: there are infinite ways in which the principal may manifest itself.
+## the *principal of the series* is by nature infinite: there are infinite ways in which the principal may manifest itself. [3]
 ##
 > it shows itself as the structure of the appearance, which is at the same time the principle of the series
 ## abschattung is a shading, a shadow
