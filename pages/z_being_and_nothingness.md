@@ -11,14 +11,14 @@ title: Being and nothingness
 [1]
 ###
 > the act is everything ... genius ... is neither the work considered in isolation nor the subjective ability to produce it ... [but] the work considered as the totality of the manifestations of the person. 
-> that is why we can ... reject the dualism of appearance and essence ... the appearance does not hide the essence ... it reveals it ... it is the essence. 
-> the essence of an existent ... is the manifest law which presides over the succession of its appearances.
-> But essence ... is ... only the concatenation of appearances ... itself an appearance.
+that is why we can ... reject the dualism of appearance and essence ... the appearance does not hide the essence ... it reveals it ... it is the essence. 
+the essence of an existent ... is the manifest law which presides over the succession of its appearances.
+But essence ... is ... only the concatenation of appearances ... itself an appearance.
 [2]
 ###
 > the reality of the cup is that it is there and that it is not me ... the series of its appearances is bound by a principle which does not depend on my whim.
 [3]
-## the *principal of the series* is by nature infinite: there are infinite ways in which the principal may manifest itself. [3]
+### the *principal of the series* is by nature infinite: there are infinite ways in which the principal may manifest itself. [3]
 ##
 > it shows itself as the structure of the appearance, which is at the same time the principle of the series
 [3]
