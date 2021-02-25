@@ -6,6 +6,7 @@ title: slack channel structure
 
 - the importance of [[openness by default]]
   - a definition of [[organization]]
+  - https://medium.com/@hmps/work-with-the-garage-door-open-904838005cc2
   - relative to information, 
     another person should be roped in when you can't find an answer to a question. ie
     - when you can't find the answer:
