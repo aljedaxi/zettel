@@ -25,4 +25,5 @@ But essence ... is ... only the concatenation of appearances ... itself an appea
 > the essence finally is radically severed from the individual appearance which manifests it, since on principle it is that which must be able to be manifested by an infinite series of individual manifestation.
 [4]
 ##
+> the appearance can not
 ## abschattung is a shading, a shadow
