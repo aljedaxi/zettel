@@ -20,4 +20,5 @@ But essence ... is ... only the concatenation of appearances ... itself an appea
 ## the *principal of the series* is by nature infinite: there are infinite ways in which the principal may manifest itself. [3]
 ##
 > it shows itself as the structure of the appearance, which is at the same time the principle of the series
+[3]
 ## abschattung is a shading, a shadow
