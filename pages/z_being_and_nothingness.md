@@ -26,5 +26,5 @@ But essence ... is ... only the concatenation of appearances ... itself an appea
 [4]
 ##
 > the appearance can not be the thin film of nothingness which separates the being-of-the-subject from absolute-being
-## consider the platonic conception, in which the form precedes the hyle into which it is imprinted
+## consider the platonic conception, in which the form precedes the hyle into which it is imprinted: where is the being in this formula?
 ## abschattung is a shading, a shadow
