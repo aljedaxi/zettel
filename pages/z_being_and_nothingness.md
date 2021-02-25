@@ -18,5 +18,5 @@ But essence ... is ... only the concatenation of appearances ... itself an appea
 > the reality of the cup is that it is there and that it is not me ... the series of its appearances is bound by a principle which does not depend on my whim.
 [3]
 ##
-> If the phenomenon is to reveal itself as transcendent
+>
 ## abschattung is a shading, a shadow
