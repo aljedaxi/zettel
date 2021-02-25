@@ -9,3 +9,4 @@ title: Being and nothingness
 > force ... is not a metaphysical conatus ... which hides behind its effects ... it is the totality of these effects
 [1]
 ##
+> That is why we can ... reject the dualism of appearance and essence ... the appearance does not hide the essence ... it reveals it ... it is the essence.
