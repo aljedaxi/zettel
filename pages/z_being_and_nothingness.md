@@ -13,3 +13,4 @@ title: Being and nothingness
 that is why we can ... reject the dualism of appearance and essence ... the appearance does not hide the essence ... it reveals it ... it is the essence. 
 the essence of an existent ... is the manifest law which presides over the succession of its appearances.
 But essence ... is ... only the concatenation of appearances ... itself an appearance.
+## abschattung is a shading, a shadow
