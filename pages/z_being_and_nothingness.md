@@ -15,7 +15,7 @@ title: Being and nothingness
 > the essence of an existent ... is the manifest law which presides over the succession of its appearances.
 > But essence ... is ... only the concatenation of appearances ... itself an appearance.
 [2]
-##
+###
 > the reality of the cup is that it is there and that it is not me ... the series of its appearances is bound by a principle which does not depend on my whim.
 [3]
 ## the *principal of the series* is by nature infinite: there are infinite ways in which the principal may manifest itself. [3]
