@@ -26,6 +26,7 @@ title: slack channel structure
   - post https://slack.com/intl/en-ca/help/articles/360017938993-What-is-a-channel#use-channels somewhere public; basic introduction to the philosophy
   - RE: onboarding https://slack.com/intl/en-ca/help/articles/201898998-Set-default-channels-for-new-members
   - dashes or underscores: one or the other (i like dashes)
+  - 
   - create the following prefixes: 
     
     prod
