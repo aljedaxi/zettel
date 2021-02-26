@@ -8,3 +8,4 @@ title: constraints
 	- /TODO the tool should expose its best practices
 - the creation of internal alignment is the application of these constraints to attain [[clarity]]
 - what is it to create a security [[framework]]?
+## any negations is a constraint
