@@ -48,7 +48,7 @@ the act of refactoring is recognizing this staleness
 ### we need to find ways to express the truth grounds of the subject
 #### the truth grounds of code are assembly
 ## how many and which audiences are you playing to?
-### something about performativity,
+### something about performativity, the waiter
 ## Poetry for programmers
 ### an exploration of what language is
 #### dancing is a language that is felt instead of heard
