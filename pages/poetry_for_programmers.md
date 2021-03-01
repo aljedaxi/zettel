@@ -47,6 +47,8 @@ the act of refactoring is recognizing this staleness
 ## What is the job of the lawyer? there're certainly
 ### we need to find ways to express the truth grounds of the subject
 #### the truth grounds of code are assembly
+## how many and which audiences are you playing to?
+###
 ## Poetry for programmers
 ### an exploration of what language is
 #### dancing is a language that is felt instead of heard
