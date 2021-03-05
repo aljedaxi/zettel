@@ -9,3 +9,4 @@ obsession with connection. connection to what? connection an sich; connection th
 ## objectivity is the promise of god, technology, philosophy, science, the redistributory systems of the economy
 ## The infinitely incorruptible system must be without judgement.
 ### the objective is the absence of the meaningful, the moral, the
+##
