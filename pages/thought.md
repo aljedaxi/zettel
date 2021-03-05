@@ -2,4 +2,4 @@
 title: thought
 ---
 
-## any [[idea]]
+## any [[idea]] is the reification of
