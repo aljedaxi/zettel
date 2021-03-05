@@ -1,0 +1,5 @@
+---
+title: thought
+---
+
+## any [[idea]]
