@@ -44,6 +44,8 @@ the act of refactoring is recognizing this staleness
 ## https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/
 ## "a loop is a way of doing one thing over and over again. if it is infact one thing, you should be able to express it as a quantum of computation: a function."
 ### [[the allegory of the one thing]]
+## https://reactpodcast.simplecast.com/episodes/82
+- [make the code] easier to use
 ## What is the job of the lawyer? there're certainly
 ### we need to find ways to express the truth grounds of the subject
 #### the truth grounds of code are assembly
