@@ -22,4 +22,4 @@ Context snippet
 ##
 > Synthesis notes can also be composed into more complex structures (such as arguments or theories or models) through relations with other synthesis notes that vary in complexity from simple "relates to", to implication/explanation and support/opposition.
 [source](https://oasislab.pubpub.org/pub/54t0y9mk/release/2#43grwydpx3)
-##
+## another framework: https://ohsu.pure.elsevier.com/en/publications/sepio-a-semantic-model-for-the-integration-and-analysis-of-scient
