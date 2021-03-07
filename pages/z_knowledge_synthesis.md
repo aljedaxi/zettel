@@ -18,4 +18,5 @@ Observation
 Context snippet 
 : notes, which help to ground and contextualize observation notes.
 [source](https://oasislab.pubpub.org/pub/54t0y9mk/release/2#data-model)
+## entities with the same logical form are an [[equivalence class]][source](https://oasislab.pubpub.org/pub/54t0y9mk/release/2#zvhrkk11xf)
 ##
