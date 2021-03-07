@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Knowledge synthesis]]
+
 ## [[Being and nothingness]]
 
 ## [[The Signal of Noise]]
