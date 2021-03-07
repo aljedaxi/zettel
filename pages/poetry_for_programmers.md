@@ -46,6 +46,8 @@ the act of refactoring is recognizing this staleness
 ### [[the allegory of the one thing]]
 ## https://reactpodcast.simplecast.com/episodes/82
 - [make the code] easier to use
+## https://www.youtube.com/watch?v=YL-6RCTywbc
+- i figured the problem was me
 ## What is the job of the lawyer? there're certainly
 ### we need to find ways to express the truth grounds of the subject
 #### the truth grounds of code are assembly
