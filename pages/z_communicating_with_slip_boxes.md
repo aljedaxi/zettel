@@ -15,3 +15,6 @@ title: Communicating with Slip Boxes
 ##
 > Every note is only an element which receives its quality only from the network of links and back-links within the system.
 ##
+> If, however, we seek communication with the slip box, we must seek internal possibilities for linkings which result in the unexpected (i.e. information). We could try to generalize the experiences of Paris, Florence, New York under general concepts like “art” or “exhibitions,” or “crowding” (inter-actionistic), or “mass,” or “freedom” or “education,” in order to see how the slip box reacts. Usually it is more fruitful to look for formulations of problems that relate heterogeneous things with each other.
+## 
+> In any case, communication becomes more fruitful when we succeed to activate the internal network of links at the occasion of writing notes or making queries. ... The slip box provides combinatorial possibilities which were never planned ... the internal horizons of selection and comparisons are not identical with schema of searching for them.
