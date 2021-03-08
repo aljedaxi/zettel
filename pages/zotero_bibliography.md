@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Communicating with Slip Boxes]]
+
 ## [[Knowledge synthesis]]
 
 ## [[Being and nothingness]]
