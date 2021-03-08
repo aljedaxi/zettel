@@ -13,5 +13,5 @@ title: Communicating with Slip Boxes
 ##
 > It proves to be similar to our own memory in that it does not have a thoroughly constructed order of its entirety, not hierarchy, and most certainly no linear structure like a book.
 ## 
-> we must give up the idea in preparing a card index that there should be privileged places or slips that have a special quality of guaranteeing knowledge Every note is only an element which receives its quality only from the network of links and back-links within the system.
+> we must give up the idea in preparing a card index that there should be privileged places or slips that have a special quality of guaranteeing knowledge. Every note is only an element which receives its quality only from the network of links and back-links within the system.
 ##
