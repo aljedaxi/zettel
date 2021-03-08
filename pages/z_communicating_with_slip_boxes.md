@@ -11,3 +11,5 @@ title: Communicating with Slip Boxes
 > Put differently, the variety in communicating systems increases when it may happen that the two partners successfully communicate in the face of different comparative goals. (This means that it is useful for the other partner.) 
 > This requires the addition of randomness (Zufall) into the system—randomness in the sense that the agreement of the different comparative schemata is not been fixed, or that the information which is transmitted by communication is correct, but rather that this happens (or does not happen) “at the occasion” of communication.
 ##
+> It proves to be similar to our own memory in that it does not have a thoroughly constructed order of its entirety, not hierarchy, and most certainly no linear structure like a book.
+##
