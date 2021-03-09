@@ -11,3 +11,4 @@ title: The question concerning technology, and other essays
 ### that which gives limits, which embews with meaning, purpose, that which completes, is telos; related to logos, legein, \"uberlegen, the careful consideration of the craftsman that finds itself reified in telos. [8]
 ### to be responsible for something (to've caused) is to've started, pushed, induced something towards a later form
 ### tinder is the application of the logic of the assembly line to dating: absolute thoughtlessness
+### http://www.english.hawaii.edu/criticalink/heidegger/guide1.html
