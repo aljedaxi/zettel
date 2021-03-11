@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Cosmotechnics as Cosmopolitics]]
+
 ## [[Communicating with Slip Boxes]]
 
 ## [[Knowledge synthesis]]
