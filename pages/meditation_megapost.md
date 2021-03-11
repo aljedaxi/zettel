@@ -1,4 +1,4 @@
----
+﻿---
 title: meditation megapost
 ---
 
@@ -7,3 +7,4 @@ title: meditation megapost
 ### basic bodily sense gaining (weight training is good for this)
 when you can hone your focus on one part of your body, you're ready
 ### hold focus on the tip of the nose
+## https://when-then-zen.christine.website/skills/
