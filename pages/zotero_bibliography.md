@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[The Nooscope Manifested]]
+
 ## [[Cosmotechnics as Cosmopolitics]]
 
 ## [[Communicating with Slip Boxes]]
