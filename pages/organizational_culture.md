@@ -53,6 +53,7 @@ https://www.pluralpride.com/playbook
 :todo: 1612816514511
 :END:
 ## https://mailchi.mp/infinite/remote
+## https://digest.bps.org.uk/2021/03/08/longer-interview-shortlists-could-help-women-advance-in-male-dominated-industries/
 ## DONE write the wednesday bot opt out message
 :PROPERTIES:
 :todo: 1612395042552
