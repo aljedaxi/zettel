@@ -107,7 +107,7 @@ body {
   font-size: var(--ls-page-text-size);
   background-color: var(--background);
   background-image: url('https://github.com/aljedaxi/zettel/raw/main/logseq/background.png');
-  background-attchment: 'scroll';
+  background-attchment: scroll;
 }
 
 mark {
