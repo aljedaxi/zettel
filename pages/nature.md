@@ -13,7 +13,7 @@ alias: natural
 ####### snake oil has the extra advantage of extending one's agency over all illness
 ### physis
 ### natural philosophy
-## ORDER CHAOS NATURAL ARTIFICIAL SUPERNATURAL SPIRITUAL DECAY GROWTH LIFE DEATH LIVING DYING KILL ME
+## https://www.etymonline.com/word/nature
 :PROPERTIES:
 :todo: 1611439006503
 :END:
