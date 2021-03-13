@@ -12,8 +12,9 @@ parameters and hyperparameters
 ## 
 > As an instrument of knowledge, machine learning is composed of an object to be observed (training dataset), an instrument of observation (learning algorithm) and a final representation (statistical model). The assemblage of these three elements is proposed here as a spurious and baroque diagram of machine learning, extravagantly termed Nooscope.
 ## the statistical model is a means by which representations of the world can be created. just as a lens can be moved about to represent different worlds in different eyes, the model may be used to represent any input.
-##
+## 
 > The arms race of AI companies is, still today, concerned with finding the simplest and fastest algorithms with which to capitalise data. If information compression produces the maximum rate of profit in corporate AI, from the societal point of view, it produces discrimination and the loss of cultural diversity.
+## words
 ## 
 > knowledge economy
 ## 
