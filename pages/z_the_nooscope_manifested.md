@@ -13,3 +13,5 @@ title: The Nooscope Manifested
 ##
 > knowledge economy
 ##
+> ImageNet is a training dataset for Deep Learning that has become the de facto benchmark for image recognition algorithms ...
+##
