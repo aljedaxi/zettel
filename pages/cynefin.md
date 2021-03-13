@@ -7,7 +7,7 @@ title: cynefin
 ### an ordered system is one in which one can draw lines between cause and effect
 ### thereby, if a solution worked in the past, you know it'll work in the future
 ### a best practice should be understood relative to a pattern
-### the difference between clear and complicated is the ability to find the best practice
+## the difference between clear and complicated is the ability to find the best practice
 ## Complex is when you don't know what you're doing, but you have the capacity to probe safely
 ### your outcome in those situations is a function of [[organizational culture]]
 ## Chaos is when you can't fail safely
