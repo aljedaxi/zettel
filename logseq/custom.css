@@ -150,11 +150,7 @@ code {
   font-weight: 400;
 }
 
-#head {
-  background: transparent;
-}
-
-#main-content {
+#head #main-content #app-container {
   background: transparent;
 }
 
