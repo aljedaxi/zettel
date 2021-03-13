@@ -111,6 +111,10 @@ body {
   background-position: bottom right;
 }
 
+# cp__sidebar-main-content {
+  background-color: #
+}
+
 mark {
   background-color: var(--accent);
 }
