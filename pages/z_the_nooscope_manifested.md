@@ -15,3 +15,5 @@ title: The Nooscope Manifested
 ## 
 > ImageNet is a training dataset for Deep Learning that has become the de facto benchmark for image recognition algorithms ... anonymous workers from all over the planet were paid few cents per task to label hundreds of pictures per minute according to the WordNet taxonomy ... see the legitimation of the category ‘failure, loser, nonstarter, unsuccessful person’ for a hundred arbitrary pictures of people
 ##
+> Head of Facebook AI and godfather of convolutional neural networks Yann LeCun reiterates that current AI systems are not sophisticated versions of cognition, but rather, of perception
+##
