@@ -156,7 +156,7 @@ code {
   font-weight: 400;
 }
 
-#head, #main-content, #app-container {
+#head, #main-content, #app-container, .color-level {
   background: transparent;
 }
 
