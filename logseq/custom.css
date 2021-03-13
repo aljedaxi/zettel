@@ -79,7 +79,7 @@
   --ls-page-checkbox-color: transparent;
   --ls-page-checkbox-border-color: var(--comment);
 
-  --ls-page-blockquote-color: var(--foreground);
+  --ls-page-blockquote-color: var(--white);
   --ls-page-blockquote-bg-color: var(--light-background);
   --ls-page-blockquote-border-color: var(--white);
 
