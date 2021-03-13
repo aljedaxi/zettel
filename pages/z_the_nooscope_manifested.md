@@ -37,8 +37,10 @@ extrapolation
 > Head of Facebook AI and godfather of convolutional neural networks Yann LeCun reiterates that current AI systems are not sophisticated versions of cognition, but rather, of perception
 ## 
 > For explanatory purposes, the Nooscope is described as a machine that operates on three modalities: training, classification, and prediction. In more intuitive terms, these modalities can be called: pattern extraction, pattern recognition, and pattern generation ... What a neural network computes, is not an exact pattern but the statistical distribution of a pattern. Just scraping the surface of the anthropomorphic marketing of AI, one finds another technical and cultural object that needs examination: the statistical model ... In terms of the work of demystification that needs to be done (also to evaporate some naïve questions), it would be good to reformulate the trite question ‘Can a machine think?’ into the theoretically sounder questions ‘Can a statistical model think?’, ‘Can a statistical model develop consciousness?’, et cetera.
-### 
+###
 > Classification is known as pattern recognition, while prediction can be defined also as pattern generation ... A self-driving vehicle is trained to recognise different objects on the road ... and predict future actions based on decisions that a human driver has taken
+### 
+> In this modality, the neural network is run backwards (moving from the smaller output layer toward the larger input layer) to generate new patterns after being trained at classifying them
 ###
 > Algorithm is the name of a process, whereby a machine performs a calculation. The product of such machine processes is a statistical model ... In the developer community, the term ‘algorithm’ is increasingly replaced with ‘model.’ ... This terminological confusion arises from the fact that the statistical model does not exist separately from the algorithm: somehow, the statistical model exists inside the algorithm under the form of distributed memory across its parameters ... The algorithm starts as a blank slate and, during the process called training, or ‘learning from data', adjusts its parameters until it reaches a good representation of the input data
 ###
