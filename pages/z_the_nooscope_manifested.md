@@ -73,5 +73,7 @@ extrapolation
 ## AI, as a generally rule, outsources what we might call knowledge work to labelers in the third world
 ##
 > The information flow of AI ... extract[s] ‘analytical intelligence’ from the most diverse forms of labour and ... ***transfer***[s] such intelligence into a machine
-## 
+##
 > a paper from the European Trade Union Institute, which highlights ‘seven essential dimensions that future regulation should address in order to protect workers: 1) safeguarding worker privacy and data protection; 2) addressing surveillance, tracking and monitoring; 3) making the purpose of AI algorithms transparent; 4) ensuring the exercise of the ‘right to explanation’ regarding decisions made by algorithms or machine learning models; 5) preserving the security and safety of workers in human-machine interactions; 6) boosting workers’ autonomy in human–machine interactions; 7) enabling workers to become AI literate
+## 
+> The Machinery Question was a debate that sparked in England during the industrial revolution, when the response to the employment of machines and workers’ subsequent technological unemployment was a social campaign for more education about machines, that took the form of the Mechanics’ Institute Movement
