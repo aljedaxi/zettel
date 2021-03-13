@@ -47,7 +47,7 @@ extrapolation
 > In this [the generative] modality, the neural network is run backwards ... to generate new patterns after being trained at classifying them
 #### 
 > In DeepDream first experiments, bird feathers and dog eyes started to emerge everywhere as dog breeds and bird species are vastly overrepresented in ImageNet. It was also discovered that the category ‘dumbbell’ was learnt with a surreal human arm always attached to it.
-###
+### 
 > Algorithm is the name of a process, whereby a machine performs a calculation. The product of such machine processes is a statistical model ... In the developer community, the term ‘algorithm’ is increasingly replaced with ‘model.’ ... This terminological confusion arises from the fact that the statistical model does not exist separately from the algorithm: somehow, the statistical model exists inside the algorithm under the form of distributed memory across its parameters ... The algorithm starts as a blank slate and, during the process called training, or ‘learning from data', adjusts its parameters until it reaches a good representation of the input data
 ###
 > A statistical model is said to be trained successfully when it can elegantly fit only the important patterns of the training data
