@@ -106,6 +106,7 @@ body {
   line-height: var(--ls-font-line-height);
   font-size: var(--ls-page-text-size);
   background-color: var(--background);
+  background-image: url('https://github.com/aljedaxi/zettel/raw/main/logseq/background.png');
 }
 
 mark {
