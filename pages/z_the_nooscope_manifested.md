@@ -29,5 +29,5 @@ parameters and hyperparameters
 ##
 > When Greta Thunberg warns ‘Listen to science.’ what she really means, being a good student of mathematics, is ‘Listen to the statistical models of climate science.’
 ## 
-> AI is a heavily compressed and distorted map of the territory and that this map, like many forms of automation, is not open to community negotiation. AI is a map of the territory without community access and community consent ... Post-colonial and post-structuralist schools of anthropology and ethnology have stressed that there is never territory per se, but always an act of territorialisation.
+> AI is a heavily compressed and distorted map ... without community access and community consent ... there is never territory per se, but always an act of territorialisation.
 ##
