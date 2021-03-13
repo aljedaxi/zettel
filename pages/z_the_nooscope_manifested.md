@@ -69,3 +69,5 @@ extrapolation
 ##
 > The problems characteristic of the prediction of the new are logically related to those that characterise the generation of the new, because the way a machine learning algorithm predicts a trend on a time chart is identical to the way it generates a new artwork from learnt patterns ... ‘Can AI be creative?’ should be reformulated in technical terms: Is machine learning able to extrapolate beyond the stylistic boundaries of its training data? ... The ‘creativity’ of machine learning is limited to the detection of styles from the training data and then random improvisation within these styles ... it would be more accurate to term machine learning art as statistical art
 ##
+> Rather than studying only how technology works, critical inquiry studies also how it breaks, how subjects rebel against its normative control and workers sabotage its gears. In this sense, a way to sound the limits of AI is to look at hacking practices
+##
