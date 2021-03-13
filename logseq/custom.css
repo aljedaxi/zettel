@@ -149,6 +149,14 @@ code {
   font-weight: 400;
 }
 
+#head {
+  background: 'transparent';
+}
+
+#main-content {
+  background: 'transparent';
+}
+
 /*
 
     Name:       dracula for CodeMirror
