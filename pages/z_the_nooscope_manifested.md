@@ -2,6 +2,10 @@
 title: The Nooscope Manifested
 ---
 
+## TODO consolidate
+:PROPERTIES:
+:todo: 1615665345439
+:END:
 ## language
 
 parameters and hyperparameters
