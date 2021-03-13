@@ -17,3 +17,5 @@ title: The Nooscope Manifested
 ##
 > Head of Facebook AI and godfather of convolutional neural networks Yann LeCun reiterates that current AI systems are not sophisticated versions of cognition, but rather, of perception
 ##
+> For explanatory purposes, the Nooscope is described as a machine that operates on three modalities: training, classification, and prediction. In more intuitive terms, these modalities can be called: pattern extraction, pattern recognition, and pattern generation
+##
