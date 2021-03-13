@@ -54,3 +54,4 @@ extrapolation
 ###
 > William Gibson’s original definition of cyberspace prophesized, most likely, the coming of a vector space rather than virtual reality: ‘A graphic representation of data abstracted from the banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding.’
 ### one trick of information compression is **dimensionality reduction**, which is used to avoid ... the exponential growth of the variety of features in the vector space ... categories that show low variance in the vector space ... are aggregated to reduce calculation costs ... but can also lead to **category reduction**, which can have an impact on the representation of social diversity
+###
