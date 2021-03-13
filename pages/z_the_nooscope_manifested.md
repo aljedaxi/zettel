@@ -50,4 +50,4 @@ extrapolation
 ## 
 > AI is a heavily compressed and distorted map ... without community access and community consent ... there is never territory per se, but always an act of territorialisation.
 ## 
-> A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation ... To input a word into a neural network, the Word2vec technique ‘embeds’ it into a vectorial space that measures its distance from the other words in the corpus ...
+> A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation ... To input a word into a neural network, the Word2vec technique ‘embeds’ it into a vectorial space that measures its distance from the other words in the corpus ... The advantage of such a representation
