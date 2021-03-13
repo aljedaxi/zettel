@@ -28,6 +28,6 @@ parameters and hyperparameters
 > the performance of ‘machine intelligence’ in this case can be measured also by the proportion between the size of training data and the trained algorithm (or model). ImageNet contains 14 million images with associated labels that occupy approximately 150 gigabytes of memory. On the other hand, Inception v3, which is meant to represent the information contained in ImageNet, is only 92 megabytes. The ratio of compression between training data and model partially describes also the rate of information diffraction
 ##
 > When Greta Thunberg warns ‘Listen to science.’ what she really means, being a good student of mathematics, is ‘Listen to the statistical models of climate science.’
-##
-> But what should be contested is that AI is a heavily compressed and distorted map of the territory and that this map, like many forms of automation, is not open to community negotiation. AI is a map of the territory without community access and community consent
+## 
+> But what should be contested is that AI is a heavily compressed and distorted map of the territory and that this map, like many forms of automation, is not open to community negotiation. AI is a map of the territory without community access and community consent ... Post-colonial and post-structuralist schools of anthropology and ethnology have stressed that there is never territory per se, but always an act of territorialisation.
 ##
