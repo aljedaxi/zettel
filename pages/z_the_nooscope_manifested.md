@@ -29,3 +29,5 @@ parameters and hyperparameters
 ##
 > When Greta Thunberg warns ‘Listen to science.’ what she really means, being a good student of mathematics, is ‘Listen to the statistical models of climate science.’
 ##
+> But what should be contested is that AI is a heavily compressed and distorted map of the territory and that this map, like many forms of automation, is not open to community negotiation. AI is a map of the territory without community access and community consent
+##
