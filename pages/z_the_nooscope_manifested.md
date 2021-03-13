@@ -15,6 +15,9 @@ underfitting
 
 interpolation
 : the prediction of an output y within the known interval of the input x in the training dataset
+
+extrapolation
+: the prediction of output y beyond the limits of x, often with high risks of inaccuracy
 ## the optical instrument acted as knowledge magnification insofar as it expanded the realm of digestible data; [thence, equivalence classes].
 ## 
 > In the same way that the lenses of microscopes and telescopes are never perfectly curvilinear and smooth, the logical lenses of machine learning embody faults and biases. To understand machine learning ... is to study the degree by which social data are diffracted and distorted by these lenses.
