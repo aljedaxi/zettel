@@ -7,6 +7,7 @@
   --background: black;
   --white: #cdc0a3;
   --pink: #dc899c;
+  --off-black: #000b;
   --light-background: var(--background);
   --lighter-background: var(--background);
   --dark-background: var(--background);
