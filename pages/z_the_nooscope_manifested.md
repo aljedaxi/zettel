@@ -15,8 +15,10 @@ parameters and hyperparameters
 ## 
 > The arms race of AI companies is, still today, concerned with finding the simplest and fastest algorithms with which to capitalise data. If information compression produces the maximum rate of profit in corporate AI, from the societal point of view, it produces discrimination and the loss of cultural diversity.
 ## words
-## 
+###
 > knowledge economy
+### 
+> labour of perception
 ## 
 > ImageNet is a training dataset for Deep Learning that has become the de facto benchmark for image recognition algorithms ... anonymous workers from all over the planet were paid few cents per task to label hundreds of pictures per minute according to the WordNet taxonomy ... see the legitimation of the category ‘failure, loser, nonstarter, unsuccessful person’ for a hundred arbitrary pictures of people
 ##
