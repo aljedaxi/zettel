@@ -51,4 +51,6 @@ extrapolation
 > AI is a heavily compressed and distorted map ... without community access and community consent ... there is never territory per se, but always an act of territorialisation.
 ##
 > A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation ... To input a word into a neural network, the Word2vec technique ‘embeds’ it into a vectorial space that measures its distance from the other words in the corpus ... Two terms whose inferred positions are near one another in this space are equally similar semantically; these representations are said to be distributed: the vector of the concept ‘apartment’ ... will be similar to that of ‘house’ ...
-##
+###
+> William Gibson’s original definition of cyberspace prophesized, most likely, the coming of a vector space rather than virtual reality: ‘A graphic representation of data abstracted from the banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding.’
+###
