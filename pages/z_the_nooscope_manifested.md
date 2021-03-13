@@ -40,7 +40,7 @@ extrapolation
 ###
 > Classification is known as pattern recognition, while prediction can be defined also as pattern generation ... A self-driving vehicle is trained to recognise different objects on the road ... and predict future actions based on decisions that a human driver has taken
 ### 
-> In this modality, the neural network is run backwards (moving from the smaller output layer toward the larger input layer) to generate new patterns after being trained at classifying them
+> In this [the generative] modality, the neural network is run backwards (moving from the smaller output layer toward the larger input layer) to generate new patterns after being trained at classifying them
 ###
 > Algorithm is the name of a process, whereby a machine performs a calculation. The product of such machine processes is a statistical model ... In the developer community, the term ‘algorithm’ is increasingly replaced with ‘model.’ ... This terminological confusion arises from the fact that the statistical model does not exist separately from the algorithm: somehow, the statistical model exists inside the algorithm under the form of distributed memory across its parameters ... The algorithm starts as a blank slate and, during the process called training, or ‘learning from data', adjusts its parameters until it reaches a good representation of the input data
 ###
