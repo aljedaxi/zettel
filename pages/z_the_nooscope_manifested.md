@@ -6,6 +6,7 @@ title: The Nooscope Manifested
 
 parameters and hyperparameters
 : The parameters of a model that are learnt from data are called ‘parameters’, while parameters that are not learnt from data and are fixed manually are called ‘hyperparameters’ (These determine number and properties of the parameters).
+If a model learns the training data too well, it recognises only exact matches of the original patterns and will overlook those with close similarities, ‘in the wild’. In this case, the model is overfitting, because it has meticulously learnt everything (including noise) and is not able to distinguish a pattern from its background
 ## the optical instrument acted as knowledge magnification insofar as it expanded the realm of digestible data; [thence, equivalence classes].
 ## 
 > In the same way that the lenses of microscopes and telescopes are never perfectly curvilinear and smooth, the logical lenses of machine learning embody faults and biases. To understand machine learning ... is to study the degree by which social data are diffracted and distorted by these lenses.
