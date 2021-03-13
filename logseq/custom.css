@@ -108,15 +108,6 @@ body {
   background-color: var(--background);
 }
 
-i {
-  color: var(--white);
-}
-
-b {
-  color: var(--white);
-  font-weight: bold;
-}
-
 mark {
   background-color: var(--accent);
 }
