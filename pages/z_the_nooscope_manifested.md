@@ -72,4 +72,4 @@ extrapolation
 > Rather than studying only how technology works, critical inquiry studies also how it breaks, how subjects rebel against its normative control and workers sabotage its gears. In this sense, a way to sound the limits of AI is to look at hacking practices
 ## AI, as a generally rule, outsources what we might call knowledge work to labelers in the third world
 ## 
-> The information flow of AI has to be understood as an apparatus designed to extract ‘analytical intelligence’ from the most diverse forms of labour and to ***transfer*** such intelligence into a machine
+> The information flow of AI ... extract[s] ‘analytical intelligence’ from the most diverse forms of labour and ... ***transfer***[s] such intelligence into a machine
