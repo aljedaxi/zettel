@@ -49,4 +49,5 @@ extrapolation
 > When Greta Thunberg warns ‘Listen to science.’ what she really means, being a good student of mathematics, is ‘Listen to the statistical models of climate science.’
 ## 
 > AI is a heavily compressed and distorted map ... without community access and community consent ... there is never territory per se, but always an act of territorialisation.
-##
+## 
+> A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation.
