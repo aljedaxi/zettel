@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Democracy is common and robust historically and across the globe – David Stasavage | Aeon Essays]]
+
 ## [[The Nooscope Manifested]]
 
 ## [[Cosmotechnics as Cosmopolitics]]
