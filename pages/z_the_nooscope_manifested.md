@@ -53,7 +53,7 @@ extrapolation
 > A statistical model is said to be trained successfully when it can elegantly fit only the important patterns of the training data
 ### 
 > machine learning simply maps a statistical distribution of numerical values and draws a mathematical function that hopefully approximates human comprehension
-##
+## 
 > the performance of ‘machine intelligence’ in this case can be measured also by the proportion between the size of training data and the trained algorithm (or model). ImageNet contains 14 million images with associated labels that occupy approximately 150 gigabytes of memory. On the other hand, Inception v3, which is meant to represent the information contained in ImageNet, is only 92 megabytes. The ratio of compression between training data and model partially describes also the rate of information diffraction
 ## 
 > AI is a heavily compressed and distorted map ... without community access and community consent ... there is never territory per se, but always an act of territorialisation.
