@@ -11,4 +11,4 @@ energy roused by discontent with the system is funneled back into the system via
 either your rely on your political opponents to give you crumbs, or you seize power
 ## (the allegory of the anarchists and the miner strike) 
 ; it can be said that it when [[ideology]] entered the picture that the conversation became political.
-### under liberalism, the citizen is relegated to the ideological aspects of governmental processes, while the
+### under liberalism, the citizen is relegated to the ideological aspects of governmental processes, while the happenings of the city are the realm of the beaurocracy
