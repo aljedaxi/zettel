@@ -1,8 +1,13 @@
 const nextMonday = require ('date-fns/nextMonday');
-const { format, eachDayOfInterval, lastDayOfISOWeek  } = require('date-fns/fp');
+const startOfMonth = require ('date-fns/startOfMonth');
+const { format, eachDayOfInterval, lastDayOfISOWeek, addMonths  } = require('date-fns/fp');
+const sanctuary = require ('sanctuary');
+const {env: flutureEnv} = require ('fluture-sanctuary-types');
+const Future = require ('fluture')
+const {parallel, fork} = Future
 const {
-	pipe, map
-} = require ('sanctuary');
+	pipe, map, range, reduce, append, last, chain, Just, Maybe, sequence, tail,
+} = sanctuary.create ({checkTypes: true, env: sanctuary.env.concat (flutureEnv)});
 const {writeFile} = require ('fs');
 
 const daylyTasks = ['b12'];
@@ -16,6 +21,7 @@ const weeklyTasks = [
 	[],
 	['water hydroponics'],
 ];
+const biMonthlyTasks = ['change hydroponics debris filter'];
 
 /*
  * ## TODO materialize the catalog import list
@@ -39,11 +45,11 @@ const meta = pipe([
 const getTimestamp = () => format ('T') (new Date ());
 
 const dir = '.';
-const makeFile = day => ({
+const makeFile = tasks => day => ({
 	fileName: `${dir}/journals/${fileNameFormatting (day)}.md`,
 	fileText: [
 		meta (day),
-		[...daylyTasks, ...weeklyTasks[format ('i') (day)]].map(formatTask (getTimestamp ())).join('\n'),
+		tasks.map(formatTask (getTimestamp ())).join('\n'),
 	].join('\n\n'),
 });
 
@@ -51,13 +57,37 @@ const writeFileType = ({fileName, fileText}) => new Promise((res, rej) =>
 	writeFile(fileName, fileText, {flag: 'a'}, res)
 );
 
+const writeFileFuture = ({fileName, fileText}) => Future((res, rej) => {
+	writeFile(fileName, fileText, {flag: 'a'}, res)
+	return () => 'lol'
+});
+
 const doThingForNextWeek = today => {
 	const firstDayOfNextWeek = nextMonday (today);
 	const daysOfWeek = eachDayOfInterval(
 		{start: firstDayOfNextWeek, end: lastDayOfISOWeek (firstDayOfNextWeek)}
 	);
-	const files = map (makeFile) (daysOfWeek);
+	const files = map (day => makeFile ([...daylyTasks, ...weeklyTasks[format ('i') (day)]]) (day)) (daysOfWeek);
 	return Promise.all(files.map(writeFileType));
 };
 
-doThingForNextWeek (new Date());
+const BI = 2
+const addTwo = addMonths (BI)
+const getSecondMonths = reduce (xs => x => append (map (m => addTwo(m.value)) (last (xs))) (xs))
+const getThisManyMonths = firstMonth => pipe([
+	range (0),
+	(getSecondMonths) ([Just (firstMonth)]),
+	sequence (Maybe),
+	chain (tail),
+])
+
+
+const doBiMonthlyThigns = howMany => today => {
+	const firstDayOfThisMonth = startOfMonth (today);
+	const months = getThisManyMonths (firstDayOfThisMonth) (howMany);
+	const files = map (map (makeFile (biMonthlyTasks))) (months);
+	const mFutures = map (map (writeFileFuture)) (files);
+	map (xs => fork (console.error) (console.log) (parallel (9000) (xs))) (mFutures)
+};
+
+doBiMonthlyThigns (4) (new Date());

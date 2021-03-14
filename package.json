@@ -8,6 +8,8 @@
   "private": false,
   "dependencies": {
     "date-fns": "^2.19.0",
+    "fluture": "^14.0.0",
+    "fluture-sanctuary-types": "^7.0.1",
     "sanctuary": "^3.1.0"
   }
 }
