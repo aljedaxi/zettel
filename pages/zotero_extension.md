@@ -12,3 +12,4 @@ title: zotero extension
 :PROPERTIES:
 :todo: 1615147963473
 :END:
+https://logseq.github.io/#/page/block%20properties
