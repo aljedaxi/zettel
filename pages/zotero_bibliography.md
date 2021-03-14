@@ -2,7 +2,7 @@
 title: Zotero Bibliography
 ---
 
-## [[Democracy is common and robust historically and across the globe – David Stasavage | Aeon Essays]]
+## [[democracy is common and robust historically and across the globe]]
 
 ## [[The Nooscope Manifested]]
 
