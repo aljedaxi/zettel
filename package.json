@@ -1,0 +1,13 @@
+{
+  "name": "zettel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aljedaxi/zettle.git",
+  "author": "daxi <alje@daxi.ml>",
+  "license": "SEE LICENSE.TXT",
+  "private": false,
+  "dependencies": {
+    "date-fns": "^2.19.0",
+    "sanctuary": "^3.1.0"
+  }
+}
