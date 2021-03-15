@@ -32,7 +32,7 @@ extrapolation
 ## 
 > The arms race of AI companies is, still today, concerned with finding the simplest and fastest algorithms with which to capitalise data. If information compression produces the maximum rate of profit in corporate AI, from the societal point of view, it produces discrimination and the loss of cultural diversity.
 ## words
-###
+### 
 > knowledge economy
 ### 
 > labour of perception
