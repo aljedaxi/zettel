@@ -30,12 +30,7 @@ extrapolation
 > When Greta Thunberg warns ‘Listen to science.’ what she really means, being a good student of mathematics, is ‘Listen to the statistical models of climate science.’
 ## the statistical model is a means by which representations of the world can be created. just as a lens can be moved about to represent different worlds in different eyes, the model may be used to represent any input.
 ## 
-> The arms race of AI companies is, still today, concerned with finding the simplest and fastest algorithms with which to capitalise data. If information compression produces the maximum rate of profit in corporate AI, from the societal point of view, it produces discrimination and the loss of cultural diversity.
-## words
-###
-> knowledge economy
-### 
-> labour of perception
+> The arms race of AI companies is, still today, concerned with finding the simplest and fastest algorithms with which to capitalise data. If [[information compression]] produces the maximum rate of profit in corporate AI, from the societal point of view, it produces discrimination and the loss of cultural diversity.
 ## 
 > ImageNet is a training dataset for Deep Learning that has become the de facto benchmark for image recognition algorithms ... anonymous workers from all over the planet were paid few cents per task to label hundreds of pictures per minute according to the WordNet taxonomy ... see the legitimation of the category ‘failure, loser, nonstarter, unsuccessful person’ for a hundred arbitrary pictures of people
 ##
@@ -67,7 +62,7 @@ extrapolation
 ###
 > William Gibson’s original definition of cyberspace prophesized, most likely, the coming of a vector space rather than virtual reality: ‘A graphic representation of data abstracted from the banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding.’
 ### 
-> one trick of information compression is **dimensionality reduction**, which is used to avoid ... the exponential growth of the variety of features in the vector space ... categories that show low variance in the vector space ... are aggregated to reduce calculation costs ... but can also lead to **category reduction**, which can have an impact on the representation of social diversity
+> one trick of [[information compression]] is **dimensionality reduction**, which is used to avoid ... the exponential growth of the variety of features in the vector space ... categories that show low variance in the vector space ... are aggregated to reduce calculation costs ... but can also lead to **category reduction**, which can have an impact on the representation of social diversity
 ## even if all the algorhithms are open sourced, nobody can read them; even if the datasets are open sourced, nobody can get the electricity to process them; openness is necessary for epistemic justice, but sufficiency is a cybernetic endeavor.
 ##
 > the inability to recognise a **unique anomaly** that appears for the first time, such as ... an unusual obstacle (a pedestrian? a plastic bag?) on the road scenario. The **undetection of the new** (something that has never ‘been seen’ by a model and therefore never classified before in a known category) ... has already caused fatalities ... machine learning automates the dictatorship of the past ... termed the **regeneration of the old** ... the application of a homogenous space-time view that restrains the possibility of a new historical event
