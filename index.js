@@ -7,8 +7,12 @@ const Future = require ('fluture')
 const {parallel, fork} = Future
 const {
 	pipe, map, range, reduce, append, last, chain, Just, Maybe, sequence, tail,
+	filter, test,
+	splitOn,
+	joinWith
 } = sanctuary.create ({checkTypes: true, env: sanctuary.env.concat (flutureEnv)});
 const {writeFile} = require ('fs');
+const {readdir} = require ('fs/promises')
 
 const daylyTasks = ['b12'];
 const weeklyTasks = [
@@ -90,4 +94,18 @@ const doBiMonthlyThigns = howMany => today => {
 	map (xs => fork (console.error) (console.log) (parallel (9000) (xs))) (mFutures)
 };
 
-doBiMonthlyThigns (4) (new Date());
+const fix = _ => {
+	const folder = '.';
+	const newFileName = pipe([
+		splitOn ('_'),
+		([dir, ...filename]) => `${folder}/${dir}/${joinWith ('_') (filename)}`,
+	])
+	const main = pipe([
+		filter (test (/md$/)),
+		map (oldName => `mv ${folder}/${oldName} ${newFileName (oldName)}`),
+	]);
+	readdir(folder)
+		.then(main)
+		.then(x => x.forEach(y => console.log(y)));
+};
+fix ();
