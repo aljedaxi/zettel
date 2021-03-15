@@ -62,18 +62,9 @@ const writeFileType = ({fileName, fileText}) => new Promise((res, rej) =>
 );
 
 const writeFileFuture = ({fileName, fileText}) => Future((res, rej) => {
-	writeFile(fileName, fileText, {flag: 'a'}, res)
+	writeFile(fileName, fileText, {flag: 'a'}, _ => res(`wrote ${fileName}`))
 	return () => 'lol'
 });
-
-const doThingForNextWeek = today => {
-	const firstDayOfNextWeek = nextMonday (today);
-	const daysOfWeek = eachDayOfInterval(
-		{start: firstDayOfNextWeek, end: lastDayOfISOWeek (firstDayOfNextWeek)}
-	);
-	const files = map (day => makeFile ([...daylyTasks, ...weeklyTasks[format ('i') (day)]]) (day)) (daysOfWeek);
-	return Promise.all(files.map(writeFileType));
-};
 
 const BI = 2
 const addTwo = addMonths (BI)
@@ -85,14 +76,27 @@ const getThisManyMonths = firstMonth => pipe([
 	chain (tail),
 ])
 
-
 const doBiMonthlyThigns = howMany => today => {
 	const firstDayOfThisMonth = startOfMonth (today);
 	const months = getThisManyMonths (firstDayOfThisMonth) (howMany);
-	const files = map (map (makeFile (biMonthlyTasks))) (months);
-	const mFutures = map (map (writeFileFuture)) (files);
-	map (xs => fork (console.error) (console.log) (parallel (9000) (xs))) (mFutures)
+	const mfiles = map (map (makeFile (biMonthlyTasks))) (months);
+	return fromMaybe ([]) (mfiles);
 };
+
+const doThingForNextWeek = howMany => today => {
+	const firstDayOfNextWeek = nextMonday (today);
+	const daysOfWeek = eachDayOfInterval(
+		{start: firstDayOfNextWeek, end: lastDayOfISOWeek (firstDayOfNextWeek)}
+	);
+	return map (day => makeFile ([...daylyTasks, ...weeklyTasks[format ('i') (day)]]) (day)) (daysOfWeek);
+};
+
+const doThingGeneral = howMany => pipe([
+	doThingForNextWeek (howMany),
+	map (writeFileFuture),
+	parallel (9000),
+	fork (console.error) (console.log),
+])
 
 const fix = _ => {
 	const folder = '.';
@@ -108,4 +112,5 @@ const fix = _ => {
 		.then(main)
 		.then(x => x.forEach(y => console.log(y)));
 };
-fix ();
+
+doThingGeneral (1) (new Date());
