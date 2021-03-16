@@ -71,3 +71,5 @@ and again, in terms of code
 ## the [[abstraction]] talk
 ## [psychology of programming interest group](https://www.ppig.org/papers/)
 ## put the written thing together with this: https://github.com/manubot/rootstock/blob/main/USAGE.md
+## Skeleta:
+###
