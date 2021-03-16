@@ -1,4 +1,4 @@
-﻿---
+---
 title: coffee recipe schema
 ---
 
@@ -12,3 +12,12 @@ title: coffee recipe schema
 - https://github.com/stephane-monnot/react-vertical-timeline
 - https://github.com/sherubthakur/react-horizontal-timeline
 - https://github.com/ericdfields/react-timeline-component
+## Tasks:
+### TODO Form -> JSON
+:PROPERTIES:
+:todo: 1615936549515
+:END:
+### TODO JSON -> Graphic
+:PROPERTIES:
+:todo: 1615936562723
+:END:
