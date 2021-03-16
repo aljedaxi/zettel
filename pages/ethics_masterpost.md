@@ -9,6 +9,6 @@ title: ethics masterpost
 #### individual judgement; individual punishment; individual reward.
 ### every moral call is not to *better our selves through bettering the world*, but rather to *better the world though bettering ourselves*.
 #### at the core of this is the separation of humanity from the world
-## *local*, *natural*, *sustainable* aren't & cannot be
+## *local*, *natural*, *sustainable* aren't & cannot be intrinsically good, axiomatically ethical. they must be explained in terms.
 ## That which is *desirable* isn't desired: the implantation of one's desires into the superego of another.
 ## [[hedonism]]
