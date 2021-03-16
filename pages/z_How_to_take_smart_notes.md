@@ -58,7 +58,6 @@ the software needs to have ways to visualize the connections between notes ; way
 	-> see what is there, what is missing, what questions arise
 	-> the answer to the question is a next note
 	-> "do not brainstorm for a topic" [1p29]
->>>>>>> 1346768052fb47474a6015ba9bf33d7f06ce66cc
 ## the process
 
 - always have something on hand 2 take notes
