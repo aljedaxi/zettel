@@ -9,4 +9,4 @@ alias: metamodern
 ## a bunch of media has this sort of metamodern oscillation between the anti-hero and the heroic plot structure
 ## hundreds of otherwise gifted individuals have been crushed by the cynicism of postmodernity
 ## 
->>imagine a metamodern rhetoric; a swirling between
+>>imagine a metamodern rhetoric; a swirling around a point, through over simplification and complication;
