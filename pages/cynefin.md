@@ -6,7 +6,7 @@ title: cynefin
 ## [[Order]] $$\supset$$ {[[clear]], [[complicated]]}
 ### an ordered system is one in which one can draw lines between cause and effect
 #### thence, can enumerate the variety.
-- a chaotic system has $$/infinite$$ variety
+- a chaotic system has $$\infinite$$ variety
 - a simple system has no variety
 ### thereby, if a solution worked in the past, you know it'll work in the future
 ### a best practice should be understood relative to a pattern
