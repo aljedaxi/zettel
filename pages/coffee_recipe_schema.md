@@ -25,7 +25,7 @@ title: coffee recipe schema
 :PROPERTIES:
 :todo: 1615936562723
 :END:
-### TODO reach out to Mix or something about how to decent it
+### TODO reach out to Mix or someone about how to decent it
 :PROPERTIES:
 :todo: 1615936592289
 :END:
