@@ -15,7 +15,7 @@ In the context of the university, these people don't talk. they silo along the d
 ## Okay, so Warren McCulloch was speaking with Walter Pitts and developed something that looked like this:
 ```
 * * * * * * * *
-
+* * * * * * * *
 ```
 ## In the context of liberalism, people don't talk about control??????? [[ideology]]
 ## TODO what is a field? a domain? a science? 
