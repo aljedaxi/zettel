@@ -11,7 +11,7 @@ title: organizational cybernetics
 - find who has influence
 - write the names of the participants, in a circle
 - whenever someone speaks, put a tally below their name and draw an arrow from them to the person they're addressing
-#### TODO you should make this into software, because you have to 
+#### TODO you should make this into software, because you have to understand this statistically
 :PROPERTIES:
 :todo: 1616113263382
 :END:
