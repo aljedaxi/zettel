@@ -7,4 +7,6 @@ title: organizational cybernetics
 :doing: 1616088442782
 :END:
 ## practices
-###
+### Meeting map
+- find who has influence
+-
