@@ -10,5 +10,4 @@ title: organizational cybernetics
 ### Meeting map
 - find who has influence
 - write the names of the participants, in a circle
-- whenever someone speaks, put a tally below their name
--
+- whenever someone speaks, put a tally below their name and draw an arrow from them to the person they're addressing
