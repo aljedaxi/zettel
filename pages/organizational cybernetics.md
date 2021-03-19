@@ -6,4 +6,5 @@ title: organizational cybernetics
 :PROPERTIES:
 :doing: 1616088442782
 :END:
-##
+## practices
+###
