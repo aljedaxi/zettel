@@ -9,4 +9,6 @@ title: organizational cybernetics
 ## practices
 ### Meeting map
 - find who has influence
+- write the names of the participants, in a circle
+- whenever someone speaks, put a tally below their name
 -
