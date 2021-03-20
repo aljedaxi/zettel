@@ -22,9 +22,10 @@ title: coffee recipe schema
 :todo: 1615936549515
 :done: 1616218996702
 :END:
-### TODO JSON -> Graphic
+### DONE JSON -> Graphic
 :PROPERTIES:
 :todo: 1615936562723
+:done: 1616218997398
 :END:
 ### TODO reach out to Mix or someone about how to decent it
 :PROPERTIES:
