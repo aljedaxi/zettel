@@ -6,4 +6,4 @@ title: shopping list
 
 Crossroads
 : gunpowder
-:
+: Shichimi Togarashi
