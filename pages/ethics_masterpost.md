@@ -16,4 +16,6 @@ is a function of
 : attacking innocence
 ## there are ethics which
 - define the set of things which are ethical
-- - people, actions, intentions, effects,
+  - people, actions, intentions, effects
+- define the measure of those things
+  - pleasure, virtue, culture, liberty, power
