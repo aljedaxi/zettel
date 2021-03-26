@@ -12,4 +12,4 @@ alias: alethia
 ## UNIVERSALS ARE A PROBLEM WHICH MUST BE FIXED, AND THAT MEANS ∀
 ## To say the senses give us correct information is to assume real condition p is translated transparently into condition q.
 ## We might say that truth is a property of a proposition, just like any other. But, statements as objects, possessing properties, what others might it have? Spookiness, platonism
-## If (1/7=.142857) then absolute accuracy is not required for something to be true.
+## If (1/7=.142857) then absolute accuracy is not required for something to be true. we may say such a proposition illuminates a subset of its truth grounds;
