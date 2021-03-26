@@ -1,15 +1,30 @@
 const nextMonday = require ('date-fns/nextMonday');
 const startOfMonth = require ('date-fns/startOfMonth');
-const { format, eachDayOfInterval, lastDayOfISOWeek, addMonths  } = require('date-fns/fp');
+const { 
+	format, eachDayOfInterval, lastDayOfISOWeek, addMonths, 
+	differenceInCalendarDays,
+	formatDistance,
+} = require('date-fns/fp');
 const sanctuary = require ('sanctuary');
 const {env: flutureEnv} = require ('fluture-sanctuary-types');
 const Future = require ('fluture')
 const {parallel, fork} = Future
 const {
-	pipe, map, range, reduce, append, last, chain, Just, Maybe, sequence, tail,
-	filter, test,
+	pipe,
+	map,
+	range,
+	reduce,
+	append,
+	last,
+	chain,
+	Just,
+	Maybe,
+	sequence,
+	tail,
+	filter,
+	test,
 	splitOn,
-	joinWith
+	joinWith,
 } = sanctuary.create ({checkTypes: true, env: sanctuary.env.concat (flutureEnv)});
 const {writeFile} = require ('fs');
 const {readdir} = require ('fs/promises')
@@ -113,4 +128,9 @@ const fix = _ => {
 		.then(x => x.forEach(y => console.log(y)));
 };
 
-doThingGeneral (1) (new Date());
+const daysVegan = firstDay =>
+	differenceInCalendarDays (new Date(2016, 12, 17)) (new Date())
+
+	// console.log(daysVegan())
+
+// doThingGeneral (1) (new Date());
