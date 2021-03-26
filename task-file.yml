@@ -1,0 +1,11 @@
+- do: take b12
+  every:
+    single: day
+
+- do: water hydroponics
+  every:
+    single: sunday
+
+- do: change hydroponics debris filter
+  every:
+    second: month

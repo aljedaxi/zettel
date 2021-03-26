@@ -1,0 +1,400 @@
++### under liberalism, the citizen is relegated to the ideological aspects of governmental processes, while the happenings of the city are the realm of the beaurocracy
++### under liberalism, the citizen is relegated to the ideological aspects of governmental processes, while the
++### under liberalism, the citizen is relegated to the ideological aspects of governmental processes
++; it can be said that it when [[ideology]] entered the picture that the conversation became political.
++### under liberalism, the citizen is relegated to the ideological aspects of govermental processes
++## (the allegory of the anarchists and the miner strike) 
++; it can be said that it when ideology
++##
++https://logseq.github.io/#/page/block%20properties
++
++##
++## [[Democracy is common and robust historically and across the globe – David Stasavage | Aeon Essays]]
++
++>
++>
++> As an instrument of knowledge, machine learning is composed of an object to be observed (training dataset), an instrument of observation (learning algorithm) and a final representation (statistical model). The assemblage of these three elements is proposed here as a spurious and baroque diagram of machine learning, extravagantly termed Nooscope.
++> ...
++##
++### 
++> When Greta Thunberg warns ‘Listen to science.’ what she really means, being a good student of mathematics, is ‘Listen to the statistical models of climate science.’
++## 
++## put the written thing together with this: https://github.com/manubot/rootstock/blob/main/USAGE.md
++
++## nudism promises an escape
++### 
++## 
++## 
++
++## TODO go to reids to get a pen
++## TODO consolidate
++##
++## 
++> The Machinery Question was a debate that sparked in England during the industrial revolution, when the response to the employment of machines and workers’ subsequent technological unemployment was a social campaign for more education about machines, that took the form of the Mechanics’ Institute Movement
++> a paper from the European Trade Union Institute, which highlights ‘seven essential dimensions that future regulation should address in order to protect workers: 1) safeguarding worker privacy and data protection; 2) addressing surveillance, tracking and monitoring; 3) making the purpose of AI algorithms transparent; 4) ensuring the exercise of the ‘right to explanation’ regarding decisions made by algorithms or machine learning models; 5) preserving the security and safety of workers in human-machine interactions; 6) boosting workers’ autonomy in human–machine interactions; 7) enabling workers to become AI literate
++> - safeguarding worker privacy and data protection; 
++- safeguarding worker privacy and data protection; 
++- addressing surveillance, tracking and monitoring; 3) making the purpose of AI algorithms transparent; 4) ensuring the exercise of the ‘right to explanation’ regarding decisions made by algorithms or machine learning models; 5) preserving the security and safety of workers in human-machine interactions; 6) boosting workers’ autonomy in human–machine interactions; 7) enabling workers to become AI literate
++> a paper from the European Trade Union Institute, which highlights ‘seven essential dimensions that future regulation should address in order to protect workers: 
++- safeguarding worker privacy and data protection; 2) addressing surveillance, tracking and monitoring; 3) making the purpose of AI algorithms transparent; 4) ensuring the exercise of the ‘right to explanation’ regarding decisions made by algorithms or machine learning models; 5) preserving the security and safety of workers in human-machine interactions; 6) boosting workers’ autonomy in human–machine interactions; 7) enabling workers to become AI literate
++##
++## 
++> a paper from the European Trade Union Institute, which highlights ‘seven essential dimensions that future regulation should address in order to protect workers: 1) safeguarding worker privacy and data protection; 2) addressing surveillance, tracking and monitoring; 3) making the purpose of AI algorithms transparent; 4) ensuring the exercise of the ‘right to explanation’ regarding decisions made by algorithms or machine learning models; 5) preserving the security and safety of workers in human-machine interactions; 6) boosting workers’ autonomy in human–machine interactions; 7) enabling workers to become AI literate
++> The information flow of AI ... extract[s] ‘analytical intelligence’ from the most diverse forms of labour and ... ***transfer***[s] such intelligence into a machine
++## 
++> The information flow of AI has to be understood as an apparatus designed to extract ‘analytical intelligence’ from the most diverse forms of labour and to ***transfer*** such intelligence into a machine
++## The information flow of AI has to be understood as an apparatus designed to extract ‘analytical intelligence’ from the most diverse forms of labour and to transfer such intelligence into a machine (obviously including, within the definition of labour, extended forms of social, cultural and scientific production).
++## AI, as a generally rule, outsources what we might call knowledge work to labelers in the third world
++> Rather than studying only how technology works, critical inquiry studies also how it breaks, how subjects rebel against its normative control and workers sabotage its gears. In this sense, a way to sound the limits of AI is to look at hacking practices
++##
++##
++> The problems characteristic of the prediction of the new are logically related to those that characterise the generation of the new, because the way a machine learning algorithm predicts a trend on a time chart is identical to the way it generates a new artwork from learnt patterns ... ‘Can AI be creative?’ should be reformulated in technical terms: Is machine learning able to extrapolate beyond the stylistic boundaries of its training data? ... The ‘creativity’ of machine learning is limited to the detection of styles from the training data and then random improvisation within these styles ... it would be more accurate to term machine learning art as statistical art
++##
++> The problems characteristic of the prediction of the new are logically related to those that characterise the generation of the new, because the way a machine learning algorithm predicts a trend on a time chart is identical to the way it generates a new artwork from learnt patterns ... ‘Can AI be creative?’ should be reformulated in technical terms: is machine learning able to create works that are not imitations of the past? Is machine learning able to extrapolate beyond the stylistic boundaries of its training data? ... The ‘creativity’ of machine learning is limited to the detection of styles from the training data and then random improvisation within these styles ... it would be more accurate to term machine learning art as statistical art
++> The problems characteristic of the prediction of the new are logically related to those that characterise the generation of the new, because the way a machine learning algorithm predicts a trend on a time chart is identical to the way it generates a new artwork from learnt patterns ... ‘Can AI be creative?’ should be reformulated in technical terms: is machine learning able to create works that are not imitations of the past? Is machine learning able to extrapolate beyond the stylistic boundaries of its training data? ... The ‘creativity’ of machine learning is limited to the detection of styles from the training data and then random improvisation within these styles ...
++> The problems characteristic of the prediction of the new are logically related to those that characterise the generation of the new, because the way a machine learning algorithm predicts a trend on a time chart is identical to the way it generates a new artwork from learnt patterns ... ‘Can AI be creative?’ should be reformulated in technical terms: is machine learning able to create works that are not imitations of the past? Is machine learning able to extrapolate beyond the stylistic boundaries of its training data? ...
++## 
++> The problems characteristic of the prediction of the new are logically related to those that characterise the generation of the new, because the way a machine learning algorithm predicts a trend on a time chart is identical to the way it generates a new artwork from learnt patterns ...
++### creativity as the reconfiguration of the old into the novel; what aspects of novelty does this regime crush, and what paths does it open?
++##
++### [[the end of history]]
++##
++> the inability to recognise a **unique anomaly** that appears for the first time, such as ... an unusual obstacle (a pedestrian? a plastic bag?) on the road scenario. The **undetection of the new** (something that has never ‘been seen’ by a model and therefore never classified before in a known category) ... has already caused fatalities ... machine learning automates the dictatorship of the past ... termed the **regeneration of the old** ... the application of a homogenous space-time view that restrains the possibility of a new historical event
++> the inability to recognise a **unique anomaly** that appears for the first time, such as ... an unusual obstacle (a pedestrian? a plastic bag?) on the road scenario. The **undetection of the new** (something that has never ‘been seen’ by a model and therefore never classified before in a known category) ... has already caused fatalities ... machine learning automates the dictatorship of the past ... termed the **regeneration of the old** ...
++> the inability to recognise a **unique anomaly** that appears for the first time, such as ... an unusual obstacle (a pedestrian? a plastic bag?) on the road scenario. The **undetection of the new** (something that has never ‘been seen’ by a model and therefore never classified before in a known category) ... has already caused fatalities ... machine learning automates the dictatorship of the past ... termed the regeneration of the old
++> the inability to recognise a **unique anomaly** that appears for the first time, such as ... an unusual obstacle (a pedestrian? a plastic bag?) on the road scenario. The **undetection of the new** (something that has never ‘been seen’ by a model and therefore never classified before in a known category) ... has already caused fatalities ... machine learning automates the dictatorship of the past, of past taxonomies and behavioural patterns, over the present. This problem can be termed the regeneration of the old
++> the inability to recognise a **unique anomaly** that appears for the first time, such as ... an unusual obstacle (a pedestrian? a plastic bag?) on the road scenario. The **undetection of the new** (something that has never ‘been seen’ by a model and therefore never classified before in a known category) ... has already caused fatalities ...
++> the inability to recognise a unique anomaly that appears for the first time, such as ... an unusual obstacle (a pedestrian? a plastic bag?) on the road scenario. The **undetection of the new** (something that has never ‘been seen’ by a model and therefore never classified before in a known category) ... has already caused fatalities
++> the inability to recognise a unique anomaly that appears for the first time, such as ... an unusual obstacle (a pedestrian? a plastic bag?) on the road scenario. The undetection of the new (something that has never ‘been seen’ by a model and therefore never classified before in a known category) ... has already caused fatalities
++> the inability to recognise a unique anomaly that appears for the first time, such as ... an unusual obstacle (a pedestrian? a plastic bag?) on the road scenario. The undetection of the new (something that has never ‘been seen’ by a model and therefore never classified before in a known category) is a particularly hazardous problem for self-driving cars and one that has already caused fatalities
++## 
++> the inability to recognise a unique anomaly that appears for the first time, such as a new metaphor in poetry, a new joke in everyday conversation, or an unusual obstacle (a pedestrian? a plastic bag?) on the road scenario. The undetection of the new (something that has never ‘been seen’ by a model and therefore never classified before in a known category) is a particularly hazardous problem for self-driving cars and one that has already caused fatalities
++
++modalities
++###
++#### 
++> In DeepDream first experiments, bird feathers and dog eyes started to emerge everywhere as dog breeds and bird species are vastly overrepresented in ImageNet. It was also discovered that the category ‘dumbbell’ was learnt with a surreal human arm always attached to it.
++> In this [the generative] modality, the neural network is run backwards ... to generate new patterns after being trained at classifying them
++> In this [the generative] modality, the neural network is run backwards (moving from the smaller output layer toward the larger input layer) to generate new patterns after being trained at classifying them
++###
++### 
++> In this modality, the neural network is run backwards (moving from the smaller output layer toward the larger input layer) to generate new patterns after being trained at classifying them
++## 
++> Classification is known as pattern recognition, while prediction can be defined also as pattern generation ... A self-driving vehicle is trained to recognise different objects on the road ... and predict future actions based on decisions that a human driver has taken
++> Classification is known as pattern recognition, while prediction can be defined also as pattern generation ... A self-driving vehicle is trained to recognise different objects on the road ... and predict future actions based on decisions that a human driver has taken in similar circumstances
++> Classification is known as pattern recognition, while prediction can be defined also as pattern generation ... A self-driving vehicle is trained to recognise different objects on the road (people, cars, obstacles, signs) and predict future actions based on decisions that a human driver has taken in similar circumstances
++> Classification is known as pattern recognition, while prediction can be defined also as pattern generation ...
++## even if all the algorhithms are open sourced, nobody can read them; even if the datasets are open sourced, nobody can get the electricity to process them; openness is necessary for epistemic justice, but sufficiency is a cybernetic endeavor.
++##
++## even if all the algorhithms are open sourced, nobody can read them; even if the datasets are open sourced, nobody can get the electricity to process them; openness is necessary for epistemic justice,
++## even if all the algorhithms are open sourced, nobody can read them; even if the datasets are open sourced, nobody can get the electricity to process them;
++##
++### 
++> Classification is known as pattern recognition, while prediction can be defined also as pattern generation
++##
++### 
++> one trick of information compression is **dimensionality reduction**, which is used to avoid ... the exponential growth of the variety of features in the vector space ... categories that show low variance in the vector space ... are aggregated to reduce calculation costs ... but can also lead to **category reduction**, which can have an impact on the representation of social diversity
++###
++### one trick of information compression is **dimensionality reduction**, which is used to avoid ... the exponential growth of the variety of features in the vector space ... categories that show low variance in the vector space ... are aggregated to reduce calculation costs ... but can also lead to **category reduction**, which can have an impact on the representation of social diversity
++### one trick of information compression is dimensionality reduction, which is used to avoid ... the exponential growth of the variety of features in the vector space ... categories that show low variance in the vector space ... are aggregated to reduce calculation costs ... can also lead to category reduction, which can have an impact on the representation of social diversity
++### one trick of information compression is dimensionality reduction, which is used to avoid ... the exponential growth of the variety of features in the vector space ... categories that show low variance in the vector space ... are aggregated to reduce calculation costs. Dimensionality reduction can be used to cluster word meanings (such as in the model word2vec) but can also lead to category reduction, which can have an impact on the representation of social diversity
++### one trick of information compression is dimensionality reduction, which is used to avoid the Curse of Dimensionality, that is the exponential growth of the variety of features in the vector space. The dimensions of the categories that show low variance in the vector space (i.e. whose values fluctuate only a little) are aggregated to reduce calculation costs. Dimensionality reduction can be used to cluster word meanings (such as in the model word2vec) but can also lead to category reduction, which can have an impact on the representation of social diversity
++### For example, one trick of information compression is dimensionality reduction, which is used to avoid the Curse of Dimensionality, that is the exponential growth of the variety of features in the vector space. The dimensions of the categories that show low variance in the vector space (i.e. whose values fluctuate only a little) are aggregated to reduce calculation costs. Dimensionality reduction can be used to cluster word meanings (such as in the model word2vec) but can also lead to category reduction, which can have an impact on the representation of social diversity
++###
++> William Gibson’s original definition of cyberspace prophesized, most likely, the coming of a vector space rather than virtual reality: ‘A graphic representation of data abstracted from the banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding.’
++###
++##
++##
++> A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation ... To input a word into a neural network, the Word2vec technique ‘embeds’ it into a vectorial space that measures its distance from the other words in the corpus ... Two terms whose inferred positions are near one another in this space are equally similar semantically; these representations are said to be distributed: the vector of the concept ‘apartment’ ... will be similar to that of ‘house’ ...
++> A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation ... To input a word into a neural network, the Word2vec technique ‘embeds’ it into a vectorial space that measures its distance from the other words in the corpus ... Two terms whose inferred positions are near one another in this space are equally similar semantically; these representations are said to be distributed: the vector of the concept ‘apartment’ [-0.2, 0.3, -4.2, 5.1...] will be similar to that of ‘house’ [-0.2, 0.3, -4.0, 5.1...].
++> A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation ... To input a word into a neural network, the Word2vec technique ‘embeds’ it into a vectorial space that measures its distance from the other words in the corpus ...
++> A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation ... To input a word into a neural network, the Word2vec technique ‘embeds’ it into a vectorial space that measures its distance from the other words in the corpus ... The advantage of such a representation resides in ...
++> A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation ... To input a word into a neural network, the Word2vec technique ‘embeds’ it into a vectorial space that measures its distance from the other words in the corpus ... The advantage of such a representation
++> A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation ... To input a word into a neural network, the Word2vec technique ‘embeds’ it into a vectorial space that measures its distance from the other words in the corpus ...
++## 
++> A neural network requires the inputs of the calculator to take on the form of a vector. Therefore, the world must be coded in advance in the form of a purely digital vectorial representation.
++
++## similar to philosophy of science, philosophy of politics would be a questioning of ethical & epistemological that could limit antisocial politicking
++
++extrapolation
++
++interpolation
++###
++### 
++> machine learning simply maps a statistical distribution of numerical values and draws a mathematical function that hopefully approximates human comprehension
++
++overfitting
++
++underfitting
++If a model learns the training data too well, it recognises only exact matches of the original patterns and will overlook those with close similarities, ‘in the wild’. In this case, the model is overfitting, because it has meticulously learnt everything (including noise) and is not able to distinguish a pattern from its background
++###
++### 
++> A statistical model is said to be trained successfully when it can elegantly fit only the important patterns of the training data
++###
++### 
++> labour of perception
++## 
++## words
++> AI is a heavily compressed and distorted map ... without community access and community consent ... there is never territory per se, but always an act of territorialisation.
++> AI is a heavily compressed and distorted map of the territory and that this map, like many forms of automation, is not open to community negotiation. AI is a map of the territory without community access and community consent ... Post-colonial and post-structuralist schools of anthropology and ethnology have stressed that there is never territory per se, but always an act of territorialisation.
++## 
++> But what should be contested is that AI is a heavily compressed and distorted map of the territory and that this map, like many forms of automation, is not open to community negotiation. AI is a map of the territory without community access and community consent ... Post-colonial and post-structuralist schools of anthropology and ethnology have stressed that there is never territory per se, but always an act of territorialisation.
++> But what should be contested is that AI is a heavily compressed and distorted map of the territory and that this map, like many forms of automation, is not open to community negotiation. AI is a map of the territory without community access and community consent
++##
++
++## https://overreacted.io/before-you-memo/
++## https://www.etymonline.com/word/nature
++
++## over-complication is the over-introduction of expertise into a system considered simple
++## the difference between clear and complicated is the ability to find the best practice
++##
++> When Greta Thunberg warns ‘Listen to science.’ what she really means, being a good student of mathematics, is ‘Listen to the statistical models of climate science.’
++##
++## When Greta Thunberg warns ‘Listen to science.’ what she really means, being a good student of mathematics, is ‘Listen to the statistical models of climate science.’
++> the performance of ‘machine intelligence’ in this case can be measured also by the proportion between the size of training data and the trained algorithm (or model). ImageNet contains 14 million images with associated labels that occupy approximately 150 gigabytes of memory. On the other hand, Inception v3, which is meant to represent the information contained in ImageNet, is only 92 megabytes. The ratio of compression between training data and model partially describes also the rate of information diffraction
++##
++### 
++> Algorithm is the name of a process, whereby a machine performs a calculation. The product of such machine processes is a statistical model ... In the developer community, the term ‘algorithm’ is increasingly replaced with ‘model.’ ... This terminological confusion arises from the fact that the statistical model does not exist separately from the algorithm: somehow, the statistical model exists inside the algorithm under the form of distributed memory across its parameters ... The algorithm starts as a blank slate and, during the process called training, or ‘learning from data', adjusts its parameters until it reaches a good representation of the input data
++###
++##
++## 
++## language
++
++parameters and hyperparameters
++> Algorithm is the name of a process, whereby a machine performs a calculation. The product of such machine processes is a statistical model ... In the developer community, the term ‘algorithm’ is increasingly replaced with ‘model.’ ... This terminological confusion arises from the fact that the statistical model does not exist separately from the algorithm: somehow, the statistical model exists inside the algorithm under the form of distributed memory across its parameters
++> Algorithm is the name of a process, whereby a machine performs a calculation. The product of such machine processes is a statistical model ... In the developer community, the term ‘algorithm’ is increasingly replaced with ‘model.’
++##
++> For explanatory purposes, the Nooscope is described as a machine that operates on three modalities: training, classification, and prediction. In more intuitive terms, these modalities can be called: pattern extraction, pattern recognition, and pattern generation ... What a neural network computes, is not an exact pattern but the statistical distribution of a pattern. Just scraping the surface of the anthropomorphic marketing of AI, one finds another technical and cultural object that needs examination: the statistical model ... In terms of the work of demystification that needs to be done (also to evaporate some naïve questions), it would be good to reformulate the trite question ‘Can a machine think?’ into the theoretically sounder questions ‘Can a statistical model think?’, ‘Can a statistical model develop consciousness?’, et cetera.
++### 
++> Algorithm is the name of a process, whereby a machine performs a calculation. The product of such machine processes is a statistical model
++> For explanatory purposes, the Nooscope is described as a machine that operates on three modalities: training, classification, and prediction. In more intuitive terms, these modalities can be called: pattern extraction, pattern recognition, and pattern generation ... What a neural network computes, is not an exact pattern but the statistical distribution of a pattern. Just scraping the surface of the anthropomorphic marketing of AI, one finds another technical and cultural object that needs examination: the statistical model ... In terms of the work of demystification that needs to be done (also to evaporate some naïve questions), it would be good to reformulate the trite question ‘Can a machine think?’ into the theoretically sounder questions ‘Can a statistical model think?’, ‘Can a statistical model develop consciousness?’, et cetera ... Algorithm is the name of a process, whereby a machine performs a calculation. The product of such machine processes is a statistical model
++> For explanatory purposes, the Nooscope is described as a machine that operates on three modalities: training, classification, and prediction. In more intuitive terms, these modalities can be called: pattern extraction, pattern recognition, and pattern generation ... What a neural network computes, is not an exact pattern but the statistical distribution of a pattern. Just scraping the surface of the anthropomorphic marketing of AI, one finds another technical and cultural object that needs examination: the statistical model ... In terms of the work of demystification that needs to be done (also to evaporate some naïve questions), it would be good to reformulate the trite question ‘Can a machine think?’ into the theoretically sounder questions ‘Can a statistical model think?’, ‘Can a statistical model develop consciousness?’, et cetera.
++> For explanatory purposes, the Nooscope is described as a machine that operates on three modalities: training, classification, and prediction. In more intuitive terms, these modalities can be called: pattern extraction, pattern recognition, and pattern generation ... What a neural network computes, is not an exact pattern but the statistical distribution of a pattern. Just scraping the surface of the anthropomorphic marketing of AI, one finds another technical and cultural object that needs examination: the statistical model. What is the statistical model in machine learning? How is it calculated? What is the relationship between a statistical model and human cognition? These are crucial issues to clarify. In terms of the work of demystification that needs to be done (also to evaporate some naïve questions), it would be good to reformulate the trite question ‘Can a machine think?’ into the theoretically sounder questions ‘Can a statistical model think?’, ‘Can a statistical model develop consciousness?’, et cetera.
++## 
++> For explanatory purposes, the Nooscope is described as a machine that operates on three modalities: training, classification, and prediction. In more intuitive terms, these modalities can be called: pattern extraction, pattern recognition, and pattern generation
++##
++> Head of Facebook AI and godfather of convolutional neural networks Yann LeCun reiterates that current AI systems are not sophisticated versions of cognition, but rather, of perception
++##
++## 
++> ImageNet is a training dataset for Deep Learning that has become the de facto benchmark for image recognition algorithms ... anonymous workers from all over the planet were paid few cents per task to label hundreds of pictures per minute according to the WordNet taxonomy ... see the legitimation of the category ‘failure, loser, nonstarter, unsuccessful person’ for a hundred arbitrary pictures of people
++## 
++> ImageNet is a training dataset for Deep Learning that has become the de facto benchmark for image recognition algorithms ... anonymous workers from all over the planet were paid few cents per task to label hundreds of pictures per minute according to the WordNet taxonomy ...
++> ImageNet is a training dataset for Deep Learning that has become the de facto benchmark for image recognition algorithms ...
++##
++> knowledge economy
++##
++## 
++## the optical instrument acted as knowledge magnification insofar as it expanded the realm of digestible data; [thence, equivalence classes].
++> knowledge economy
++##
++## https://digest.bps.org.uk/2021/03/08/longer-interview-shortlists-could-help-women-advance-in-male-dominated-industries/
++##
++> The arms race of AI companies is, still today, concerned with finding the simplest and fastest algorithms with which to capitalise data. If information compression produces the maximum rate of profit in corporate AI, from the societal point of view, it produces discrimination and the loss of cultural diversity.
++##
++## the statistical model is a means by which representations of the world can be created. just as a lens can be moved about to represent different worlds in different eyes, the model may be used to represent any input.
++## the statistical model is a means by which representations of the world can be created.
++## the statistical model is
++##
++##
++## 
++> In the same way that the lenses of microscopes and telescopes are never perfectly curvilinear and smooth, the logical lenses of machine learning embody faults and biases. To understand machine learning ... is to study the degree by which social data are diffracted and distorted by these lenses.
++## 
++> As an instrument of knowledge, machine learning is composed of an object to be observed (training dataset), an instrument of observation (learning algorithm) and a final representation (statistical model). The assemblage of these three elements is proposed here as a spurious and baroque diagram of machine learning, extravagantly termed Nooscope.
++##
++> In the same way that the lenses of microscopes and telescopes are never perfectly curvilinear and smooth, the logical lenses of machine learning embody faults and biases. To understand machine learning and register its impact on society is to study the degree by which social data are diffracted and distorted by these lenses.
++##
++## the optical instrument acted as knowledge magnification insofar as it expanded the realm of digestible data; thence, equivalence classes.
++## the optical instrument acted as knowledge magnification insofar as it expanded the realm of digestible equivalence classes;
++## the optical instrument acted as knowledge magnification insofar as it expanded the realm of digestible data: thence,
++## the optical instrument acted as knowledge magnification insofar as it expanded the realm of ingestible data: thence,
++## the optical instrument acted as knowledge magnification insofar as it
++
++##
++## [[The Nooscope Manifested]]
++
++## what is it to [[measure]] [[alethia]]? just as one measures the temperature of the air, one measures the truth of a proposition.
++## We might say that truth is a property of a proposition, just like any other. But, statements as objects, possessing properties, what others might it have? Spookiness, platonism
++## If (1/7=.142857) then absolute accuracy is not required for something to be true.
++__0__4 must be purposeful.
++__0__4 must be purposeful. It must have a purpose, and the marks of that purpose—which differentiate the writer of 04 the writer of 4—differentiate the intended meaning, the intended pronunciation of 04.
++**0**4 must be purposeful. It must have a purpose, and the marks of that purpose—which differentiate the writer of 04 the writer of 4—differentiate the intended meaning, the intended pronunciation of 04.
++## 04 is not pronounced 4—nor understood as 4—but rather, is understood to stand in opposition to 4,to gain an independent meaning in not being 4.
++04 must be purposeful. It must have a purpose, and the marks of that purpose—which differentiate the writer of 04 the writer of 4—differentiate the intended meaning, the intended pronunciation of 04.
++## 04 is not pronounced 4—nor understood as 4—but rather, is understood to stand in opposition to 4,to gain an independent meaning in not being 4,as it would be easier to simply write 4.to write 04 must be purposeful. It must have a purpose, and the marks of that purpose—which differentiate the writer of 04 the writer of 4—differentiate the intended meaning, the intended pronunciation of 04.
++## 04 is not simply said 4—not simply understood to be 4—but rather, is understood to stand in opposition to 4,to gain an independent meaning in not being 4,as it would be easier to simply write 4.to write 04 must be purposeful. It must have a purpose, and the marks of that purpose—which differentiate the writer of 04 the writer of 4—differentiate the intended meaning, the intended pronunciation of 04.
++## if this sentence is false, then it is true
++
++```js
++const eval = p => !p;
++```
++
++## 
++### https://psyche.co/ideas/there-has-never-been-a-time-when-this-article-didnt-exist
++##
++
++## typeform is cool
++## what is it to mean something? 
++## https://psyche.co/guides/how-to-approach-the-lifelong-project-of-language-learning
++## https://psyche.co/guides/how-to-approach-the-lifelong-project-of-language-learning?utm_source=Psyche+Magazine&utm_campaign=6fa8a891e6-EMAIL_CAMPAIGN_2021_03_09_05_33&utm_medium=email&utm_term=0_76a303a90a-6fa8a891e6-71314704
++﻿---
++## DONE make the email column wider
++## DONE what should changing the user's email do?
++## DONE refill hydroponics
++﻿---
++
++## TODO https://material-ui.com/components/dialogs/#scrolling-long-content
++## TODO don't need to install node in the CI script
++## TODO clean humidifier
++## TODO there's a bug with avatars when you change account
++## TODO materialize the catalog import list
++## DONE get the date formatter from the deals list
++﻿---
++
++## research:
++- https://aramse.coffee/recipe/
++- https://aeroprecipe.com/recipes/2014-wac-1st-place
++- https://json-ld.org/
++## View:
++- https://github.com/netzwerg/react-svg-timeline
++- https://github.com/steven-mercatante/react-timeline
++- https://github.com/stephane-monnot/react-vertical-timeline
++- https://github.com/sherubthakur/react-horizontal-timeline
++- https://github.com/ericdfields/react-timeline-component
++﻿---
++## https://when-then-zen.christine.website/skills/
++﻿---
++## TODO process a political text
++## 
++> two different senses of the word “cosmopolitics”: cosmopolitics as a commercial regime, and cosmopolitics as a politics of nature
++## 
++> The earth and the cosmos have been transformed into a gigantic technological system ... The loss of the cosmos is the end of metaphysics in the sense that we no longer perceive anything behind or beyond the perfection of science and technology ... cosmo-politics ... in the sense of cosmopolitanism but also in the sense of a politics of the cosmos ... in order to develop such a cosmopolitics it is necessary to elucidate the question of cosmotechnics
++## 
++> Thesis: Technology is an anthropological universal, understood as an exteriorization of memory and the liberation of organs, as some anthropologists and philosophers of technology have formulated it;
++##
++> Antithesis: Technology is not anthropologically universal; it is enabled and constrained by particular cosmologies, which go beyond mere functionality or utility. Therefore, there is no one single technology, but rather multiple cosmotechnics.
++> Rémi Brague calls the “death of the cosmos”:
++
++> > The new astronomy, following Copernicus and his successors, had consequences for the modern view of the world … Ancient and medieval thinkers presented a synchronic schema of the structure of the physical world, which erased the traces of its own genesis; the Moderns, on the other hand, remembered the past and in addition provided a diachronic view of astronomy—as if the evolution of ideas about the cosmos was even more important than the truth about it … Can we still speak of cosmology? It seems that the West ceased to have a cosmology with the end of the world of Aristotle and Ptolemy, an end due to Copernicus, Galileo, and Newton. The “world” then no longer formed a whole.16
++## 
++> Descola has convincingly outlined four major ontologies, namely naturalism, animism, totemism, and analogism.23 The modern is characterized by what he calls “naturalism,” meaning an opposition between culture and nature, and the former’s mastery over the latter... for example, in animism the role of nature is based on the continuity of spirituality, despite the discontinuity of physicality ... Descola has proposed an ontological pluralism that is irreducible to social constructivism ... Central to the anthropologists’ concept of “nature” and “ontology” is cosmology, since such “nature” is defined according to different “ecologies of relations” in which we observe different constellations of relations, e.g., the parental relation between females and vegetables, or brotherhood between hunters and animals. These multi-ontologies are expressed as multi-natures; for example, Descola’s four above-named ontologies correspond to different cosmological views.
++## 
++> left intellectuals who feel the need to extol indigenous ontology or biology as a way out of modernity. A French revolutionary thinker recently described this situation thus:
++
++> > A funny thing to see these days is how all these absurd modern leftists, all unable to see anything, all lost in themselves, all feeling so bad, all desperately trying to exist and to find their existence in the eyes of the Other—how all these people are jumping on the “savage,” the “indigenous,” the “traditional” in order to escape and not face themselves. I am not speaking of being critical towards one’s “whiteness,” towards one’s “modernism.” I am talking of the ability to peer inside [transpercer] oneself.
++
++> ... The restoration of “indigenous natures” itself has to first be questioned, not because it doesn’t exist but because it is situated in a new epoch and is transformed to the extent that there is hardly any way to go back and restore it
++## Cosmotechnics
++
++> Let me give you a preliminary definition of cosmotechnics: it is the unification of the cosmos and the moral through technical activities, whether craft-making or art-making. There hasn’t been one or two technics, but many cosmotechnics. What kind of morality, which and whose cosmos, and how to unite them vary from one culture to another according to different dynamics.
++###
++> ... If the essence of technē is poiesis, ... modern technology, a product of European modernity, no longer possesses the same essence as technē but is rather an “enframing” (Gestell) apparatus, ... all beings become standing reserves (Bestand) for it. Heidegger doesn’t totalize these two essences of technics, but nor does he give space to other technics, as if there is only a single homogenous Machenschaft after the Greek technē, one that is calculable, international, even planetary.
++###
++> The unification of Qi and Dao is also the unification of the moral and the cosmic, since Chinese metaphysics is fundamentally a moral cosmology or a moral metaphysics
++#### 
++> Dao is simply said to be “above forms,” while Qi is what is “below forms.”
++
++> Pao Ding is excellent at butchering cows. He claims that the key to being a good butcher doesn’t lie in mastering certain skills, but rather in comprehending the Dao. Replying to a question from Duke Wen Huei about the Dao of butchering cows, Pao Ding points out that having a good knife is not necessarily enough; it is more important to understand the Dao in the cow, so that one does not use the blade to cut through the bones and tendons, but rather to pass alongside them in order to enter into the gaps between them. Here, the literal meaning of “Dao”—“way” or “path”—meshes with its metaphysical sense:
++
++> > What I love is Dao, which is much more splendid than my skill. When I first began to carve a bullock, I saw nothing but the whole bullock. Three years later, I no longer saw the bullock as a whole but in parts. Now I work on it by intuition and do not  look at it with my eyes. My visual organs stop functioning while my intuition goes its own way. In accordance with the principle of heaven (nature), I cleave along the main seams and thrust the knife into the big cavities. Following the natural structure of the bullock, I never touch veins or tendons, much less the big bones!32
++
++> a good butcher doesn’t rely on the technical objects at his disposal, but rather on Dao, since Dao is more fundamental than Qi (the tool)
++
++> Duke Wen Huei, who had posed the question, replies that “having heard from Pao Ding, now I know how to live”; and indeed, this story is included in a section titled “Master of Living.” It is thus the question of “living,” rather than that of technics, that is at the center of the story. If there is a concept of “technics” here, it is one that is detached from the technical object: although the technical object is not without importance, one cannot seek the perfection of technics through the perfection of a tool or a skill, since perfection can only be accomplished by Dao. Pao Ding’s knife never cuts tendons or bones; instead, it seeks the void and enters it with ease. In so doing, the knife accomplishes the task of butchering the cow without endangering itself—i.e., without becoming blunt and needing to be replaced. It thus fully realizes itself as a knife.
++## 
++> This verdict anticipates technological globalization as a form of neocolonization that imposes its rationality through instrumentality, like what we observe in transhumanist, neoreactionary politics ... since I believe that to overcome modernity without falling back into war and fascism, it is necessary to reappropriate modern technology through the renewed framework of a cosmotechnics consisting of different epistemologies and epistemes ... To reopen the question of technology is to refuse this homogeneous technological future that is presented to us as the only option
++
++##
++## [[Cosmotechnics as Cosmopolitics]]
++
++## research:
++- https://aramse.coffee/recipe/
++- https://aeroprecipe.com/recipes/2014-wac-1st-place
++- https://json-ld.org/
++##
++- https://material-ui.com/components/timeline/
++
++## View:
++-
++## [psychology of programming interest group](https://www.ppig.org/papers/)
++### http://www.english.hawaii.edu/criticalink/heidegger/guide1.html
++> If, however, we seek communication with the slip box, we must seek internal possibilities for linkings which result in the unexpected (i.e. information). We could try to generalize the experiences of Paris, Florence, New York under general concepts like “art” or “exhibitions,” or “crowding” (inter-actionistic), or “mass,” or “freedom” or “education,” in order to see how the slip box reacts. Usually it is more fruitful to look for formulations of problems that relate heterogeneous things with each other.
++## 
++> In any case, communication becomes more fruitful when we succeed to activate the internal network of links at the occasion of writing notes or making queries. ... The slip box provides combinatorial possibilities which were never planned ... the internal horizons of selection and comparisons are not identical with schema of searching for them.
++##
++> Every note is only an element which receives its quality only from the network of links and back-links within the system.
++> we must give up the idea in preparing a card index that there should be privileged places or slips that have a special quality of guaranteeing knowledge. Every note is only an element which receives its quality only from the network of links and back-links within the system.
++## 
++> we must give up the idea in preparing a card index that there should be privileged places or slips that have a special quality of guaranteeing knowledge Every note is only an element which receives its quality only from the network of links and back-links within the system.
++> Every note is only an element which receives its quality only from the network of links and back-links within the system.
++##
++> It proves to be similar to our own memory in that it does not have a thoroughly constructed order of its entirety, not hierarchy, and most certainly no linear structure like a book.
++##
++[[coffee without]] ; [[protocol feminism]]
++## 
++> For communication, we do not have to presuppose that both parties use the same comparative schema. **The effect of surprise even increases when this is not the case and when we believe that a message means something (or is useful) against the background of other possibilities**.
++[[coffee without]]
++> Put differently, the variety in communicating systems increases when it may happen that the two partners successfully communicate in the face of different comparative goals. (This means that it is useful for the other partner.) 
++##
++> For communication, we do not have to presuppose that both parties use the same comparative schema. The effect of surprise even increases when this is not the case and when we believe that a message means something (or is useful) against the background of other possibilities. Put differently, the variety in communicating systems increases when it may happen that the two partners successfully communicate in the face of different comparative goals. (This means that it is useful for the other partner.) 
++> This requires the addition of randomness (Zufall) into the system—randomness in the sense that the agreement of the different comparative schemata is not been fixed, or that the information which is transmitted by communication is correct, but rather that this happens (or does not happen) “at the occasion” of communication.
++##
++> Information is an intra-systematic event. It results when one compares one message or entry with regard to other possibilities. Information, accordingly, originates only in systems which possess a comparative schema—even if this amounts only to: “this or something else.” 
++> For communication, we do not have to presuppose that both parties use the same comparative schema. The effect of surprise even increases when this is not the case and when we believe that a message means something (or is useful) against the background of other possibilities. Put differently, the variety in communicating systems increases when it may happen that the two partners successfully communicate in the face of different comparative goals. (This means that it is useful for the other partner.) This requires the addition of randomness (Zufall) into the system—randomness in the sense that the agreement of the different comparative schemata is not been fixed, or that the information which is transmitted by communication is correct, but rather that this happens (or does not happen) “at the occasion” of communication.
++> Information is an intra-systematic event. It results when one compares one message or entry with regard to other possibilities. Information, accordingly, originates only in systems which possess a comparative schema—even if this amounts only to: “this or something else.” For communication, we do not have to presuppose that both parties use the same comparative schema. The effect of surprise even increases when this is not the case and when we believe that a message means something (or is useful) against the background of other possibilities. Put differently, the variety in communicating systems increases when it may happen that the two partners successfully communicate in the face of different comparative goals. (This means that it is useful for the other partner.) This requires the addition of randomness (Zufall) into the system—randomness in the sense that the agreement of the different comparative schemata is not been fixed, or that the information which is transmitted by communication is correct, but rather that this happens (or does not happen) “at the occasion” of communication.
++## 
++> Information is an intra-systematic event. It results when one compares one message or entry with regard to other possibilities. Information, accordingly, originates only in systems which possess a comparative schema—even if this amounts only to: “this or something else.” For communication, we do not have to presuppose that both parties use the same comparative schema.
++> It is impossible to think without writing; at least it is impossible in any sophisticated or networked (anschlußfähig) fashion
++##
++
++##
++## [[Communicating with Slip Boxes]]
++
++
++## & the [[occult]]
++- [dark marxism](https://ianwrightsite.wordpress.com/about/)
++## [[programming links]]
++## TODO read [introduction to algorithms](https://mitpress.mit.edu/books/introduction-algorithms-second-edition)
++
++## 
++## TODO read [lessons learned in software testing](https://www.wiley.com/en-ca/Lessons+Learned+in+Software+Testing%3A+A+Context+Driven+Approach-p-9780471081128)
++
++## 
++## TODO https://www.wiley.com/en-ca/Lessons+Learned+in+Software+Testing%3A+A+Context+Driven+Approach-p-9780471081128
++##
++
++## 
++## another framework: [SEPIO](https://ohsu.pure.elsevier.com/en/publications/sepio-a-semantic-model-for-the-integration-and-analysis-of-scient)
++## another framework: https://ohsu.pure.elsevier.com/en/publications/sepio-a-semantic-model-for-the-integration-and-analysis-of-scient
++##
++## TODO each file should have a little header, with a link to the entry in the individual's zotero collection
++##
++## TODO each file should have a little header
++> Synthesis notes can also be composed into more complex structures (such as arguments or theories or models) through relations with other synthesis notes that vary in complexity from simple "relates to", to implication/explanation and support/opposition.
++[source](https://oasislab.pubpub.org/pub/54t0y9mk/release/2#43grwydpx3)
++##
++## entities with the same logical form are an [[equivalence class]][source](https://oasislab.pubpub.org/pub/54t0y9mk/release/2#zvhrkk11xf)
++[source](https://oasislab.pubpub.org/pub/54t0y9mk/release/2#data-model)
++Question 
++Synthesis 
++Observation 
++Context snippet 
++##
++## “Data model”
++
++In this model, we create and update four basic kinds of entities in the synthesis process: 
++
++Question notes, which express an open research question,
++
++Synthesis notes, which express a single, generalized idea, such as a claim,
++
++Observation notes, which express a single, highly contextualized and specific observation that, together with other observation notes, can form the basis of a synthesis note, and
++
++Context snippet notes, which help to ground and contextualize observation notes.
++git pull
++
++##
++## [[Knowledge synthesis]]
++
++
++git pull
++sh ./commit-everything-xd.sh
