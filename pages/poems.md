@@ -556,6 +556,16 @@ of the blue eyed beast.
 warm in my embrace
 till we both turn to ash
 in the sun's icy case
+## I HATE POETRY:
+### 
+```
+________padded,    sullen,     white;
+    the ground, the cloud, the breeze,
+                          drag
+         sound      less        ly     inward
+  and the skin   drags     the spirit
+  screaming      down     to the fire.
+```
 ## Noise shows:
 ### 
 ```
