@@ -8,4 +8,4 @@ title: inventory systems
 - whence you order the item
 - how many are in the pack
 - how long something keeps
--
+- at any given time, you should be able to create a report relative to the places you order from, saying how much you need whence
