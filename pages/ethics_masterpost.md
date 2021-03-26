@@ -19,3 +19,4 @@ is a function of
   - people, actions, intentions, effects
 - define the measure of those things
   - pleasure, virtue, culture, liberty, power
+##
