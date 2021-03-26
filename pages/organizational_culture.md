@@ -52,14 +52,11 @@ https://www.pluralpride.com/playbook
 :PROPERTIES:
 :todo: 1612816514511
 :END:
+## TODO how can we reward speaking up
+:PROPERTIES:
+:todo: 1616740319991
+:END:
 ## https://mailchi.mp/infinite/remote
 ## https://digest.bps.org.uk/2021/03/08/longer-interview-shortlists-could-help-women-advance-in-male-dominated-industries/
-## DONE write the wednesday bot opt out message
-:PROPERTIES:
-:todo: 1612395042552
-:done: 1612855847429
-:END:
-Hello everyone! The original goal of the Company Culture Committee was to help us maintain and improve our culture as we scale. While Happy Hours have been good for keeping us connected on a group level, we've been looking into ways to foster more individual connection. On this note, i've written a slack bot that will connect two random people in the company for a short, off topic conversation. We hope that, in leau of The Water Cooler---and in the wake of the pandemic---we can make our work lives a little more human.
-Everyone who's in this server and the employee directory (https://xmentium.atlassian.net/wiki/spaces/XGen/pages/21692417/Employee+Directory) is in the pool by default. If you'd like to opt out, please DM either Tiffany, Kimio, Seth or I. Meetings are on Wednesdays at !i forget the time >~<!. See one of you then!
 ## [on the question of longevity](https://psyche.co/ideas/what-it-takes-to-run-a-book-club-for-more-than-half-a-century)
 ##
