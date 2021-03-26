@@ -1,6 +1,6 @@
 ---
 title: lichtung
-alias: clearing, obscuring
+alias: clearing, obscuring, illuminates
 ---
 
 ## RAW NOTES:
