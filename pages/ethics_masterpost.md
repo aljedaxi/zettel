@@ -11,4 +11,8 @@ title: ethics masterpost
 #### at the core of this is the separation of humanity from the world
 ## *local*, *natural*, *sustainable* aren't & cannot be intrinsically good, axiomatically ethical. they must be explained in terms.
 ## That which is *desirable* isn't desired: the implantation of one's desires into the superego of another.
+## Evil 
+
+is a function of
+: attacking innocence
 ## [[hedonism]]

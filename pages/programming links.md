@@ -15,6 +15,9 @@ charts:
 3d:
 - [[3d webdev]]
 
+internationalization:
+- https://formatjs.io/
+
 [[game making]]
 ## [[text markup]]
 ## https://storybook.js.org/

@@ -1,4 +1,4 @@
-﻿---
+---
 title: meditation megapost
 ---
 
@@ -8,3 +8,4 @@ title: meditation megapost
 when you can hone your focus on one part of your body, you're ready
 ### hold focus on the tip of the nose
 ## https://when-then-zen.christine.website/skills/
+## In another [study](https://behavioralandbrainfunctions.biomedcentral.com/articles/10.1186/1744-9081-10-9), a collaborative team of neuroscientists and psychologists at Dalian University of Technology in China and the University of Oregon in the US tested participants on divergent thinking tests before and after short-term meditation (30 minutes per day for seven days). The control group practised relaxation for the same duration. The researchers found that creativity can be significantly enhanced by meditation.
