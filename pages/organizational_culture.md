@@ -59,4 +59,3 @@ https://www.pluralpride.com/playbook
 ## https://mailchi.mp/infinite/remote
 ## https://digest.bps.org.uk/2021/03/08/longer-interview-shortlists-could-help-women-advance-in-male-dominated-industries/
 ## [on the question of longevity](https://psyche.co/ideas/what-it-takes-to-run-a-book-club-for-more-than-half-a-century)
-##
