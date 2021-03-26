@@ -14,4 +14,6 @@ title: ethics masterpost
 
 is a function of
 : attacking innocence
-## there are ethical
+## there are ethics which
+- define the set of things which are ethical
+- - people, actions, intentions, effects,
