@@ -14,4 +14,4 @@ alias: alethia
 ## We might say that truth is a property of a proposition, just like any other. But, statements as objects, possessing properties, what others might it have? Spookiness, platonism
 ## If (1/7=.142857) then absolute accuracy is not required for something to be true. we may say such a proposition [[illuminates]] a subset of its truth grounds; that it is [[correct but not true]]; that it is barely accurate enough to be true.
 
-the epistemological system we use to divide truths from falsities takes on a decidedly moral character when used to discipline students, &c.
+the epistemological system we use to divide truths from falsities takes on a decidedly moral character when used to—eg—discipline students.
