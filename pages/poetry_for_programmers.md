@@ -3,7 +3,7 @@ title: poetry for programmers
 ---
 
 ## snippets
-###
+### ... thereby we shall construct a series of numbered propositions—in the style of 20th century's most esteemed mystical poet, Ludwig Wittgenstein— to act as a table of contents, and a scaffolding 4 further conversation.
 ## outline
 ###
 ### read Cummings
