@@ -18,4 +18,8 @@ alias: clearing, obscuring, illuminates
 :todo: 1613597066092
 :END:
 ## [[clarity]] $$\equiv$$ [[lichtung]]
+## 
+> is this social situation a door or a window or a wall? 
+> how do we bring this thing (this social dynamic) into the clearing?
+Tiffany
 ##
