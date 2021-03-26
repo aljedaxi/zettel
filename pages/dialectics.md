@@ -11,3 +11,4 @@ title: dialectics
 ## while Plato uses Socrates as a character to prove philosophical points, Socrates does the same thing with all his interlocutors.
 #### the platonic and socratic projects always have ends (Good) in sight: and all the men and women—even the philosophers—are merely players.
 #### dialectic is never an open hearted search for truth, but somebody birthing their truth in another's head
+## thinking is dialectical in nature; all thinking is a bouncing around of ideas
