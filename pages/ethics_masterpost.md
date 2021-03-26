@@ -19,4 +19,7 @@ is a function of
   - people, actions, intentions, effects
 - define the measure of those things
   - pleasure, virtue, culture, liberty, power
+## Nietzschean ethics should be understood relative to the Kantian:
+in which everyone is an end in themselves. »What is great in man«, says Nietzsche,» is that he is a bridge
+»and not an end«
 ##
