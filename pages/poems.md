@@ -552,3 +552,7 @@ And does the passages soothe?
 of the [pink petalled peaks]
 So sang the sight
 of the blue eyed beast.
+## i would die to keep you
+warm in my embrace
+till we both turn to ash
+in the sun's icy case
