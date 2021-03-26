@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Tractatus Logico-Philosophicus]]
+
 ## [[The Falcondale Collection]]
 
 ## [[Democracy is common and robust historically and across the globe]]
