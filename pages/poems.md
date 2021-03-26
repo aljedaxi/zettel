@@ -556,3 +556,11 @@ of the blue eyed beast.
 warm in my embrace
 till we both turn to ash
 in the sun's icy case
+## Noise shows:
+### spearhead on skin, screech-
+ skrying the sands ; through the hands
+         through the ear, seep-ing
+                 slippppppppppping, thr
+            ougn     sand.
+  scratching———say?—scraping:—away—
+       leaving:sand.
