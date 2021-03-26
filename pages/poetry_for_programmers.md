@@ -69,8 +69,6 @@ and again, in terms of code
 ### an exploration of how we can apply that to the act of programming
 #### what is the act of programming?
 ## the [[abstraction]] talk
-## [psychology of programming interest group](https://www.ppig.org/papers/)
-## put the written thing together with this: https://github.com/manubot/rootstock/blob/main/USAGE.md
 ## Skeleta:
 ### Poetry as raw language work
 - the form of the coder, techne
