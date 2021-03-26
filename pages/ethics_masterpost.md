@@ -22,4 +22,3 @@ is a function of
 ## Nietzschean ethics should be understood relative to the Kantian:
 in which everyone is an end in themselves. »What is great in man«, says Nietzsche,» is that he is a bridge
 »and not an end«
-##
