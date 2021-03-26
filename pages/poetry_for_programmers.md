@@ -29,7 +29,7 @@ title: poetry for programmers
 #### simultaneous hyperfetishization of writing with disparagement of the humanities
 ##### i would like to kill the concept of the code-base, 
 to limit talk away from code and towards: _____
-###### don't repeat *your*self**
+###### don't repeat *your_self_*
 ##### the codebase should be a [[picture]] of the problem space
 ###### code is a [[representation]] of your understanding of the problem
 code that you refactor is code that represents an old understanding
