@@ -14,4 +14,4 @@ title: ethics masterpost
 
 is a function of
 : attacking innocence
-##
+## there are ethical
