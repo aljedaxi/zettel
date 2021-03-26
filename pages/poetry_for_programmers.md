@@ -42,6 +42,8 @@ the act of refactoring is recognizing this staleness
 ### me and my friend have the same problem: the arches of our feet de-arch-ify. we've both found the same solution: walking digitigrade. and i know for me, i've gained a strange appreciation for a distinguished feminine elegance; perhaps not because of it, but certainly not in spite of it.
 ### ((600846c6-7b2b-4df2-94b3-12896937d075))
 ## https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/
+## [psychology of programming interest group](https://www.ppig.org/papers/)
+## put the written thing together with this: https://github.com/manubot/rootstock/blob/main/USAGE.md
 ## "a loop is a way of doing one thing over and over again. if it is infact one thing, you should be able to express it as a quantum of computation: a function."
 ### [[the allegory of the one thing]]
 ## https://reactpodcast.simplecast.com/episodes/82
