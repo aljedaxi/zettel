@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Understanding "Taming the Meta Language"]]
+
 ## [[Things that are not strings]]
 
 ## [[Tractatus Logico-Philosophicus]]
@@ -31,9 +33,5 @@ title: Zotero Bibliography
 ## [['Natural' healing is metaphysically incoherent but valuable]]
 
 ## [[Behavioral insights]]
-
-## [[User friendly]]
-
-## [[How to take smart notes]]
 
 
