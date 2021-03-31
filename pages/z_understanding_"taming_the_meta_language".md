@@ -21,4 +21,4 @@ title: Understanding "Taming the Meta Language"
 the techne becomes consumed by the tool itself
 ### The end of the [[Tractatus Logico-Philosophicus]] ; the meaningful things that your language cannot express
 ### how do we take the beetle out of the box?
-##
+### and what happens when you've gotten all of those things wrong? what happens when you forget all those things, when you forget about being?
