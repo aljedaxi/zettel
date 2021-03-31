@@ -14,5 +14,6 @@ title: Understanding "Taming the Meta Language"
 > because UI is a hard problem?
 ##
 > it used to be that an iterator was a metalanguage design pattern, but it's now a language pattern
-## 
+##
 > as long as these things are meta, they're "lossy", they're "fuzzy"
+## the techne becomes consumed by the tool itself
