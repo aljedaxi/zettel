@@ -20,3 +20,4 @@ title: Understanding "Taming the Meta Language"
 > the philosophy is kinda lossy ... what you do is you bake it into the language
 the techne becomes consumed by the tool itself
 ### The end of the [[Tractatus Logico-Philosophicus]] ; the meaningful things that your language cannot express
+### how do we take the beetle out of the box?
