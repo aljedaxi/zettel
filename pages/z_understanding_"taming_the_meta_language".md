@@ -10,3 +10,6 @@ title: Understanding "Taming the Meta Language"
 ##
 > nobody has trouble writing a react component, but everyone has trouble convincing their boss why that component is important?
 ##
+> why is there a conference on react, but not on lodash?
+> because UI is a hard problem?
+##
