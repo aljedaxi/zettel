@@ -4,6 +4,7 @@ const {
 	format, eachDayOfInterval, lastDayOfISOWeek, addMonths, 
 	differenceInCalendarDays,
 	formatDistance,
+	startOfISOWeek,
 } = require('date-fns/fp');
 const sanctuary = require ('sanctuary');
 const {env: flutureEnv} = require ('fluture-sanctuary-types');
@@ -38,7 +39,7 @@ const weeklyTasks = [
 	[],
 	[],
 	[],
-	['water hydroponics'],
+	['water hydroponics', 'generate tasks for next week'],
 ];
 const biMonthlyTasks = ['change hydroponics debris filter'];
 
@@ -98,6 +99,14 @@ const doBiMonthlyThigns = howMany => today => {
 	return fromMaybe ([]) (mfiles);
 };
 
+const doThingForThisWeek = howMany => today => {
+	const firstDayOfNextWeek = startOfISOWeek (today);
+	const daysOfWeek = eachDayOfInterval(
+		{start: firstDayOfNextWeek, end: lastDayOfISOWeek (firstDayOfNextWeek)}
+	);
+	console.log('daysOfWeek', daysOfWeek);
+	return map (day => makeFile ([...daylyTasks, ...weeklyTasks[format ('i') (day)]]) (day)) (daysOfWeek);
+}
 const doThingForNextWeek = howMany => today => {
 	const firstDayOfNextWeek = nextMonday (today);
 	const daysOfWeek = eachDayOfInterval(
@@ -133,4 +142,4 @@ const daysVegan = firstDay =>
 
 	// console.log(daysVegan())
 
-// doThingGeneral (1) (new Date());
+doThingGeneral (1) (new Date());

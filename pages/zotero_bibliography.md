@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Things that are not strings]]
+
 ## [[Tractatus Logico-Philosophicus]]
 
 ## [[The Falcondale Collection]]
