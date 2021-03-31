@@ -16,4 +16,6 @@ title: Understanding "Taming the Meta Language"
 > it used to be that an iterator was a metalanguage design pattern, but it's now a language pattern
 ##
 > as long as these things are meta, they're "lossy", they're "fuzzy"
-## the techne becomes consumed by the tool itself
+## 
+> the philosophy is kinda lossy ... what you do is you bake it into the language
+the techne becomes consumed by the tool itself
