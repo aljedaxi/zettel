@@ -13,3 +13,5 @@ title: Understanding "Taming the Meta Language"
 > why is there a conference on react, but not on lodash?
 > because UI is a hard problem?
 ##
+> it used to be that an iterator was a metalanguage design pattern, but it's now a language pattern
+##
