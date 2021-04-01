@@ -24,4 +24,6 @@ the techne becomes consumed by the tool itself
 ### and what happens when you've gotten all of those things wrong? what happens when you forget all those things, when you forget about being?
 ##
 > Wouldn’t it be great if JavaScript natively supported immutable data types and type annotations so that these constraints could be expressed in the code itself?
-### OH SO YOU CAN JUST GO LIKE >?>>>>> GIVE ME THIS IMMUTABLE DATA TYPE AND NOW PEOPLE DON"T EVEN HAVE TO LOOK UP WHAT IMMUTABILITY IS AND
+### OH SO YOU CAN JUST GO LIKE >?>>>>> GIVE ME THIS IMMUTABLE DATA TYPE AND NOW PEOPLE DON"T EVEN HAVE TO LOOK UP WHAT IMMUTABILITY IS AND HAVE EVEN LESS OF AN IDEA HOW TO DO IT WELL OR WHY TO DO IT OR
+#### remember when you learned logic?
+#### we assume being but have no idea what it is; it's now occluded to us, as translucent as the air, as the a, the the, the language itself, inexpressible
