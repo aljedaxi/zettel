@@ -27,3 +27,6 @@ the techne becomes consumed by the tool itself
 ### OH SO YOU CAN JUST GO LIKE >?>>>>> GIVE ME THIS IMMUTABLE DATA TYPE AND NOW PEOPLE DON"T EVEN HAVE TO LOOK UP WHAT IMMUTABILITY IS AND HAVE EVEN LESS OF AN IDEA HOW TO DO IT WELL OR WHY TO DO IT OR
 #### remember when you learned logic?
 #### we assume being but have no idea what it is; it's now occluded to us, as translucent as the air, as the a, the the, the language itself, inexpressible
+### 
+> i want the old iOS date picker back
+GUESS YOU SHOULDN"T HAVE BAKED IT INTO THE LANGUAGE THEN, LIBERAL
