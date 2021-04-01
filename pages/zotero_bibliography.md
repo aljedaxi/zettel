@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[I want the old iOS date picker back 😭]]
+
 ## [[Understanding "Taming the Meta Language"]]
 
 ## [[Things that are not strings]]
@@ -31,7 +33,5 @@ title: Zotero Bibliography
 ## [[Xenofeminism]]
 
 ## [['Natural' healing is metaphysically incoherent but valuable]]
-
-## [[Behavioral insights]]
 
 
