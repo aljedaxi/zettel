@@ -22,3 +22,6 @@ the techne becomes consumed by the tool itself
 ### The end of the [[Tractatus Logico-Philosophicus]] ; the meaningful things that your language cannot express
 ### how do we take the beetle out of the box?
 ### and what happens when you've gotten all of those things wrong? what happens when you forget all those things, when you forget about being?
+##
+> Wouldn’t it be great if JavaScript natively supported immutable data types and type annotations so that these constraints could be expressed in the code itself?
+### OH SO YOU CAN JUST GO LIKE >?>>>>> GIVE ME THIS IMMUTABLE DATA TYPE AND NOW PEOPLE DON"T EVEN HAVE TO LOOK UP WHAT IMMUTABILITY IS AND
