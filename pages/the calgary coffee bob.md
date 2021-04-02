@@ -9,3 +9,5 @@ a database that truly recommends
 :PROPERTIES:
 :todo: 1615936101660
 :END:
+
+## use [this](https://github.com/earthstar-project/earthstar#Use-cases)
