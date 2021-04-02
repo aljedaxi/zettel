@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[EP 12]]
+
 ## [[I want the old iOS date picker back 😭]]
 
 ## [[Understanding "Taming the Meta Language"]]
@@ -31,7 +33,5 @@ title: Zotero Bibliography
 ## [[Decolonising Coffee Through Flavour]]
 
 ## [[Xenofeminism]]
-
-## [['Natural' healing is metaphysically incoherent but valuable]]
 
 
