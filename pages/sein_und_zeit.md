@@ -15,7 +15,7 @@ well, maybe it is in english, but is it so in spanish?
 :PROPERTIES:
 :id: 6021a3dc-5693-4e92-b37b-58462247bdd1
 :END:
-sein *Gefragtes*
+ein *Gefragtes*
 : that which is asked about
 
 ein *Befragtes*
