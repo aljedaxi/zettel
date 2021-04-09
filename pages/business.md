@@ -1,4 +1,4 @@
-﻿---
+---
 title: business
 ---
 
@@ -8,3 +8,4 @@ title: business
 #### the Department melds techne ; the tools of the department should facilitate these syntheses
 ### if you start your business by reformatting the problems of the most sophisticated agents in the problem space, you can leverage their existing techne
 ### flows of techne
+## the form of the businessman is functionally equivalent to the form of the conman: the difference is what they're peddling
