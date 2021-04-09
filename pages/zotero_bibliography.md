@@ -2,6 +2,10 @@
 title: Zotero Bibliography
 ---
 
+## [[Hiding in Plain Sight | David Graeber and David Wengrow]]
+
+## [[Language as organism]]
+
 ## [[EP 12]]
 
 ## [[I want the old iOS date picker back 😭]]
@@ -23,15 +27,5 @@ title: Zotero Bibliography
 ## [[Communicating with Slip Boxes]]
 
 ## [[Knowledge synthesis]]
-
-## [[Being and nothingness]]
-
-## [[The Signal of Noise]]
-
-## [[The question concerning technology, and other essays]]
-
-## [[Decolonising Coffee Through Flavour]]
-
-## [[Xenofeminism]]
 
 

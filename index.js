@@ -28,7 +28,7 @@ const {
 	joinWith,
 } = sanctuary.create ({checkTypes: true, env: sanctuary.env.concat (flutureEnv)});
 const {writeFile} = require ('fs');
-const {readdir} = require ('fs/promises')
+const {readdir, readFile} = require ('fs/promises')
 
 const daylyTasks = ['b12'];
 const weeklyTasks = [
@@ -116,7 +116,7 @@ const doThingForNextWeek = howMany => today => {
 };
 
 const doThingGeneral = howMany => pipe([
-	doThingForNextWeek (howMany),
+	doThingForThisWeek (howMany),
 	map (writeFileFuture),
 	parallel (9000),
 	fork (console.error) (console.log),
