@@ -11,5 +11,6 @@ we should create opportunities for that with all our interfaces.
 - Gall’s Law:
 A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
 - if you want to teach the user about a feature, include easy to find examples.
+- don’t interrupt flow of thought. if a user is opening an application, they usually have some specific task to complete. nagging them at this point in time about software updates or handy tips is very user hostile.
 -
 ## UI metrics: Fitt's, Hick's, GOMS
