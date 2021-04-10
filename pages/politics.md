@@ -12,3 +12,7 @@ either your rely on your political opponents to give you crumbs, or you seize po
 ## (the allegory of the anarchists and the miner strike) 
 ; it can be said that it when [[ideology]] entered the picture that the conversation became political.
 ### under liberalism, the citizen is relegated to the ideological aspects of governmental processes, while the happenings of the city are the realm of the beaurocracy
+## TODO https://aeon.co/videos/whats-essential-is-i-must-understand-a-rare-candid-interview-with-hannah-arendt?utm_source=Aeon+Newsletter&utm_campaign=273b84921e-EMAIL_CAMPAIGN_2021_03_30_06_31&utm_medium=email&utm_term=0_411a82e59d-273b84921e-69547785
+:PROPERTIES:
+:todo: 1618086590627
+:END:
