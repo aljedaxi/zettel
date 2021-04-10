@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Bret Victor   The Future of Programming]]
+
 ## [['What's essential is, I must understand']]
 
 ## [[Hiding in Plain Sight | David Graeber and David Wengrow]]
