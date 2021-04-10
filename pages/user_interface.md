@@ -15,5 +15,6 @@ A complex system that works is invariably found to have evolved from a simple sy
 - the “save” icon looking like a floppy disk. it’s very appropriate, since the command as a concept is built around the technological limits of floppy disks, limits that are comically irrelevant in the 21st century.drag your app out of the 1980s and implement autosave and version control already.
 - try to imagine ways to use your shiny new software to abuse, harass, stalk, or spy on people, especially vulnerable people. ask a diverse range of people to do the same. 
 - UX is ergonomics of the mind (and also body).
+- user interfaces typically “map” to the system they control, each button and dial corresponding to some element of the system. Natural mapping is when the interface forms an obvious spatial relationship to the system, such as 4 stovetop dials that are in the same arrangement as the stovetops.
 -
 ## UI metrics: Fitt's, Hick's, GOMS
