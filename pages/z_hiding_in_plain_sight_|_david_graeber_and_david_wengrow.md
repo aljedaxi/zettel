@@ -9,3 +9,5 @@ title: Hiding in Plain Sight | David Graeber and David Wengrow
 ##
 > Conservative thinkers would later place blame for the violent excesses of the French Revolution directly at the feet of The Jesuit Relations and texts such as those of Lahontan, which they claimed first introduced such infectious ideas into a stable, hierarchical social order
 ##
+> Tlaxcalteca cultivated a civic ethos that worked against the emergence of ambitious leaders, and hence potential quislings—a counterexample to Aztec principles of governance. Politically, the cities of Tenochitlán and Tlaxcala embodied opposite ideals\
+##
