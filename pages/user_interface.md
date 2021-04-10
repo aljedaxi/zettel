@@ -8,4 +8,5 @@ title: user interface
 we should create opportunities for that with all our interfaces.
 ## from [this thread](https://mastodon.social/@zensaiyuki/102683452946911475)
 - prefer undo to confirmation boxes
+-
 ## UI metrics: Fitt's, Hick's, GOMS
