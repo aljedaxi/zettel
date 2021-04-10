@@ -13,4 +13,6 @@ A complex system that works is invariably found to have evolved from a simple sy
 - if you want to teach the user about a feature, include easy to find examples.
 - don’t interrupt flow of thought. if a user is opening an application, they usually have some specific task to complete. nagging them at this point in time about software updates or handy tips is very user hostile.
 - the “save” icon looking like a floppy disk. it’s very appropriate, since the command as a concept is built around the technological limits of floppy disks, limits that are comically irrelevant in the 21st century.drag your app out of the 1980s and implement autosave and version control already.
+- try to imagine ways to use your shiny new software to abuse, harass, stalk, or spy on people, especially vulnerable people. ask a diverse range of people to do the same. 
+-
 ## UI metrics: Fitt's, Hick's, GOMS
