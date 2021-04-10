@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [['What's essential is, I must understand']]
+
 ## [[Hiding in Plain Sight | David Graeber and David Wengrow]]
 
 ## [[Language as organism]]
@@ -25,7 +27,5 @@ title: Zotero Bibliography
 ## [[Cosmotechnics as Cosmopolitics]]
 
 ## [[Communicating with Slip Boxes]]
-
-## [[Knowledge synthesis]]
 
 
