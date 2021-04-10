@@ -10,4 +10,4 @@ okay but somebody is always writing the bit underneath it
 ## 
 > never being exposed to the ideas of the past; alternative models of what programming can be
 ## there's great variety within the bounds of a sort of functional-OOP hybrid, but very little on the outskirts of it
-## so now we must have our heideggers,
+## so now we must have our heiddeggers,
