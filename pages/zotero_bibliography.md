@@ -2,6 +2,10 @@
 title: Zotero Bibliography
 ---
 
+## [[Alan Kay]]
+
+## [[Bret Victor - The Humane Representation of Thought]]
+
 ## [[Bret Victor   The Future of Programming]]
 
 ## [['What's essential is, I must understand']]
@@ -27,7 +31,5 @@ title: Zotero Bibliography
 ## [[The Nooscope Manifested]]
 
 ## [[Cosmotechnics as Cosmopolitics]]
-
-## [[Communicating with Slip Boxes]]
 
 
