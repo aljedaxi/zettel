@@ -14,3 +14,6 @@ Error Control Negative Feedback
 ## 
 > that word steersman appears in Homer, Plato uses it for regulation in societies. .. in Latin ... Greek Kappa turns into a G a harder sound and out of Kybernetes you get gubernator
 ##
+> intrinsic regulation. The regulation is in the system.
+## 
+>
