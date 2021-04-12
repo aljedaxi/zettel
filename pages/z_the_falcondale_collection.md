@@ -16,6 +16,7 @@ Error Control Negative Feedback
 ## 
 > intrinsic regulation. The regulation is in the system.
 the trick is to build governance into the system
-##
+## 
 > Cybernetics ... the science of control and communication in the animal and machine
-##
+- animal and machine implies that the two use the same mechanisms
+-
