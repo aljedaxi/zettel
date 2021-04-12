@@ -1,0 +1,5 @@
+---
+title: DRY code
+---
+
+## 
