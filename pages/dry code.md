@@ -2,4 +2,4 @@
 title: DRY code
 ---
 
-## DRYness presents itself as [[ontological]], speaks of precise strings
+## DRYness presents itself [[metaphysically]], speaks of precise strings.
