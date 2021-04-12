@@ -13,7 +13,8 @@ Error Control Negative Feedback
 > the whole essence of Cybernetics is the lesson of never do anything until you know the result of your last action
 ## 
 > that word steersman appears in Homer, Plato uses it for regulation in societies. .. in Latin ... Greek Kappa turns into a G a harder sound and out of Kybernetes you get gubernator
-##
+## 
 > intrinsic regulation. The regulation is in the system.
+the trick is to build governance into the system
 ## 
 >
