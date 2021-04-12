@@ -12,5 +12,5 @@ Error Control Negative Feedback
 ##
 > the whole essence of Cybernetics is the lesson of never do anything until you know the result of your last action
 ## 
-> that word steersman appears in Homer, Plato uses it for regulation in societies, so it's getting a nice patina on it. It turns up in Latin. I don't know how interested you are in language, I presume some of us are. The Greek Kappa turns into a G a harder sound and out ofKybernetes you get gubernator in Latin which gets into English as governor.
+> that word steersman appears in Homer, Plato uses it for regulation in societies. .. in Latin. I don't know how interested you are in language, I presume some of us are. The Greek Kappa turns into a G a harder sound and out ofKybernetes you get gubernator in Latin which gets into English as governor.
 ##
