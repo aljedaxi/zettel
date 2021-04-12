@@ -21,8 +21,7 @@ the trick is to build governance into the system
 - animal and machine implies that the two use the same mechanisms
 - implies control is a function of comms, & even that they're the same
 ## 
-> Ashby ...
-> We were walking by moonlight across this huge campus in Champagne to the Faculty Club where we had adjacent rooms and I  said "Ross, you really shattered everybody tonight". He said, "Why?" I  said "Well, you know if I  were ever to criticise you, which God forbid, I would say you're a bit over meticulous Ross". "What's that supposed to mean". I said, "Well I would have thought you would have said, give me three months and I'll list all the pros and cons and then make a balanced judgement". 
+> Ashby ... "Well I would have thought you would have said, give me three months and I'll list all the pros and cons and then make a balanced judgement". 
 > Ashby actually stopped dead in the middle of this quadrangle and he said "What, have you taken leave of your senses. I with three months, I couldn't do it  in three years it's impossible. It's an impossible assignment, and you ought to have the sense to see that". "It's difficult, I know, I've been trying to do that myself after all. Why did you just say yes?" 
 > "There are only two things to do in that circumstance, if you don't have enough information", Cybernetics etc. He said "you obey hunch, now, the brain is  a complicated piece of machinery and might produce the right answer. I can't account for it. My brain said do it, so I did." So we resumed walking, and I  began grappling with this. Then I  stopped and said "okay say you don't have a hunch, what is  the second most obvious thing to do." 
 > He looked at me most pityingly and said "you toss a coin". It is  the only rational thing to do.
