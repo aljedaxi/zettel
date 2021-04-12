@@ -11,7 +11,12 @@ const {env: flutureEnv} = require ('fluture-sanctuary-types');
 const Future = require ('fluture')
 const {parallel, fork} = Future
 const {
+	fromMaybe,
 	pipe,
+	get,
+	K,
+	T,
+	flip,
 	map,
 	range,
 	reduce,
@@ -77,6 +82,7 @@ const writeFileType = ({fileName, fileText}) => new Promise((res, rej) =>
 	writeFile(fileName, fileText, {flag: 'a'}, res)
 );
 
+// {fileName, fileText} -> Future
 const writeFileFuture = ({fileName, fileText}) => Future((res, rej) => {
 	writeFile(fileName, fileText, {flag: 'a'}, _ => res(`wrote ${fileName}`))
 	return () => 'lol'
@@ -115,10 +121,14 @@ const doThingForNextWeek = howMany => today => {
 	return map (day => makeFile ([...daylyTasks, ...weeklyTasks[format ('i') (day)]]) (day)) (daysOfWeek);
 };
 
-const doThingGeneral = howMany => pipe([
-	doThingForThisWeek (howMany),
+const genParallelFutures = pipe([
 	map (writeFileFuture),
 	parallel (9000),
+])
+
+const doThingGeneral = thingToDo => howMany => pipe([
+	thingToDo (howMany),
+	genParallelFutures,
 	fork (console.error) (console.log),
 ])
 
@@ -140,6 +150,20 @@ const fix = _ => {
 const daysVegan = firstDay =>
 	differenceInCalendarDays (new Date(2016, 12, 17)) (new Date())
 
-	// console.log(daysVegan())
+const commands = {
+	'this-week': doThingForThisWeek (1),
+	'next-week': doThingForNextWeek (1),
+}
 
-doThingGeneral (1) (new Date());
+const FT = flip (T)
+
+const main = pipe([
+	last,
+	chain (k => get (K (true)) (k) (commands)),
+	map (T (new Date())),
+	fromMaybe ([]),
+	genParallelFutures,
+])
+
+// doThingGeneral (doThingForThisWeek) (1) (new Date());
+fork (console.error) (console.log) (main (process.argv))
