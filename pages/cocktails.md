@@ -7,4 +7,4 @@ title: cocktails
 ## "Burnt out after a long day? Throw back a couple of Golden Phoenix Slings and you'll feel reborn.  Ginsing extract, cough syrup, and a healthy dose of Saké kissed with Tequila (and some other things we'd rather not divulge).  Just say "Sling Me!"" - Golden Phoenix Sling
 ## https://cookieandkate.com/best-old-fashioned-cocktail/
 ## https://cookieandkate.com/cinnamon-maple-whiskey-sour-recipe/
-##
+## https://cookieandkate.com/maple-new-york-sour/ red wine!!!
