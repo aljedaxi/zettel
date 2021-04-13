@@ -15,6 +15,7 @@ a database that truly recommends
 
 hours
 : you can do early morning rush, noonish, afternoon, night
+: seating
 :
 ## TODO you'll have to find a way to allow people to have objections, other opinions
 :PROPERTIES:
