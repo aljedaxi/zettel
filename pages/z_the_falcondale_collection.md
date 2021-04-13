@@ -38,7 +38,7 @@ the trick is to build governance into the system
 > He looked at me most pityingly and said "you toss a coin". It is  the only rational thing to do.
 ### The Fourth Layer of the visual cortex
 
->
+> McCulloch walked into the common room of this place in the evening and there was Norbert Weiner sitting there, reading and Warren said listen my colleague whose name is Walter Pitts and I  have been considering the following problem and I would like to discuss it  with you. Norbert says carry on. Now Warren says you've got all these blind people who can't see, I'm trying to make a machine to enable them to read with their ears. Now how would you do that?
 ##
 > ... they talked a lot at night
 > ... the things that matter most to science, to philosophy, to human race are issues which fall between the stools of established subjects
