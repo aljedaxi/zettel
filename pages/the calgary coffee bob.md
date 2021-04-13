@@ -20,6 +20,8 @@ seating
 
 vibes
 
+withliness (good for alone or good for many?)
+
 location
 ## TODO you'll have to find a way to allow people to have objections, other opinions
 :PROPERTIES:
