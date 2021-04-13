@@ -15,9 +15,12 @@ a database that truly recommends
 
 hours
 : you can do early morning rush, noonish, afternoon, night
-: seating
-: vibes
-: location
+
+seating
+
+vibes
+
+location
 ## TODO you'll have to find a way to allow people to have objections, other opinions
 :PROPERTIES:
 :todo: 1615936101660
