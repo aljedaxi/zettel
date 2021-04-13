@@ -51,6 +51,7 @@ the trick is to build governance into the system
 > ... university is supposed to be that it is universal, it  is holistic and you couldn't find a  more reductionist and non-holistic place
 > ... what sort of topic might pervade everything and not be recognised because of this reductionism. They came up with the notion of control.
 #### does liberalism render analysis of control taboo?
+#### Einstein's great problem, if I  may say that about the great man, was precisely that he wasn't inter-disciplinary at all. It  was a great problem because it  lead him into all sorts of absurdities in physics because he couldn't get the illumination that he would have got from other topics some and other people have had to do that. The famous remark, God doesn't play dice. Faced with the stochastic universe. Einstein never came to terms with that. You see the answer to that is you need to be a logician to answer that the answer to that is  God is the dice, and there is no problem any longer.
 ## Session 2
 ### 
 > I worked a lot for the native Indians in Canada, who are faced with this kind of systemic dilemma ... we are [[guilt]]y of genocide which isn't a very good start because people are terribly guilty ...
