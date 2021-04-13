@@ -9,3 +9,7 @@ title: zotero extension
 :todo: 1615147963473
 :END:
 https://logseq.github.io/#/page/block%20properties
+## TODO add at least the author to the properties of the page, or as a tag to the page
+:PROPERTIES:
+:todo: 1618339608894
+:END:
