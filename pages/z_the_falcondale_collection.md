@@ -18,7 +18,6 @@ Norbert Weiner
 : The mathematician that wrote Cybernetics
 : Developed Fourier analysis
 : "The American Leibniz"
-##
 ## Session 1
 ### 
 > the whole essence of Cybernetics is the lesson of never do anything until you know the result of your last action
@@ -53,4 +52,6 @@ the trick is to build governance into the system
 > ... what sort of topic might pervade everything and not be recognised because of this reductionism. They came up with the notion of control.
 #### does liberalism render analysis of control taboo?
 ## Session 2
-###
+### 
+> I worked a lot for the native Indians in Canada, who are faced with this kind of systemic dilemma ... we are [[guilt]]y of genocide which isn't a very good start because people are terribly guilty ...
+> ... what percentage of this enormous amount of money do you think is  spent on administration?" ... 85%.
