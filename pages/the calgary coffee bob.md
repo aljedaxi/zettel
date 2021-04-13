@@ -11,7 +11,11 @@ a database that truly recommends
 :todo: 1618341311439
 :END:
 #### maybe use datascript?
-###
+### essential features
+
+hours
+: you can do early morning rush, noonish, afternoon, night
+:
 ## TODO you'll have to find a way to allow people to have objections, other opinions
 :PROPERTIES:
 :todo: 1615936101660
