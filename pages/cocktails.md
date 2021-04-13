@@ -12,3 +12,5 @@ title: cocktails
 ## https://www.good-saint.com/recipes/vegan-dairy-free-brandy-alexander
 ## https://cookieandkate.com/beautiful-red-bell-cocktail
 ## https://cookieandkate.com/best-manhattan-cocktail-recipe
+## https://cookieandkate.com/classic-mojito-recipe
+##
