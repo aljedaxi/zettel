@@ -14,4 +14,4 @@ title: cocktails
 ## https://cookieandkate.com/best-manhattan-cocktail-recipe
 ## https://cookieandkate.com/classic-mojito-recipe
 ## https://cookieandkate.com/best-manhattan-cocktail-recipe
-##
+## https://cookieandkate.com/rosemary-gin-fizz
