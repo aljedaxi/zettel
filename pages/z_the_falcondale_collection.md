@@ -3,6 +3,9 @@ title: The Falcondale Collection
 ---
 
 ## Definitions:
+:PROPERTIES:
+:id: 6074a440-f2e7-44f9-b906-d11fc273df14
+:END:
 
 Error Control Negative Feedback
 : when you feed the error percentage back into the input
