@@ -39,7 +39,8 @@ the trick is to build governance into the system
 ### The Fourth Layer of the visual cortex
 
 > McCulloch walked into the common room of this place in the evening and there was Norbert Weiner sitting there, reading and Warren said ... you've got all these blind people who can't see, I'm trying to make a machine to enable them to read with their ears
-> ... scan the print with a photo-electric cell which ... is going to encounter this I when this line is broken it makes a sound and when it encounters the 1 this line i  broken it makes a different sound.
+> ... scan the print with a photo-electric cell which ... is going to encounter this I when this line is broken it makes a sound and when it encounters the 1 this line is broken it makes a different sound.
+> ... If we have The solids are photo electric cells and the circles are oscillators. You set up a  vibration between a  photo electric cell and oscillator and then along comes your scanner like this .... These are your three lines which you are going to look at that, You are obviously going to need a  battery of these things so let me put in some more.
 ##
 > ... they talked a lot at night
 > ... the things that matter most to science, to philosophy, to human race are issues which fall between the stools of established subjects
