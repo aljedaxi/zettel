@@ -10,7 +10,6 @@ title: cybernetics
 Cybernetics was very much a people and a correspondence: a communication. Men "who were authorities, and therefore not scared" [[The falcondale collection]] about their respective fields, gathered in Mexico city to discuss the [[Dao]] between their fields; they understood that to be the most important, the most meaningful stuff (see [[Tractatus Logico-Philosophicus]]). They found that the connection was control, but it took them 3 years to understand what that word meant; thence they developed a subtle understanding of control, focusing on communication within the system.
 
 In the context of the university, these people don't talk. they silo along the domain.
-## In the context of liberalism, people don't talk about control??????? [[ideology]]
 ## TODO what is a field? a domain? a science? 
 :PROPERTIES:
 :todo: 1616088574589
