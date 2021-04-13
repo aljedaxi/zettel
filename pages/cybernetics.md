@@ -13,3 +13,7 @@ Cybernetics was very much a people and a correspondence: a communication. Men "w
 :todo: 1616088574589
 :END:
 and how is cybernetics between them?
+## TODO they talked of tension on the cable of a stake
+:PROPERTIES:
+:todo: 1618340658274
+:END:
