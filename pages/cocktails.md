@@ -3,12 +3,8 @@ title: cocktails
 ---
 
 ## "Had a rough night? Why not have a little hair of the Slum Dog that bit you? Half rum, half vodka, half beer. Remember -- if it smells like a dog, and tastes like a dog, it's probably a Slum Dog." - Slum Dog
-
-"Three measures 180-proof alcohol, a pinch of lotus pollen, and a drop of red food dye No. 40. The Shanghai Gut Punch... about as subtle as its name implies." - Shanghai Gut Punch
-
-"Burnt out after a long day? Throw back a couple of Golden Phoenix Slings and you'll feel reborn.  Ginsing extract, cough syrup, and a healthy dose of Saké kissed with Tequila (and some other things we'd rather not divulge).  Just say "Sling Me!"" - Golden Phoenix Sling
-## Chill a trap glass with a little fine sugar at the bottom, then keep pouring in gold run still it starts to turn blue. Add sea salt, sugar, blue Curacao — some folks like grapefruit juice. 
-
-Double dark rum. Orgeat syrup. 
+## "Three measures 180-proof alcohol, a pinch of lotus pollen, and a drop of red food dye No. 40. The Shanghai Gut Punch... about as subtle as its name implies." - Shanghai Gut Punch
+## "Burnt out after a long day? Throw back a couple of Golden Phoenix Slings and you'll feel reborn.  Ginsing extract, cough syrup, and a healthy dose of Saké kissed with Tequila (and some other things we'd rather not divulge).  Just say "Sling Me!"" - Golden Phoenix Sling
+## Double dark rum. Orgeat syrup. 
 
 Single spiced rum, double gold rum. Sea salt. Refrigerate. Orange peel.
