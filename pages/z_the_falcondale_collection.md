@@ -41,7 +41,7 @@ the trick is to build governance into the system
 > McCulloch walked into the common room of this place in the evening and there was Norbert Weiner sitting there, reading and Warren said ... you've got all these blind people who can't see, I'm trying to make a machine to enable them to read with their ears
 > ... scan the print with a photo-electric cell which ... is going to encounter this I when this line is broken it makes a sound and when it encounters the 1 this line is broken it makes a different sound.
 > ... If we have The solids are photo electric cells and the circles are oscillators. You set up a  vibration between a  photo electric cell and oscillator ... this is not a circuit you see. It is a schematic diagram of how you would do this. 
-> Warren pours himself a  large whisky ... Goes off to bed, and leaves the drawing on the table. Now in comes Gerhardt von Bonin ... He picks this up and says to Norbert Weiner whose been trying to make a diagram of the fourth visual layer of the cortex.
+> Warren pours himself a  large whisky ... Goes off to bed, and leaves the drawing on the table. Now in comes Gerhardt von Bonin ... He picks this up and says to Norbert Weiner "whose been trying to make a diagram of the fourth visual layer of the cortex?"
 ##
 > ... they talked a lot at night
 > ... the things that matter most to science, to philosophy, to human race are issues which fall between the stools of established subjects
