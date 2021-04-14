@@ -7,4 +7,3 @@ title: conditionals
 if p then q then p
 If i'm pretty, then i'm queer;
 If i'm queer, then i'm pretty
-##
