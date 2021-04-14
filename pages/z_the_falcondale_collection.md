@@ -57,8 +57,10 @@ the trick is to build governance into the system
 #### 
 > Einstein's great problem, if I  may say that about the great man, was precisely that he wasn't inter-disciplinary at all ... You see the answer to that is you need to be a logician to answer that the answer to that is God is the dice, and there is no problem any longer.
 ## Session 2
-###
+### 
 > I worked a lot for the native Indians in Canada, who are faced with this kind of systemic dilemma ... we are [[guilt]]y of genocide which isn't a very good start because people are terribly guilty ...
 > ... what percentage of this enormous amount of money do you think is  spent on administration?" ... 85%.
-### The Jacquard Loom ... that was responsible of course for all the revolts under the name of Luddites.
+### 
+> The Jacquard Loom ... that was responsible of course for all the revolts under the name of Luddites.
+### People didn't know much about Turing in the 90s
 ###
