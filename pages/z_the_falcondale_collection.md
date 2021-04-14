@@ -64,3 +64,5 @@ the trick is to build governance into the system
 > The Jacquard Loom ... that was responsible of course for all the revolts under the name of Luddites.
 ### People didn't know much about Turing in the 90s
 ###
+> The so-called Leo machine which was the office machine. The first computer was run in Manchester University, and it  beat the Americans to it because the American machine didn't have storage
+###
