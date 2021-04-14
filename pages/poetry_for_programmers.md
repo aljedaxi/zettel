@@ -41,6 +41,7 @@ the act of refactoring is recognizing this staleness
 #### "and living means making a choice", between monday and thursday---for/in that moment.
 ## to make sense of code; [[sensemaking]], [[semiotics]], [[semantics]]
 ### me and my friend have the same problem: the arches of our feet de-arch-ify. we've both found the same solution: walking digitigrade. and i know for me, i've gained a strange appreciation for a distinguished feminine elegance; perhaps not because of it, but certainly not in spite of it.
+#### what does this if else tell us? it tells us that i know better than
 ### ((600846c6-7b2b-4df2-94b3-12896937d075))
 ## https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/
 ## [psychology of programming interest group](https://www.ppig.org/papers/)
