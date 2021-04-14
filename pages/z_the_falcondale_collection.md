@@ -70,3 +70,5 @@ the trick is to build governance into the system
 #### 
 > It's interesting, such a simple little thing, is so out of keeping with what we think of as machines
 ###
+> Cartesian philosophy dominated the French culture. Was the ultimately reductionist thing. The French have been hugely conditioned by this reduction approach.
+###
