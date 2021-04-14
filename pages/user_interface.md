@@ -17,6 +17,10 @@ A complex system that works is invariably found to have evolved from a simple sy
 - UX is ergonomics of the mind (and also body).
 - user interfaces typically “map” to the system they control, each button and dial corresponding to some element of the system. Natural mapping is when the interface forms an obvious spatial relationship to the system, such as 4 stovetop dials that are in the same arrangement as the stovetops.
 -
+### TODO read the rest of the thread
+:PROPERTIES:
+:todo: 1618364550801
+:END:
 ## UI metrics 
 - Fitt's, Hick's, GOMS
 - 0.1 seconds means the thing is reacting instantaneously; 1.1 means the user's thought is interrupted; 10+ seconds means the user is going to want to do something else. [source](https://www.nngroup.com/articles/response-times-3-important-limits/)
