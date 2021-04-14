@@ -21,6 +21,10 @@ A complex system that works is invariably found to have evolved from a simple sy
 :PROPERTIES:
 :todo: 1618364550801
 :END:
+### TODO https://www.youtube.com/watch?v=p2LZLYcu_JY
+:PROPERTIES:
+:todo: 1618364563809
+:END:
 ## UI metrics 
 - Fitt's, Hick's, GOMS
 - 0.1 seconds means the thing is reacting instantaneously; 1.1 means the user's thought is interrupted; 10+ seconds means the user is going to want to do something else. [source](https://www.nngroup.com/articles/response-times-3-important-limits/)
