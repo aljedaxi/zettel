@@ -60,4 +60,5 @@ the trick is to build governance into the system
 ###
 > I worked a lot for the native Indians in Canada, who are faced with this kind of systemic dilemma ... we are [[guilt]]y of genocide which isn't a very good start because people are terribly guilty ...
 > ... what percentage of this enormous amount of money do you think is  spent on administration?" ... 85%.
-### The Jacquard Loom, when was that? Oh dear I don 't know the history ... Eighteenth Century Yes, Eighteenth Century. I'm pretty sure. You know what we're talking about? Session 2 You know what we are talking about? It's a loom which punched holes in .. It was exactly like the first computers with punched cards like the Hollerith machine as was and so on and it made very complicated fabrics, a  marvellous invention. Way ahead of its time, and that was responsible of course for all the revolts under the name of Luddites.
+### The Jacquard Loom ... that was responsible of course for all the revolts under the name of Luddites.
+###
