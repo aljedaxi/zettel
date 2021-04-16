@@ -74,4 +74,5 @@ Separation of ....
 > wherefore? because we have forgotten the question of programming. thereby i'd like to present the following: a following of the questioning of being, one of the grandest reimaginings in the history of philosophy
 - [philosophy has had this issue w politics](https://aeon.co/videos/whats-essential-is-i-must-understand-a-rare-candid-interview-with-hannah-arendt)
   - what does this sound like? whose attitudes does this recapitulate?
-  - whence come these attitudes.
+  - whence come these attitudes?
+- an overview of the form of Nietzsche Geneologie
