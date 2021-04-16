@@ -72,3 +72,4 @@ Separation of ....
 ### The question of being for programmers
 > there have been a lot of talks with roughly the same thesis over the years: the possibility space of programming is shrinking, honing in on an ever more specific set of modalities
 > wherefore? because we have forgotten the question of programming. thereby i'd like to present the following: a following of the questioning of being, one of the grandest reimaginings in the history of philosophy
+[[arendt]]†
