@@ -22,19 +22,6 @@ title: poetry for programmers
 #### the ability to focus is a function of working memory management
 ##### to be meaningful is to be memorable
 ##### to focus on one thing, it has to be one thing
-### i do not write code; i *code*
-:PROPERTIES:
-:id: 602067a4-d93c-4c07-8db8-d79d2ad64966
-:END:
-#### simultaneous hyperfetishization of writing with disparagement of the humanities
-##### i would like to kill the concept of the code-base, 
-to limit talk away from code and towards: _____
-###### don't repeat *yourself*
-##### the codebase should be a [[picture]] of the problem space
-###### code is a [[representation]] of your understanding of the problem
-code that you refactor is code that represents an old understanding
-the act of refactoring is recognizing this staleness
-#### "one thing i'm going to talk a lot about it fetishism, which is a kinda ugly form of abstraction"
 ### finally, i would like to ask "what it is to be a poet"
 #### the man who was thursday
 #### to live something
