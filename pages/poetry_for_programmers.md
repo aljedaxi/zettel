@@ -77,3 +77,4 @@ Separation of ....
   - what does this sound like? whose attitudes does this recapitulate?
   - whence come these attitudes?
 - an overview of the form of Nietzsche Geneologie
+- an overview of the words being and techne; the way in which techne becomes ossified into language
