@@ -69,3 +69,5 @@ Poetry as [[poiesis]]
 - [[the allegory of the ox]]
 
 Separation of ....
+### The question of being for programmers
+> there have been a lot of talks with roughly the same thesis over the years: the possibility space of programming is shrinking, honing in on an ever more specific set of modalities
