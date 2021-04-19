@@ -16,7 +16,6 @@ Synergy
 Transfer Function
 : You go from this box to this box what happens here is mathematically a transfer function this is  an input to that, and the transference has some kind of characteristics which is mathematically a transfer function
 ## People:
-
 Warren McCulloch
 : Blacksmith, physician, friends w einstein
 
@@ -24,6 +23,7 @@ Norbert Weiner
 : The mathematician that wrote Cybernetics
 : Developed Fourier analysis
 : "The American Leibniz"
+##
 ## Session 1
 ### 
 > the whole essence of Cybernetics is the lesson of never do anything until you know the result of your last action
