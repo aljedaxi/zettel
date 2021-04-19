@@ -96,6 +96,6 @@ The Observer is a part of the system
 > So you can be a ... a Marxist ... and none of them work. So one of the things I  became kind of famous for was attacking the business schools. .. They are all teaching one thing in common. It is that none of the teaching works.
 ###
 > Why do you think that management and unions never agree about anything. It is because they are talking about quite different systems with quite different VARIETIES.
-###
-> If I got up, and held up a coat a rather unusual, let's say it  is  very small or very big. I say I have got this coat its going begging. How do we know who will fit this coat. Somebody might say, That is  a large coat I'm 6'5" it may fit me, or somebody could say that is  a small coat I'm only small. Let me try it  on. We say that kind of thing, don't we? The VARIETIES are being handled without counting, that's my point.
+### 
+> If I got up, and held up a coat a rather unusual, let's say it  is  very small or very big. I say I have got this coat its going begging. How do we know who will fit this coat. Somebody might say, That is  a large coat I'm 6'5" it may fit me, or somebody could say that is  a small coat I'm only small. Let me try it  on. We say that kind of thing, don't we? The VARIETIES are being handled without counting, that's my point. ... when I said measure I don't mean count, necessarily ...
 ###
