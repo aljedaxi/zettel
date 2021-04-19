@@ -23,7 +23,8 @@ Norbert Weiner
 : The mathematician that wrote Cybernetics
 : Developed Fourier analysis
 : "The American Leibniz"
-##
+## Variety:
+###
 ## Session 1
 ### 
 > the whole essence of Cybernetics is the lesson of never do anything until you know the result of your last action
