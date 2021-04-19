@@ -113,4 +113,6 @@ The Observer is a part of the system
 
 > Given a  profitable shift, the dissidents will see to it  that the next shift makes a  loss, unless there was also trouble on the first shift. In that case trouble making is apparently too dangerous -  because it  doesn't happen, unless both the bonus is bad and there is no extra payment, when the dissidents will get away with trouble making again. 
 
+> After a loss making shift on the other hand the next shift turns out to be profitable so long as there was no trouble in the first shift, these dissidents are very careful, because if there was the loss would certainly continue. However this whole situation is  inevitably reversed if the extra payment is not made, again this appears to be taken as a dangerous sign in some circumstances (if not others).
+
 >
