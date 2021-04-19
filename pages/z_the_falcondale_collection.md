@@ -131,4 +131,4 @@ The Observer is a part of the system
 > The awful things about those situations, from my observations, that is never mentioned, is that people settle personal scores. Too bad he's dead, you know, a rather wicked thought. 
 > That's just like unpopular  officers get killed in war. Too bad what a  pity let's hope nobody finds the bullet in the back.
 ### 
-> Hegel ... a systems thinker ... He had a thing which he called the axiom of internal relations ... which says that the relations by which terms are related and are an integral part of the terms they relate ...
+> Hegel ... a systems thinker ... He had a thing which he called the axiom of internal relations ... which says that the relations by which terms are related and are an integral part of the terms they relate ... And what this means is that a  mouse is smaller than an elephant or it  wouldn't be a  mouse. The whole nomenclature breaks down if these things are not maintained.
