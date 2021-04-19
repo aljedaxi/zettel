@@ -20,7 +20,7 @@ Variety
 : the number of possible states within a system
 
 Homeostat
-: that which can maintain homeostasis
+: a mechanism that maintains a certain variable within a certain limit
 
 Model
 : that which replaces Reality; Reality && Observer
