@@ -105,4 +105,12 @@ The Observer is a part of the system
 
 > It turns out that there are two matters under your control that bear on this. Some work attracts a  bonus rate, and the loading of this work can be manipulated. It seems to be generally accepted on the shop floor that more than 30% bonus work is  'good' while less is  'bad'. There is another and unpleasant kind of job which you can always run (or not); this, according to agreements, involves a flat 10% extra payment for the whole shift. 
 
+> The production director has said that when you start on Monday you must operate this system as best you may. But until delicate negotiations at a higher level are completed he would like to see as little trouble as possible. So you set to work to discover what actually happens - and it follows a definite pattern. 
+
+> If there is smooth working (i.e. no dissidents) on a  shift, it  will continue on the next shift unless the proportion of bonus work is bad. Then there is trouble, unless it  is clear that the previous shift made a  loss - in which case the trouble makers make no headway, because the earlier loss realistically explains the bad bonus. Indeed, if the bonus is good following a loss making shift, trouble will certainly break out while people argue what the management is up to. 
+
+> If there is  trouble on a  shift, then that too goes on into the next shift, even when the bonus is good and the extra payment is  made, if the first shift made a profit. But there is  an interesting exception to this; if the extra payment work is not put in, this seems to be taken as a sign that the order book is  falling and that men may be laid of. At any rate the trouble stops. When the trouble shift also makes a loss, then this weakens the dissidents' hand, and there is  no trouble on the next shift - provided that the extra payment is put in. 
+
+> Given a  profitable shift, the dissidents will see to it  that the next shift makes a  loss, unless there was also trouble on the first shift. In that case trouble making is apparently too dangerous -  because it  doesn't happen, unless both the bonus is bad and there is no extra payment, when the dissidents will get away with trouble making again. 
+
 >
