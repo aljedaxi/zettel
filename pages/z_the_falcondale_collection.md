@@ -133,3 +133,5 @@ The Observer is a part of the system
 ###
 > Hegel ... a systems thinker ... He had a thing which he called the axiom of internal relations ... which says that the relations by which terms are related and are an integral part of the terms they relate ... And what this means is that a  mouse is smaller than an elephant or it  wouldn't be a  mouse ... We like to think that we are accounting for things that are going on in nature but what we are really accounting is a  linguistic model of that ...
 ####
+> Now there are obviously, like when we said that defining the boundaries of the system is immensely difficult, defining the boundaries of viability, is immensely difficult
+####
