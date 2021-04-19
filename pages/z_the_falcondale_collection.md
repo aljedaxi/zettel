@@ -18,6 +18,9 @@ Transfer Function
 
 Variety
 : the number of possible states within a system
+
+Model
+: that which replaces Reality; Reality && Observer
 ## People:
 Warren McCulloch
 : Blacksmith, physician, friends w einstein
