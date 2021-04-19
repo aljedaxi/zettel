@@ -98,7 +98,7 @@ The Observer is a part of the system
 > Why do you think that management and unions never agree about anything. It is because they are talking about quite different systems with quite different VARIETIES.
 ### 
 > If I got up, and held up a coat a rather unusual, let's say it  is  very small or very big. I say I have got this coat its going begging. How do we know who will fit this coat. Somebody might say, That is  a large coat I'm 6'5" it may fit me, or somebody could say that is  a small coat I'm only small. Let me try it  on. We say that kind of thing, don't we? The VARIETIES are being handled without counting, that's my point. ... when I said measure I don't mean count, necessarily ...
-###
+### 
 > An Exercise in WHAT - the problem 
 
 > You have been appointed manager of a  shop engaged in jobbing production, and have been finding out the form - which is  pretty awful. Some shifts go well; but on others two types of difficulty arise, either separately or together. One difficulty is  that a shift may throw up a loss compared with standard; the other is that a  dissident faction of work people may decide to cause trouble - and that consumes too much energy in handling the wild cat strike threat. 
@@ -116,4 +116,8 @@ The Observer is a part of the system
 > After a loss making shift on the other hand the next shift turns out to be profitable so long as there was no trouble in the first shift, these dissidents are very careful, because if there was the loss would certainly continue. However this whole situation is  inevitably reversed if the extra payment is not made, again this appears to be taken as a dangerous sign in some circumstances (if not others).
 
 > Its all terribly complicated and your hands are tied so this is certainly not an exercise in industrial relations, so you must not interfere with those, but you do have a guarantee that the shop floor will respond true to form. What is this an exercise in? Then can you solve the problem? Is there anything you can do to ensure making a profit and have smooth running as well. I'll tell you this much, we can work out from the state of affairs from the last shift on Friday night that your first shift on Monday morning is bound (a) to be an uproar and (b) to make a loss. Congratulations on the new job.
+
+> Its an exercise not in accounting or man management because that's all taken out of it. But it's still very complicated. Is an exercise in complexity.
+
+>
 ###
