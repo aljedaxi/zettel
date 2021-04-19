@@ -19,8 +19,8 @@ Transfer Function
 Variety
 : the number of possible states within a system
 
-Homeostasis
-: 
+Homeostat
+: that which ensures 
 
 Model
 : that which replaces Reality; Reality && Observer
