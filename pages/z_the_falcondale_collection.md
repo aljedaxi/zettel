@@ -98,7 +98,7 @@ The Observer is a part of the system
 > Why do you think that management and unions never agree about anything. It is because they are talking about quite different systems with quite different VARIETIES.
 ### 
 > If I got up, and held up a coat a rather unusual, let's say it  is  very small or very big. I say I have got this coat its going begging. How do we know who will fit this coat. Somebody might say, That is  a large coat I'm 6'5" it may fit me, or somebody could say that is  a small coat I'm only small. Let me try it  on. We say that kind of thing, don't we? The VARIETIES are being handled without counting, that's my point. ... when I said measure I don't mean count, necessarily ...
-### 
+###
 > An Exercise in WHAT - the problem 
 
 > You have been appointed manager of a  shop engaged in jobbing production, and have been finding out the form - which is  pretty awful. Some shifts go well; but on others two types of difficulty arise, either separately or together. One difficulty is  that a shift may throw up a loss compared with standard; the other is that a  dissident faction of work people may decide to cause trouble - and that consumes too much energy in handling the wild cat strike threat. 
@@ -120,4 +120,5 @@ The Observer is a part of the system
 > Its an exercise not in accounting or man management because that's all taken out of it. But it's still very complicated. Is an exercise in complexity.
 
 > I always put this to my undergraduate students and I offer a bottle of wine for the first person to give me the answer and every year for the past five years someone has done it. So there is  a challenge for you.
+## Session 4
 ###
