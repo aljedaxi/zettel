@@ -130,4 +130,5 @@ The Observer is a part of the system
 > Rwanda ...
 > The awful things about those situations, from my observations, that is never mentioned, is that people settle personal scores. Too bad he's dead, you know, a rather wicked thought. 
 > That's just like unpopular  officers get killed in war. Too bad what a  pity let's hope nobody finds the bullet in the back.
-###
+### 
+> Have you ever come across Hagel? Marx pinched all his ideas from Hagel in the first place. The whole notion of dialectical material is in Marx comes from the Hagelian dialect which says We have here a thesis and we have an anti thesis and we have a higher synthesis. Now that is a very good cybernetic concept and what I was going to say that... Hagel was the first glimmer of a  systems thinker really in modem philosophy, talking about the last couple of hundred years. He had a  thing which he called the axiom of internal relations, which I'll ask you to contemplate for just a minute, which says that the relations by which terms are related and are an integral part of the terms they relate.
