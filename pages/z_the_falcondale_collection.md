@@ -139,4 +139,3 @@ The Observer is a part of the system
 
 > ... a company ... Take Harrods for example, been around a longer than all its clients and all its staff
 ####
-####
