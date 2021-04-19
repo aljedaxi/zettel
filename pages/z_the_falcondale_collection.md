@@ -88,4 +88,5 @@ the trick is to build governance into the system
 > how many states can you distinguish?
 ### "The System" is epistemological
 The Observer is a part of the system
+### In the 30s, Einstein was considered insane
 ###
