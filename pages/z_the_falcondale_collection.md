@@ -138,4 +138,4 @@ The Observer is a part of the system
 > Identity. So a  viable system has an identity and maybe that is one of the problems that I was having with the tides you see. It is  an identifiable thing which we are talking about which can sustain itself and if it eventually dies as we shall.
 
 > ... a company ... Take Harrods for example, been around a longer than all its clients and all its staff
-####
+#### Now I have a  law, never mind old Ashby. Which says that all viable systems contain and are contained in viable system.
