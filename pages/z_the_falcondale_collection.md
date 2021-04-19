@@ -94,3 +94,5 @@ The Observer is a part of the system
 ### In the 30s, Einstein was considered insane
 ### So you can be a ... a Marxist ... and none of them work. So one of the things I  became kind of famous for was attacking the business schools. .. They are all teaching one thing in common. It is that none of the teaching works.
 ###
+> Why do you think that management and unions never agree about anything. It is because they are talking about quite different systems with quite different VARIETIES.
+###
