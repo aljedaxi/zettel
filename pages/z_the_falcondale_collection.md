@@ -132,9 +132,11 @@ The Observer is a part of the system
 > That's just like unpopular  officers get killed in war. Too bad what a  pity let's hope nobody finds the bullet in the back.
 ###
 > Hegel ... a systems thinker ... He had a thing which he called the axiom of internal relations ... which says that the relations by which terms are related and are an integral part of the terms they relate ... And what this means is that a  mouse is smaller than an elephant or it  wouldn't be a  mouse ... We like to think that we are accounting for things that are going on in nature but what we are really accounting is a  linguistic model of that ...
-####
+#### 
 > Now there are obviously, like when we said that defining the boundaries of the system is immensely difficult, defining the boundaries of viability, is immensely difficult
 
 > Identity. So a  viable system has an identity and maybe that is one of the problems that I was having with the tides you see. It is  an identifiable thing which we are talking about which can sustain itself and if it eventually dies as we shall.
+
+> Now, I  floated a  company and Glen's resistance to that, but again you see you have got a company, .. Take Harrods for example, been around a longer than all its clients and all its staff, so as
 ####
 ####
