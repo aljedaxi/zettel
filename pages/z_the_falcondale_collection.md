@@ -103,4 +103,6 @@ The Observer is a part of the system
 
 > You have been appointed manager of a  shop engaged in jobbing production, and have been finding out the form - which is  pretty awful. Some shifts go well; but on others two types of difficulty arise, either separately or together. One difficulty is  that a shift may throw up a loss compared with standard; the other is that a  dissident faction of work people may decide to cause trouble - and that consumes too much energy in handling the wild cat strike threat. 
 
+> It turns out that there are two matters under your control that bear on this. Some work attracts a  bonus rate, and the loading of this work can be manipulated. It seems to be generally accepted on the shop floor that more than 30% bonus work is  'good' while less is  'bad'. There is another and unpleasant kind of job which you can always run (or not); this, according to agreements, involves a flat 10% extra payment for the whole shift. 
+
 >
