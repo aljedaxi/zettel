@@ -137,6 +137,6 @@ The Observer is a part of the system
 
 > Identity. So a  viable system has an identity and maybe that is one of the problems that I was having with the tides you see. It is  an identifiable thing which we are talking about which can sustain itself and if it eventually dies as we shall.
 
-> Now, I  floated a  company and Glen's resistance to that, but again you see you have got a company, .. Take Harrods for example, been around a longer than all its clients and all its staff, so as
+> ... I  floated a  company and Glen's resistance to that, but again you see you have got a company, .. Take Harrods for example, been around a longer than all its clients and all its staff, so as
 ####
 ####
