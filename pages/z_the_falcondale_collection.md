@@ -86,4 +86,5 @@ the trick is to build governance into the system
 ### Traditional managerial science has the problem of trying to measure "Men, Materials, Machinery and Money"; of course, all those are relevant only insofar as they are the things which become complexly intertangled
 ###
 > how many states can you distinguish?
-###
+### "The System" is epistemological
+The Observer is a part of the system
