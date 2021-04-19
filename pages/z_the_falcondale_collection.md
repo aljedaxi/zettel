@@ -93,5 +93,4 @@ the trick is to build governance into the system
 The Observer is a part of the system
 ### In the 30s, Einstein was considered insane
 ### So you can be a ... a Marxist ... and none of them work. So one of the things I  became kind of famous for was attacking the business schools. .. They are all teaching one thing in common. It is that none of the teaching works.
-### The number of 2 way connections between n items is n(n -1)
 ###
