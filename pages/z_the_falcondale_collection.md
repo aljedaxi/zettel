@@ -119,5 +119,5 @@ The Observer is a part of the system
 
 > Its an exercise not in accounting or man management because that's all taken out of it. But it's still very complicated. Is an exercise in complexity.
 
->
+> I always put this to my undergraduate students and I offer a bottle of wine for the first person to give me the answer and every year for the past five years someone has done it. So there is  a challenge for you.
 ###
