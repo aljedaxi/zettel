@@ -97,4 +97,4 @@ The Observer is a part of the system
 ###
 > Why do you think that management and unions never agree about anything. It is because they are talking about quite different systems with quite different VARIETIES.
 ### 
->
+> caminante no ay camino,
