@@ -92,4 +92,4 @@ the trick is to build governance into the system
 ### "The System" is epistemological
 The Observer is a part of the system
 ### In the 30s, Einstein was considered insane
-###
+### So you can be a  Keynesian, you can be a Marchel, a Marxist, a Friedmanist you can do all of these things and none of them work. So one of the things I  became kind of famous for was attacking the business schools. They are all teaching different things somewhat different, the only thing they have in common is, you see, is the scientific truth isn't it. They are all teaching one thing in common. What is  it? It is that none of the teaching works. It's no wonder I'm not very popular!
