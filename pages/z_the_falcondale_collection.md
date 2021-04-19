@@ -123,7 +123,8 @@ The Observer is a part of the system
 ## Session 4
 ###
 > I have had many arguments with economists about the nature of inflation because, it seems to me that from a  non cybernetic point of view that they regard inflation as a  fire breathing dragon who is stalking up and down the streets which has to be shot or dealt with in some way. Whereas I  see inflation from a  systemic point of view as essentially a  measure of the extent to which the poor are getting better off than the rich. You think about that because you see the rich are loosing value because of inflation and somebody with no money couldn't care less about inflation, obviously. If you've got nothing who cares! So that is a  very different insight. I  was nearly hanged from a  lamppost in Oxford, about 30 years ago for saying this.
-
+### 
+> Rwanda
 > The awful things about those situations, from my observations, that is never mentioned, is that people settle personal scores. Too bad he's dead, you know, a rather wicked thought. 
 > That's just like unpopular  officers get killed in war. Too bad what a  pity let's hope nobody finds the bullet in the back.
 ###
