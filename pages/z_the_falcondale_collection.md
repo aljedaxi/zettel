@@ -90,6 +90,9 @@ the trick is to build governance into the system
 ###
 ## Session 3
 ### Traditional managerial science has the problem of trying to measure "Men, Materials, Machinery and Money"; of course, all those are relevant only insofar as they are the things which become complexly intertangled
+:PROPERTIES:
+:id: 607cda8c-9ebd-429b-bba0-93987f4b52b5
+:END:
 ###
 > how many states can you distinguish?
 ### "The System" is epistemological
