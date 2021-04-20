@@ -22,25 +22,13 @@ title: poetry for programmers
 #### the ability to focus is a function of working memory management
 ##### to be meaningful is to be memorable
 ##### to focus on one thing, it has to be one thing
-### i do not write code; i *code*
-:PROPERTIES:
-:id: 602067a4-d93c-4c07-8db8-d79d2ad64966
-:END:
-#### simultaneous hyperfetishization of writing with disparagement of the humanities
-##### i would like to kill the concept of the code-base, 
-to limit talk away from code and towards: _____
-###### don't repeat *yourself*
-##### the codebase should be a [[picture]] of the problem space
-###### code is a [[representation]] of your understanding of the problem
-code that you refactor is code that represents an old understanding
-the act of refactoring is recognizing this staleness
-#### "one thing i'm going to talk a lot about it fetishism, which is a kinda ugly form of abstraction"
 ### finally, i would like to ask "what it is to be a poet"
 #### the man who was thursday
 #### to live something
 #### "and living means making a choice", between monday and thursday---for/in that moment.
 ## to make sense of code; [[sensemaking]], [[semiotics]], [[semantics]]
 ### me and my friend have the same problem: the arches of our feet de-arch-ify. we've both found the same solution: walking digitigrade. and i know for me, i've gained a strange appreciation for a distinguished feminine elegance; perhaps not because of it, but certainly not in spite of it.
+#### what does this if else tell us? it tells us that the caller may tell me different things, and i know what to do with that. does it tell me i know better what to do than they do? sometimes.
 ### ((600846c6-7b2b-4df2-94b3-12896937d075))
 ## https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/
 ## [psychology of programming interest group](https://www.ppig.org/papers/)
@@ -68,7 +56,7 @@ the act of refactoring is recognizing this staleness
 ### an exploration of the form of `the line`
 #### we measure the complexity, our changes, in terms of lines,
 and again, in terms of code
-#### ((602067a4-d93c-4c07-8db8-d79d2ad64966))
+#### [[DRY code]] , [[coding]]
 ### an exploration of how we can apply that to the act of programming
 #### what is the act of programming?
 ## the [[abstraction]] talk
@@ -81,3 +69,12 @@ Poetry as [[poiesis]]
 - [[the allegory of the ox]]
 
 Separation of ....
+### The question of being for programmers
+> there have been a lot of talks with roughly the same thesis over the years: the possibility space of programming is shrinking, honing in on an ever more specific set of modalities
+
+> wherefore? because we have forgotten the question of programming. thereby i'd like to present the following: a following of the questioning of being, one of the grandest reimaginings in the history of philosophy
+- [philosophy has had this issue w politics](https://aeon.co/videos/whats-essential-is-i-must-understand-a-rare-candid-interview-with-hannah-arendt)
+  - what does this sound like? whose attitudes does this recapitulate?
+  - whence come these attitudes?
+- an overview of the form of Nietzsche Geneologie
+- an overview of the words being and techne; the way in which techne becomes ossified into language

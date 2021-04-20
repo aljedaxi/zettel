@@ -1,8 +1,7 @@
 ---
 title: lichtung
-alias: clearing, obscuring, illuminates
+alias: clearing, obscuring, illuminates, revealed
 ---
-
 ## RAW NOTES:
 
 - we can understand revelation through art: the means of [[abstraction]] shifts the pattern of shadows & light

@@ -11,6 +11,9 @@ title: human resources
 #### Human resource planning -> system 5, strategic level
 #### Recruitment and selection
 #### Performance management
+:PROPERTIES:
+:id: 6057ad21-8bfc-46cb-8a80-8af531fbbcbf
+:END:
 #### Learning and development
 #### Career planning -> NO NO NO
 #### Function evaluation
