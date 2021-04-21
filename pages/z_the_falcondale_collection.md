@@ -151,3 +151,4 @@ An organ is only viable relative to the rest of the body
 ###
 > System One is to be identified as what is  going on that makes the viable system what it is
 ### Stafford conceives of the VSM as pairs,
+(people ())
