@@ -154,4 +154,4 @@ An organ is only viable relative to the rest of the body
 (people (squads (platoons (legions (army))))) or whatever
 ### In terms of variety,
 $$E \supset S1 \supset MS$$
-###
+### /im
