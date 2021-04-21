@@ -145,4 +145,4 @@ The Observer is a part of the system
 > I have a law ... all viable systems contain and are contained in viable system ... So you suddenly get this extraordinary image of the viable system called you, at the centre of something like a  sphere. Where your organs are part of you and you are part of the family. Something else is  part of you and you are part of the church and so on. And there are hundreds of them that's why I call it a sphere, I think it's a nice model. It's amazing really when you start to think about it. And this linear causal chain that I  was attacking yesterday, makes you pretend you are not that complicated because they say Oh well that's just me, you know. And I have signed on or whatever you've done. It's very boring but this rich thing like this sphere with no boundaries out here sort of shimmering away that is you
 ## Session 5
 ### 
-> org chart ... the only
+> Organisation Chart, the only use of this thing is to find out who you can blame
