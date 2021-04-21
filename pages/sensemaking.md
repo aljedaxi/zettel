@@ -10,6 +10,6 @@ alias: make sense, makes sense
 - Σ because it's the summation of all things currently sensed. The summation of a sensory fields.
 ## frameworks:
 > A special class of models are used by humans to make sense of what is going on, events that happened, explore the diversity of perspectives people have, diagnose organisational pathologies, make strategies of what can be changed, etc.
-[source]
+[source](https://storyconnect.nl/hexagon-sensemaking-canvas-introduction/)
 - [[cynefin]] which tells you where you are in the process of making sense of a problem space
 - [[hexagon]]
