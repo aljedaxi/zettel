@@ -15,9 +15,10 @@ title: collections of tech links
 ## document them with
 - https://github.com/JesterXL/hm-doc
 - bro you can combine logseq with [taiko](https://github.com/getgauge/taiko)
-## you can use this for sketching: https://reactype.io/
-## you can use this to flow data between boxes:
-### https://reactflow.dev/
+## sketching ui: 
+- https://reactype.io/
+## flow data between boxes: 
+- https://reactflow.dev/
 ## Ethical design:
 - https://ethicaldesign.guide/
 - https://2017.ind.ie/ethical-design/
