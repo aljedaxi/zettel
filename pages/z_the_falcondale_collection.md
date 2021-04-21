@@ -152,5 +152,5 @@ An organ is only viable relative to the rest of the body
 > System One is to be identified as what is  going on that makes the viable system what it is
 ### Stafford conceives of the VSM as pairs,
 (people (squads (platoons (legions (army))))) or whatever
-### In terms of variety, $$E \supset S1 \supset MS$$ so what stafford draws a bunch of attenuator arrows [attenuator symbol](http://www.electronicshub.org/wp-content/uploads/2015/05/attenuator.jpg) like $$E \triangleright S1 \triangleright MS$$ S1 & S1 to MS; thence, amplifier arrows [amplifier symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Amplifier_symbol.svg/1024px-Amplifier_symbol.svg.png){:height 90, :width 93} from MS to S1 to E.
+### In terms of variety, $$E \supset S1 \supset MS$$ so what stafford draws a bunch of attenuator arrows [attenuator symbol](http://www.electronicshub.org/wp-content/uploads/2015/05/attenuator.jpg) like  S1 & S1 to MS; thence, amplifier arrows [amplifier symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Amplifier_symbol.svg/1024px-Amplifier_symbol.svg.png){:height 90, :width 93} from MS to S1 to E.
 ### if something is in homeostasis, there's no issue. you're a nice, synchronous, black box;
