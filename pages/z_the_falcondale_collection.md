@@ -154,4 +154,4 @@ An organ is only viable relative to the rest of the body
 (people (squads (platoons (legions (army))))) or whatever
 ### In terms of variety,
 $$E \supset S1 \supset MS$$
-### /im
+### [attenuator symbol](https://www.electrical-symbols.com/images/electronic-symbols/attenuators-equalizers/attenuator2.png)
