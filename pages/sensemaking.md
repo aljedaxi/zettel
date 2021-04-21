@@ -9,5 +9,5 @@ alias: make sense, makes sense
 ## One might say there's only one aesthesis:  capital S 'Sensation', and all other aestheses are implied by it. eg, 'Σ'⊃'it feels like evening'. 
 - Σ because it's the summation of all things currently sensed. The summation of a sensory fields.
 ## frameworks:
-- [[cynefin]]
-- hexagon
+- [[cynefin]] which tells you where you are in the process of making sense of a problem space
+- [[hexagon]]
