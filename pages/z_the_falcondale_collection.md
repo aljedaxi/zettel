@@ -146,4 +146,5 @@ The Observer is a part of the system
 ## Session 5
 ###
 > Organisation Chart, the only use of this thing is to find out who you can blame
-### A system can only be viable relative to its environment.
+### A system can only be viable relative to its environment. if you put a human in the middle of the desert with no water,,,,,
+###
