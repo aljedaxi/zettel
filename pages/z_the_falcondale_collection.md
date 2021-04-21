@@ -153,3 +153,4 @@ An organ is only viable relative to the rest of the body
 ### Stafford conceives of the VSM as pairs,
 (people (squads (platoons (legions (army))))) or whatever
 ### In terms of variety,
+$$E \supset $$
