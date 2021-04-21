@@ -13,3 +13,4 @@ alias: make sense, makes sense
 [source](https://storyconnect.nl/hexagon-sensemaking-canvas-introduction/)
 - [[cynefin]] which tells you where you are in the process of making sense of a problem space
 - [[hexagon]]
+- [[VSM]]
