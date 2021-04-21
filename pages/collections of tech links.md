@@ -7,7 +7,6 @@ title: collections of tech links
 ## [[CSS stuff]]
 ## [[links]]
 ## use them for [[software ideas]]
-## use [this](https://react-hook-form.com/) for forms
 ## vim
 - https://andrew.stwrt.ca/posts/vim-ctags
 ## how to bill https://raccoon.onyxbits.de/blog/software-development-cost/
