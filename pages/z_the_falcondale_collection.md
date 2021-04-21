@@ -147,4 +147,5 @@ The Observer is a part of the system
 ###
 > Organisation Chart, the only use of this thing is to find out who you can blame
 ### A system can only be viable relative to its environment.
+An organ is only viable relative to the rest of the body
 ###
