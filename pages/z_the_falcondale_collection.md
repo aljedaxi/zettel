@@ -155,3 +155,4 @@ An organ is only viable relative to the rest of the body
 ### In terms of variety,
 $$E \supset S1 \supset MS$$
 ### [attenuator symbol](http://www.electronicshub.org/wp-content/uploads/2015/05/attenuator.jpg)
+[amplifier symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Amplifier_symbol.svg/1024px-Amplifier_symbol.svg.png)
