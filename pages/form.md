@@ -9,4 +9,5 @@ title: form
 - differences in kind may also be differences in degree. This shows that the forms which may be differed by quality are expressed relative to another form. You have a field.
 ## quality is the trait relative to the form. 
 - differences in kind may also be differences in degree. This shows that the forms which may be differed by quality are expressed relative to another form. You have a field.
-## taking a thing and swapping a subset for something with the same form,
+## taking a thing and swapping a subset for some set with the same form will force you to understand how that subset relates to the whole.
+-
