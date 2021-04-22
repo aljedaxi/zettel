@@ -21,7 +21,7 @@ title: The Repressive Politics of Emotional Intelligence
 ## 
 > Foucault described neoliberal ideology as the application of an economic model to “every social actor in general insofar as he or she gets married, for example, or commits a crime, or raises children, gives affection and spends time with the kids.” Any of these actions could be seen as entailing certain costs and benefits, certain risks and rewards, which, if calculated properly, would result in the “optimal allocation of scarce resources to alternative ends.” The subject shaped by this model, Homo economicus, pledged himself to the pursuit of absolute personal freedom and responded to any changes in his environment with rational self-interest. To anything that lay outside his self-interest, he remained “blind,” Foucault claimed
 ## 
-> service work is a mode of production organized around communicative interactions
+> emotional intelligence arose when the global economy was undergoing a sharp structural transformation, with the decline of manufacturing and the expansion of the service sector ... service work is a mode of production organized around communicative interactions
 ##
 ##
 ##
