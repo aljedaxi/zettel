@@ -24,8 +24,10 @@ title: The Repressive Politics of Emotional Intelligence
 > emotional intelligence arose when the global economy was undergoing a sharp structural transformation, with the decline of manufacturing and the expansion of the service sector ... service work is a mode of production organized around communicative interactions ... Arlie Russell Hochschild ... coined the term “emotional labor” for this kind of work
 ###
 > The poor salesclerk working in an elite clothing boutique manages envy. The Wall Street stock-trader manages panic
-### 
+###
 > the productivity of emotional labor can be increased only by encouraging workers to cultivate displays of emotion that are more convincing—both to others and to themselves. As Hochschild notes, “The pinch between a real but disapproved feeling on the one hand and an idealized one on the other” becomes an economic liability. Emotional labor involves minimizing that pinch, transforming a surface display into a deep conviction.
+### 
+>
 ##
 ##
 ##
