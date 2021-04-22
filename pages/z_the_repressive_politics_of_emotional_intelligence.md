@@ -7,3 +7,6 @@ title: The Repressive Politics of Emotional Intelligence
 ##
 > the book—which promises to teach its readers ... how to ... to control and channel one’s urges
 ### oppa oedipus style
+##
+> and how often you view the future with hope
+##
