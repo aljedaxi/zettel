@@ -26,8 +26,9 @@ title: The Repressive Politics of Emotional Intelligence
 > The poor salesclerk working in an elite clothing boutique manages envy. The Wall Street stock-trader manages panic
 ###
 > the productivity of emotional labor can be increased only by encouraging workers to cultivate displays of emotion that are more convincing—both to others and to themselves. As Hochschild notes, “The pinch between a real but disapproved feeling on the one hand and an idealized one on the other” becomes an economic liability. Emotional labor involves minimizing that pinch, transforming a surface display into a deep conviction.
-### 
->
+###
+> By turning “emotional labor” into “emotional intelligence,” Goleman replaces the concrete social relation between an employee and her employer with a vague individual aptitude
+###
 ##
 ##
 ##
