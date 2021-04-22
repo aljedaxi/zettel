@@ -28,5 +28,5 @@ the techne becomes consumed by the tool itself
 #### remember when you learned logic?
 #### we assume being but have no idea what it is; it's now occluded to us, as translucent as the air, as the a, the the, the language itself, inexpressible
 ### 
-> i want the old iOS date picker back [[I want the old iOS date picker back 😭]] 
+> [[I want the old iOS date picker back 😭]] 
 GUESS YOU SHOULDN"T HAVE BAKED IT INTO THE LANGUAGE THEN, LIBERAL
