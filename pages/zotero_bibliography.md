@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[The Repressive Politics of Emotional Intelligence]]
+
 ## [[Alan Kay]]
 
 ## [[Bret Victor - The Humane Representation of Thought]]
@@ -29,7 +31,5 @@ title: Zotero Bibliography
 ## [[Democracy is common and robust historically and across the globe]]
 
 ## [[The Nooscope Manifested]]
-
-## [[Cosmotechnics as Cosmopolitics]]
 
 

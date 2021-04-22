@@ -11,7 +11,16 @@ const {env: flutureEnv} = require ('fluture-sanctuary-types');
 const Future = require ('fluture')
 const {parallel, fork} = Future
 const {
+	insert,
+	mapLeft,
+	fromPairs,
 	fromMaybe,
+	pairs,
+	snd,
+	prop,
+	fst,
+	swap,
+	concat,
 	pipe,
 	get,
 	K,
@@ -32,8 +41,9 @@ const {
 	splitOn,
 	joinWith,
 } = sanctuary.create ({checkTypes: true, env: sanctuary.env.concat (flutureEnv)});
-const {writeFile} = require ('fs');
+const {writeFile, readFileSync} = require ('fs');
 const {readdir, readFile} = require ('fs/promises')
+const yaml = require('js-yaml');
 
 const daylyTasks = ['b12'];
 const weeklyTasks = [
@@ -48,12 +58,6 @@ const weeklyTasks = [
 ];
 const biMonthlyTasks = ['change hydroponics debris filter'];
 
-/*
- * ## TODO materialize the catalog import list
- * :PROPERTIES:
- * :todo: 1615703792485
- * :END:
- */
 const formatTask = timestamp => task => `## TODO ${task}
 :PROPERTIES:
 :todo: ${timestamp}
@@ -155,7 +159,52 @@ const commands = {
 	'next-week': doThingForNextWeek (1),
 }
 
-const FT = flip (T)
+const ordToCard = s => ({
+	second: 2,
+	single: 1,
+	fourth: 4,
+} [s]);
+
+const trace = s => {console.log(s); return s;};
+const getFreqs = pipe([
+	snd,
+	pairs,
+	map (mapLeft (pipe([ordToCard, s => s.toString()]))),
+	fromPairs,
+])
+
+const generateTaskFiles = pipe([
+	pairs,
+	map (p => {
+		const unit = fst (p)
+		const freqs = getFreqs (p)
+		return freqs;
+	})
+])
+
+const readFileNameSync = fileName =>
+	readFileSync(fileName, 'utf8')
+
+const taskFileMain = pipe ([
+	readFileNameSync,
+	yaml.load,
+	reduce (xs => ({do: task, every}) =>
+		concat (
+			map (p => ({ unit: snd (p), freq: fst (p), task })) (pairs (every))
+		) (xs)
+	) ([]),
+	reduce (xs => x => {
+		const key = x.unit
+		const a = xs[key] ?? {}
+		const tasksAtFreq = a[x.freq] ?? []
+		a[x.freq] = tasksAtFreq.concat (x.task)
+		return insert (key) (a) (xs)
+	}) ({}),
+	generateTaskFiles,
+	console.log,
+])
+
+taskFileMain (process.argv.pop())
 
 const main = pipe([
 	last,
@@ -166,4 +215,4 @@ const main = pipe([
 ])
 
 // doThingGeneral (doThingForThisWeek) (1) (new Date());
-fork (console.error) (console.log) (main (process.argv))
+// fork (console.error) (console.log) (main (process.argv))

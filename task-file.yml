@@ -4,8 +4,24 @@
 
 - do: water hydroponics
   every:
-    single: sunday
+    single: week
 
 - do: change hydroponics debris filter
   every:
     second: month
+
+- do: change sheets, pillow covers
+  every:
+    second: week
+
+- do: wash duvet cover
+  every:
+    fourth: week
+
+- do: check instagram
+  every:
+    second: day
+
+- do: check email
+  every:
+    single: day
