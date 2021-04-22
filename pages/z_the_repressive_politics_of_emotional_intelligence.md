@@ -10,7 +10,7 @@ title: The Repressive Politics of Emotional Intelligence
 ##
 > and how often you view the future with hope
 ## the term “emotional intelligence” was first proposed by ... Peter Salovey ... and one of his graduate students, John D. Mayer ... For Salovey and Mayer, emotional intelligence was “the ability to monitor one’s own and others’ feelings and emotions,” and “to discriminate among them” by speaking a meta-language of emotion. Their interest was in how people spoke about emotions, and how they were conditioned to speak about them—by their families, their workplaces, the psychiatric profession, and other social institutions ...
-##
+### Goleman’s version of the concept proves endlessly adaptable ...
 ##
 ##
 ##
