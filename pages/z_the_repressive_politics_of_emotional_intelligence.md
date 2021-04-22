@@ -28,7 +28,8 @@ title: The Repressive Politics of Emotional Intelligence
 > the productivity of emotional labor can be increased only by encouraging workers to cultivate displays of emotion that are more convincing—both to others and to themselves. As Hochschild notes, “The pinch between a real but disapproved feeling on the one hand and an idealized one on the other” becomes an economic liability. Emotional labor involves minimizing that pinch, transforming a surface display into a deep conviction.
 ###
 > By turning “emotional labor” into “emotional intelligence,” Goleman replaces the concrete social relation between an employee and her employer with a vague individual aptitude
-###
+## 
+> Only one thing seems certain: the more we experience emotional labor as a feigned display rather than as a true feeling, the greater our psychological angst. “When display is required by the job, it is usually feeling that has to change,” Hochschild writes. For the individual worker, there is every reason to believe in the script she recites. She wins nothing and risks everything by asserting her freedom from it.
 ##
 ##
 ##
