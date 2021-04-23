@@ -155,5 +155,7 @@ An organ is only viable relative to the rest of the body
 ### In terms of variety, $$E \supset S1 \supset MS$$ so what stafford draws a bunch of attenuator arrows [attenuator symbol](http://www.electronicshub.org/wp-content/uploads/2015/05/attenuator.jpg){:height 22, :width 22} like $$E$$ to $$S1$$ & $$S1$$ to $$MS$$; thence, amplifier arrows [amplifier symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Amplifier_symbol.svg/1024px-Amplifier_symbol.svg.png){:height 20, :width 20} from $$E \triangleleft S1 \triangleleft MS$$.
 ### if something is in homeostasis, there's no issue. you're a nice, synchronous, black box;
 ### what you're trying to measure is stability; your goal is to maintain stability
-### 
+###
 > my definition of information is 'what changes us'. Up to then the stuff is  data. Data is  useless, until its transmogrified into something that changes you
+### 
+> A few years ago Allenna and I  were appointed by the United Nations as consultants to the President of Uruguay. This is a  dear delightful man, a  lawyer whose name is Dr. Julio Sanganeti, who is  no longer President because they are now working on a constitutional basis and last a few years and then replaced. He was replacing a military hunta, which had been in there for 12 years and committed mayhem. And he had all these problems about amnesties. Everywhere you go you get this problem in the third world. If everybody in this room has had a  loved one tortured and killed the first thing you want to do, is wreak vengeance on the bastards who did it. But you see, the military are sitting there waiting to take over again at a drop of a hat. So you can't suddenly start trying all the generals and hang them. Its an awfully
