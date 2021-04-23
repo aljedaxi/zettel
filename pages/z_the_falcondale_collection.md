@@ -155,3 +155,5 @@ An organ is only viable relative to the rest of the body
 ### In terms of variety, $$E \supset S1 \supset MS$$ so what stafford draws a bunch of attenuator arrows [attenuator symbol](http://www.electronicshub.org/wp-content/uploads/2015/05/attenuator.jpg){:height 22, :width 22} like $$E$$ to $$S1$$ & $$S1$$ to $$MS$$; thence, amplifier arrows [amplifier symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Amplifier_symbol.svg/1024px-Amplifier_symbol.svg.png){:height 20, :width 20} from $$E \triangleleft S1 \triangleleft MS$$.
 ### if something is in homeostasis, there's no issue. you're a nice, synchronous, black box;
 ### what you're trying to measure is stability; your goal is to maintain stability
+### 
+> my definition of information is 'what changes us'. Up to then the stuff is  data. Data is  useless, until its transmogrified into something that changes you
