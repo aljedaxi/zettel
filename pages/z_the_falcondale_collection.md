@@ -164,4 +164,5 @@ An organ is only viable relative to the rest of the body
 ###
 > The channel itself has to have requisite variety
 requisite bandwidth
-###
+### 
+> If you are in a book shop and your trying to decide whether you want to buy this book. Negate sentences at random. See if they are worth it, and you soon find that practically everything in the book is meaningless. Because you couldn't possibly say the opposite. It's a  very good test, I  really commend it to you.
