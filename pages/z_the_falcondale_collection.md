@@ -168,4 +168,4 @@ requisite bandwidth
 > If you are in a book shop and your trying to decide whether you want to buy this book. Negate sentences at random. See if they are worth it, and you soon find that practically everything in the book is meaningless. Because you couldn't possibly say the opposite. It's a  very good test, I  really commend it to you.
 ###
 > Transducer - Latin - transducerai -  lead across
-### whenever you cross the boundary, (between $$E$$ & $$S1$$ &c.)
+### whenever you cross the boundary, (between $$E$$ & $$S1$$ &c.) you're dealing with transduction
