@@ -162,3 +162,6 @@ An organ is only viable relative to the rest of the body
 ###
 > You've got the firms of consultants, who increasingly you notice, are accountants.
 ###
+> The channel itself has to have requisite variety
+requisite bandwidth
+###
