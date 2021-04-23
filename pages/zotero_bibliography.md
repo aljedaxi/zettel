@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Confluence]]
+
 ## [[The Repressive Politics of Emotional Intelligence]]
 
 ## [[Alan Kay]]
@@ -27,9 +29,5 @@ title: Zotero Bibliography
 ## [[Tractatus Logico-Philosophicus]]
 
 ## [[The Falcondale Collection]]
-
-## [[Democracy is common and robust historically and across the globe]]
-
-## [[The Nooscope Manifested]]
 
 
