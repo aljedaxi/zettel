@@ -10,9 +10,11 @@ title: confluence framework
 
 Simple
 : centre && !mesh
+: Winter
 
 Complicated
 : centre && mesh
+: 
 
 Complex
 : !center && mesh
