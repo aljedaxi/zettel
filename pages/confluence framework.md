@@ -21,11 +21,12 @@ Complicated
 Complex
 : !center && mesh
 : Summer
+: Fire
 
 Chaos
 : !center && !mesh
 : Spring
-: 
+: Wood
 
 Disorder
 : who knows?
