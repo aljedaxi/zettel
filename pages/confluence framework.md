@@ -39,7 +39,7 @@ Disorder
 ####
 > South is the direction of summer, mid-day, young adulthood, water and the emotional world. In the South meshwork connections form and strengthen like growing plants. Here everyone has their own answer because everyone has their own path. This is the realm of storytelling, of mutual aid, and of learning by trial and error through probing explorations ... lessons of the spirit received during sleep are put into action ... time of testing wisdom by bringing it into physical being and helping it to grow ... We can then sense those patterns and respond by stabilizing those patterns that we find desirable, by destabilizing those we do not want, and by seeding the space so that patterns we want are more likely to emerge
 #### 
-> The West is the direction of autumn, sunset, middle age, fire and the intellectual world. In the West connections begin to harden into customs and rules, and central and networked forces intermingle for good and ill. Here the experts know the answers, because they keep the knowledge and wisdom that has arisen and stabilized ...
+> The West is the direction of autumn, sunset, middle age, fire and the intellectual world. In the West connections begin to harden into customs and rules, and central and networked forces intermingle for good and ill. Here the experts know the answers, because they keep the knowledge and wisdom that has arisen and stabilized ... the middle years are those of power. You have experienced some of life. You have learned some of its lessons and made your initial mistakes
 #### she'd make diagrams where there's this eye on top that represents the central power structure; "the director" [source](http://www.storycoloredglasses.com/2010/06/confluence.html)
 ##
 ##
