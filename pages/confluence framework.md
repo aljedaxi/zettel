@@ -12,7 +12,7 @@ Simple
 : centre && !mesh
 : Winter
 : Metal
-: > extreme order is the paradoxical power of new life cloaked in death, rapid growth cloaked in rest
+: > extreme order is the paradoxical power of new life cloaked in death
 
 Complicated
 : centre && mesh
