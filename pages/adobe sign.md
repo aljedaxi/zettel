@@ -14,3 +14,5 @@ SDK
 : https://github.com/adobe-sign/AdobeSignJsSdk
 Generic Resource
 : https://sites.google.com/view/my-adobesign-resources/home
+Tutorial
+: https://medium.com/adobetech/adobe-sign-tutorial-everything-you-need-to-effectively-use-the-adobe-sign-api-9d9f135c347d
