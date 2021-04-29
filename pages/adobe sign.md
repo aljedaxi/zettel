@@ -9,4 +9,6 @@ title: adobe sign
 : https://www.adobe.io/apis/documentcloud/dcsdk/pdf-tools.html
 ## SDK
 : https://www.npmjs.com/package/adobe-sign-sdk#apis
+## Resources
+: https://sites.google.com/view/my-adobesign-resources/home
 ##
