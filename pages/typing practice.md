@@ -2,4 +2,5 @@
 title: typing practice
 ---
 
-## https://github.com/callum-oakley/gotta-go-fast
+## tools
+- https://github.com/callum-oakley/gotta-go-fast
