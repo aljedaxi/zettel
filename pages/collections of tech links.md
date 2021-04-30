@@ -22,6 +22,7 @@ title: collections of tech links
 ## sketching ui: 
 - https://reactype.io/
 - https://storybook.js.org/
+- [visual testing](https://www.chromatic.com/) for storybook
 ## lenses:
 - https://github.com/calmm-js/partial.lenses
 
