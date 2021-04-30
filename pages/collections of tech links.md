@@ -21,7 +21,7 @@ title: collections of tech links
 - bro you can combine logseq with [taiko](https://github.com/getgauge/taiko)
 ## sketching ui: 
 - https://reactype.io/
-- https://storybook.js.org/
+- [storybook](https://storybook.js.org/)
 - [visual testing](https://www.chromatic.com/) for storybook
 ## lenses:
 - https://github.com/calmm-js/partial.lenses
