@@ -12,3 +12,6 @@ cold brew
 
 mint
 : https://www.ohhowcivilized.com/moroccan-mint-tea/
+
+lavender
+: https://www.ohhowcivilized.com/lavender-tea/
