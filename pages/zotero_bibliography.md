@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[How to motivate yourself to change | Psyche Guides]]
+
 ## [[Confluence]]
 
 ## [[The Repressive Politics of Emotional Intelligence]]
@@ -27,7 +29,5 @@ title: Zotero Bibliography
 ## [[Things that are not strings]]
 
 ## [[Tractatus Logico-Philosophicus]]
-
-## [[The Falcondale Collection]]
 
 
