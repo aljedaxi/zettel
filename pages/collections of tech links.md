@@ -2,13 +2,15 @@
 title: collections of tech links
 ---
 
-## [[messaging clients]]
-## [[clojure]]
-## [[CSS stuff]]
-## [[links]]
-## [[text markup]]
-## [[game making]]
-## [[3d webdev]]
+## backlinks:
+### [[messaging clients]]
+### [[clojure]]
+### [[CSS stuff]]
+### [[links]]
+### [[text markup]]
+### [[game making]]
+### [[3d webdev]]
+### [[clojure]]
 ## use them for [[software ideas]]
 ## vim
 - https://andrew.stwrt.ca/posts/vim-ctags
@@ -20,7 +22,6 @@ title: collections of tech links
 ## sketching ui: 
 - https://reactype.io/
 - https://storybook.js.org/
-## [[clojure]]
 ## lenses:
 - https://github.com/calmm-js/partial.lenses
 
