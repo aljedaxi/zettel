@@ -2,22 +2,3 @@
 title: programming links
 ---
 
-## [[clojure]]
-## lenses:
-- https://github.com/calmm-js/partial.lenses
-
-reactive programming:
-- https://kefirjs.github.io/kefir/#static-land
-
-charts:
-- https://github.com/chartjs/Chart.js
-
-3d:
-- [[3d webdev]]
-
-internationalization:
-- https://formatjs.io/
-
-[[game making]]
-## [[text markup]]
-## https://storybook.js.org/
