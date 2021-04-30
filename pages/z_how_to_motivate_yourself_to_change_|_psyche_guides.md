@@ -20,3 +20,13 @@ Now that you’ve identified your reality and your ideal for your most pressing 
 Next, think about how big or small that discrepancy is. How uncomfortable does it make you feel?
 
 In a counselling context, the MI evocation phase is when the practitioner uses strategies to help clients talk about readiness, willingness and ability to change. The theory is that, the more clients talk about their desire, ability, reasons and need for change, the more likely they’ll be to make a commitment and take action toward their goal. Here are two evocation exercises you can try on your own, or with a trusted friend or relative, that will similarly help to increase your commitment and motivation:
+
+How will working toward your change goals help you better live by these values? There’s no set duration you must spend on this exercise, but take your time and consider coming back to it on different days when you might be in a different mood or have a different perspective.
+
+change plan. Once you’re able to say: ‘I’m willing to work on my change,’ that’s a good sign that you’re ready to consider your plan of action.
+
+Think of the ‘big picture’ first. A big picture helps us think of the future; it plants an image in our mind. Imagine what life would be like once you accomplish your change goal. Your big picture could be broad and include more than one specific goal.
+
+steps you can take toward achieving the goal. Try listing at least 10 actions, steps or tasks that will help you make progress. Then, go through the list and rate each step from 1 to 5, where 5 is an action you feel capable of undertaking, and 1 is an action that’s too difficult, vague or impractical at the moment. Just as your goal needs to be SMART, your steps also need to be SMART, so try to rework the list to make as many of the steps as near to 5 as possible. For example, ‘Eat fewer carbohydrates and fats’ might become ‘I will limit myself to 1,200 calories a day for the next eight weeks.’
+
+Put all this information – the big picture; your specific goal; 10 specific steps; your support system; your resources; your obstacles – together in a written plan, and review it often. Keeping your goal in mind is crucial to success. If you file away your plan, it will be ‘out of sight, out of mind’, so try to keep it somewhere handy and visible, such as by your bedside or on your desk. You might like to use a template plan such as the free one at the Motivational Interviewing Network of Trainers (MINT) website.
