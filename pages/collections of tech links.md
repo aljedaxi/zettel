@@ -30,12 +30,8 @@ reactive programming:
 charts:
 - https://github.com/chartjs/Chart.js
 
-3d:
-- 
-
 internationalization:
 - https://formatjs.io/
-##
 ## flow data between boxes: 
 - https://reactflow.dev/
 ## Ethical design:
