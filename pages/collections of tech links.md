@@ -16,6 +16,25 @@ title: collections of tech links
 - bro you can combine logseq with [taiko](https://github.com/getgauge/taiko)
 ## sketching ui: 
 - https://reactype.io/
+## [[clojure]]
+## lenses:
+- https://github.com/calmm-js/partial.lenses
+
+reactive programming:
+- https://kefirjs.github.io/kefir/#static-land
+
+charts:
+- https://github.com/chartjs/Chart.js
+
+3d:
+- [[3d webdev]]
+
+internationalization:
+- https://formatjs.io/
+
+[[game making]]
+## [[text markup]]
+## https://storybook.js.org/
 ## flow data between boxes: 
 - https://reactflow.dev/
 ## Ethical design:
