@@ -34,7 +34,6 @@ internationalization:
 
 [[game making]]
 ## [[text markup]]
-## https://storybook.js.org/
 ## flow data between boxes: 
 - https://reactflow.dev/
 ## Ethical design:
