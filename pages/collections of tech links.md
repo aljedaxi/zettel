@@ -6,6 +6,9 @@ title: collections of tech links
 ## [[clojure]]
 ## [[CSS stuff]]
 ## [[links]]
+## [[text markup]]
+## [[game making]]
+## [[3d webdev]]
 ## use them for [[software ideas]]
 ## vim
 - https://andrew.stwrt.ca/posts/vim-ctags
@@ -28,13 +31,11 @@ charts:
 - https://github.com/chartjs/Chart.js
 
 3d:
-- [[3d webdev]]
+- 
 
 internationalization:
 - https://formatjs.io/
-
-[[game making]]
-## [[text markup]]
+##
 ## flow data between boxes: 
 - https://reactflow.dev/
 ## Ethical design:
