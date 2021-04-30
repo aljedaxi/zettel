@@ -5,13 +5,13 @@ title: How to motivate yourself to change | Psyche Guides
 ## 
 > Focusing: Recognise the problem
 
-Recognition of a problem is the first step toward building discrepancy – that is, recognising the difference between your reality and the ideal. First, what is your reality? Get a notepad and brainstorm what’s causing you dissatisfaction or concerns. Think of areas such as physical health, work, relationships, social life, finances or emotional/mental health where things aren’t as you’d like. If you have a trusted friend or relative, you could also consider brainstorming with them (but do make sure that they help you uncover your own discrepancies, rather than imposing ideas on you). Here are some examples:
+> Recognition of a problem is the first step toward building discrepancy – that is, recognising the difference between your reality and the ideal. First, what is your reality? Get a notepad and brainstorm what’s causing you dissatisfaction or concerns. Think of areas such as physical health, work, relationships, social life, finances or emotional/mental health where things aren’t as you’d like. If you have a trusted friend or relative, you could also consider brainstorming with them (but do make sure that they help you uncover your own discrepancies, rather than imposing ideas on you). Here are some examples:
 
-    ‘I’m overweight.’
-    ‘I worry too much.’
-    ‘I can’t seem to get organised.’
+> > ‘I’m overweight.’
+> > ‘I worry too much.’
+> > ‘I can’t seem to get organised.’
 
-If you came up with more than one area of concern, rate the ones you listed on a scale from 1 to 5, where 1 indicates that you’re only occasionally troubled by the issue, and 5 indicates that the issue is causing you significant dissatisfaction. As a rough guide, if the concern bothers you several times a day, you might score it a 5. If it causes you concern only once every few weeks, you might score it 1.
+> If you came up with more than one area of concern, rate the ones you listed on a scale from 1 to 5, where 1 indicates that you’re only occasionally troubled by the issue, and 5 indicates that the issue is causing you significant dissatisfaction. As a rough guide, if the concern bothers you several times a day, you might score it a 5. If it causes you concern only once every few weeks, you might score it 1.
 
 Now, focus on your most highly rated concerns, and think: what would make them better, and why? In other words, what would be your ideal situation? Picking up on the examples above, you might reflect on the following:
 
