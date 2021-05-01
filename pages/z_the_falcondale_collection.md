@@ -180,4 +180,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ### in what sense is the totality of the health system a system?
 - all doctors have the same education; a certain solidarity; the same language; linked fax machines; a shared understanding of how to work
 ### each station on an assembly line is it's own viable system, which is liked by the assembly line!
-###
+### so the people at the top are like "oh we're very liberal, i don't really do anything up here, if someone at the bottom wants to do something they can just like do it yeah? why am i here?"; you go and talk to the person at the bottom and they hate their job, saying "you can't do anything without going through 18.5 layers of bureaucracy."
+: this speaks to the way in which the variety of the system interplays with the variety of the metasystem
