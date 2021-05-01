@@ -174,7 +174,9 @@ requisite bandwidth
 $$E \leftrightarrow S_1 \leftrightarrow M$$
 #### if one envisions them as stacked vertically, the battery absorbs variety by leveling the environment through expectation. If you talk to someone in america about McDondald, it's likely going to be same as if you talk to someone about it in Sweden.
 #### we can thence envision a red and blue line running through the battery of $$M$$s. 
-- The red line is a circuit
+- The red line is a circuit that communicates the ethical and legal constraints of the operation
+- The blue line is a circuit that communicates a resource bargain: i want $$x$$, and you want me to get $$y$$ out of it.
+####
 ### in what sense is the totality of the health system a system?
 - all doctors have the same education; a certain solidarity; the same language; linked fax machines; a shared understanding of how to work
 ### each station on an assembly line is it's own viable system, which is liked by the assembly line!
