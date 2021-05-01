@@ -170,4 +170,4 @@ requisite bandwidth
 > Transducer - Latin - transducerai -  lead across
 ### whenever you cross the boundary, (between $$E$$ & $$S_1$$ &c.) you're dealing with transduction
 ## Session 6
-###
+### the entirety of system one is a battery of viable systems
