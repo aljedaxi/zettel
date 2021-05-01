@@ -171,7 +171,8 @@ requisite bandwidth
 ### whenever you cross the boundary, (between $$E$$ & $$S_1$$ &c.) you're dealing with transduction
 ## Session 6
 ### the entirety of system one is a battery of viable systems
-if one envisions them as stacked vertically, the battery absorbs variety by leveling the environment through expectation. If you talk to someone in america about McDondald, it's likely going to be same as if you talk to someone about it in Sweden.
+#### if one envisions them as stacked vertically, the battery absorbs variety by leveling the environment through expectation. If you talk to someone in america about McDondald, it's likely going to be same as if you talk to someone about it in Sweden.
+#### we can thence envision a
 ### in what sense is the totality of the health system a system?
 - all doctors have the same education; a certain solidarity; the same language; linked fax machines; a shared understanding of how to work
 ### each station on an assembly line is it's own viable system, which is liked by the assembly line!
