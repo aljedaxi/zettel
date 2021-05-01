@@ -172,4 +172,4 @@ requisite bandwidth
 ## Session 6
 ### the entirety of system one is a battery of viable systems
 if one envisions them as stacked vertically, the battery absorbs variety by leveling the environment through expectation. If you talk to someone in america about McDondald, it's likely going to be same as if you talk to someone about it in Sweden.
-###
+### in what sense is the totality of the health system a system?
