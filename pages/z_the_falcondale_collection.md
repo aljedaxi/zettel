@@ -177,7 +177,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 - The red line is a circuit that communicates the ethical and legal constraints of the operation
 - The blue line is a circuit that communicates a resource bargain: i want $$x$$, and you want me to get $$y$$ out of it.
 #### if the system isn't falling apart, we know that $$\{E,S_1,M\}$$ all have requisite variety; however, that tells us nothing about the vertical interchange of variety
-#### the goal of the **audit** is to catch runaway variety
+#### the goal of the **audit** is to catch runaway variety; eg, if you go in and actually talk to your managers and say "do we have any waste?"
 ####
 ### in what sense is the totality of the health system a system?
 - all doctors have the same education; a certain solidarity; the same language; linked fax machines; a shared understanding of how to work
