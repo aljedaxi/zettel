@@ -22,7 +22,8 @@ title: Two Transsexuals Talk Nonbinary
 > All the critiques of nonbinary’s mainstream uptake as overly aesthetic, as a category largely consumed around white androgynous, masculine images are great, but then look also at trans femmes and see how hard it is to give that positive account of the self and desire, too
 ## 
 > involves proclaiming a real desire to be a woman—and who the fuck in this world is allowed to desire to be a woman?
-##
+## 
+> that was what I imagined myself transitioning into—the faggot, not the man. And then I was very disappointed to become a faggot and to see that gay male culture was not that interested in faggots
 ##
 ##
 ##
