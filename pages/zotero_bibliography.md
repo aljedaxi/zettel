@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Two Transsexuals Talk Nonbinary]]
+
 ## [[How to motivate yourself to change | Psyche Guides]]
 
 ## [[Confluence]]
@@ -25,9 +27,5 @@ title: Zotero Bibliography
 ## [[I want the old iOS date picker back 😭]]
 
 ## [[Understanding "Taming the Meta Language"]]
-
-## [[Things that are not strings]]
-
-## [[Tractatus Logico-Philosophicus]]
 
 
