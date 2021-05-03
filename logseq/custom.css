@@ -160,6 +160,10 @@ code {
   background: transparent;
 }
 
+b {
+  font-weight: bold;
+}
+
 /*
 
     Name:       dracula for CodeMirror
