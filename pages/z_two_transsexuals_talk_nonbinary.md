@@ -10,7 +10,8 @@ title: Two Transsexuals Talk Nonbinary
 > In my life I had associated it with the most unbearable dysphoria, the most unbearable gap between how I was seeing myself and how other people were seeing me, especially once I had taken on the pronouns he/him but was trying to transition without testosterone
 ## 
 > this is what it means to identify **with** this as opposed to that, this is what you do
-##
+## 
+> When I was a boy and a faggot in my early twenties it was fairly legible in my small community in Durham, North Carolina, because everybody knew me, so it felt phenomenologically real
 ##
 ##
 ##
