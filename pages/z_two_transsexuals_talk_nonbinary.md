@@ -9,7 +9,7 @@ title: Two Transsexuals Talk Nonbinary
 ###
 > ... And so, maybe it’s just true that for some people like me, we really do care enough to transition, while other people don’t care ... or it’s not their central concern ... Or, maybe there’s something else that this entire discursive framing is missing ... about the relationship between gender presentation and reception ...
 ### 
->
+> I think that transition is often a practical decision and I think what puzzles me in contemporary discourse is that it does away with that phenomenology of what it means to be in the world with other people by replacing it with a notion of the sovereign self: I decide who I am, I know who I am inside and then I tell people. I say I’m nonbinary, or trans, and I go by they/them, and that’s supposed to be the final word. People call me they/them and that’s the end, as far as the public story goes. Maybe that’s a political way of disturbing the gender binary, or of changing people’s minds about the inevitability of binary sex and gender, but it’s unclear to me what that means on a phenomenological level.
 ## 
 > In my life I had associated it with the most unbearable dysphoria, the most unbearable gap between how I was seeing myself and how other people were seeing me, especially once I had taken on the pronouns he/him but was trying to transition without testosterone
 ## 
