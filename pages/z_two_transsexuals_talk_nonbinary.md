@@ -20,7 +20,8 @@ title: Two Transsexuals Talk Nonbinary
 > the early 2000s, it was the age of Tumblr and other online spaces where all kinds of queer people and **people who thought they might be trans** were endlessly reflecting on their genders
 ## 
 > All the critiques of nonbinary’s mainstream uptake as overly aesthetic, as a category largely consumed around white androgynous, masculine images are great, but then look also at trans femmes and see how hard it is to give that positive account of the self and desire, too
-##
+## 
+> involves proclaiming a real desire to be a woman—and who the fuck in this world is allowed to desire to be a woman?
 ##
 ##
 ##
