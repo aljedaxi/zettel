@@ -26,7 +26,8 @@ title: Two Transsexuals Talk Nonbinary
 > that was what I imagined myself transitioning into—the faggot, not the man. And then I was very disappointed to become a faggot and to see that gay male culture was not that interested in faggots
 ## 
 > There’s so much more cultural space for mascs, including nonbinary, and there’s so much more history (for butches and non-binary mascs). There’s so little of this for nonbinary femmes and to me that means that femmes really occupy a different gender from nonbinary mascs that is not covered by the umbrella term nonbinary.
-##
+## 
+> What I’ve realized is that I believe that the matter of gender is practical and relational. It’s not about who you are inside, it’s more about how you would feel most comfortable in the world. It’s not Who are you? but How do you want to live?
 ##
 ##
 ##
