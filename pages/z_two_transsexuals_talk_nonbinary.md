@@ -24,7 +24,8 @@ title: Two Transsexuals Talk Nonbinary
 > involves proclaiming a real desire to be a woman—and who the fuck in this world is allowed to desire to be a woman?
 ## 
 > that was what I imagined myself transitioning into—the faggot, not the man. And then I was very disappointed to become a faggot and to see that gay male culture was not that interested in faggots
-##
+## 
+> There’s so much more cultural space for mascs, including nonbinary, and there’s so much more history (for butches and non-binary mascs). There’s so little of this for nonbinary femmes and to me that means that femmes really occupy a different gender from nonbinary mascs that is not covered by the umbrella term nonbinary.
 ##
 ##
 ##
