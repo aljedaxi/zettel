@@ -9,4 +9,4 @@ title: 'What's essential is, I must understand'
 ##
 > it doesn't look good when a woman gives orders. you should try to not get in such situations if you want to retain your feminine qualities.
 ### 
-> however i was influenced by them ... namely, in the critique, the self critique, that the zionists spread among the jewish people ...
+> however i was influenced by them ... namely, in the critique, the self critique, that the zionists spread among the jewish people ... i was influenced and impressed by such
