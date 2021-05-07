@@ -6,4 +6,5 @@ title: advanced accessibility solutions
 :PROPERTIES:
 :todo: 1620418672042
 :END:
-## https://medium.com/gronda/managing-aria-attributes-with-react-hooks-a7470d572683
+## solutions:
+- https://medium.com/gronda/managing-aria-attributes-with-react-hooks-a7470d572683
