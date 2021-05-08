@@ -213,5 +213,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ####
 > System Three Star ... is going to summon up these Audits that we were talking about
 ####
+> And you'll notice that they are all autonomic. Now that's a nice word because the Greek here is 'self' of course, auto, nomos is law
+####
 ##
 ##
