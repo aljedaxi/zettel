@@ -194,4 +194,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ### system two can be thought of as a little spinal cord that runs along the battery of systems ones
 ####
 > All these are Ones. System Two exists precisely to control oscillatory behaviour between the Systems' One. And you will notice that it isn't a command function.
-####
+#### 
+> Yes, the timetable, is the thing that stops everybody arriving in one place simultaneously and saying, 'Please Sir, Miss told us to come here!' And you've got five hundred people trying to get in the same room, and all the teachers going somewhere else. I mean good heavens. So this is a perfect example of that and I have never met a teacher who has said, 'I'm victimised by the Timetable, I'm not allowed to do my thing', for that reason.
