@@ -200,7 +200,6 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > And the individual divisions or sub-companies, whatever they are going to be inside that, pursuing the public image, they design letterhead ... Nominate somebody, each of you, please, to a  committee to discuss this and we'll hire the best designer we can think of and between them they come up with something and it  is  passed around
 ####
 > *So in Parliament is the System Two the procedures?* ... And the Whips office you see is going to be ... [but] a lot of Parliamentarians regard the Whips as Fascist Bastards and they're not supposed to be. They are supposed to be there to smooth business, so that's a  very nice example.
-#### 
->
+#### and Stafford draws a little traingle at every column of the spinal cord
 ##
 ##
