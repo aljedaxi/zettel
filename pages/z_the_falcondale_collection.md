@@ -228,7 +228,9 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > what are you going to find in System Four ... Market Research ... Advertising ... R & D ... customer relations ... The Shareholders ...
 ### 
 > safety ... Well you have got to have laws about safety, so that is the Red line ... You're going to have safety checks that would be coming down the Green line ... System Two for goodness sake. You're trying to stop oscillating behaviour. It's no use sending somebody out of this line into the next line without a  hard hat if he is going to have rocks dropped on his head. You know there has to be a  uniform understanding through the company, of what is  safe practice in our kind of industry
-### 
+###
 > So the whole idea is that the vertical and the horizontal varieties ultimately match
+### 
+> I just want to remind you. Do you know what the Buggy Whip Syndrome is? Ever heard of it? No! Session 7 I'm very fond of this, everybody used to know what it  was, about thirty years ago. It's dropped out of the currency. Here is  a manufacturer of buggy whips. A buggy is  a  little horse drawn cart and this great long whip, you know. He improves his machinery, improves his leather, does all the right things. Cuts his cost, can't understand why he's making a loss. He doesn't happen to notice that buggies are going out and motor cars are taking over. Now this is  a very serious problem and no body mentioned Corporate Planning as a name when we were talking about what's in System Four. But probably that's the most important thing.
 ## Session 8
 ###
