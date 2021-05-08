@@ -233,6 +233,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ###
 > Buggy Whip Syndrome
 > Here is a manufacturer of buggy whips. A buggy is  a  little horse drawn cart and this great long whip, you know. He improves his machinery, improves his leather, does all the right things. Cuts his cost, can't understand why he's making a loss. He doesn't happen to notice that buggies are going out and motor cars are taking over. Now this is  a very serious problem and no body mentioned Corporate Planning as a name when we were talking about what's in System Four. But probably that's the most important thing.
-### Systems
+### Systems 3 relative to 4 are a homeostat
+### System 5
 ## Session 8
 ###
