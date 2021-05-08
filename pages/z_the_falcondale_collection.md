@@ -193,3 +193,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > and i hope you realize from this argument that autonomy is a relative thing, not an absolute
 ### system two can be thought of as a little spinal cord that runs along the battery of systems ones
 ####
+> All these are Ones. System Two exists precisely to control oscillatory behaviour between the Systems' One. And you will notice that it isn't a command function.
+###
