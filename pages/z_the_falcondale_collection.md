@@ -204,6 +204,6 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > These are local Production Controllers that **owe some sort of allegiance** to this [system] one ... but **also an allegiance across here** [top triangle of system two].
 #### 
 > The amoeba for environments, the circle for process, the square for the management and this triangle this way up for anti-oscillatory behaviour ... now the green line has the triangle the other way up [ie down] and looks like that. And that is System Three Star
-####
+###
 ##
 ##
