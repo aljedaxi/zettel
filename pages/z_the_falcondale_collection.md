@@ -227,5 +227,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ####
 > what are you going to find in System Four ... Market Research ... Advertising ... R & D ... customer relations ...
 ### 
-> safety ... Well you have got to have laws about safety, so that is the Red line ... You're going to have safety checks that would be coming down the Green line ...
+> safety ... Well you have got to have laws about safety, so that is the Red line ... You're going to have safety checks that would be coming down the Green line ... System Two for goodness sake. You're trying to stop oscillating behaviour. It's no use sending somebody out of this line into the next line without a  hard hat if he is going to have rocks dropped on his head. You know there has to be a  uniform understanding through the company, of what is  safe practice in our kind of industry
 ##
