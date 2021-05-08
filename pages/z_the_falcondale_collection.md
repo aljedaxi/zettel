@@ -208,6 +208,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > System Three (See over) exists precisely because it  has the overall view and that is  where you are going to find all the management techniques that are known a optimising techniques
 #### 
 > I don't think anything can improve upon them. Schools of course. You can optimise. You try to get a group of classes together. You see this very much in Further Education, Allenna teaches a lot in the Further Education System and she doesn't know from one year to the next whether she will have a class where she had it last year, because it  may get dissolved in the process of trying to optimise the budget. It depends on how many people come, and where the subsidy is  coming from and whether the class is paying, it's all that mix, is going to give you a  System Three problem.
-####
+#### 
+> [with system 3] we are running into Senior Management compared with Local Management. Then obviously we are going to make System Two dependent from System Three. That's where it's going to get its authority from and so is System Three Star because it's System Three which is going to summon up these Audits that we were talking about
 ##
 ##
