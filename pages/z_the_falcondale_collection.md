@@ -237,7 +237,8 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ### System 5 monitors the homeostat of systems $$\{3,4\}$$
 ## Session 8
 ### what do i mean by [[ossification of techne]]?
-### TODO Read the Brain of the Firm and the Heart of the Enterprise, then proceed to 
+### TODO Read the Brain of the Firm and the Heart of the Enterprise, then proceed onto Diagnosing the System
 :PROPERTIES:
 :todo: 1620515446905
 :END:
+###
