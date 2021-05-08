@@ -236,4 +236,4 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ### Systems 3 relative to 4 are a homeostat
 ### System 5 monitors the homeostat of systems $$\{3,4\}$$
 ## Session 8
-###
+### what do i mean by [[ossification of techne]]?
