@@ -191,4 +191,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > you have to keep the levels of recursion in mind, the ministry is going to be embedded in the whole system of government
 ###
 > and i hope you realize from this argument that autonomy is a relative thing, not an absolute
-###
+### system two can be thought of as a little spinal cord that runs along the battery of systems ones
+####
