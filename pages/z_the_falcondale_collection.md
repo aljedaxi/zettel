@@ -206,6 +206,8 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > The amoeba for environments, the circle for process, the square for the management and this triangle this way up for anti-oscillatory behaviour ... now the green line has the triangle the other way up [ie down] and looks like that. And that is System Three Star
 ### 
 > System Three (See over) exists precisely because it  has the overall view and that is  where you are going to find all the management techniques that are known a optimising techniques
-###
+#### 
+> I don't think anything can improve upon them. Schools of course. You can optimise. You try to get a group of classes together. You see this very much in Further Education, Allenna teaches a lot in the Further Education System and she doesn't know from one year to the next whether she will have a class where she had it last year, because it  may get dissolved in the process of trying to optimise the budget. It depends on how many people come, and where the subsidy is  coming from and whether the class is paying, it's all that mix, is going to give you a  System Three problem.
+####
 ##
 ##
