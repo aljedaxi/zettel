@@ -187,5 +187,6 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ###
 > What is  really going to determine the purpose is  the ethos that the top management manages to create in the place. Are we an ethical show do we care about the environment and so on. All the big oil company have whole departments now, working on the green thing. Making films, proving that they're not spoiling the environment and so on and that's enough isn't it? As long as you can con everybody into thinking that that is  okay, you can go and spoil the environment until you are blue in the face. Now where is  the actual purpose here. The actual purpose is  to rip off the planet.
 ## Session 7
-### 
+###
 > you have to keep the levels of recursion in mind, the ministry is going to be embedded in the whole system of government
+###
