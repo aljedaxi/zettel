@@ -224,9 +224,8 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ####
 > Now please realise that this is not a hierarchy. Because it's drawn like its drawn, people think it's a hierarchy, it was never intended to be a hierarchy.
 #### Each system one deals with a subset of the environment, not only in terms of space, but in terms of how it deals with that subset of the space. systems one deals with the environment insofar as it can use it to achieve its aims in the here and now. System 4 is looking at perhaps that same space, in terms of how that space is going to change, which means that it's looking to the change makers, the systems four of other viable systems,
-####
+#### 
 > what are you going to find in System Four ... Market Research ... Advertising ... R & D ... customer relations ... The Shareholders ...
-####
 ### 
 > safety ... Well you have got to have laws about safety, so that is the Red line ... You're going to have safety checks that would be coming down the Green line ... System Two for goodness sake. You're trying to stop oscillating behaviour. It's no use sending somebody out of this line into the next line without a  hard hat if he is going to have rocks dropped on his head. You know there has to be a  uniform understanding through the company, of what is  safe practice in our kind of industry
 ### 
