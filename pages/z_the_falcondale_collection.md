@@ -201,5 +201,6 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ####
 > *So in Parliament is the System Two the procedures?* ... And the Whips office you see is going to be ... [but] a lot of Parliamentarians regard the Whips as Fascist Bastards and they're not supposed to be. They are supposed to be there to smooth business, so that's a  very nice example.
 #### and Stafford draws a little traingle at every column of the spinal cord
+These are local Production Controllers that owe some sort of allegiance to this one because they are using a uniform kind of planning system let's say, but also an allegiance across here.
 ##
 ##
