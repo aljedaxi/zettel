@@ -196,8 +196,8 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > All these are Ones. System Two exists precisely to control oscillatory behaviour between the Systems' One. And you will notice that it isn't a command function ... anything that damps oscillation
 #### 
 > Yes, the timetable, is the thing that stops everybody arriving in one place simultaneously and saying, 'Please Sir, Miss told us to come here!' ... and I have never met a teacher who has said, 'I'm victimised by the Timetable, I'm not allowed to do my thing', for that reason. ... The timetable is obviously a  service, and if you are a teacher and have to go to the dentist in a hurry you look at the timetable and you say to your friend
-####
-> And the individual divisions or sub-companies, whatever they are going to be inside that, pursuing the public image, they design letterhead
+#### 
+> And the individual divisions or sub-companies, whatever they are going to be inside that, pursuing the public image, they design letterhead ... Nominate somebody, each of you, please, to a  committee to discuss this and we'll hire the best designer we can think of and between them they come up with something and it  is  passed around
 ####
 ##
 ##
