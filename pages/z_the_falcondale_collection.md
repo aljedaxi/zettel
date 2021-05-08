@@ -237,3 +237,4 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ### System 5 monitors the homeostat of systems $$\{3,4\}$$
 ## Session 8
 ### what do i mean by [[ossification of techne]]?
+###
