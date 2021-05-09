@@ -40,4 +40,3 @@ absolute baselessness
 > [There are two layers of reality & we obscure both when we confuse them with each other. There’s the abstract reality, where my autistic brain lives. Then there’s the social reality, where the NT brain lives.](https://twitter.com/erikaheidewald/status/1369279015006085120?s=20)
 
 > [Trust that what they believe is reality is reflective of the norms of social reality. They’re right. They know it innately and we do not.](https://twitter.com/erikaheidewald/status/1369282359657259009?s=20)
-##
