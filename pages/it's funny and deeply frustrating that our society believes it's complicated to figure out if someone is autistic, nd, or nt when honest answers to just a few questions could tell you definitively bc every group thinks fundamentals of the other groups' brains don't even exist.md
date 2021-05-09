@@ -29,6 +29,7 @@ absolute baselessness
 > [To NTs, everything is personal. They don’t hold themselves to the same standard they hold others to bc they feel sure that what they do is justified. When they do something morally questionable they don’t feel bad bc they’re positive everyone is doing that and not admitting it.](https://twitter.com/erikaheidewald/status/1369218755893497860?s=20)
 > [NTs don’t want to understand you or play by your rules. They think they already understand you and that no matter what you say, you have to be playing by theirs.](https://twitter.com/erikaheidewald/status/1369225983102836740?s=20)
 > [NTs ... don’t have to understand things to know or respect them. ND brains require that, theirs don’t. They just need a cultural norm to respect.](https://twitter.com/erikaheidewald/status/1369226999240163330?s=20)
+- those cultural norms are exactly the ones that become ossified in the superego
 > [NTs will continue to see ND brains as defective for as long as we allow them to. Remember - they see their feelings as caused by others. They do not and will not feel a responsibility to change their opinion of us. Their world has clear answers & rn we don’t fit into any of them](https://twitter.com/erikaheidewald/status/1369228055495942153?s=20)
 > [They see life as a zero sum game and bc they think we do too, they think we’d change the world to a different hierarchy with them at the bottom. Their survival instinct is engaged.](https://twitter.com/erikaheidewald/status/1369231134211502082?s=20)
 > []
