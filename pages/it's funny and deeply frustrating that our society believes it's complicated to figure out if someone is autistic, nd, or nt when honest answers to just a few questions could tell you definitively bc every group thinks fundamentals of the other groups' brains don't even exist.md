@@ -26,3 +26,4 @@ absolute baselessness
 ##
 > It makes you a terrible ally. It leads to the belief that oppression people tell you is intentional isn’t as serious as they say it is, that it can be fixed with some open dialogue and education. Your empathy for the oppressor will make you fail to adequately defend the oppressed
 ## NTs be like:
+> To NTs, everything is personal. They don’t hold themselves to the same standard they hold others to bc they feel sure that what they do is justified. When they do something morally questionable they don’t feel bad bc they’re positive everyone is doing that and not admitting it.
