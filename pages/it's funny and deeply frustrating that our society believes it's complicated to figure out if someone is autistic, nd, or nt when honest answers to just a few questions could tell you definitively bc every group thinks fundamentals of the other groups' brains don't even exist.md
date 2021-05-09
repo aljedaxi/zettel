@@ -9,6 +9,7 @@ title: it's funny and deeply frustrating that our society believes it's complica
 > Allistic NDs, especially those who think they’re NT, believe everyone’s brain does that. They have selfish desires, but they analyze them and if it feels too unjustified, they can’t act on it. They hurt people sometimes but not on purpose - they’re trying their best.
 ### one can concieve of a reading of Nietzsche where christianity (& the superego) is concieved of as an anxiety disorder that everyone in Germanic Europe has
 rendering the society at large Allistic ND
+#### If you think everyone has an ego and selfishness they fight to overcome and a rational process that weighs that self-interest with that of others, bc that’s what good people do and people try to do what is right, and people cause harm sometimes but not intentionally - you’re ND
 ##
 > think back to the workplace criticism. NTs also feel hurt by it and they’re equally sensitive to rejection - but they don’t agonize over whether it was their fault and blame themselves. they see it as clearly the other person’s fault. that person MADE them feel this way.
 ### this reminds me very much of the whole "Japanese teenagers think that emotions come from outside of them" thing
