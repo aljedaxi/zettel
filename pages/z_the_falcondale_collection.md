@@ -236,7 +236,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ### Systems 3 relative to 4 are a homeostat
 ### System 5 monitors the homeostat of systems $$\{3,4\}$$
 ## Session 8
-### what do i mean by [[ossification of techne]]? the ability to see the
+### what do i mean by [[ossification of techne]]? the ability to see certain aspects of the world.
 ### TODO Read the Brain of the Firm and the Heart of the Enterprise, then proceed onto Diagnosing the System
 :PROPERTIES:
 :todo: 1620515446905
