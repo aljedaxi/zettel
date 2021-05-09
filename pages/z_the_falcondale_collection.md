@@ -249,3 +249,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ###
 > I have a theory that every major business failure that I've come across is  in some way or another deeply dependent on the failure of that homeostat. [systems 3,4,5]
 ###
+> The Corporate Planners wouldn't speak to me because they said they where responsible directly to the Managing Director
+###
