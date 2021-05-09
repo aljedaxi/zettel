@@ -27,6 +27,7 @@ absolute baselessness
 > It makes you a terrible ally. It leads to the belief that oppression people tell you is intentional isn’t as serious as they say it is, that it can be fixed with some open dialogue and education. Your empathy for the oppressor will make you fail to adequately defend the oppressed
 ## NTs be like:
 > [To NTs, everything is personal. They don’t hold themselves to the same standard they hold others to bc they feel sure that what they do is justified. When they do something morally questionable they don’t feel bad bc they’re positive everyone is doing that and not admitting it.](https://twitter.com/erikaheidewald/status/1369218755893497860?s=20)
+
 > [NTs don’t want to understand you or play by your rules. They think they already understand you and that no matter what you say, you have to be playing by theirs.](https://twitter.com/erikaheidewald/status/1369225983102836740?s=20)
 > [NTs ... don’t have to understand things to know or respect them. ND brains require that, theirs don’t. They just need a cultural norm to respect.](https://twitter.com/erikaheidewald/status/1369226999240163330?s=20)
 - those cultural norms are exactly the ones that ossify into the superego
