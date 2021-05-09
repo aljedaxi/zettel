@@ -250,5 +250,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > I have a theory that every major business failure that I've come across is  in some way or another deeply dependent on the failure of that homeostat. [systems 3,4,5]
 ###
 > The Corporate Planners wouldn't speak to me because they said they where responsible directly to the Managing Director
-### 
+###
+> As one technology takes over from another (Stafford gets up to diagram) again payoff time, what happens is  that a  new technology comes along and you investigate and it  doesn't pay off for some time. Not much anyway. It's flat. Then it begins to grow like the clappers and then it fades away. Why does it fade away, because a new technology is  overtaking it  and that is going to be more expensive and it's going to start like this and then it's going to do that. There is the interesting question. If you are soaked in technology A as IPC was in paper and ink in the mode of publishing, and you can see electronics coming along behind which is  the blue line, at what point do you level off your investment in paper and ink and research associated with it, and start investing in the electronic version?
 > Beer's law of economics which said the cross over point happens two years after I retire as a Director of this Company
+###
