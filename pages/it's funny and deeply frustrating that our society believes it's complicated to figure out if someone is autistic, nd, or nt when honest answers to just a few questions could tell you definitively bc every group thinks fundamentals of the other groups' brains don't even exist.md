@@ -8,4 +8,25 @@ title: it's funny and deeply frustrating that our society believes it's complica
 ##
 > think back to the workplace criticism. NTs also feel hurt by it and they’re equally sensitive to rejection - but they don’t agonize over whether it was their fault and blame themselves. they see it as clearly the other person’s fault. that person MADE them feel this way.
 ### this reminds me very much of the whole "Japanese teenagers think that emotions come from outside of them" thing
-##
+## like, Camus has the absurd
+that conception that beyond the human, there exists the sort of absolute chaos of whatever
+but everything we interact with is a processed version of that raw whatever
+and it's like, the means by which i process that is fundamentally different from other people
+
+that seems kinda obvious when you put it like that; the classic is my blue your blue question
+
+but just everythign about the world; the conceptions we hold to be fundamental
+(but of course, we aren't actively holding them; they hold us; they are our fundaments)
+those are completely different person to person
+
+like
+
+the answer is legiterally no
+
+i've decided that colours are entirely different for everyone
+
+the absurd isn't the boundary between us and the noumena, it's like, me and you and everyone else the absurd is between everything, even this me and the me of yesterday
+
+there is no base anywhere
+
+absolute baselessness
