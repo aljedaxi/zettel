@@ -28,4 +28,4 @@ absolute baselessness
 ## NTs be like:
 > [To NTs, everything is personal. They don’t hold themselves to the same standard they hold others to bc they feel sure that what they do is justified. When they do something morally questionable they don’t feel bad bc they’re positive everyone is doing that and not admitting it.](https://twitter.com/erikaheidewald/status/1369218755893497860?s=20)
 > [NTs don’t want to understand you or play by your rules. They think they already understand you and that no matter what you say, you have to be playing by theirs.](https://twitter.com/erikaheidewald/status/1369225983102836740?s=20)
-> [NTs that bodes well for our shared human future is that while they aren’t built to understand other perspectives, they don’t have to understand things to know or respect them. ND brains require that, theirs don’t. They just need a cultural norm to respect.]
+> [NTs ... don’t have to understand things to know or respect them. ND brains require that, theirs don’t. They just need a cultural norm to respect.](https://twitter.com/erikaheidewald/status/1369226999240163330?s=20)
