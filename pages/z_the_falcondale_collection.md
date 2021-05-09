@@ -241,6 +241,10 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 :PROPERTIES:
 :todo: 1620515446905
 :END:
+#### TODO Diagnosing the system has a bunch of diagrams that you should 
+:PROPERTIES:
+:todo: 1620601134613
+:END:
 ###
 > I have a theory that every major business failure that I've come across is  in some way or another deeply dependent on the failure of that homeostat. [systems 3,4,5]
 ###
