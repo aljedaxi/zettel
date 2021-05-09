@@ -23,3 +23,5 @@ the absurd isn't the boundary between us and the noumena, it's like, me and you 
 there is no base anywhere
 absolute baselessness
 ##
+> It makes you a terrible ally. It leads to the belief that oppression people tell you is intentional isn’t as serious as they say it is, that it can be fixed with some open dialogue and education. Your empathy for the oppressor will make you fail to adequately defend the oppressed
+##
