@@ -242,7 +242,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 :PROPERTIES:
 :todo: 1620515446905
 :END:
-#### TODO Diagnosing the system has a bunch of diagrams that you should
+#### TODO Diagnosing the system has a bunch of diagrams that you should digitize
 :PROPERTIES:
 :todo: 1620601134613
 :END:
