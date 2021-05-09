@@ -26,7 +26,5 @@ the answer is legiterally no
 i've decided that colours are entirely different for everyone
 
 the absurd isn't the boundary between us and the noumena, it's like, me and you and everyone else the absurd is between everything, even this me and the me of yesterday
-
 there is no base anywhere
-
 absolute baselessness
