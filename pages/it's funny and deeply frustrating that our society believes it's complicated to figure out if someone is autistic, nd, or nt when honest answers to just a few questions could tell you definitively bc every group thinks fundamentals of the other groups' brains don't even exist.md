@@ -4,6 +4,5 @@ title: it's funny and deeply frustrating that our society believes it's complica
 
 ## 
 > if a colleague at work told you that you were doing a part of your job wrong and should do it another way they think is better - do you think they said it to make you feel or look bad or so they’d look smart? would it make you feel bad or offend you?
-
-i've heard that this is just normal in germany
 ### i've heard that this is just normal in germany
+###
