@@ -266,4 +266,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ###
 > If this is  an animal and remember the physiology what we have here is a decerebrate cat. You can take the cat's brain out down to the level of 3 and keep the poor little devil alive with intravenous injections. He's all right, you poke his leg and there is a  reflex action. That's it. That's the state of an awful lot of our management. It just response to stimuli and usually the wrong response at that, because we don't have the meta-system in place.
 ## Session 9
-###
+### What is it to be alive?
+>
