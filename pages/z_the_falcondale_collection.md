@@ -269,3 +269,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ### What is it to be alive?
 > the very very eminent Chilean biologist Humberto Maturana ... said it's nothing to do with self-reproduction. It's to do with self-production
 ####
+> that self-reproduction is  a special case of autopoiesis, that one of the things you do to make yourself is  to have offspring to take over once you've died. So, the notion of autopoiesis is really much more fundamental
+###
