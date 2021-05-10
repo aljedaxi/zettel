@@ -193,7 +193,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > and i hope you realize from this argument that autonomy is a relative thing, not an absolute
 ### system two can be thought of as a little spinal cord that runs along the battery of systems ones
 #### 
-> All these are Ones. System Two exists precisely to control oscillatory behaviour between the Systems' One. And you will notice that it isn't a command function ... anything that damps oscillation
+> All these are Ones. System Two exists precisely to control oscillatory behaviour between the Systems' One. And you will notice that it isn't a command function ... anything that damps [[oscillation]]
 #### 
 > Yes, the timetable, is the thing that stops everybody arriving in one place simultaneously and saying, 'Please Sir, Miss told us to come here!' ... and I have never met a teacher who has said, 'I'm victimised by the Timetable, I'm not allowed to do my thing', for that reason. ... The timetable is obviously a  service, and if you are a teacher and have to go to the dentist in a hurry you look at the timetable and you say to your friend
 #### 
