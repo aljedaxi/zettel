@@ -274,5 +274,6 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > Now, I have now got a solution to this. The element of the viable system which produces itself is  system 1, and in support of that function are 2,3,4 and 5.
 ###
 > I invented the even worse term, and I would love a better one, of pathological autopoiesis which is  a terrible great mouthful to stand for a viable system in which either or all of systems 2,3,4 and 5 were running amok trying to be viable systems ... an awful lot that's going wrong today I think in our kind of society because bureaucracy does get the upper hand
-### 
+###
 > So how can you get structure in a group of 30 people without hierarchy when you don't want people to pull rank or gender or anything. You want to treat them as human beings. Well now, the answer to this would seem to be ... you close the system round in a three dimensional space so that you've got something like a ball. And you roll a ball along the ground, obviously there's no top to this ball, or sideways, or bottom or anything, it's just the ball. Now, so we have something available to us that has that kind of character. The answer is  the icosahedron.
+###
