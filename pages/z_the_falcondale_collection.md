@@ -272,4 +272,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > that self-reproduction is  a special case of autopoiesis, that one of the things you do to make yourself is  to have offspring to take over once you've died. So, the notion of autopoiesis is really much more fundamental
 ###
 > Now, I have now got a solution to this. The element of the viable system which produces itself is  system 1, and in support of that function are 2,3,4 and 5.
-###
+### 
+> I invented the even worse term, and I would love a better one, of pathological autopoiesis which is  a terrible great mouthful to stand for a viable system in which either or all of systems 2,3,4 and 5 were running amok trying to be viable systems ...
