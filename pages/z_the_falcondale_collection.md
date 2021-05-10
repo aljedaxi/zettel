@@ -273,4 +273,4 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ###
 > Now, I have now got a solution to this. The element of the viable system which produces itself is  system 1, and in support of that function are 2,3,4 and 5.
 ### 
-> I invented the even worse term, and I would love a better one, of pathological autopoiesis which is  a terrible great mouthful to stand for a viable system in which either or all of systems 2,3,4 and 5 were running amok trying to be viable systems ...
+> I invented the even worse term, and I would love a better one, of pathological autopoiesis which is  a terrible great mouthful to stand for a viable system in which either or all of systems 2,3,4 and 5 were running amok trying to be viable systems ... an awful lot that's going wrong today I think in our kind of society because bureaucracy does get the upper hand
