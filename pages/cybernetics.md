@@ -17,4 +17,4 @@ and how is cybernetics between them?
 :PROPERTIES:
 :todo: 1618340658274
 :END:
-### [[anti-[[oscillation]]]]
+### [[anti-[[oscillation]]]]?
