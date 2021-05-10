@@ -255,4 +255,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > Beer's law of economics which said the cross over point happens two years after I retire as a Director of this Company
 ###
 > Is to say You guys on the board who are supposed to monitor the homeostat if you don't get that balance right the Company will blow up. The same goes for the country, you know, if the Government doesn't make the right investments and so much R & D is sponsored by the Government now, either directly or indirectly, because Companies can't spend money on R & D unless the Government hasn't bought six million aircraft or whatever it is going to do. The thing is  enormously artificial and yet we like to pretend we live in a market economy and the whole thing is  as screwed as possible. This gives System 5 a very peculiar role, it  seems to me, and I believe that most of it  has to do with the ethos of the Company and what counts as good behaviour. If the Directors of the Company are seen to be rip-off artists it  will go right through the Company, like that. This is  how corruption happens in countries as you know you get some dictator set up in a banana republic who orders gold bed and rides around in Cadillacs and people say Oh yes, we are in on this too. Just goes through the whole system like canker.
-###
+### 
+> The word that's got very popular in North America is  Stakeholders. Have you heard that word. It includes everybody who has a  stake in whatever that includes customers, suppliers and the village and the works. It is so hold-all; it's a portmanteau; catchall is the English word, perhaps it's no use. Maybe you need to itemise those things. 
+
+> Is that connected very much with System 2 .... it seems to **balance contradictions** ....
