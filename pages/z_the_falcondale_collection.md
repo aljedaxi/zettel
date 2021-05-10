@@ -259,4 +259,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > The word that's got very popular in North America is  Stakeholders. Have you heard that word. It includes everybody who has a  stake in whatever that includes customers, suppliers and the village and the works. It is so hold-all; it's a portmanteau; catchall is the English word, perhaps it's no use. Maybe you need to itemise those things. 
 
 > Is that connected very much with System 2 .... it seems to **balance [[contradiction]]s** ....
-###
+### 
+> top Board Meetings, trying to grapple with the new cyclotron or the nature of the E.E.C., and they all end up talking about whether the office boy should get free tea or you are going to build a new cycle shed because it  is easier, and everybody knows the issues, and they thump the table and feel better and the real issue is  2 levels or 3 levels of recursion up
