@@ -296,5 +296,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > However, by computing the eigenvalues in this actually computing what they are I can demonstrate that 90% of information will have been shared after 3 iterations; after 4 it's about 92%; after 5 it's 95%; ... _So, I cut it at 3 because that's the formal mathematical statement that 90% of it  has happened and that's a theory about this now given that all the people are real people, and talking and having lunch and so on I think we make up the extra 10% fairly easily in practice
 ###
 > Oh good gracious .... that depends why you are using it. I think if the company does that in the 3-4 homeostat that's going to kick the company off on a new track and then you've got to monitor that behaviour and then you say it's time for another. Well we haven't had it long enough to know what that will be but I shouldn't think more than once a year is  .... makes any sense at all
+###
+> Now another group of doctoral students are trying to deal with using other platonic solids than the icosahedron but unfortunately the mathematics isn't nearly as satisfying
 ### 
 >
