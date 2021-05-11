@@ -298,5 +298,6 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > Oh good gracious .... that depends why you are using it. I think if the company does that in the 3-4 homeostat that's going to kick the company off on a new track and then you've got to monitor that behaviour and then you say it's time for another. Well we haven't had it long enough to know what that will be but I shouldn't think more than once a year is  .... makes any sense at all
 ###
 > Now another group of doctoral students are trying to deal with using other platonic solids than the icosahedron but unfortunately the mathematics isn't nearly as satisfying
-### 
+###
 > Now, what do you do if you've got 150 people. I've done that; you try and hold 5 syntegrations ... you're all familiar with the idea of recursion by now ... Suppose each one of these [struts] is an icosahedron ... when you've held it, you've got 12 statements. Suppose you pull this icosa apart until it becomes a thin line and align the statements as best you may .... so 5 statements get amalgamated here and 7 get amalgamated here (pointing to the two ends of the strut), lets say. Ideally, six and six I suppose; and then that becomes a strut at the next level of recursion ... You do that 4 times and you involve two and a half million people. How to run a country? It becomes plausible, doesn't it?
+###
