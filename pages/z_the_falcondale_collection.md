@@ -308,6 +308,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > Out of this comes infosetic consciousness which is the consciousness of the totality if this means anything
 ###
 > 5 judges, 5 jurors, 5 ordinary citizens, 5 people out of jail, stir them up and see what will come out of it
-###
+### 
 > Now, all these meetings have professional facilitators and this is  a subject that you may not know anything about
-###
