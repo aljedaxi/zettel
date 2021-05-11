@@ -288,4 +288,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > what we need now is  what I call a **protocol** that is to say a way of conducting affairs with this model which will enable all these things to happen
 ###
 > I have fought  all my life against the standard way of running meetings because you have to choose an agenda, and when you've got the agenda you more or less determine the outcome of the meeting especially if you know all the people, you put all the agenda in a certain order and a good secretary can write the minutes before the meeting is held
-###
+### 
+> So the idea is to discover out of them what it is going to be worth cracking it so we start with something that I call the filter of importance ...
