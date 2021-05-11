@@ -305,3 +305,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 #### 
 > 'Infoset'; that's an information set so the 30 people are assumed to start with a certain sharing of knowledge .... if they work for the same company obviously, if they are members of the same political party they've got a similar thrust,
 ####
+> Out of this comes infosetic consciousness which is the consciousness of the totality if this means anything
+####
