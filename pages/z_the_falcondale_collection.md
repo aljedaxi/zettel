@@ -284,6 +284,6 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > Take a tug of war team both of whom are pulling like mad so this rope is  in tension, well where is the compression there doesn't seem to be any? But you see, if before the team starts you wiggle your finger between the strands of the rope before they pull it, you'll soon find out where the compression is. It'll have your finger off. And that is  a beautiful example of the way the natural system mixes it.
 #### 
 > So, I said to myself now here's my organisation of 30 people held together primarily by compressive strength, what shall I do about the tension ... What I joined together were these two ... these connections must be recognised as tensile components of the system, so I called them critics
-###
+### 
 > what we need now is  what I call a protocol that is  to say a way of conducting affairs with this model which will enable all these things to happen
 ###
