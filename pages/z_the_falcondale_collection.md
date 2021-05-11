@@ -300,4 +300,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 > Now another group of doctoral students are trying to deal with using other platonic solids than the icosahedron but unfortunately the mathematics isn't nearly as satisfying
 ###
 > Now, what do you do if you've got 150 people. I've done that; you try and hold 5 syntegrations ... you're all familiar with the idea of recursion by now ... Suppose each one of these [struts] is an icosahedron ... when you've held it, you've got 12 statements. Suppose you pull this icosa apart until it becomes a thin line and align the statements as best you may .... so 5 statements get amalgamated here and 7 get amalgamated here (pointing to the two ends of the strut), lets say. Ideally, six and six I suppose; and then that becomes a strut at the next level of recursion ... You do that 4 times and you involve two and a half million people. How to run a country? It becomes plausible, doesn't it?
-###
+### 
+> The thing about this presumably is  that not only do they come up with a set of policies and plans to take them through the following year, but I presume they understand each other a lot better and a lot better together during ...
