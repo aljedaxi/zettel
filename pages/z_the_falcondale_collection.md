@@ -299,4 +299,4 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ###
 > Now another group of doctoral students are trying to deal with using other platonic solids than the icosahedron but unfortunately the mathematics isn't nearly as satisfying
 ### 
->
+> Now, what do you do if you've got 150 people. I've done that; you try and hold 5 syntegrations ... you're all familiar with the idea ofrecursion by now.
