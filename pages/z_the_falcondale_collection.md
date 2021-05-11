@@ -285,3 +285,5 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 #### 
 > So, I said to myself now here's my organisation of 30 people held together primarily by compressive strength, what shall I do about the tension ... What I joined together were these two ... these connections must be recognised as tensile components of the system, so I called them critics
 ###
+> what we need now is  what I call a protocol that is  to say a way of conducting affairs with this model which will enable all these things to happen
+###
