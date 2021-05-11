@@ -277,7 +277,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 ###
 > So how can you get structure in a group of 30 people without hierarchy when you don't want people to pull rank or gender or anything. You want to treat them as human beings. Well now, the answer to this would seem to be ... you close the system round in a three dimensional space so that you've got something like a ball. And you roll a ball along the ground, obviously there's no top to this ball, or sideways, or bottom or anything, it's just the ball. Now, so we have something available to us that has that kind of character. The answer is  the icosahedron.
 ### 
-> thirty people ... one person is a side ... the nodes are going to be the topics under discussion ... twelve decent statements ... any one person is connected to two of those statements and is part of two teams therefore of five each ... that means we are controlling variety already because she hasn't got to be on twelve committees, she's on two committees ...
+> thirty people ... one person is a side ... the nodes are going to be the topics under discussion ... twelve decent statements ... any one person is connected to two of those statements and is part of two teams therefore of five each ... that means we are controlling variety already because she hasn't got to be on twelve committees, she's on two committees ... [and is]  a critic of two more ...
 ###
 > In nature, compression is  always matched by something else. What do you think that is? tension
 ####
