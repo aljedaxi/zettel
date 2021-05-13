@@ -22,3 +22,4 @@ Tutorial
 :END:
 ## you can create participant sets; any action by any participant in the set counts for the whole set
 ## you'll have to thorougly wipe the document memory
+## agendize this stuff later
