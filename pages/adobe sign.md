@@ -12,7 +12,7 @@ PDF conversion
 : [console](https://console.adobe.io/projects/541493/4566206088344637219/credentials/168057/details)
 Sign
 : [api documentation](https://secure.na1.adobesign.com/public/docs/restapi/v6#ParticipantInfopost_agreements)
-
+: [the thing the adobe guy sent u](https://sites.google.com/view/my-adobesign-resources/oauth-process-for-partners)
 Generic Resource
 : https://sites.google.com/view/my-adobesign-resources/home
 Tutorial
