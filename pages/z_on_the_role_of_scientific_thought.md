@@ -18,7 +18,7 @@ title: On the role of scientific thought
 ##
 > "ALGOL 60 was a very inefficient language", while what he really meant was that with the equipment available to him, he and his people had not been able to implement ALGOL 60 efficiently
 ## 
-> any odd collection of scraps of knowledge and an arbitrary bunch of abilities ... do not constitute a scientific discipline ...
+> any odd collection of scraps of knowledge and an arbitrary bunch of abilities ... do not constitute a scientific discipline ...  The internal requirement is one of coherence: the knowledge must support the abilities and the abilities must enable us to improve the knowledge ...
 ##
 ##
 ##
