@@ -1,5 +1,5 @@
 ---
-title: it's funny and deeply frustrating that our society believes it's complicated to figure out if someone is autistic, ND, or NT when honest answers to just a few questions could tell you definitively bc every group thinks fundamentals of the other groups' brains don't even exist
+title: Autism Thread
 ---
 
 ## 
