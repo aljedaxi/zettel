@@ -8,5 +8,5 @@ title: factoring
 - [To truly factor something, you have to extract things that can be used independently of the original. Factoring implies introducing flexibility.](https://raganwald.com/2013/10/08/defactoring.html)
 ## Defactoring
 - [Defactoring is the process of removing factoring from code](https://raganwald.com/2013/10/08/defactoring.html)
-- Defactoring does  [[ossification of techne]]
+- Defactoring does signals inflexibility
 ## The objective of cleaning is to feel happiness living within that environment [source](https://react.christmas/2020/20)
