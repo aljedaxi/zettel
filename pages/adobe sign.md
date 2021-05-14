@@ -11,7 +11,8 @@ PDF conversion
 : [sdk documentation](https://opensource.adobe.com/pdftools-node-sdk-samples/apidocs/latest/FileRef.html#.createFromStream)
 : [console](https://console.adobe.io/projects/541493/4566206088344637219/credentials/168057/details)
 Sign
-: 
+: [api documentation](https://secure.na1.adobesign.com/public/docs/restapi/v6#ParticipantInfopost_agreements)
+
 Generic Resource
 : https://sites.google.com/view/my-adobesign-resources/home
 Tutorial
