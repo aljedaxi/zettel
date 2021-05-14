@@ -8,6 +8,7 @@ title: adobe sign
 :END:
 
 PDF conversion
+: [general howtos](https://www.adobe.io/apis/documentcloud/dcsdk/docs.html?view=services)
 : [sdk documentation](https://opensource.adobe.com/pdftools-node-sdk-samples/apidocs/latest/FileRef.html#.createFromStream)
 : [console](https://console.adobe.io/projects/541493/4566206088344637219/credentials/168057/details)
 Sign
