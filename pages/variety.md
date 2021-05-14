@@ -2,5 +2,4 @@
 title: variety
 ---
 
-## ## Variety
-: the number of possible states within a system
+## the number of possible states within a system
