@@ -12,7 +12,7 @@ title: On the role of scientific thought
 > the efficiency of our thinking processes is what I am talking about
 [[cognitive load]]
 ## 
->
+> From a logical point of view, this objection is nonsense: if your specifications are contradictory, life is very easy, for then you know that no program will satisfy them, so, make "no program"; if your specifications are ambiguous, the greater the ambiguity, the easier the specifications are to satisfy (if the specifications are absolutely ambiguous, every program will satisfy them!).
 ##
 ##
 ##
