@@ -16,9 +16,6 @@ Synergy
 Transfer Function
 : You go from this box to this box what happens here is mathematically a transfer function this is  an input to that, and the transference has some kind of characteristics which is mathematically a transfer function
 
-Variety
-: the number of possible states within a system
-
 Homeostat
 : a mechanism that maintains a certain variable within a certain limit
 
