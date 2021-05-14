@@ -14,7 +14,7 @@ title: On the role of scientific thought
 ## 
 > From a logical point of view, this objection is nonsense: if your specifications are contradictory, life is very easy, for then you know that no program will satisfy them, so, make "no program"; if your specifications are ambiguous, the greater the ambiguity, the easier the specifications are to satisfy (if the specifications are absolutely ambiguous, every program will satisfy them!).
 ## 
->  the sole purpose of the specifications to act as the interface between the system's users and the system's builders ... "making a thing satisfying our needs" as a single responsibility is split into two parts "stating the properties of a thing, by virtue of which it would satisfy our needs" and "making a thing guaranteed to have the stated properties". Business data processing systems are sufficiently complicated to require such a separation of concerns and the suggestion that in that part of the computing world "scientific thought is a non-applicable luxury" puts the cart before the horse: the mess they are in has been caused by too much unscientific thought
+>  the sole purpose of the specifications to act as the interface between the system's users and the system's builders ... "making a thing satisfying our needs" as a single responsibility is split into two parts "stating the properties of a thing, by virtue of which it would satisfy our needs" and "making a thing guaranteed to have the stated properties"
 ##
 ##
 ##
