@@ -2,6 +2,10 @@
 title: Zotero Bibliography
 ---
 
+## [[On the role of scientific thought]]
+
+## [[Selected writings on computing]]
+
 ## [[Autism Thread]]
 
 ## [[A Critical Systems Thinking overview of the 'GAPPS' and the 'EU Science Hub/Cynefin Centre' guides to leadership in times of complexity]]
@@ -23,9 +27,5 @@ title: Zotero Bibliography
 ## [[Bret Victor   The Future of Programming]]
 
 ## [['What's essential is, I must understand']]
-
-## [[Hiding in Plain Sight | David Graeber and David Wengrow]]
-
-## [[Language as organism]]
 
 
