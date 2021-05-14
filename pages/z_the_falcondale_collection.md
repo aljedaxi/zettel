@@ -182,7 +182,7 @@ $$E \leftrightarrow S_1 \leftrightarrow M$$
 - all doctors have the same education; a certain solidarity; the same language; linked fax machines; a shared understanding of how to work
 ### each station on an assembly line is it's own viable system, which is liked by the assembly line!
 ### so the people at the top are like "oh we're very liberal, i don't really do anything up here, if someone at the bottom wants to do something they can just like do it yeah? why am i here?"; you go and talk to the person at the bottom and they hate their job, saying "you can't do anything without going through 18.5 layers of bureaucracy."
-: this speaks to the way in which the variety of the system interplays with the variety of the metasystem
+: this speaks to the way in which the [[variety]] of the system interplays with the [[variety]] of the metasystem
 ###
 > What is  really going to determine the purpose is  the ethos that the top management manages to create in the place. Are we an ethical show do we care about the environment and so on. All the big oil company have whole departments now, working on the green thing. Making films, proving that they're not spoiling the environment and so on and that's enough isn't it? As long as you can con everybody into thinking that that is  okay, you can go and spoil the environment until you are blue in the face. Now where is  the actual purpose here. The actual purpose is  to rip off the planet.
 ## Session 7
