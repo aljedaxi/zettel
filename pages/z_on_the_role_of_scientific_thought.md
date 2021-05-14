@@ -11,7 +11,8 @@ title: On the role of scientific thought
 ## 
 > the efficiency of our thinking processes is what I am talking about
 [[cognitive load]]
-##
+## 
+>
 ##
 ##
 ##
