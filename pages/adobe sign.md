@@ -8,7 +8,8 @@ title: adobe sign
 :END:
 
 PDF conversion
-: https://www.adobe.io/apis/documentcloud/dcsdk/pdf-tools.html
+: [sdk documentation](https://opensource.adobe.com/pdftools-node-sdk-samples/apidocs/latest/FileRef.html#.createFromStream)
+: 
 SDK
 : https://www.npmjs.com/package/adobe-sign-sdk#apis
 : https://github.com/adobe-sign/AdobeSignJsSdk
