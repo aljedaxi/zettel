@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Seduced & Abandoned]]
+
 ## [[On the role of scientific thought]]
 
 ## [[Selected writings on computing]]
