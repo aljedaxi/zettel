@@ -15,9 +15,7 @@ alias: self, sich, an sich
 
 > You totalize your self ; You impose yourself upon all other selves
 
-You can't ignore me fucker, if I'm not u ur me
-
-Ur sichlichkeit is michlichkeit; u r u through me
+> Ur sichlichkeit is michlichkeit; u r u through me
 
 U can get drunk & close ur eyes, but u can't close ur mind.
 U can't close ur drunkenness
