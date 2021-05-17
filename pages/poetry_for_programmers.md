@@ -4,6 +4,7 @@ title: poetry for programmers
 
 ## snippets
 ### ... thereby we shall construct a series of numbered propositions—in the style of 20th century's most esteemed mystical poet, Ludwig Wittgenstein— to act as a table of contents, and a scaffolding 4 further conversation.
+### [8. A programming language is low level when its programs require attention to the irrelevant.](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 ## outline
 ### read Cummings
 ### the poetry of the tractatus
