@@ -15,10 +15,6 @@ alias: self, sich, an sich
 
 > You totalize your self ; You impose yourself upon all other selves
 
-> You can be perfect from this angle—but where are you thence?
-
-You can have convos like this w thea—but will u?? (No. Give them jeagerbombs)
-
 You can't ignore me fucker, if I'm not u ur me
 
 Ur sichlichkeit is michlichkeit; u r u through me
