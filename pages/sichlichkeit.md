@@ -17,9 +17,5 @@ alias: self, sich, an sich
 
 > Ur sichlichkeit is michlichkeit; u r u through me
 
-U can get drunk & close ur eyes, but u can't close ur mind.
-U can't close ur drunkenness
-
-We long for control
-We long to lose control
-We long
+> U can get drunk & close ur eyes, but u can't close ur mind.
+> U can't close ur drunkenness
