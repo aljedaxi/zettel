@@ -11,11 +11,9 @@ alias: self, sich, an sich
 
 > the last few bastions of my philosophical thinking are being imposed upon
 
-> Sichlichkeit isn't just the totalizing regime of self: its the totalizing regime of you
+> Sichlichkeit isn't just the [[totalizing regime]] of self: its the totalizing regime of you
 
-You totalize yourself
-
-You impose yourself upon me
+> You totalize yourself ; You impose yourself upon me
 
 You can be perfect from this angle—but where are you thence?
 
