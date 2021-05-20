@@ -36,6 +36,8 @@ internationalization:
 - https://formatjs.io/
 ## flow data between boxes: 
 - https://reactflow.dev/
+## git:
+- https://github.com/gelstudios/gitfiti
 ## Ethical design:
 - https://ethicaldesign.guide/
 - https://2017.ind.ie/ethical-design/
