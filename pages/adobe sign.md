@@ -19,6 +19,9 @@ Generic Resource
 : https://sites.google.com/view/my-adobesign-resources/home
 Tutorial
 : https://medium.com/adobetech/adobe-sign-tutorial-everything-you-need-to-effectively-use-the-adobe-sign-api-9d9f135c347d
+## On [[webhooks]]:
+> The scopes webhook_read, webhook_write, and webhook_retention are needed to call GET, POST/PUT and DELETE APIs respectively
+>
 ## TODO when you're done, talk to Matt about the waits in the tests
 :PROPERTIES:
 :todo: 1619721861712
