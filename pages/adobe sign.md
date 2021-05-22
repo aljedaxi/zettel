@@ -26,6 +26,10 @@ Tutorial
 :PROPERTIES:
 :todo: 1619721861712
 :END:
+## TODO add webhook
+:PROPERTIES:
+:todo: 1621646915351
+:END:
 ## you can create participant sets; any action by any participant in the set counts for the whole set
 ## you'll have to thorougly wipe the document memory
 ## agendize this stuff later
