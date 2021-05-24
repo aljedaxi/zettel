@@ -9,3 +9,5 @@ title: How to deconstruct the world
 ## 
 > Next, look for places within the text that contradict each other, and where the spirit of the text is actually different ... we’ve become increasingly familiar with the idea of the ‘white saviour’ narrative ... Films ... purport to examine racial stereotypes ... but then use those ... stereotypes ... a white protagonist ... go[es] on a ‘journey’ of understanding, with the oppressed characters becoming objectified in the exact same way as what the film purports to be critiquing
 ##
+> Derrida saw this kind of reading as reading against the grain. Take a text, find what it seems to advocate, and look in the opposite direction. G W F Hegel wrote about spirit, untainted by the mess of life – so Derrida explored his relationship to family.
+##
