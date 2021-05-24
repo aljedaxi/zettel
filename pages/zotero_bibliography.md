@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Spirituality is a brain state we can all reach, religious or not]]
+
 ## [[The spectacular originality of Coleridge's theory of ideas]]
 
 ## [[How to deconstruct the world]]
@@ -25,7 +27,5 @@ title: Zotero Bibliography
 ## [[Confluence]]
 
 ## [[The Repressive Politics of Emotional Intelligence]]
-
-## [[Alan Kay]]
 
 
