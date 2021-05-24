@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[The spectacular originality of Coleridge's theory of ideas – Peter Cheyne | Aeon Essays]]
+
 ## [[How to deconstruct the world]]
 
 ## [[Seduced & Abandoned]]
@@ -25,9 +27,5 @@ title: Zotero Bibliography
 ## [[The Repressive Politics of Emotional Intelligence]]
 
 ## [[Alan Kay]]
-
-## [[Bret Victor - The Humane Representation of Thought]]
-
-## [[Bret Victor   The Future of Programming]]
 
 
