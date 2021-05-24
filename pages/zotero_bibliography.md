@@ -2,7 +2,7 @@
 title: Zotero Bibliography
 ---
 
-## [[The spectacular originality of Coleridge's theory of ideas – Peter Cheyne | Aeon Essays]]
+## [[The spectacular originality of Coleridge's theory of ideas]]
 
 ## [[How to deconstruct the world]]
 
