@@ -7,3 +7,6 @@ title: Spirituality is a brain state we can all reach, religious or not
 ##
 > In contrast, each time we react involuntarily, we aren’t anchored in our centre, but controlled by a more automatic state not chosen by us, and therefore we’re less connected both within ourselves and to the greater good.
 ##
+> When we lose it, for instance, what exactly are we losing? Nothing less than our selves. We all lose it sometimes, but we can lose it less often by continually reconnecting to our best selves and to each other.
+## 
+> Time management, in brief, is a decision-making framework that helps us structure, protect and adapt our time in changing circumstances. It can therefore be measured through questions like “do you have a daily routine?”, “do you find it hard to say no to people?” and “do you evaluate your daily schedule?”. Work-life balance and attitudes to time and time management are also key.
