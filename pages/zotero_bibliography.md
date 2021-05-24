@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[How to deconstruct the world]]
+
 ## [[Seduced & Abandoned]]
 
 ## [[On the role of scientific thought]]
@@ -27,7 +29,5 @@ title: Zotero Bibliography
 ## [[Bret Victor - The Humane Representation of Thought]]
 
 ## [[Bret Victor   The Future of Programming]]
-
-## [['What's essential is, I must understand']]
 
 
