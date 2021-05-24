@@ -36,6 +36,9 @@ internationalization:
 - https://formatjs.io/
 ## flow data between boxes: 
 - https://reactflow.dev/
+## git:
+- [draw fun stuff in your commit history](https://github.com/gelstudios/gitfiti)
+- [rebase before merging?](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 ## Ethical design:
 - https://ethicaldesign.guide/
 - https://2017.ind.ie/ethical-design/
