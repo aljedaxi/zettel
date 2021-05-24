@@ -12,5 +12,7 @@ title: How to deconstruct the world
 > Derrida saw this kind of reading as reading against the grain. Take a text, find what it seems to advocate, and look in the opposite direction. G W F Hegel wrote about spirit, untainted by the mess of life – so Derrida explored his relationship to family.
 ##
 > This doesn’t eliminate the text or the thinking, but it problematises them, it finds the limits. In a sense, we’re to treat every text with suspicion, although Derrida himself called this an act of ‘hospitality’. To read a text this closely is to treat it with seriousness, to really look at what’s going on.
-## 
+##
 > Patients in analysis reveals their truth not simply in the words they use, but in the words they don’t, in the stutters and repetitions, in the times they try to laugh things off, and when they contradict themselves. The ‘self’ being whole and coherent is an act of will. For Derrida, the ‘text’ being whole is the same.
+## 
+>
