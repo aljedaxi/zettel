@@ -1,5 +1,6 @@
 ---
 title: coffee without
+alias: hauntology
 ---
 
 ## coffee without opens up the floor to without anythings; a limitless question of what the [[clearing]] leaves out
