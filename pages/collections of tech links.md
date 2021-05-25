@@ -42,4 +42,5 @@ internationalization:
 ## Ethical design:
 - https://ethicaldesign.guide/
 - https://2017.ind.ie/ethical-design/
-##
+## React Whatevers:
+- [mantine](https://mantine.dev/guides/dark-theme/)
