@@ -15,4 +15,7 @@ title: How to deconstruct the world
 ##
 > Patients in analysis reveals their truth not simply in the words they use, but in the words they don’t, in the stutters and repetitions, in the times they try to laugh things off, and when they contradict themselves. The ‘self’ being whole and coherent is an act of will. For Derrida, the ‘text’ being whole is the same.
 ## 
+:PROPERTIES:
+:id: 60ac17c9-2b0d-4289-8706-6e44589d9176
+:END:
 > ‘hauntology’, a pun on the word ontology. Ontology is the philosophical investigation of what there is. Hauntology is the philosophical investigation of what there isn’t.
