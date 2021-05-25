@@ -2,6 +2,8 @@
 title: Zotero Bibliography
 ---
 
+## [[Chinese philosophy has long known that mental health is communal]]
+
 ## [[Spirituality is a brain state we can all reach, religious or not]]
 
 ## [[The spectacular originality of Coleridge's theory of ideas]]
@@ -25,7 +27,5 @@ title: Zotero Bibliography
 ## [[How to motivate yourself to change | Psyche Guides]]
 
 ## [[Confluence]]
-
-## [[The Repressive Politics of Emotional Intelligence]]
 
 
