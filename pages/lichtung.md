@@ -21,4 +21,4 @@ alias: clearing, obscuring, illuminates, revealed
 > is this social situation a door or a window or a wall? 
 > how do we bring this thing (this social dynamic) into the clearing?
 Tiffany
-## A phone reveals apps
+## A phone reveals apps---it doesn't reveal people, information, &c.
