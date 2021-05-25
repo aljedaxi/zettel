@@ -42,3 +42,4 @@ internationalization:
 ## Ethical design:
 - https://ethicaldesign.guide/
 - https://2017.ind.ie/ethical-design/
+##
