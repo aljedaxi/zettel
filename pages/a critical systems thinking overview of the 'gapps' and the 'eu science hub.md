@@ -24,4 +24,5 @@ GAPPS
 ###
 >  The competencies  around  'Provide  Conditions  to  Enable  Decisions and  Action'  and 'Respond to the Environment' might usefully have been linked to the strengths of the  '[[viable system model]]'  and  '[[socio-technical systems thinking]]';  those  around 'Engage Collaboratively' with soft systems approaches;and those concerned with 'act  sustainably'  to  '[[critical systems heuristics]]'.
 ## [[cynefin]]:
-###
+### 
+> It ... differs from the GAPPS framework in being praxis oriented
