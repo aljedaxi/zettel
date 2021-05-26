@@ -47,4 +47,7 @@ GAPPS
 ###
 > In  original  formulations  of  Cynefin, systems  thinking  was  identified  with  system  dynamics  and  pinned  to  the 'complicated' domain. This allowed complexity theory to present itself as a new answer to the challenges posed by the 'un-ordered' domains.
 ## 
+:PROPERTIES:
+:id: 60ae8a39-ff69-43c7-9281-f68693789bcc
+:END:
 > Following     Vickers'     insights,     and     drawing     upon     hermeneutics     and phenomenology,  Checkland  rejected  any  attempt  to  understand  problematic social situations in scientific terms, and developed 'soft systems methodology' as an  approach  that  works  with  different  perceptions  of  reality  and  facilitates  a systemic  process  of  learning  that  can  lead  to  purposeful  action  in  pursuit  of improvement
