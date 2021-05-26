@@ -18,3 +18,8 @@ and how is cybernetics between them?
 :todo: 1618340658274
 :END:
 ### [[anti-[[oscillation]]]]?
+## Frameworks:
+- [[GAPPS]] 
+- [[cynefin]] 
+- [[confluence framework]] 
+- [[viable systems model]]
