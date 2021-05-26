@@ -5,7 +5,6 @@ title: Knowledge synthesis
 ## “Data model”
 
 In this model, we create and update four basic kinds of entities in the synthesis process: 
-
 Question 
 : notes, which express an open research question,
 
