@@ -6,4 +6,4 @@ title: A Critical Systems Thinking overview of the 'GAPPS' and the 'EU Science H
 
 VUCA 
 : (volatile,  uncertain,  complex,  ambiguous)
-##
+## VUCA (volatile,  uncertain,  complex,  ambiguous)  environments.  These  environments arise  from  dynamic  interdependencies,  within  and  between  systems,  and  the existence  of  multiple  stakeholders  with  differing  perspectives
