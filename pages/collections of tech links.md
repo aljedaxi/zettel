@@ -44,3 +44,5 @@ internationalization:
 - https://2017.ind.ie/ethical-design/
 ## React Whatevers:
 - [mantine](https://mantine.dev/guides/dark-theme/)
+## Logging:
+- https://github.com/pinojs/pino
