@@ -51,5 +51,7 @@ GAPPS
 :id: 60ae8a39-ff69-43c7-9281-f68693789bcc
 :END:
 > Following     Vickers'     insights,     and     drawing     upon     hermeneutics     and phenomenology,  Checkland  rejected  any  attempt  to  understand  problematic social situations in scientific terms, and developed 'soft systems methodology' as an  approach  that  works  with  different  perceptions  of  reality  and  facilitates  a systemic  process  of  learning  that  can  lead  to  purposeful  action  in  pursuit  of improvement
-## 
+##
 > An even stronger case can be made for 'radical' sociological paradigms which point in the direction of  conflicts  of  interest,  the  exercise  of  power,  systemic  discrimination  and disadvantage, etc., none of which make an appearance as issues in the field guide. Systems thinking has a methodology, 'critical systems heuristics' (Ulrich 'Critical Heuristics of  Social Planning', 1983) which  can  help draw these  matters to  the attention of decision-makers and other stakeholders and suggest how they might be addressed
+## 
+> Readers of this article may want to know more about the CST which underpins this critique of the two reports. Details can be found in my 2019 book 'Critical Systems Thinking and the Management of Complexity' (use code ENG21 for a discount if ordering directly from Wiley). The main element of CST employed here is second-order critique -revealing the blind spots of particular systems and complexity   approaches   by   comparing   them   to   other   systems   approaches (accepting that the other approaches will also provide limited perspectives).
