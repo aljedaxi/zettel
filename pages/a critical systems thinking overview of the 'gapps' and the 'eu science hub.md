@@ -28,4 +28,5 @@ GAPPS
 ## [[cynefin]]:
 ### 
 > It ... differs from the GAPPS framework in being praxis oriented ... Its world-view  is  that  complexityis  the  issue  and  decision-makers  are  better  placed  to navigate  complexity  if  they  employ  a  sensibility  and  methods  derived  from complexity theory
-###
+### 
+> other complexity and systems perspectives receive little attention. These include   natural science variants of complexity (such as developed at the Santa Fe Institute  or  derived  from  Prigogine);  social  science variants   (interactionist,   radical   change,   postmodern,   critical   realist,   etc.) developed during complexity theory's promiscuous crawl through social theory; and cybernetic, soft systems, and critical systems approaches.
