@@ -22,4 +22,4 @@ GAPPS
 ###
 > But the framework makes it clear that it is concerned to set out 'what' needs  to  be  considered  in  dealing  with  complexity,  not  'how'  things  should  be done
 ### 
-> various  systems  approaches  are  mentioned,  there  is  no  explicit recognition  that  they  have  quite  different  strengths  and  weaknesses.  The competencies  around  'Provide  Conditions  to  Enable  Decisions and  Action'  and 'Respond to the Environment' might usefully have been linked to the strengths of the  'viable  system  model'  and  'socio-technical  systems  thinking';  those  around 'Engage Collaboratively' with soft systems approaches;and those concerned with 'act  sustainably'  to  'critical  systems  heuristics'.
+>  The competencies  around  'Provide  Conditions  to  Enable  Decisions and  Action'  and 'Respond to the Environment' might usefully have been linked to the strengths of the  'viable  system  model'  and  'socio-technical  systems  thinking';  those  around 'Engage Collaboratively' with soft systems approaches;and those concerned with 'act  sustainably'  to  'critical  systems  heuristics'.
