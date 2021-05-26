@@ -52,4 +52,4 @@ GAPPS
 :END:
 > Following     Vickers'     insights,     and     drawing     upon     hermeneutics     and phenomenology,  Checkland  rejected  any  attempt  to  understand  problematic social situations in scientific terms, and developed 'soft systems methodology' as an  approach  that  works  with  different  perceptions  of  reality  and  facilitates  a systemic  process  of  learning  that  can  lead  to  purposeful  action  in  pursuit  of improvement
 ## 
-> An even stronger
+> An even stronger case can be made for 'radical' sociological paradigms which point in the direction of  conflicts  of  interest,  the  exercise  of  power,  systemic  discrimination  and disadvantage, etc., none of which make an appearance as issues in the field guide. Systems thinking has a methodology, 'critical systems heuristics' (Ulrich 'Critical Heuristics of  Social Planning', 1983) which  can  help draw these  matters to  the attention of decision-makers and other stakeholders and suggest how they might be addressed
