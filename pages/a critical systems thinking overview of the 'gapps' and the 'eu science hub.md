@@ -28,5 +28,7 @@ GAPPS
 ## [[cynefin]]:
 ### 
 > It ... differs from the GAPPS framework in being praxis oriented ... Its world-view  is  that  complexityis  the  issue  and  decision-makers  are  better  placed  to navigate  complexity  if  they  employ  a  sensibility  and  methods  derived  from complexity theory
-### 
+###
 > other complexity and systems perspectives receive little attention. These include   natural science variants of complexity (such as developed at the Santa Fe Institute or  derived  from  Prigogine);  social  science variants   (interactionist,   radical   change,   postmodern,   critical   realist,   etc.) developed during complexity theory's promiscuous crawl through social theory; and cybernetic, soft systems, and critical systems approaches.
+### 
+> 'Assess'  starts  with  a  state  of  confusion  which  involves  deciding  whether  an apparent crisis can be managed using existing protocols or will demand radical change. If the latter, it is important to gain some initial control by adjusting the 'constraints' that are operating. In the case of Covid-19 (and this example is used to good effect throughout the document), this would translate into tightening them by closing borders, insisting on confinement, and encouraging social distancing and remote working. At the same time, it is crucial to start to move away from bureaucracy and conservative practices by delegating decision-making, creating more flexible boundaries to improve communication, and empowering informal networks.  Decision-makers  should  start  'journaling' -capturing  in  notebooks, using sketches as much as possible, the principles they are applying and the new relationships  that  develop.
