@@ -12,3 +12,7 @@ title: semiotics
 :PROPERTIES:
 :todo: 1616117621745
 :END:
+## TODO what are the atoms and connectives of semiotics?
+:PROPERTIES:
+:todo: 1622051047714
+:END:
