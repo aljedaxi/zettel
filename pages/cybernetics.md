@@ -22,4 +22,4 @@ and how is cybernetics between them?
 - [[GAPPS]] 
 - [[cynefin]] 
 - [[confluence framework]] 
-- [[viable systems model]]
+- [[viable system model]]
