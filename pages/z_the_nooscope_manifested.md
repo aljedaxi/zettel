@@ -37,7 +37,7 @@ machine learning
 Biases
 - **Historical Bias** (or world bias) is already apparent in society before technological intervention
 - **Dataset Bias** is introduced through the preparation of training data by human operators
-- **Algorithmic bias** (also known as machine bias, statistical bias or model bias) is the further amplification of historical bias and dataset bias by machine learning algorithms ... mostly originat[es]... information compression, which engenders issues of information resolution, diffraction and loss
+- **Algorithmic bias** (also known as machine bias, statistical bias or model bias) is the further amplification of historical bias and dataset bias by machine learning algorithms, mostly caused by information compression, which engenders issues of information resolution, diffraction and loss
 ## the optical instrument acted as knowledge magnification insofar as it expanded the realm of digestible data; [thence, equivalence classes].
 ### 
 > Optical lenses symbolize biases and approximations representing the compression and distortion of the information flow. The total bias of machine learning is represented by the central lens of the statistical model through which the perception of the world is diffracted
