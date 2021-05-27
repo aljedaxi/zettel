@@ -42,7 +42,7 @@ internationalization:
 ## Ethical design:
 - https://ethicaldesign.guide/
 - https://2017.ind.ie/ethical-design/
-## React Whatevers:
+## React Visual Frameworks:
 - [mantine](https://mantine.dev/guides/dark-theme/)
 ## [[Logging]]:
 - IBM likes [pino](https://github.com/pinojs/pino)
