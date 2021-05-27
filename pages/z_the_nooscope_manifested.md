@@ -2,11 +2,10 @@
 title: The Nooscope Manifested
 ---
 
-## TODO consolidate
+## language
 :PROPERTIES:
 :todo: 1615665345439
 :END:
-## language
 
 parameters and hyperparameters
 : The parameters of a model that are learnt from data are called ‘parameters’, while parameters that are not learnt from data and are fixed manually are called ‘hyperparameters’ (These determine number and properties of the parameters).
