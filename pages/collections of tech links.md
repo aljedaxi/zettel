@@ -44,5 +44,5 @@ internationalization:
 - https://2017.ind.ie/ethical-design/
 ## React Whatevers:
 - [mantine](https://mantine.dev/guides/dark-theme/)
-## Logging:
+## [[Logging]]:
 - IBM likes [pino](https://github.com/pinojs/pino)
