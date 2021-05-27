@@ -36,7 +36,8 @@ machine learning
 
 Biases
 - **Historical Bias** (or world bias) is already apparent in society before technological intervention
-- **Dataset Bias**
+- **Dataset Bias** is introduced through the preparation of training data by human operators
+-
 ## the optical instrument acted as knowledge magnification insofar as it expanded the realm of digestible data; [thence, equivalence classes].
 ### 
 > Optical lenses symbolize biases and approximations representing the compression and distortion of the information flow. The total bias of machine learning is represented by the central lens of the statistical model through which the perception of the world is diffracted
