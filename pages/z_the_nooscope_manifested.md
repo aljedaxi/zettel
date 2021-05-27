@@ -35,8 +35,10 @@ machine learning
 : the assemblage of training dataset, statistical model, and learning algo
 :
 ## the optical instrument acted as knowledge magnification insofar as it expanded the realm of digestible data; [thence, equivalence classes].
-## 
+### 
 > Optical lenses symbolize biases and approximations representing the compression and distortion of the information flow. The total bias of machine learning is represented by the central lens of the statistical model through which the perception of the world is diffracted
+### 
+> The limitations of AI are generally perceived today thanks to the discourse on bias —the amplification of gender, race, ability, and class discrimination by algorithms
 ## 
 > In the same way that the lenses of microscopes and telescopes are never perfectly curvilinear and smooth, the logical lenses of machine learning embody faults and biases. To understand machine learning ... is to study the degree by which social data are diffracted and distorted by these lenses.
 ##
