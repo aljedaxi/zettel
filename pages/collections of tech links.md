@@ -17,7 +17,7 @@ title: collections of tech links
 ## how to bill https://raccoon.onyxbits.de/blog/software-development-cost/
 ## use them with https://allcontributors.org/
 ## document them with
-- https://github.com/JesterXL/hm-doc
+- (https://github.com/JesterXL/hm-doc)
 - bro you can combine logseq with [taiko](https://github.com/getgauge/taiko)
 - [this](https://stripe.com/docs/webhooks/integration-builder) as an example
 ## sketching ui: 
