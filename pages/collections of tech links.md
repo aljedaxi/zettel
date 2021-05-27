@@ -19,7 +19,7 @@ title: collections of tech links
 ## document them with
 - https://github.com/JesterXL/hm-doc
 - bro you can combine logseq with [taiko](https://github.com/getgauge/taiko)
--
+- [this](https://stripe.com/docs/webhooks/integration-builder) as an example
 ## sketching ui: 
 - https://reactype.io/
 - [storybook](https://storybook.js.org/)
