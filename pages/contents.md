@@ -1,2 +1,2 @@
 ## [[TODO]]
-## I [[am]] thinking about something [[nownow]] (climate)
+- I [[am]] thinking about something [[nownow]] (climate)
