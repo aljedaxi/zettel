@@ -2,7 +2,7 @@
 title: tea
 ---
 
-## TODO recipes
+- TODO recipes
 :PROPERTIES:
 :todo: 1619800371863
 :END:

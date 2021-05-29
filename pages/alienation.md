@@ -2,7 +2,7 @@
 title: alienation
 ---
 
-## usages of alienation:
+- usages of alienation:
 :PROPERTIES:
 :todo: 1612830261635
 :END:

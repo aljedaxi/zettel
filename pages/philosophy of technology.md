@@ -2,5 +2,5 @@
 title: philosophy of technology
 ---
 
-## Heidegger
+- Heidegger
 : technology reveals the world as hammerable

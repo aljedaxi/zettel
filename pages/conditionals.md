@@ -2,7 +2,7 @@
 title: conditionals
 ---
 
-## p > q > p
+- p > q > p
 
 if p then q then p
 If i'm pretty, then i'm queer;

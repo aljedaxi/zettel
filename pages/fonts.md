@@ -2,9 +2,9 @@
 title: fonts
 ---
 
-## lotion is the best font ever and i love it so much!
-## programming fonts:
-## weird fonts:
+- lotion is the best font ever and i love it so much!
+- programming fonts:
+- weird fonts:
 daxi, [Feb 25, 2020 at 3:10:37 AM]:
 Facultad Typeface
 Facultad Typeface (2017)Design of an academic typeface for art and design communications.This project focuses on the design of an institutional typeface by using analog and digital methods, the morphological exploration of signs and modern structures a…

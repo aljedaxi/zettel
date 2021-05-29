@@ -2,4 +2,4 @@
 title: phrases
 ---
 
-## no drama obama
+- no drama obama

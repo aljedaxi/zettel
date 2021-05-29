@@ -2,5 +2,5 @@
 title: Ilyenkov the ideal
 ---
 
-## the ideal as alles das der fall ist
-##
+- the ideal as alles das der fall ist
+-

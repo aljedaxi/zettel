@@ -2,4 +2,4 @@
 title: learning
 ---
 
-## https://github.com/mdtarhini/cheat-sheet-maker
+- https://github.com/mdtarhini/cheat-sheet-maker

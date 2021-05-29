@@ -2,6 +2,6 @@
 title: messaging clients
 ---
 
-## IRC
-### https://ubuntu.com/tutorials/irc-server
-##
+- IRC
+  - https://ubuntu.com/tutorials/irc-server
+-

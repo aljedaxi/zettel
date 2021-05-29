@@ -2,7 +2,7 @@
 title: poems
 ---
 
-## %something about hooka 
+- %something about hooka 
 %The fundamental media: light, air, direct contact
 ```
                       The
@@ -13,7 +13,7 @@ title: poems
 Coal Vapor  .   flesh weighs
       down             upon    the bone.
 ```
-##
+-
 ```
 the clouds hang heavy
 soaked by the sun's blood and bile
@@ -21,7 +21,7 @@ soaked by the sun's blood and bile
       the calm of blue ruptured by
        a death rattle of yellow.
 ```
-## Are not only for me 
+- Are not only for me 
 
 The clouds paint the sky with a scant urgency,
 The stony–bed rivers do warble gladly,
@@ -31,7 +31,7 @@ And the stars are not only/simply for me
 And the stars shine for more than just me
 
 Und die Sterne sind nicht für nur mich
-##
+-
 ```
 # Aubade
 Enter:  sun,
@@ -44,7 +44,7 @@ so i harken:
 in webs,constellating
 :what day may become.
 ```
-##
+-
 ```
 Beetle in a 
 # box 
@@ -64,7 +64,7 @@ So here's  my prediction,
           (my)abdication,
            of    the box. 
 ```
-##
+-
 ```Oh, 
    how i knew it too good to be true ,
 how i knew i could not trust my eyes ,
@@ -76,7 +76,7 @@ as they flowered, in spirit and size !
 
 1  glowed, if you will.
 ```
-##
+-
 ```
 # Breathed  
 My, how little air slips through
@@ -85,7 +85,7 @@ my, how little space we knew!
 So much more
          than we needed to breathe. 
 ```
-## O, to be in windswept trees,
+- O, to be in windswept trees,
 a raging, storming mass of leaves,
 and i drop within its sea—
 convecting through eternity
@@ -94,7 +94,7 @@ O, to live 'mongst long lived grass,
 'long their tide-shift, iridescent mass,
 Whose aleatory works outlast,
 Each human piece, which try surpass
-## Continental is wide and open and feels a bit Gothic—ie, gothicismus—as opposed to, say, cybergoth ravers. The tables are marble topped, and the feet are cast iron, clawy. The seats are all on the old side. Decorations are sparse; the walls are all pure white, the ground a lovely tan-orange tile. One side is all window, and the 5 o'clock sun casts dramatic shadows through the front parlor. 
+- Continental is wide and open and feels a bit Gothic—ie, gothicismus—as opposed to, say, cybergoth ravers. The tables are marble topped, and the feet are cast iron, clawy. The seats are all on the old side. Decorations are sparse; the walls are all pure white, the ground a lovely tan-orange tile. One side is all window, and the 5 o'clock sun casts dramatic shadows through the front parlor. 
 The rest of the lighting is supplied by gallery lights, or ye Olde hanging filament bulbs. 
 …There's something unnerving about the back. There's something unnerving about the whole place. I feel like i'm in a noir picture, or a doldrums song. And the music doesn't help—its at just the same volume as the drone of the Airconditioning (or something) and generally, I feel disconnected with reality. 
 Which, i dunno, had its upsides and its downsides. 
@@ -104,7 +104,7 @@ Maybe i'm just having an existential crisis. Or maybe this coffee is a bit stran
 Don't like the bottom. 
 
 Light 7.
-## death came 
+- death came 
 all over my chest
 in a series of stony-sweet kisses
 in a putrefying glaze of golden grimace
@@ -118,7 +118,7 @@ art was edged; closer, closer, coming,
 i stopped sucking(up to it)
 i am above(it: this is)my guillotine
       blade in the gut of Good Taste
-##
+-
 ```
 # Doubt 2 
 “there's something about cross
@@ -134,7 +134,7 @@ i am above(it: this is)my guillotine
                                -ity.”
                “who knows what i am.”
 ```
-##
+-
 ```
 # Drunk.2 
 I am death
@@ -151,7 +151,7 @@ I am death
     to speak with,                to meet again
 meet me, carol, meet me
 ```
-##
+-
 ```
 afford me but
                          a petite dwelling
@@ -192,7 +192,7 @@ Throat, or cut-throat.
      quick exhaustion of memetic drive;
      no regard for romance, no—
 ```
-##
+-
 ```
 Ensō 
 
@@ -209,7 +209,7 @@ and the flow of Ink?
  save     the focus
  that  lays the Ink?
 ```
-## the violent water's frothing mouth does feed 
+- the violent water's frothing mouth does feed 
 the stills and waves    ;   eddying into the
 margins, foaming white with rage.  the edges
 guide the bubbling lines     :     alēae  in
@@ -229,7 +229,7 @@ concrete,rolling with each leap. the bubbles
 speak in warbling tongues, which I cannot re-
 peat;and yet   the Ravens warble on,   their
 truth their wingèd beat.
-## Furry
+- Furry
 
 there is a pagan
      [is m]says "the world
@@ -242,7 +242,7 @@ the gods,the green,the sprawl,spring
   sprawl as:    :are we.
  the mind=>slips,finds=>the soul,fox
  holed=>10,000 times=>in ."
-##
+-
 ```
 「         the two stopped,
        drew near.               」 
@@ -384,7 +384,7 @@ sorry if this platonism's
 
 %anywho, the thing that gets me is that these fucking hedgehogs are so noided they can't even approach each other face first. They back into each other. Like, scheiß, show a little love.
 ```
-##
+-
 ```
 # Letters 
 ¡MUST BE PRESENTED WRITTEN
@@ -423,7 +423,7 @@ as letters (re)incarnate ever on,
 like Socrates and Plato;
 like courier new terminals in OSX. 
 ```
-##
+-
 ```
 # Life 
 Illusions exist to be pierced and puzzled, 
@@ -436,7 +436,7 @@ What good is existence in stasis? In flux,
 If life is the story, then death is the crux, 
  Without water, what's there in the wine?
 ```
-##
+-
 ```
 # Love 
 if only i could
@@ -470,11 +470,11 @@ if only i could
        i'm found,ashèn,sweltering
               in  your tenderness.
 ```
-##
+-
 ```
 
 ```
-##
+-
 ```
 Mono no aware 
 
@@ -498,7 +498,7 @@ i wish i had lived
  who   have     lost
                      me.
 ```
-##
+-
 ```
 mono no aware
          :  a ballad of wheat
@@ -531,7 +531,7 @@ the
 the tourists turn their cameras round, 
 the town just dissappears.
 ```
-## the wind through the gulls
+- the wind through the gulls
 on a crisp river evening
 on a street lit light evening
 with noone to see
@@ -542,22 +542,22 @@ on a cold coffee evening
 of a COVID caught seething
 far away from the screeching
 still soft on the breeze.
-## What night mare ride you through your dreams? 
+- What night mare ride you through your dreams? 
 How does she keep her hooves? 
 What terrain does she lead through thee? 
 And does the passages soothe?
-## the hands of the land stretch out further than can
+- the hands of the land stretch out further than can
 : for the can of our kin matters not,
-## Hwaet! From the heights 
+- Hwaet! From the heights 
 of the [pink petalled peaks]
 So sang the sight
 of the blue eyed beast.
-## i would die to keep you
+- i would die to keep you
 warm in my embrace
 till we both turn to ash
 in the sun's icy case
-## I HATE POETRY:
-### 
+- I HATE POETRY:
+  - 
 ```
 ________padded,    sullen,     white;
     the ground, the cloud, the breeze,
@@ -566,8 +566,8 @@ ________padded,    sullen,     white;
   and the skin   drags     the spirit
   screaming      down     to the fire.
 ```
-## Noise shows:
-### 
+- Noise shows:
+  - 
 ```
   spearhead on skin, screech-
  skrying the sands ; through the hands

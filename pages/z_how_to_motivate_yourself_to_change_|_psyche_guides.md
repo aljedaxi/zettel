@@ -2,7 +2,7 @@
 title: How to motivate yourself to change | Psyche Guides
 ---
 
-## 
+- 
 > Focusing: Recognise the problem
 
 > Recognition of a problem is the first step toward building discrepancy – that is, recognising the difference between your reality and the ideal. First, what is your reality? Get a notepad and brainstorm what’s causing you dissatisfaction or concerns. Think of areas such as physical health, work, relationships, social life, finances or emotional/mental health where things aren’t as you’d like. If you have a trusted friend or relative, you could also consider brainstorming with them (but do make sure that they help you uncover your own discrepancies, rather than imposing ideas on you). Here are some examples:

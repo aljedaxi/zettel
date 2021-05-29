@@ -2,7 +2,7 @@
 title: shopping list
 ---
 
-## By Location
+- By Location
 
 Crossroads
 : gunpowder

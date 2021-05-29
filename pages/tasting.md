@@ -2,7 +2,7 @@
 title: tasting
 ---
 
-## for coffee, rate the following categories on intensity and quality:
+- for coffee, rate the following categories on intensity and quality:
 
 Aroma
 : don't worry too much about this

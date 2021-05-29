@@ -2,7 +2,7 @@
 title: complex
 ---
 
-## 
+- 
 > baboons live in COMPLEX societies and have complex sociality. When they construct and repair their social order, they do so only with limited resources, their bodies, their social skills and whatever social strategies they can construct. A baboon is, in our view, the ideal COMPETENT MEMBER portrayed by ethnomethodologists, a social actor having difficulty negotiating one factor at a time, constantly subject to the interference of others with similar problems. These limited resources make possible only limited social stability.
 > Greater stability is acquired only with additional resources; something besides what is encoded in bodies and attainable through social skills is needed. Material resources and symbols can be used to enforce or reinforce a particular view of "what society is" and permit social life to shift away from complexity to what we will call complication. **Something is "[[complicated]]" when it is made of a succession of simple operations.** Computers are the archetype of a complicated structure where tasks are achieved by the machine doing a series of simple steps. ...
 > How does the shift from social complexity to social complication happen? Figure 1 illustrates how we imagine this progression. The first line indicates a baboon-like society in which socialness is complex, by our use of that term, and society is complex but not complicated because individuals are unable to organize others on a large scale.... The second line positions hypothetical hunter-gatherers [where] language, symbols and material objects can be used to simplify the task of ascertaining and negotiating the nature of the social order. ...

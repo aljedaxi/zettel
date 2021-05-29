@@ -2,7 +2,7 @@
 title: deconstruction
 ---
 
-## TODO try reading these:
+- TODO try reading these:
 :PROPERTIES:
 :todo: 1622079108198
 :END:

@@ -2,7 +2,7 @@
 title: pumpkin pasta
 ---
 
-## - white wine
+- - white wine
 - cinnamon
 - nutmeg
 - sage

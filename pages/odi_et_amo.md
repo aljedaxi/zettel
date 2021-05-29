@@ -2,7 +2,7 @@
 title: odi et amo
 ---
 
-## - u u  / - -   / - u u   
+- - u u  / - -   / - u u   
 Od'et a/mo. Qua/r'id faci
 / - - / - u u / - x
 /am, for/tasse re/quiris?

@@ -2,7 +2,7 @@
 title: the blue guitar
 ---
 
-##
+-
 ```
     The Blue Guitar
 

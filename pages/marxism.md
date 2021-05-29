@@ -2,5 +2,5 @@
 title: marxism
 ---
 
-## & the [[occult]]
+- & the [[occult]]
 - [dark marxism](https://ianwrightsite.wordpress.com/about/)

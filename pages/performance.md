@@ -2,4 +2,4 @@
 title: performance
 ---
 
-## https://overreacted.io/before-you-memo/
+- https://overreacted.io/before-you-memo/
