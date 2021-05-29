@@ -41,6 +41,12 @@
   --ls-border-radius-medium: 6px;
 }
 
+.editor-wrapper {
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 100%;
+}
+
 .dark-theme {
   --ls-primary-background-color: var(--background);
   --ls-secondary-background-color: var(--dark-background);
