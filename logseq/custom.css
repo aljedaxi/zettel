@@ -41,6 +41,10 @@
   --ls-border-radius-medium: 6px;
 }
 
+#search-field {
+  background: none;
+}
+
 .editor-wrapper {
   margin-left: 0px;
   margin-right: 0px;
