@@ -204,14 +204,14 @@ b {
 }
 
 .cm-s-default.CodeMirror {
-  border: 5px solid var(--light-background);
+  border: none;
 }
 
 .cm-s-default .CodeMirror-gutters {
   color: var(--background);
 }
 .cm-s-default .CodeMirror-cursor {
-  border-left: solid thin var(--white);
+  border-left: none;
 }
 .cm-s-default .CodeMirror-linenumber {
   color: var(--comment);
