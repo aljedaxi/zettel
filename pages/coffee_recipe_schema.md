@@ -24,4 +24,4 @@ title: coffee recipe schema
 	- DONE reach out to Mix or someone about how to decent it
 	  todo:: 1615936592289
 	  done:: 1622415312670
-	- Use []
+	- Use [this](https://github.com/earthstar-project/earthstar) to decent it
