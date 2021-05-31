@@ -4,3 +4,4 @@
   > The Handbook reduces the electronics to diagrams. This book reduces cybernetics to diagrams.
 -
   > we cannot tackle everything at once ... [eg] the problems of *measurement* and *filtration* that are dealt with in ... *The Brain of the Firm* and *The Heart of the Enterprise*.
+-
