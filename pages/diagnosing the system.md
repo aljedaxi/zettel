@@ -21,7 +21,7 @@
 -
   > the viable system is necessarily a **producer** of the organization ... list the organizations of the next lower recursion --- that is, the embedded subsidiaries or departments that between them PRODUCE THE COMPANY ... the heart, lungs, liver, kidneys ... are all engaged in *producing* the organism ... in the firm ... the profit centres produce the company ... it is continuous and regenerative self-production that underwrites IDENTITY
 	-
-	  > if the product is 'sold' only internally ...
+	  > if the product is 'sold' only internally ... the unit is not a viable system --- especially insofar as it has no exposure to market forces
 -
   > its ecology --- environmental interaction with an 'outside'
 -
