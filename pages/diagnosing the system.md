@@ -2,10 +2,13 @@
   
   Square
   : all managerial activity need to run
+  
   Circle
   : the relevant operations that produce the viable system
+  
   Amoeboid Shape
   : the environment
+  
   Red Arrows
   : necessary interactions between the basic entities
 -
