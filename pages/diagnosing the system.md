@@ -5,5 +5,5 @@
 -
   > we cannot tackle everything at once ... [eg] the problems of *measurement* and *filtration* that are dealt with in ... *The Brain of the Firm* and *The Heart of the Enterprise*.
 -
-  > Finally, the recursive embodiments of **[[language]]** as a viable system took us from philosophy through linguistics to anthropology, and back again
+  > Finally, the recursive embodiments of **[[language]]** as a [[viable system]] took us from philosophy through linguistics to anthropology, and back again
 -
