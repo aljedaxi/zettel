@@ -17,4 +17,5 @@
 -
   > the way you are likely to get results ... is to arrange the organizational structure differently ... the problems that people were worrying about will then be not so much solved as dissolved. This means that you will not get any credit.
 -
-  > existence is never independent of other existences, even though the individual has a seperate identity
+  > existence is never independent of other existences, even though the individual has a separate **identity**
+-
