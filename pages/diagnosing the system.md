@@ -2,6 +2,8 @@
   
   Square
   : all managerial activity need to run
+  Circle
+  : the relevant operations that produce the viable system
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... if this ... interdisciplinary subject
 -
