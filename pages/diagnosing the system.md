@@ -19,7 +19,7 @@
 -
   > existence is never independent of other existences, even though the individual has a separate **identity**
 -
-  > the viable system is necessarily a **producer** of the organization ... list the organizations of the next lower recursion --- that is, the embedded subsidiaries or departments that between them PRODUCE THE COMPANY ... the heart, lungs, liver, kidneys ... are all engaged in *producing* the organism ... in the firm ... the profit centres produce the company
+  > the viable system is necessarily a **producer** of the organization ... list the organizations of the next lower recursion --- that is, the embedded subsidiaries or departments that between them PRODUCE THE COMPANY ... the heart, lungs, liver, kidneys ... are all engaged in *producing* the organism ... in the firm ... the profit centres produce the company ... lf ld c;jfljik
 -
   > its ecology --- environmental interaction with an 'outside'
 -
