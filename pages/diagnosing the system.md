@@ -4,6 +4,10 @@
   : all managerial activity need to run
   Circle
   : the relevant operations that produce the viable system
+  Amoeboid Shape
+  : the environment
+  Red Arrows
+  : necessary interactions between the basic entities
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... if this ... interdisciplinary subject
 -
