@@ -23,3 +23,4 @@
 -
   > its ecology --- environmental interaction with an 'outside'
 -
+  > what the biologist calls the **internal environment**
