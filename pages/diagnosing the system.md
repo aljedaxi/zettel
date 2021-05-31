@@ -7,3 +7,5 @@
 -
   > Finally, the recursive embodiments of **[[language]]** as a [[viable system]] took us from philosophy through linguistics to anthropology, and back again
 -
+  > [[cybernetics]] is the science of effective organization.
+-
