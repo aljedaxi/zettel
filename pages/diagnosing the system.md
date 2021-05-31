@@ -27,4 +27,5 @@
 -
   > what the biologist calls the **[[internal environment]]**
 -
+  > the **set** of these embedments will be known as SYSTEM ONE
 -
