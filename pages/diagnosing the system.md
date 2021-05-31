@@ -11,4 +11,5 @@
 -
   > it was later mathematically proved that such a system must necessarily contain a representation ... of whatever is being regulated
 -
-  > Solvency ... is a prerequisite of business ... Profitability, too ... but they do not ... constitute the goals of the enterprise. Rather are they the *constraints* under which it operates ... to treat all this as the essence of viability is to mistake the epiphenomena of the system ... for the system itself ... viability in complex organisms is not ... primarily concerned with the energy ... that propels them, but with the dynamic structure that determines the **adaptive connectivity** of their parts
+  > Solvency ... is a prerequisite of business ... Profitability, too ... but they do not ... constitute the goals of the enterprise. Rather are they the *constraints* under which it operates ... to treat all this as the essence of viability is to mistake the epiphenomena of the system ... for the system itself ... viability in complex organisms is not ... primarily concerned with the energy ... that propels them, but with the dynamic structure that determines the **adaptive connectivity** of their parts.
+-
