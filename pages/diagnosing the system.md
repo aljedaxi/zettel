@@ -19,3 +19,4 @@
 -
   > existence is never independent of other existences, even though the individual has a separate **identity**
 -
+  > the viable system is necessarily a **producer** of the organization ...
