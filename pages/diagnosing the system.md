@@ -19,4 +19,5 @@
 -
   > existence is never independent of other existences, even though the individual has a separate **identity**
 -
-  > the viable system is necessarily a **producer** of the organization ...
+  > the viable system is necessarily a **producer** of the organization ... list the organizations of the next lower recursion --- that is, the embedded subsidiaries or departments that between them PRODUCE THE COMPANY
+-
