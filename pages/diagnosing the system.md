@@ -21,3 +21,5 @@
 -
   > the viable system is necessarily a **producer** of the organization ... list the organizations of the next lower recursion --- that is, the embedded subsidiaries or departments that between them PRODUCE THE COMPANY
 -
+  > its ecology --- environmental interaction with an 'outside'
+-
