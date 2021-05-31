@@ -11,4 +11,4 @@
 -
   > it was later mathematically proved that such a system must necessarily contain a representation ... of whatever is being regulated
 -
-  > Solvency ... is a prerequisite of business ... Profitability, too ...
+  > Solvency ... is a prerequisite of business ... Profitability, too ... but they do not ... constitute the
