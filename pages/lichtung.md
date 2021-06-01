@@ -20,5 +20,6 @@ alias: clearing, obscuring, illuminates, revealed
   > how do we bring this thing (this social dynamic) into the clearing?
   Tiffany
 - A phone reveals apps---it doesn't reveal people, information, &c.
-- TODO what is revealed in the documentary?
+- TODO what is revealed in the documentary? the biography? what is the individual carved up into?
   todo:: 1622573427200
+-
