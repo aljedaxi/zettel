@@ -22,3 +22,4 @@ alias: clearing, obscuring, illuminates, revealed
 - A phone reveals apps---it doesn't reveal people, information, &c.
 - TODO what is revealed in the documentary? the biography? what is the individual carved up into? a certain semi-public slice of the self?
   todo:: 1622573427200
+- what is the sound of getting up off the couch? this is revealed after repeated listening,
