@@ -1,1 +1,1 @@
-- TODO HOW DO WE DEFINE OUR ENVIRONMENT?
+- TODO HOW DO WE DEFINE OUR ENVIRONMENT? a function of zuhandenheit? a function of spacetime?
