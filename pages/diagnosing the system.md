@@ -51,3 +51,5 @@
   id:: 60b7a6b6-8b7e-4ecf-9864-457c3e30188e
 -
   > regulation ... amplifies managerial variety
+-
+  > thus ... [system 2]
