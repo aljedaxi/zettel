@@ -46,3 +46,4 @@
   > the **set** of these embedments will be known as [[SYSTEM ONE]]
 	-
 	  > Management in [[System One]] is charged with conducting its operations according to a [[Resource Bargain]] struck with Senior management
+-
