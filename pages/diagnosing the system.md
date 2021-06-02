@@ -47,3 +47,4 @@
 	-
 	  > Management in [[System One]] is charged with conducting its operations according to a [[Resource Bargain]] struck with Senior management
 - The [[Resource Bargain]] is the 'deal' by which some degree of autonomy is agreed between senior management and its junior counterparts ... [it] declares: out of all the activities that [[System One]] might undertake, these will be tackled ... and not those ... and the resources negotiated to these ends will be provided
+  id:: 60b7a6b6-8b7e-4ecf-9864-457c3e30188e
