@@ -46,4 +46,4 @@
   > the **set** of these embedments will be known as [[SYSTEM ONE]]
 	-
 	  > Management in [[System One]] is charged with conducting its operations according to a [[Resource Bargain]] struck with Senior management
-- The [[Resource Bargain]] is the 'deal' by which some degree of autonomy is agreed between senior management and its junior counterparts ... [it] declares: out of all the activities that
+- The [[Resource Bargain]] is the 'deal' by which some degree of autonomy is agreed between senior management and its junior counterparts ... [it] declares: out of all the activities that [[System One]] might undertake these ... and not those ...
