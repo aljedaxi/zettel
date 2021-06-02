@@ -52,4 +52,4 @@
 -
   > regulation ... amplifies managerial variety
 -
-  > thus ... [system two]
+  > thus ... [system two] is the focus of homeostasis between management and operations
