@@ -42,4 +42,4 @@
 -
   > the **set** of these embedments will be known as [[SYSTEM ONE]]
 -
-  >
+  > please think about this responsibility for resources provided in terms (... not of emotional dependency)
