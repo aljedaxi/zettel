@@ -44,4 +44,5 @@
   > what the biologist calls the [[internal [[environment]]]]
 -
   > the **set** of these embedments will be known as [[SYSTEM ONE]]
-	- Management in [[System One]] is charged with conducting its operations according to a Resource Bargain
+	-
+	  > Management in [[System One]] is charged with conducting its operations according to a [[Resource Bargain]] struck with Senior management
