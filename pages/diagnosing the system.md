@@ -52,4 +52,4 @@
 -
   > regulation ... amplifies managerial variety
 -
-  > thus ... [system 2]
+  > thus ... [system two]
