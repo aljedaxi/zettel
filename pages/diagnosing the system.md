@@ -33,7 +33,7 @@
 	-
 	  > retrieve your list of the embedded subsidiaries or departments ... this list adds up to system one ... make a large diagram---one for each of them---to look like figure 7 [{environment, ops, management, and the attenuators & amplifiers between them}] ... write in all the mechanisms that pertain to variety engineering
 	-
-	  > System One is bound into the parent ... by its Articles of Association
+	  > System One is bound into the parent ... by its Articles of Association, and by all the provisions of the Companies' Act that
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
