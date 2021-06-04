@@ -24,7 +24,7 @@
 - Tasks:
 	-
 	  > In which viable system are you embedded? How many recursive systems can you list before you reach some kind of 'totality'? ... Please make some kind of diagram, so that ... a record of your investigations is begun
-		- Eg, (Total Industry (Heavy Industry ()))
+		- Eg, (Total Industry (Heavy Industry (Iron & Steel (Cold Working (Wire (Fine Wire))))))
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
