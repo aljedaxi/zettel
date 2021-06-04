@@ -11,6 +11,7 @@
   
   Red Arrows
   : necessary interactions between the basic entities
+- Principals:
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
