@@ -31,7 +31,8 @@
 	-
 	  > Choose and clearly define the System-in-focus ... survey the sets of recursions of viable systems that constitute its organizational 'ecology', both vertically and horizontally ... Give the System-in-focus a well-chosen name ... specify, with a name, the viable system in which your system is embedded ... exactly specify, with names, the viable systems that your system-in-focus embeds
 	-
-	  > retrieve your list of the embedded subsidiaries or departments ... this list adds up to system one ... make a large diagram---one for each of them---to look like figure 7 [{environment, ops, management, and the attenuators & amplifiers between them}] ...
+	  > retrieve your list of the embedded subsidiaries or departments ... this list adds up to system one ... make a large diagram---one for each of them---to look like figure 7 [{environment, ops, management, and the attenuators & amplifiers between them}] ... write in all the mechanisms that pertain to variety engineering
+	-
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
