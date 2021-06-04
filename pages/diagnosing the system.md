@@ -17,7 +17,7 @@
   : Varieties, diffusing through an institutional system, tend to equate
   
   Two
-  : Channel capacity must be $$\geq$$ the originating subsystem's variety as the subsystem creates the variety
+  : Channel capacity must be $$\geq$$ the originating subsystem's variety *as* the subsystem creates the variety
   
   Three
   : The variety of a transducer must be $$\geq$$ than the channel capacity
