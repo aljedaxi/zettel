@@ -23,6 +23,7 @@
   : The variety of a transducer must be $$\geq$$ than the channel capacity
 - Tasks:
 	-
+	  > In which viable system are you embedded? How many recursive systems can you list before you reach some kind of 'totality'?
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
