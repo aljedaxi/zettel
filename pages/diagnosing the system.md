@@ -12,6 +12,9 @@
   Red Arrows
   : necessary interactions between the basic entities
 - Principals:
+  
+  One
+  : Varieties, diffusing through an institutional system, tend to equate
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
