@@ -17,7 +17,10 @@
   : Varieties, diffusing through an institutional system, tend to equate
   
   Two
-  : Channel variety must be $$\gte$$
+  : Channel variety must be $$\geq$$ the originating subsystem's variety as the subsystem creates the variety
+  
+  Three
+  :
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
