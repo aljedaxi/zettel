@@ -43,7 +43,9 @@
 	-
 	  > Make lists of your own instances relating to the two-way channels between management/operations ... **channel** capacity is the discussion point ... what **measures** do you have --- or need?
 	-
-	  > Make ... analytic vignettes of the transducers that populate your own system one [the transducers E <=> O, O <=> M]
+	  > Make ... analytic vignettes of the transducers that populate your own system one [the transducers E <=> O, O <=> M] ... and try to make an enormous diagram ... annotating for the **three principles**
+	-
+	  >
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
