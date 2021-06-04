@@ -37,6 +37,7 @@
 	-
 	  > list your mechanisms for striking the resource bargain for each subsidiary
 	-
+	  > examine precisely how accountability is exercised, and especially what attenuators are used
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
