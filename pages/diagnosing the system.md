@@ -21,6 +21,8 @@
   
   Three
   : The variety of a transducer must be $$\geq$$ than the channel capacity
+- Tasks:
+	-
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
