@@ -85,7 +85,7 @@
 -
   > [[regulation]] ... amplifies managerial variety
 -
-  > data are transmitted, not variety ... variety is amplified or attenuated by the instructions that the data formulate
+  > [[data]] are transmitted, not variety ... variety is amplified or attenuated by the instructions that the data formulate
 -
   > if each of a thousand letters involves data handling by a desk researcher ... it might take ten days at a hundred letters a day. But of course the whole job could be done in an hour or two inside a computerized system
 	-
