@@ -60,4 +60,4 @@
 -
   > if each of a thousand letters involves data handling by a desk researcher ... it might take ten days at a hundred letters a day. But of course the whole job could be done in an hour or two inside a computerized system
 	-
-	  > If we look on technology as ... a variety generator, and not simply as a producer of artefacts, then our regulatory capability is enhanced
+	  > If we look on [[technology]] as ... a [[variety]] generator, and not simply as a producer of artifacts, then our regulatory capability is enhanced
