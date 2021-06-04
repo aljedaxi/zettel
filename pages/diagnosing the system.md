@@ -15,6 +15,9 @@
   
   One
   : Varieties, diffusing through an institutional system, tend to equate
+  
+  Two
+  : Channel variety must be $$\gte$$
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
