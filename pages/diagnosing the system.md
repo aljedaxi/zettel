@@ -35,6 +35,8 @@
 	-
 	  > System One is bound into the parent ... by its Articles of Association, and by ... the Companies' Act ... but the parent may ... specify other constraints ... these range from delimiting technologies to specifying the modus operandi ... list them for each of your embedded system one elements
 	-
+	  > list your mechanisms for striking the resource bargain for each subsidiary
+	-
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
