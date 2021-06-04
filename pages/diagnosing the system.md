@@ -56,3 +56,5 @@
 -
   > The ... channels carrying information between the managerial unit, the operation, and the environment must each have a higher [channel variety] ... than the originating subsystem has to generate [variety]
 -
+  > data are transmitted, not variety ... variety is amplified or attenuated by the instructions that the data formulate
+-
