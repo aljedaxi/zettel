@@ -41,7 +41,7 @@
 	-
 	  > the transmission of plans, programmes, and procedures to the operational circle should be regarded as an act of *regulation* ... regulation ... attenuates operational variety ... the regulatory center ... is the focus of homeostasis between management and operations ... make a list of regulatory actions that mediate between system one managements and their operations
 	-
-	  > Make lists of
+	  > Make lists of your own instances relating to the two-way channels between management/operations
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
