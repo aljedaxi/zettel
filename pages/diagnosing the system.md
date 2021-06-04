@@ -85,8 +85,6 @@
 -
   > [[regulation]] ... amplifies managerial variety
 -
-  > thus ... [system two] is the focus of homeostasis between management and operations
--
   > The ... channels carrying information between the managerial unit, the operation, and the environment must each have a higher [channel capacity] ... than the originating subsystem has to generate [variety] ... the capacity of an actual channel depends ... on the rate of data transmission
 	-
 	  > the variety of the transducer must be at least equivalent to the variety of the channel
