@@ -30,6 +30,8 @@
 	  > Think of a Manufacturing company ... list the organizations of the next lower recursion ... the embedded subsidiaries or departments that between them **produce the company** ... they are essentially profit centres ... they can in principle be ... sold as going concerns (and replaced by bought-in products or services) ... Next make a list of company system ... that are **not** embedded viable systems
 	-
 	  > Choose and clearly define the System-in-focus ... survey the sets of recursions of viable systems that constitute its organizational 'ecology', both vertically and horizontally ... Give the System-in-focus a well-chosen name ... specify, with a name, the viable system in which your system is embedded ... exactly specify, with names, the viable systems that your system-in-focus embeds
+	-
+	  > retrieve your list
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
