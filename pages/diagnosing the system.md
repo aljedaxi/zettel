@@ -39,7 +39,7 @@
 	-
 	  > examine precisely how accountability is exercised, and especially what attenuators ... are used
 	-
-	  > the transmission of plans, programmes, and procedures to the operational circle should be regarded as an act of *regulation* ... regulation ... amplifies managerial variety ...
+	  > the transmission of plans, programmes, and procedures to the operational circle should be regarded as an act of *regulation* ... regulation ... attenuates operational variety ...
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
