@@ -85,10 +85,6 @@
 -
   > [[regulation]] ... amplifies managerial variety
 -
-  > The ... channels carrying information between the managerial unit, the operation, and the environment must each have a higher [channel capacity] ... than the originating subsystem has to generate [variety] ... the capacity of an actual channel depends ... on the rate of data transmission
-	-
-	  > the variety of the transducer must be at least equivalent to the variety of the channel
--
   > data are transmitted, not variety ... variety is amplified or attenuated by the instructions that the data formulate
 -
   > if each of a thousand letters involves data handling by a desk researcher ... it might take ten days at a hundred letters a day. But of course the whole job could be done in an hour or two inside a computerized system
