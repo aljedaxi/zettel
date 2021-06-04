@@ -25,6 +25,10 @@
 	-
 	  > In which viable system are you embedded? How many recursive systems can you list before you reach some kind of 'totality'? ... Please make some kind of diagram, so that ... a record of your investigations is begun
 		- Eg, (Total Industry (Heavy Industry (Iron & Steel (Cold Working (Wire (Fine Wire))))))
+		  You are Fine Wire
+	-
+	  > Think of a Manufacturing company ... list the organizations of the next lower recursion ... the embedded subsidiaries or departments that between them **produce the company** ... they are essentially profit centres ... they can in principle be ... sold as going concerns (and replaced by bought-in products or services) ... Next make a list of company system ... that are **not** embedded viable systems
+	-
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
