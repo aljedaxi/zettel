@@ -20,7 +20,7 @@
   : Channel variety must be $$\geq$$ the originating subsystem's variety as the subsystem creates the variety
   
   Three
-  :
+  : The variety of a transducer must be $$\geq$$ than the channel variety
 -
   > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... interdisciplinary subject
 -
