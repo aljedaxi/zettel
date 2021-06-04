@@ -54,5 +54,5 @@
 -
   > thus ... [system two] is the focus of homeostasis between management and operations
 -
-  > The ... channels carrying information between the managerial unit,
+  > The ... channels carrying information between the managerial unit, the operation, and the environment must each have a higher [channel variety] ... than the originating subsystem has to generate [variety]
 -
