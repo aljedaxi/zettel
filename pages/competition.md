@@ -1,0 +1,1 @@
+- https://damagemag.com/2018/11/05/the-competitive-personality/
