@@ -9,7 +9,7 @@
   Desaturated Mode. 
   : The system should use desaturated, muted colors, and allow users to toggle grayscale modes. 
   
-  Doherty Threshold Observance. 
+  [[Doherty Threshold]] Observance. 
   : The system’s feedback should not exceed 400ms, so as to prevent addictiveness. 
   
   Recognition and Safety. 
