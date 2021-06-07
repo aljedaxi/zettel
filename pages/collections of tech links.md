@@ -30,9 +30,9 @@ title: collections of tech links
 - reactive programming:
 	- https://kefirjs.github.io/kefir/#static-land
 - charts:
-- https://github.com/chartjs/Chart.js
-  
-  internationalization:
+	- https://github.com/chartjs/Chart.js
+	-
+- internationalization:
 - https://formatjs.io/
 - flow data between boxes:
 - https://reactflow.dev/
