@@ -34,13 +34,13 @@ title: collections of tech links
 	- https://reactflow.dev/
 	- https://github.com/vasturiano/react-force-graph
 - internationalization:
-- https://formatjs.io/
+	- https://formatjs.io/
 - git:
-- [draw fun stuff in your commit history](https://github.com/gelstudios/gitfiti)
-- [rebase before merging?](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
+	- [draw fun stuff in your commit history](https://github.com/gelstudios/gitfiti)
+	- [rebase before merging?](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 - Ethical design:
-- https://ethicaldesign.guide/
-- https://2017.ind.ie/ethical-design/
+	- https://ethicaldesign.guide/
+	- https://2017.ind.ie/ethical-design/
 - React Visual Frameworks:
 - [mantine](https://mantine.dev/guides/dark-theme/)
 - [[Logging]]:
