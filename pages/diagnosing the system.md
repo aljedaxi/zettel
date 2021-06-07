@@ -22,6 +22,7 @@
   Three
   : The variety of a transducer must be $$\geq$$ than the channel capacity
 - Tasks:
+  collapsed:: true
 	-
 	  > In which viable system are you embedded? How many recursive systems can you list before you reach some kind of 'totality'? ... Please make some kind of diagram, so that ... a record of your investigations is begun
 		- Eg, (Total Industry (Heavy Industry (Iron & Steel (Cold Working (Wire (Fine Wire))))))
