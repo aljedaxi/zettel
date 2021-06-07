@@ -21,12 +21,8 @@ title: fonts
 	  daxi, [Feb 25, 2020 at 3:11:25 AM]:
 	  Monokrom Skriftforlag
 	  Just North of Typography
-	  
-	  daxi, [Feb 25, 2020 at 3:11:25 AM]:
-	  https://monokrom.no/fonts/riks
-	  
-	  daxi, [Feb 25, 2020 at 3:11:42 AM]:
-	  velvetyne/Trickster
+	- https://monokrom.no/fonts/riks
+	- velvetyne/Trickster
 	  Libre font Trickster. Contribute to velvetyne/Trickster development by creating an account on GitHub.
 	  
 	  daxi, [Feb 25, 2020 at 3:11:42 AM]:
