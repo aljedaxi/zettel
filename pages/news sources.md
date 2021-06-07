@@ -1,2 +1,2 @@
 - Visually Rich:
-	-
+	- [The Pudding, kinda tech heavy? center left liberal](https://pudding.cool/)
