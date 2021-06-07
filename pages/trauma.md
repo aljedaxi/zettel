@@ -1,0 +1,1 @@
+- [weird ass eye therapy????](https://aeon.co/essays/how-emdr-helps-to-reprocess-traumatic-memories-at-warp-speed) #phenomenology
