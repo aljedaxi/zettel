@@ -3,7 +3,7 @@ title: How to stop overthinking | Psyche Guides
 ---
 
 -
-  > In that case, in metacognitive therapy we use attention training to help clients realise that they can shift their attention regardless of inner inputs, such as trigger thoughts, and outer input, such as external stressors. I usually ask my clients to do the following 10-minute exercise. Maybe reading this will inspire you to try it out yourself: 
+  > in metacognitive therapy we use attention training to help clients realise that they can shift their attention regardless of inner inputs, such as trigger thoughts, and outer input, such as external stressors. I usually ask my clients to do the following 10-minute exercise. Maybe reading this will inspire you to try it out yourself: 
   
   > Tune in to three or more environmental sounds, such as: traffic; birdsong; chatter from a nearby radio or TV; children playing; building work, or whatever. You need to find somewhere where these ambient sounds are going on. It’s helpful if some of the noises you select are nearer and louder, while others are further away and quieter. 
   
