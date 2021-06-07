@@ -1,0 +1,1 @@
+- [good non-vegan recipe](https://cookieandkate.com/french-toast-recipe)
