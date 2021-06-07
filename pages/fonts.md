@@ -23,8 +23,6 @@ title: fonts
 	- Faune, Alice Savoie / Cnap
 	  A typeface family designed by Alice Savoie. A series of original illustrations by Marine Rivoal. A commission by the Centre National des Arts Plastiques. In partnership with the Groupe Imprimerie Nationale.
 	  
-	  daxi, [Feb 25, 2020 at 3:12:16 AM]:
 	  http://www.cnap.graphismeenfrance.fr/faune/en.html
 	  
-	  daxi, [Feb 25, 2020 at 3:12:37 AM]:
 	  https://gitlab.com/bonjour-monde/fonderie/syne-typeface/-/tree/master
