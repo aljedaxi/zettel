@@ -38,7 +38,7 @@ title: collections of tech links
 - git:
 	- [draw fun stuff in your commit history](https://github.com/gelstudios/gitfiti)
 	- [rebase before merging?](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
-- Ethical design:
+- [[Ethical design]]:
 	- https://ethicaldesign.guide/
 	- https://2017.ind.ie/ethical-design/
 - React Visual Frameworks:
