@@ -24,5 +24,3 @@ title: fonts
 	  A typeface family designed by Alice Savoie. A series of original illustrations by Marine Rivoal. A commission by the Centre National des Arts Plastiques. In partnership with the Groupe Imprimerie Nationale.
 	  
 	  http://www.cnap.graphismeenfrance.fr/faune/en.html
-	  
-	  https://gitlab.com/bonjour-monde/fonderie/syne-typeface/-/tree/master
