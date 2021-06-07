@@ -2,3 +2,4 @@
   todo:: 1623041828390
 	- Philosophical Foundations of the Social Sciences by Harold Kincald
 	- The Structure of the Scientific Revolutions by Thomas S. Kuhn (uh)
+	- Philosophy & Sociology of Science by
