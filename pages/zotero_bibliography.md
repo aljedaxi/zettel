@@ -2,30 +2,32 @@
 title: Zotero Bibliography
 ---
 
-- [[Chinese philosophy has long known that mental health is communal]]
+## [[How to stop overthinking | Psyche Guides]]
 
-- [[Spirituality is a brain state we can all reach, religious or not]]
+## [[Diagnosing the System for Organizations]]
 
-- [[The spectacular originality of Coleridge's theory of ideas]]
+## [[Chinese philosophy has long known that mental health is communal]]
 
-- [[How to deconstruct the world]]
+## [[Spirituality is a brain state we can all reach, religious or not]]
 
-- [[Seduced & Abandoned]]
+## [[The spectacular originality of Coleridge's theory of ideas]]
 
-- [[On the role of scientific thought]]
+## [[How to deconstruct the world]]
 
-- [[Selected writings on computing]]
+## [[Seduced & Abandoned]]
 
-- [[Autism Thread]]
+## [[On the role of scientific thought]]
 
-- [[A Critical Systems Thinking overview of the 'GAPPS' and the 'EU Science Hub/Cynefin Centre' guides to leadership in times of complexity]]
+## [[Selected writings on computing]]
 
-- [[do you believe that a neurotype could naturally think in a way that always must consider the impact on others and cannot prioritize their own feelings & wants over those of other people, even if they want to, even if the other people are a hypothetical group they don't know?]]
+## [[Autism Thread]]
 
-- [[Two Transsexuals Talk Nonbinary]]
+## [[A Critical Systems Thinking overview of the 'GAPPS' and the 'EU Science Hub/Cynefin Centre' guides to leadership in times of complexity]]
 
-- [[How to motivate yourself to change | Psyche Guides]]
+## [[do you believe that a neurotype could naturally think in a way that always must consider the impact on others and cannot prioritize their own feelings & wants over those of other people, even if they want to, even if the other people are a hypothetical group they don't know?]]
 
-- [[Confluence]]
+## [[Two Transsexuals Talk Nonbinary]]
+
+## [[How to motivate yourself to change | Psyche Guides]]
 
 
