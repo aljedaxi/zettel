@@ -18,17 +18,17 @@ title: collections of tech links
 - how to bill https://raccoon.onyxbits.de/blog/software-development-cost/
 - use them with https://allcontributors.org/
 - document them with
-- [this](https://github.com/JesterXL/hm-doc) for functional code
-- bro you can combine logseq with [taiko](https://github.com/getgauge/taiko)
-- [this](https://stripe.com/docs/webhooks/integration-builder) as an example
+	- [this](https://github.com/JesterXL/hm-doc) for functional code
+	- bro you can combine logseq with [taiko](https://github.com/getgauge/taiko)
+	- [this](https://stripe.com/docs/webhooks/integration-builder) as an example
 - sketching ui:
-- https://reactype.io/
-- [storybook](https://storybook.js.org/)
-- [visual testing](https://www.chromatic.com/) for storybook
+	- https://reactype.io/
+	- [storybook](https://storybook.js.org/)
+		- [visual testing](https://www.chromatic.com/) for storybook
 - lenses:
-- https://github.com/calmm-js/partial.lenses
-  
-  reactive programming:
+	- https://github.com/calmm-js/partial.lenses
+	  
+	  reactive programming:
 - https://kefirjs.github.io/kefir/#static-land
   
   charts:
