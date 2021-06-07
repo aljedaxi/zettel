@@ -4,7 +4,7 @@
 - With this addition, copied text from vim can be pasted by CTRL+V and copied text from CTRL+C can be pasted into vim with ‘p’.
 - If you want to delete text without overwriting your register, you can run `“_` before your command, such as: `“_dd` to delete a line.
 -
-  ```vimrc
+  ```vimscript
   cnoremap kj <C-C>
   cnoremap jk <C-C>
   ``` 
