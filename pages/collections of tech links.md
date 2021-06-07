@@ -27,11 +27,9 @@ title: collections of tech links
 		- [visual testing](https://www.chromatic.com/) for storybook
 - lenses:
 	- https://github.com/calmm-js/partial.lenses
-	  
-	  reactive programming:
-- https://kefirjs.github.io/kefir/#static-land
-  
-  charts:
+- reactive programming:
+	- https://kefirjs.github.io/kefir/#static-land
+- charts:
 - https://github.com/chartjs/Chart.js
   
   internationalization:
