@@ -13,23 +13,14 @@ title: fonts
 	  Type family originally designed for Synesthésie art center (Saint-Denis, Fr)
 	  https://gitlab.com/bonjour-monde/fonderie/syne-typeface/-/tree/master
 	- PampaType Font Foundry | Reforma
-	  PampaType: fine typefaces & tailored fonts
-	  
-	  daxi, [Feb 25, 2020 at 3:11:11 AM]:
 	  https://pampatype.com/reforma
-	  
-	  daxi, [Feb 25, 2020 at 3:11:25 AM]:
-	  Monokrom Skriftforlag
-	  Just North of Typography
-	- https://monokrom.no/fonts/riks
+	- Monokrom Skriftforlag
+	  Just North of Typography 
+	  https://monokrom.no/fonts/riks
 	- velvetyne/Trickster
 	  Libre font Trickster. Contribute to velvetyne/Trickster development by creating an account on GitHub.
-	  
-	  daxi, [Feb 25, 2020 at 3:11:42 AM]:
 	  https://github.com/velvetyne/Trickster
-	  
-	  daxi, [Feb 25, 2020 at 3:12:16 AM]:
-	  Faune, Alice Savoie / Cnap
+	- Faune, Alice Savoie / Cnap
 	  A typeface family designed by Alice Savoie. A series of original illustrations by Marine Rivoal. A commission by the Centre National des Arts Plastiques. In partnership with the Groupe Imprimerie Nationale.
 	  
 	  daxi, [Feb 25, 2020 at 3:12:16 AM]:
