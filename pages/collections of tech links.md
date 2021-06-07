@@ -31,11 +31,10 @@ title: collections of tech links
 	- https://kefirjs.github.io/kefir/#static-land
 - charts:
 	- https://github.com/chartjs/Chart.js
-	-
+	- https://reactflow.dev/
+	- https://github.com/vasturiano/react-force-graph
 - internationalization:
 - https://formatjs.io/
-- flow data between boxes:
-- https://reactflow.dev/
 - git:
 - [draw fun stuff in your commit history](https://github.com/gelstudios/gitfiti)
 - [rebase before merging?](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
