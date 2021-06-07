@@ -1,0 +1,1 @@
+- [how to avoid having opinions](https://aeon.co/ideas/why-do-you-believe-what-you-do-run-some-diagnostics-on-it)
