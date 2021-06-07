@@ -3,6 +3,7 @@ title: How to stop overthinking | Psyche Guides
 ---
 
 -
+  >
 - Get to know your trigger thoughts and let them be
 - ‘trigger thoughts’. If you pay them enough attention, these thoughts can trigger an explosion of bodily sensations and feelings, and a myriad of associations.
 - Some trigger thoughts can activate warmth and joy about an exciting upcoming project, meeting a friend, or a holiday you’re looking forward to. These kinds of trigger thoughts are, of course, unproblematic. Other trigger thoughts, however, might activate a long series of further thoughts that can develop into worries or ruminations. Worries typically form around hypothetical scenarios and start with ‘What if…’ statements such as: ‘What if I make the wrong decision?’ ‘What if they won’t like me?’ ‘What if I get ill?’ and so on. Typical rumination, on the other hand, starts with thoughts about what, why and how: ‘What is wrong with me?’ ‘Why am I feeling this way?’ ‘How do I get better?’
