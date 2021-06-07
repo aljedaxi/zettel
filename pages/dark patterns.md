@@ -10,7 +10,7 @@
   : The system should use desaturated, muted colors, and allow users to toggle grayscale modes. 
   
   [[Doherty Threshold]] Observance. 
-  : The system’s feedback should not exceed 400ms, so as to prevent addictiveness. 
+  : The system’s feedback should not exceed 400ms, so as to prevent [[addictiveness]]. 
   
   Recognition and Safety. 
   : An inventory should be taken to more fully consider its impact on society. 
