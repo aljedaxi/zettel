@@ -49,3 +49,4 @@ title: recipes
 - https://www.onegreenplanet.org/vegan-recipe/recipe-raw-moroccan-vegetable-and-chickpea-stew-with-spicy-orange-cauliflower-couscous/
 - https://www.onegreenplanet.org/vegan-recipe/moroccan-miso-lentil-and-pumpkin-soup/
 - https://www.onegreenplanet.org/vegan-recipe/kale-fattoush/
+- https://www.emilieeats.com/cajun-style-vegan-red-beans-rice/
