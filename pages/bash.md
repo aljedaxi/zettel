@@ -1,1 +1,1 @@
-- `x && y && z || w` is like monads or whatever ;
+- `x && y && z || w` is like monads or whatever ; if everything works, it'll go `x; y; z`; if anything doesn't, i'll go `w`
