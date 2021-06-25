@@ -1,2 +1,2 @@
 -
-  > this has the best acoustics, it just has the wor
+  > this has the best acoustics, it just has the worst optics
