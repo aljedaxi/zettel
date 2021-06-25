@@ -1,0 +1,3 @@
+- Schemata:
+	- Mongoose sits between u and the database and offers a bunch of type checking
+	- https://docs.mongodb.com/realm/mongodb/document-schemas/

@@ -21,6 +21,9 @@
   
   Three
   : The variety of a transducer must be $$\geq$$ than the channel capacity
+  
+  Four
+  : The operation of the above must be cyclically maintained through time without hiatus or lags
 - Tasks:
   collapsed:: true
 	-
@@ -45,51 +48,69 @@
 	  > Make lists of your own instances relating to the two-way channels between management/operations ... **channel** capacity is the discussion point ... what **measures** do you have --- or need?
 	-
 	  > Make ... analytic vignettes of the transducers that populate your own system one [the transducers E <=> O, O <=> M] ... and try to make an enormous diagram ... annotating for the **three principles**
--
-  > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... [[interdisciplinary subject]]
--
-  > The Handbook reduces the electronics to diagrams. This book reduces cybernetics to diagrams.
--
-  > we cannot tackle everything at once ... [eg] the problems of *measurement* and *filtration* that are dealt with in ... *The Brain of the Firm* and *The Heart of the Enterprise*.
--
-  > Finally, the recursive embodiments of **[[language]]** as a [[viable system]] took us from philosophy through linguistics to anthropology, and back again
--
-  > [[cybernetics]] is the science of effective organization.
--
-  > it was later mathematically proved that such a system must necessarily contain a representation ... of whatever is being regulated
--
-  > Solvency ... is a prerequisite of business ... Profitability, too ... but they do not ... constitute the goals of the enterprise. Rather are they the *constraints* under which it operates ... to treat all this as the essence of viability is to mistake the epiphenomena of the system ... for the system itself ... viability in complex organisms is not ... primarily concerned with the energy ... that propels them, but with the dynamic structure that determines the **adaptive connectivity** of their parts.
+	-
+	  > draw ... only the operational circles of the elements you have already isolated and examined seperately, and think about the connexions between them ... the squiggly red lines [between the circles in a VSM diagram]
+- On [[cybernetics]] 
+  collapsed:: true
+	-
+	  > this book ... should *guide* any manager ... in the light of [[cybernetics]] ... with requiring of [them] any prior knowledge ... of this ... [[interdisciplinary subject]]
+	-
+	  > [[cybernetics]] is the science of effective organization.
+	-
+	  > it was later mathematically proved that such a system must necessarily contain a representation ... of whatever is being regulated
+- On [[epistemology]] 
+  collapsed:: true
+	-
+	  > The Handbook reduces the electronics to diagrams. This book reduces cybernetics to diagrams.
+	-
+	  > Finally, the recursive embodiments of **[[language]]** as a [[viable system]] took us from philosophy through linguistics to anthropology, and back again
+	-
+	  > its ecology --- environmental interaction with an 'outside'
+	-
+	  > what the biologist calls the [[internal [[environment]]]]
+	-
+	  > [[data]] are transmitted, not variety ... variety is amplified or attenuated by the instructions that the data formulate
+	-
+	  id:: 60c38fbe-2b89-42fa-91f9-9071607745b9
+	  > existence is never independent of other existences, even though the individual has a separate **identity**
+- On [[next steps]]
+  collapsed:: true
+	-
+	  > we cannot tackle everything at once ... [eg] the problems of *measurement* and *filtration* that are dealt with in ... *[[The Brain of the Firm]]* and *[[The Heart of the Enterprise]]*.
+- On the [[[[viable system]] model]] 
+  collapsed:: true
+	-
+	  > the **set** of these embedments will be known as [[SYSTEM ONE]]
+		-
+		  > Management in [[System One]] is charged with conducting its operations according to a [[Resource Bargain]] struck with Senior management
+	-
+	  > the viable system is necessarily a **producer** of the organization ... list the organizations of the next lower recursion --- that is, the embedded subsidiaries or departments that between them PRODUCE THE COMPANY ... the heart, lungs, liver, kidneys ... are all engaged in *producing* the organism ... in the firm ... the profit centres produce the company ... it is continuous and regenerative self-production that underwrites IDENTITY
+		-
+		  > if the product is 'sold' only internally ... the unit is not a viable system --- especially insofar as it has no exposure to market forces
 - Stafford Str8 Spitting
+  collapsed:: true
 	-
 	  > This FOREWORD is over --- so: FORWARD ...
 	-
 	  > please think about this responsibility for resources provided in terms (... not of emotional dependency)
--
-  > the way you are likely to get results ... is to arrange the organizational structure differently ... the problems that people were worrying about will then be not so much solved as dissolved. This means that you will not get any credit.
--
-  > existence is never independent of other existences, even though the individual has a separate **identity**
--
-  > the viable system is necessarily a **producer** of the organization ... list the organizations of the next lower recursion --- that is, the embedded subsidiaries or departments that between them PRODUCE THE COMPANY ... the heart, lungs, liver, kidneys ... are all engaged in *producing* the organism ... in the firm ... the profit centres produce the company ... it is continuous and regenerative self-production that underwrites IDENTITY
 	-
-	  > if the product is 'sold' only internally ... the unit is not a viable system --- especially insofar as it has no exposure to market forces
+	  > the way you are likely to get results ... is to arrange the organizational structure differently ... the problems that people were worrying about will then be not so much solved as dissolved. This means that you will not get any credit.
 -
-  > its ecology --- environmental interaction with an 'outside'
--
-  > what the biologist calls the [[internal [[environment]]]]
--
-  > the **set** of these embedments will be known as [[SYSTEM ONE]]
-	-
-	  > Management in [[System One]] is charged with conducting its operations according to a [[Resource Bargain]] struck with Senior management
+  > Solvency ... is a prerequisite of business ... Profitability, too ... but they do not ... constitute the goals of the enterprise. Rather are they the *constraints* under which it operates ... to treat all this as the essence of viability is to mistake the epiphenomena of the system ... for the system itself ... viability in complex organisms is not ... primarily concerned with the energy ... that propels them, but with the dynamic structure that determines the **adaptive connectivity** of their parts.
 -
   > The [[Resource Bargain]] is the 'deal' by which some degree of autonomy is agreed between senior management and its junior counterparts ... [it] declares: out of all the activities that [[System One]] might undertake, these will be tackled ... and not those ... and the resources negotiated to these ends will be provided
-  id:: 60b7a6b6-8b7e-4ecf-9864-457c3e30188e
 -
   > [[regulation]] ... amplifies managerial variety
 -
-  > [[data]] are transmitted, not variety ... variety is amplified or attenuated by the instructions that the data formulate
--
+  collapsed:: true
   > if each of a thousand letters involves data handling by a desk researcher ... it might take ten days at a hundred letters a day. But of course the whole job could be done in an hour or two inside a computerized system
 	-
 	  > If we look on [[technology]] as ... a [[[[variety]] generator]], and not simply as a producer of artifacts, then our regulatory capability is enhanced
-- Our Resource Bargain is backlog grooming: you must accomplish these things
+- Our (xMentium's)
+	- Resource Bargain is backlog grooming: you must accomplish these things
 -
+  > each elemental viable system has its own dynamic on the horizontal axis, the general dynamics of the system-in-focus derive from the vertical axis
+-
+  > A VSM diagram that looks exactly like a stereotype from one of the books about the VSM cannot possibly be [[exploiting the model]]
+-
+  > [[Accountability]] does not reside in [[system two]] ... accountability ... is always to be found on the central axis

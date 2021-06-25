@@ -21,6 +21,7 @@ title: collections of tech links
 	- [this](https://github.com/JesterXL/hm-doc) for functional code
 	- bro you can combine logseq with [taiko](https://github.com/getgauge/taiko)
 	- [this](https://stripe.com/docs/webhooks/integration-builder) as an example
+	- https://swimm.io/
 - sketching ui:
 	- https://reactype.io/
 	- [storybook](https://storybook.js.org/)
@@ -42,6 +43,11 @@ title: collections of tech links
 	- https://ethicaldesign.guide/
 	- https://2017.ind.ie/ethical-design/
 - React Visual Frameworks:
-- [mantine](https://mantine.dev/guides/dark-theme/)
+	- [mantine](https://mantine.dev/guides/dark-theme/)
+	- [spinners](https://github.com/mhnpd/react-loader-spinner)
 - [[Logging]]:
-- IBM likes [pino](https://github.com/pinojs/pino)
+	- IBM likes [pino](https://github.com/pinojs/pino)
+- Conferences:
+	- [vercel's conference framework](https://github.com/vercel/virtual-event-starter-kit)
+- Desktop app frameworks:
+	- https://tauri.studio/en/
