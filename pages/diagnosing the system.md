@@ -26,6 +26,9 @@
   : The operation of the above must be cyclically maintained through time without hiatus or lags
   
   Axioms of Management:
+  
+  First:
+  The sum or
 - Tasks:
   collapsed:: true
 	-
