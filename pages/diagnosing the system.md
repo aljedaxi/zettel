@@ -58,6 +58,8 @@
 	  > - actually **high** variety RULES promulgated on the central command axis?  - System Two activities, preserving some local autonomy?
 	  > WOULD YOU LIKE TO CHANGE THE EMPHASIS?
 	  > - HOW? - And how would you achieve this?
+	-
+	  > Bring the sketches ... up to date, in a form that ... ensure[s] that the five vertical linkages []
 - On [[cybernetics]] 
   collapsed:: true
 	-
