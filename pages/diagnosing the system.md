@@ -66,7 +66,8 @@
 	  > [[cybernetics]] is the science of effective organization.
 	-
 	  > it was later mathematically proved that such a system must necessarily contain a representation ... of whatever is being regulated
-- On [[epistemology]]
+- On [[epistemology]] 
+  collapsed:: true
 	-
 	  > The Handbook reduces the electronics to diagrams. This book reduces cybernetics to diagrams.
 	-
