@@ -109,6 +109,8 @@
 	  > it is usual for the viable system to have a purpose formulated for it within a higher recursion, ... this purpose must be expressed in the *Language* that the system understands ... a GOOD OBSERVER will **[impute](https://www.merriam-webster.com/dictionary/impute)** the purpose of the system from its actions ... hence ... **The purpose of the system is what it does** ... again ... we are likely to encounter COGNITIVE DISSONANCE ... this is in practice resolved ... in the ... comparator ... [which] continuously compares the declared purpose with the purpose imputed from the results that the system delivers. This results in the *feedback* of an error signal ($\varepsilon$), which will modify the ... statement of purpose ... NOTE: ... feedback generates **corrective action**
 		-
 		  > for the time being, these remarks refer to the planning of [[system one]] by ... Resource Bargaining
+		-
+		  > the purposes of the corporate system and those of system one are different, because system one con
 - On [[next steps]]
   collapsed:: true
 	-
