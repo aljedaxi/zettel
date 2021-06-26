@@ -101,6 +101,7 @@
 		- Show me a completely smooth operation and I'll show you someone who's covering mistakes. [[Real boats rock]].
 	-
 	  > it is not, inside itself, very [[systemic]]. Look at the feeble attempt to emphasize a needed homeostat between Production and Sales!
+	-
 - On [[next steps]]
   collapsed:: true
 	-
