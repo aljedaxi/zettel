@@ -118,7 +118,8 @@
 		  : System Three $\Leftrightarrow$ One: $P_1, P_2$, &c.
 		  : The arrangements made to distribute resources and obtain accountability for them.
 		  
-		  Anti-Oscillation:
+		  Anti-Oscillation
+		  : System Two: A ... Z, &c.
 		  :
 - Stafford Str8 Spitting
   collapsed:: true
