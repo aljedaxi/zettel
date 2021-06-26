@@ -78,8 +78,10 @@
 	-
 	  > [[data]] are transmitted, not variety ... variety is amplified or attenuated by the instructions that the data formulate
 	-
-	  id:: 60c38fbe-2b89-42fa-91f9-9071607745b9
 	  > existence is never independent of other existences, even though the individual has a separate **identity**
+	  id:: 60c38fbe-2b89-42fa-91f9-9071607745b9
+	-
+	  > to call E [implicit threat of litigation]
 - On [[next steps]]
   collapsed:: true
 	-
