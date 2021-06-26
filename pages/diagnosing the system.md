@@ -73,6 +73,7 @@
 	  > Refer to Figure 21, on which the six vertical variety absorbers [Corporate Intervention, the Resource Bargain, operational linkages, environmental intersections, System Two, System Three*] are shown. Determine for your system in focus how the first axiom appears to be met
 	  > As System three sees it;
 	  > As System one sees it
+	  (System one will likely see it as everything coming down the )
 - On [[cybernetics]] 
   collapsed:: true
 	-
