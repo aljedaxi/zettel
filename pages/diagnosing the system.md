@@ -102,8 +102,10 @@
 	-
 	  > it is not, inside itself, very [[systemic]]. Look at the feeble attempt to emphasize a needed homeostat between Production and Sales!
 	-
-	  > What matters in discriminating one 'state of the system' from other states is whether the resulting **change of state** serves, or has no bearing on, the **purposes** of the system
+	  > What matters in discriminating one 'state of the system' from other states is whether the resulting **change of state** serves, or has no bearing on, the ** [[purposes]]** of the system
 	-
+	  > we have not spoken of the system's [[purposes]] before, except in declaring its viability — and therefore the implied purpose TO SURVIVE ... but usually the viable system has a purpose imposed upon it, this:
+	  > []
 - On [[next steps]]
   collapsed:: true
 	-
