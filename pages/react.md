@@ -2,6 +2,9 @@
   
   ```js
   import { startTransition } from 'react';
+  startTransition(() => {
+    setSearchQuery(input);
+  });
   ```
 - // Urgent: Show what was typed
   setInputValue(input);
