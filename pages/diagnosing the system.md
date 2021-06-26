@@ -24,6 +24,8 @@
   
   Four
   : The operation of the above must be cyclically maintained through time without hiatus or lags
+  
+  Axioms of Management:
 - Tasks:
   collapsed:: true
 	-
