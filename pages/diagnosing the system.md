@@ -96,8 +96,7 @@
   collapsed:: true
 	-
 	  > we cannot tackle everything at once ... [eg] the problems of *measurement* and *filtration* that are dealt with in ... *[[The Brain of the Firm]]* and *[[The Heart of the Enterprise]]*.
-- On the [[[[viable system]] model]] 
-  collapsed:: true
+- On the [[[[viable system]] model]]
 	-
 	  > the **set** of these embedments will be known as [[SYSTEM ONE]]
 		-
