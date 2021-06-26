@@ -50,6 +50,7 @@
 	-
 	  > draw ... only the operational circles of the elements you have already isolated and examined seperately, and think about the connexions between them ... the squiggly red lines [between the circles in a VSM diagram]
 	-
+	  > Make a copy of ... Figure 19 [system one, ]
 - On [[cybernetics]] 
   collapsed:: true
 	-
