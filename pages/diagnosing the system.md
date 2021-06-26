@@ -120,7 +120,11 @@
 		  
 		  Anti-Oscillation
 		  : System Two: A ... Z, &c.
-		  :
+		  : costing techniques that supply standard costs, variances, &c. The accountancy principles and practices involved are OPEN TO DISCUSSION.
+		  
+		  Audit
+		  : System Three *
+		  : ad-hoc, hight-variety activities
 - Stafford Str8 Spitting
   collapsed:: true
 	-
