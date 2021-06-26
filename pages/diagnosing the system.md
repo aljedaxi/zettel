@@ -81,7 +81,7 @@
 	  > existence is never independent of other existences, even though the individual has a separate **identity**
 	  id:: 60c38fbe-2b89-42fa-91f9-9071607745b9
 	-
-	  > to call E [implicit threat of litigation]
+	  > to call E [implicit threat of litigation] an anti-oscillatory device makes the issue of potential litigation open to discussion in cybernetic terms.
 - On [[next steps]]
   collapsed:: true
 	-
