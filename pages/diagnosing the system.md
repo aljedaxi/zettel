@@ -59,7 +59,7 @@
 	  > WOULD YOU LIKE TO CHANGE THE EMPHASIS?
 	  > - HOW? - And how would you achieve this?
 	-
-	  > Bring the sketches ... up to date, in a form that ... ensure[s] that the five vertical linkages []
+	  > Bring the sketches ... up to date, in a form that ... ensure[s] that the five vertical linkages [Corporate Intervention, the Resource Bargain, operational linkages, environmental intersections, and System Two] are sufficiently well represented ... Does ... Senior management have REQUISITE VARIETY to absorb the variety proliferated by the horizontal elements of system one?
 - On [[cybernetics]] 
   collapsed:: true
 	-
