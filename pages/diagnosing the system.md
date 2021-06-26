@@ -106,6 +106,7 @@
 	-
 	  > we have not spoken of the system's [[purposes]] before, except in declaring its viability — and therefore the implied purpose TO SURVIVE ... but usually the viable system has a purpose imposed upon it, thus:
 	  > [diagram VS state 1 creates actions, which morph it into VS state 2; thence comes an imputed purpose, which is fed into a comparator; the comparator also reads the slang declaration of purpose; this comparator is fed into the higher level of recursion, which thence feeds into the purpose declared in slang]
+	  > it is usual for the viable system to have a purpose formulated for it within a higher recursion, ... this purpose must be expressed in the *Language* that the system understands.
 - On [[next steps]]
   collapsed:: true
 	-
