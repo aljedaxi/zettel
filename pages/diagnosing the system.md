@@ -50,7 +50,7 @@
 	-
 	  > draw ... only the operational circles of the elements you have already isolated and examined seperately, and think about the connexions between them ... the squiggly red lines [between the circles in a VSM diagram]
 	-
-	  > Make a copy of ... Figure 19 [system one, with $n$ triangles to the right of the squares, and $n$ triangles to the right of senior management. each triangle is connected to the ]
+	  > Make a copy of ... Figure 19 [system one, with $n$ triangles to the right of the squares, and $n$ triangles to the right of senior management. each triangle is connected to a  ]
 - On [[cybernetics]] 
   collapsed:: true
 	-
