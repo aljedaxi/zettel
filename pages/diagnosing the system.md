@@ -25,7 +25,7 @@
   Four
   : The operation of the above must be cyclically maintained through time without hiatus or lags
   
-  # Axioms of Management:
+  Axioms of Management:
   
   First
   : The sum of horizontal variety disposed by all the operational elements EQUALS the sum of vertical variety disposed on the six components of corporate cohesion
