@@ -105,7 +105,7 @@
 	  > What matters in discriminating one 'state of the system' from other states is whether the resulting **change of state** serves, or has no bearing on, the ** [[purposes]]** of the system
 	-
 	  > we have not spoken of the system's [[purposes]] before, except in declaring its viability — and therefore the implied purpose TO SURVIVE ... but usually the viable system has a purpose imposed upon it, thus:
-	  > [diagram VS state 1 creates actions, which morph it into VS state 2]
+	  > [diagram VS state 1 creates actions, which morph it into VS state 2; thence comes an imputed purpose, which is fed into a comparator; the comparator also reads the slang declaration of purpose; this comparator is fed into the higher level of recursion, which thence feeds into the purpose declared in slang]
 - On [[next steps]]
   collapsed:: true
 	-
