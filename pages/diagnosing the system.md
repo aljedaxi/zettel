@@ -115,7 +115,10 @@
 		  : the interventions that enable the Senior Management to discharge its legal responsibilities: they determine the form and meaning (eg) of the Balance Sheet and Profit and Loss Statement
 		  
 		  Resource Bargains
-		  :
+		  : System Three $\Leftrightarrow$ One: $P_1, P_2$, &c.
+		  : The arrangements made to distribute resources and obtain accountability for them.
+		  
+		  Anti
 - Stafford Str8 Spitting
   collapsed:: true
 	-
