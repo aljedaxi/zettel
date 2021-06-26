@@ -69,6 +69,7 @@
 	  > Make a list of the System Three components ... that means
 	  > Who are those who partake in resource bargaining, the allocation of resources, the accountability loop;
 	  > what supportive management does each have to administer the A, B, C ... activities of System Two;
+	-
 - On [[cybernetics]] 
   collapsed:: true
 	-
