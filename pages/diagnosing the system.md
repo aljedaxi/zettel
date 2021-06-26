@@ -27,8 +27,8 @@
   
   Axioms of Management:
   
-  First:
-  The sum or
+  First
+  : The sum of horizontal variety disposed by all the operational elements EQUALS the sum of vertical
 - Tasks:
   collapsed:: true
 	-
