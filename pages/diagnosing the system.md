@@ -30,7 +30,6 @@
   First
   : The sum of horizontal variety disposed by all the operational elements EQUALS the sum of vertical variety disposed on the six components of corporate cohesion
 - Tasks:
-  collapsed:: true
 	-
 	  > In which viable system are you embedded? How many recursive systems can you list before you reach some kind of 'totality'? ... Please make some kind of diagram, so that ... a record of your investigations is begun
 		- Eg, (Total Industry (Heavy Industry (Iron & Steel (Cold Working (Wire (Fine Wire))))))
@@ -66,6 +65,9 @@
 	  > - HOW? - And how would you achieve this?
 	-
 	  > Bring the sketches ... up to date, in a form that ... ensure[s] that the five vertical linkages [Corporate Intervention, the Resource Bargain, operational linkages, environmental intersections, and System Two] are sufficiently well represented ... Does ... Senior management have REQUISITE VARIETY to absorb the variety proliferated by the horizontal elements of system one?
+	-
+	  > Make a list of the System Three components ... that means
+	  > Who are those who partake in resource bargaining, the allocation of resources, the accountability loop;
 - On [[cybernetics]] 
   collapsed:: true
 	-
