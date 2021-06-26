@@ -11,3 +11,4 @@
   ```
   
   it means the update can be interrupted by something more important
+- https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications
