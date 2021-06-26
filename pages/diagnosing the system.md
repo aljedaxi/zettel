@@ -108,7 +108,7 @@
 		-
 		  > if the product is 'sold' only internally ... the unit is not a viable system --- especially insofar as it has no exposure to market forces
 	-
-	  > [[System Three]], then, is responsible for the *internal* and *immediate* functions of the enterprise ... responsible for, although it does not conduct, the anti-oscillatory functions of [[System Two]] ...
+	  > [[System Three]], then, is responsible for the *internal* and *immediate* functions of the enterprise ... responsible for, although it does not conduct, the anti-oscillatory functions of [[System Two]] ... it is also responsible for [audits] ... defined in terms of the System Three need to replenish its own Requisite Variety. This is why they are called [[System Three*]]
 - Stafford Str8 Spitting
   collapsed:: true
 	-
