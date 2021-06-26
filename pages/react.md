@@ -1,11 +1,13 @@
 - if you have something that isn't important, try doing the following:
   
   ```js
-  import { startTransition } from 'react';
-  startTransition(() => {
+  import { startTransition } from 'react'
+  
+  const [searchQuery, setSearchQuery] = useState ()
+  
+  startTransition(_ => {
     setSearchQuery(input);
   });
   ```
-- // Urgent: Show what was typed
-  setInputValue(input);
-- // Mark any state updates inside as transitions
+  
+  it means the update can be interrupted by something more important
