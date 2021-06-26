@@ -51,6 +51,8 @@
 	  > draw ... only the operational circles of the elements you have already isolated and examined seperately, and think about the connexions between them ... the squiggly red lines [between the circles in a VSM diagram]
 	-
 	  > Make a copy of ... Figure 19 [system one, with $n$ triangles to the right of the squares, and $n$ triangles to the right of senior management. each triangle is connected by to a grid of red lines, of size $n\cdot n$; the bottom triangle has a square called $C$ on the rightmost line, in the center of its bottommost section; $B$ on the second to bottom, second to right section, &c. ] ... Now find at least three Systems Two, entering these functions in the red boxes A, B and C.
+	-
+	  > Consider your own system-in-focus. does it have something you would call - a salary policy? - a car policy? Are these so-called 'policies' (which are expected to be **low** variety under this name, or its synonym 'guidelines') actually **high** variety RULES promulgated on the central command axis?
 - On [[cybernetics]] 
   collapsed:: true
 	-
