@@ -102,7 +102,8 @@
 	-
 	  > it is not, inside itself, very [[systemic]]. Look at the feeble attempt to emphasize a needed homeostat between Production and Sales!
 	-
-	  >
+	  > What matters in discriminating one 'state of the system' from other states is whether the resulting **change of state** serves, or has no bearing on, the **purposes** of the system
+	-
 - On [[next steps]]
   collapsed:: true
 	-
