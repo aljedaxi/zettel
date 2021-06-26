@@ -98,12 +98,14 @@
 	  > we cannot tackle everything at once ... [eg] the problems of *measurement* and *filtration* that are dealt with in ... *[[The Brain of the Firm]]* and *[[The Heart of the Enterprise]]*.
 - On the [[[[viable system]] model]]
 	-
+	  collapsed:: true
 	  > the **set** of these embedments will be known as [[SYSTEM ONE]]
 		-
 		  > Management in [[System One]] is charged with conducting its operations according to a [[Resource Bargain]] struck with Senior management
 		-
 		  > Each [[System One]] is served by more than one [[System Two]], because there are always several oscillatory sources.
 	-
+	  collapsed:: true
 	  > the viable system is necessarily a **producer** of the organization ... list the organizations of the next lower recursion --- that is, the embedded subsidiaries or departments that between them PRODUCE THE COMPANY ... the heart, lungs, liver, kidneys ... are all engaged in *producing* the organism ... in the firm ... the profit centres produce the company ... it is continuous and regenerative self-production that underwrites IDENTITY
 		-
 		  > if the product is 'sold' only internally ... the unit is not a viable system --- especially insofar as it has no exposure to market forces
