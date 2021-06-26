@@ -70,7 +70,7 @@
 	  > Who are those who partake in resource bargaining, the allocation of resources, the accountability loop;
 	  > what supportive management does each have to administer the A, B, C ... activities of System Two;
 	-
-	  > Refer to Figure 21, on which the six vertical variety absorbers [Corporate Intervention, the Resource Bargain, operational linkages, environmental intersections, System Two, System Three*]
+	  > Refer to Figure 21, on which the six vertical variety absorbers [Corporate Intervention, the Resource Bargain, operational linkages, environmental intersections, System Two, System Three*] are shown
 - On [[cybernetics]] 
   collapsed:: true
 	-
