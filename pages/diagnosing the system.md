@@ -110,7 +110,7 @@
 		-
 		  > for the time being, these remarks refer to the planning of [[system one]] by ... Resource Bargaining
 		-
-		  > the purposes of the corporate system and those of system one are different, because system one consists of viable systems ... capable of independent existence
+		  > the purposes of the corporate system and those of system one are different, because system one consists of viable systems ... capable of independent existence ... so long as the system-in-focus is to remain cohesive, the compromise convergence must continually act ...
 - On [[next steps]]
   collapsed:: true
 	-
