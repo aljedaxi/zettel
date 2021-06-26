@@ -28,7 +28,7 @@
   Axioms of Management:
   
   First
-  : The sum of horizontal variety disposed by all the operational elements EQUALS the sum of vertical
+  : The sum of horizontal variety disposed by all the operational elements EQUALS the sum of vertical variety disposed on the six components of corporate cohesion
 - Tasks:
   collapsed:: true
 	-
