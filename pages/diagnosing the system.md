@@ -127,7 +127,7 @@
 		  : System Three *
 		  : ad-hoc, hight-variety activities
 		-
-		  >
+		  > [[System Three]] ... has the role of observing the One-Two complex from the privileged position of (*intra*systemic) omniscience
 - Stafford Str8 Spitting
   collapsed:: true
 	-
