@@ -12,7 +12,7 @@
   Red Arrows
   : necessary interactions between the basic entities
   
-  $\oplus$, turned as to be an x
+  $\oplus$, turned as to be an x ;; or, more recently, a triangle with a positive and negative input
   : comparator
 - Principals:
   
