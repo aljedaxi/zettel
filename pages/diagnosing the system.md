@@ -11,6 +11,9 @@
   
   Red Arrows
   : necessary interactions between the basic entities
+  
+  $\oplus$
+  : comparator
 - Principals:
   
   One
