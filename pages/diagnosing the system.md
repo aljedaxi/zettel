@@ -12,7 +12,7 @@
   Red Arrows
   : necessary interactions between the basic entities
   
-  $\oplus$
+  $\oplus$, turned as to be an x
   : comparator
 - Principals:
   
