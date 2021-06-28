@@ -19,4 +19,4 @@ title: cybernetics
 	- [[cynefin]]
 	- [[confluence framework]]
 	- [[[[viable system]] model]]
-	- the idea that a regulator must contain a model of its regulated is the [[good regulator theorem]].
+	- the idea that a regulator must contain a model of its regulated is the [[good regulator theorem]]. The
