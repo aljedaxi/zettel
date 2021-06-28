@@ -19,5 +19,5 @@ title: cybernetics
 	- [[cynefin]]
 	- [[confluence framework]]
 	- [[[[viable system]] model]]
-	- TODO the idea that a regulator must contain a model of its regulated is the [[good regulator theorem]]. The [[ethical regulator theorem]] [combines the good regulator theorem with the law of requisite variety and seven other requisites that are necessary and sufficient for a cybernetic regulator to be effective and ethical]()https://www.mdpi.com/2079-8954/8/4/53
+	- TODO the idea that a regulator must contain a model of its regulated is the [[good regulator theorem]]. The [[ethical regulator theorem]] [combines the good regulator theorem with the law of requisite variety and seven other requisites that are necessary and sufficient for a cybernetic regulator to be effective and ethical](https://www.mdpi.com/2079-8954/8/4/53)
 	  todo:: 1624921772183
