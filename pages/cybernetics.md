@@ -15,7 +15,8 @@ title: cybernetics
   todo:: 1618340658274
 	- [[anti-[[oscillation]]]]?
 - Frameworks:
-- [[GAPPS]]
-- [[cynefin]]
-- [[confluence framework]]
-- [[[[viable system]] model]]
+	- [[GAPPS]]
+	- [[cynefin]]
+	- [[confluence framework]]
+	- [[[[viable system]] model]]
+	- the idea that a regulator must contain a model of its regulated is the [[good regulator theorem]].
