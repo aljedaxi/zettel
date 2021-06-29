@@ -50,3 +50,4 @@ title: recipes
 - https://www.onegreenplanet.org/vegan-recipe/moroccan-miso-lentil-and-pumpkin-soup/
 - https://www.onegreenplanet.org/vegan-recipe/kale-fattoush/
 - https://www.emilieeats.com/cajun-style-vegan-red-beans-rice/
+- https://www.emilieeats.com/recipe-index/?meal-type=338
