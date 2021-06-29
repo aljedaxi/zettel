@@ -9,4 +9,5 @@ title: zotero extension
   https://logseq.github.io/#/page/block%20properties
 - TODO add at least the author to the properties of the page, or as a tag to the page
   todo:: 1618339608894
-- https://github.com/pengx17/logseq-plugin-template-react
+- TODO https://logseq.github.io/#/page/plugins%2001
+  todo:: 1624994806284
