@@ -35,6 +35,7 @@ tags: Opus
 - https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/
 - [psychology of programming interest group](https://www.ppig.org/papers/)
 - put the written thing together with this: https://github.com/manubot/rootstock/blob/main/USAGE.md
+- [most people don't know what programming is](https://buzzdecafe.github.io/2018/07/22/a-response-to-paul-englishs-_how-to-be-a-great-programmer_)
 - "a loop is a way of doing one thing over and over again. if it is infact one thing, you should be able to express it as a quantum of computation: a function."
 	- [[the allegory of the one thing]]
 - https://reactpodcast.simplecast.com/episodes/82
