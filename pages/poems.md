@@ -1,5 +1,7 @@
 - DONEISH:
-	- In the mould on the peel
+	- Out of:
+	  
+	  In the mould on the peel
 	  Curled up by the wheel
 	  The eye scrys the subtle smell
 	  Orange 
