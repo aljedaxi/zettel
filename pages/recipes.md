@@ -54,6 +54,7 @@ title: recipes
 	- https://cookieandkate.com/west-african-peanut-soup/#tasty-recipes-23396-jump-target
 	- https://www.ambitiouskitchen.com/moroccan-chickpea-quinoa-salad
 	- https://minimalistbaker.com/1-pot-yellow-chickpea-cauliflower-curry/#wprm-recipe-container-34106
+	- https://www.emilieeats.com/classic-cajun-vegan-jambalaya/#tasty-recipes-5934
 	-
 - collections:
 	- https://www.emilieeats.com/recipe-index/?meal-type=338
