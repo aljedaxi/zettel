@@ -2,4 +2,4 @@
 title: vancouver
 ---
 
-- https://www.cafeportrait.com/
+- if you're looking for natural wines, try [here]()
