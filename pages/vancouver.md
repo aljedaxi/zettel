@@ -2,4 +2,4 @@
 tags: location
 ---
 
-- if you're looking for natural wines, try [here](http://www.marquis-wines.com/)
+- if you're looking for natural [[wine]]s, try [here](http://www.marquis-wines.com/)
