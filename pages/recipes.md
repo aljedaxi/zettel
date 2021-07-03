@@ -27,6 +27,7 @@ title: recipes
   Combine all ingredients in a mason jar or sealable container.
   Shake it up and place in the refrigerator overnight or for at least 6 hours.
   In the morning add additional almond milk to give it more of a cereal consistency or eat as is.
+- Recipe Links:
 - https://foodaciously.com/recipe/nigerian-chin-chin
 - https://cuisinicity.com/moroccan-tagine-vegan/
 - https://recipesfromapantry.com/overnight-mango-coconut-oats-vegan-west-african-flavours/
@@ -50,4 +51,6 @@ title: recipes
 - https://www.onegreenplanet.org/vegan-recipe/moroccan-miso-lentil-and-pumpkin-soup/
 - https://www.onegreenplanet.org/vegan-recipe/kale-fattoush/
 - https://www.emilieeats.com/cajun-style-vegan-red-beans-rice/
-- https://www.emilieeats.com/recipe-index/?meal-type=338
+- https://cookieandkate.com/west-african-peanut-soup/#tasty-recipes-23396-jump-target
+- collections:
+	- https://www.emilieeats.com/recipe-index/?meal-type=338
