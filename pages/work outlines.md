@@ -7,3 +7,4 @@
 	- tooling as the ready at hand, fetishization, anti-intellectualism
 	  
 	  "XP is those values!" ---[Dan North](https://www.youtube.com/watch?v=g5WpUJk8He4)
+-
