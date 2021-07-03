@@ -1,5 +1,5 @@
--
-  FUCK HEIDEGGER
+- Tooling [[heidegger]] [[xenofeminism]]
+- FUCK HEIDEGGER
 - novice level and Das Mann
   
   https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
