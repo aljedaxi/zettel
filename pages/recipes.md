@@ -57,5 +57,6 @@ title: recipes
 	- https://www.emilieeats.com/classic-cajun-vegan-jambalaya/#tasty-recipes-5934
 	- https://www.theendlessmeal.com/one-pot-vegan-pasta
 	- https://sunkissedkitchen.com/mediterranean-one-pot-pasta/
+	- https://cookieandkate.com/roasted-mushrooms-with-herbed-quinoa/#tasty-recipes-24240-jump-target
 - collections:
 	- https://www.emilieeats.com/recipe-index/?meal-type=338
