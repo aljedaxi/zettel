@@ -21,7 +21,7 @@ title: collections of tech links
 	- [this](https://github.com/JesterXL/hm-doc) for functional code
 	- bro you can combine logseq with [taiko](https://github.com/getgauge/taiko)
 	- [this](https://stripe.com/docs/webhooks/integration-builder) as an example of good documentation
-	- all the cool kids seem to be using [docusaurus]
+	- all the cool kids seem to be using [docusaurus](https://docusaurus.io/)
 	- https://swimm.io/
 - sketching ui:
 	- https://reactype.io/
