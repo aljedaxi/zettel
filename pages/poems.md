@@ -1,4 +1,23 @@
--
+- DONEISH:
+	- In the mould on the peel
+	  Curled up by the wheel
+	  The eye scrys the subtle smell
+	  Orange
+	- In the light of the lamp,
+	  By the sight, by the ramp,
+	  The coldness of grey gives
+	  To orange
+	- Now, tend to the trees,
+	  feathered out, free of leaves,
+	  languishing in—emblazened by—
+	  Orange
+	- what a place(!)lay you, lamp,
+	  before me; in past;
+	  thence;whither—whence?thither—hence,
+	  the night threads along,
+	  this or that? right or wrong?
+	  all together: a sole sight
+	  ing: orange.
 - %something about hooka 
   %The fundamental media: light, air, direct contact
   ```
