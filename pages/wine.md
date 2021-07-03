@@ -1,5 +1,5 @@
 - Here are five wines whose flavours make them easy to appreciate – ideal to get your tastings underway: 
-  Most of us love a glass of fizz, and fruity Prosecco is in many ways easier to drink than the more expensive, more structured Champagne and Champagne lookalikes. 
+  Most of us love a glass of fizz, and fruity **Prosecco** is in many ways easier to drink than the more expensive, more structured Champagne and Champagne lookalikes. 
   **Sauvignon blanc** is the grape that put New Zealand on the map, and people love its ebullient, bright flavours that combine elements of tropical fruit and a green, grassy character. 
   One of the easier grapes to get to grips with is **Gewurztraminer** – even newbies to tasting find it easy to pick up on aromas of lychees and rose petals. The classic versions come from Alsace in France, but it’s now widely grown in the New World too. 
   Big, bold **Barossa Shiraz** from South Australia was one of my first loves. Heady dark fruit and baking spices, and often lashings of sweet oak too. 
