@@ -1,3 +1,3 @@
-- [this](https://docs.cypress.io/guides/continuous-integration/github-actions#Cypress-GitHub-Action) has some useful tips for parallelization"
-- [generic CI article](https://docs.cypress.io/guides/continuous-integration/introduction#What-is-Continuous-Integration)"
-- the github actions [repo](https://github.com/cypress-io/github-action) , &amp; [marketplace entry](https://github.com/marketplace/actions/cypress-io)"
+- [this](https://docs.cypress.io/guides/continuous-integration/github-actions#Cypress-GitHub-Action) has some useful tips for parallelization
+- [generic CI article](https://docs.cypress.io/guides/continuous-integration/introduction#What-is-Continuous-Integration)
+- the github actions [repo](https://github.com/cypress-io/github-action) , &amp; [marketplace entry](https://github.com/marketplace/actions/cypress-io)
