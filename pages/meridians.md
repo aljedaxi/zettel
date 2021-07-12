@@ -1,1 +1,1 @@
-- [this video](https://youtu.be/01LbcCDTwF4) features a little clip that kinda suggests that
+- [this video](https://youtu.be/01LbcCDTwF4) features a little clip that kinda suggests that [fascia](https://en.wikipedia.org/wiki/Fascia) could deeply interact w []
