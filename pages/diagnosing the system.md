@@ -159,7 +159,6 @@ author: Stafford Beer
 		-
 		  > [[System Three]] ... has the role of observing the One-Two complex from the privileged position of (*intra*systemic) omniscience
 - Stafford Str8 Spitting
-  collapsed:: true
 	-
 	  > This FOREWORD is over --- so: FORWARD ...
 	-
@@ -167,7 +166,6 @@ author: Stafford Beer
 	-
 	  > the way you are likely to get results ... is to arrange the organizational structure differently ... the problems that people were worrying about will then be not so much solved as dissolved. This means that you will not get any credit.
 -
-  collapsed:: true
   > Solvency ... is a prerequisite of business ... Profitability, too ... but they do not ... constitute the goals of the enterprise. Rather are they the *constraints* under which it operates ... to treat all this as the essence of viability is to mistake the epiphenomena of the system ... for the system itself ... viability in complex organisms is not ... primarily concerned with the energy ... that propels them, but with the dynamic structure that determines the **adaptive connectivity** of their parts.
 -
   > The [[Resource Bargain]] is the 'deal' by which some degree of autonomy is agreed between senior management and its junior counterparts ... [it] declares: out of all the activities that [[System One]] might undertake, these will be tackled ... and not those ... and the resources negotiated to these ends will be provided
