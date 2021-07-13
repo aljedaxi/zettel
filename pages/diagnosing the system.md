@@ -1,38 +1,42 @@
-- Diagrammatic conventions
-  
-  Square
-  : all managerial activity need to run
-  
-  Circle
-  : the relevant operations that produce the viable system
-  
-  Amoeboid Shape
-  : the environment
-  
-  Red Arrows
-  : necessary interactions between the basic entities
-  
-  $\oplus$, turned as to be an x ;; or, more recently, a triangle with a positive and negative input
-  : comparator
-- Principals:
-  
-  One
-  : Varieties, diffusing through an institutional system, tend to equate
-  
-  Two
-  : [[Channel capacity]] must be $$\geq$$ the originating subsystem's variety *as* the subsystem creates the variety
-  
-  Three
-  : The variety of a transducer must be $$\geq$$ than the channel capacity
-  
-  Four
-  : The operation of the above must be cyclically maintained through time without hiatus or lags
-  
-  Axioms of Management:
-  
-  First
-  : The sum of horizontal variety disposed by all the operational elements EQUALS the sum of vertical variety disposed on the six components of corporate cohesion
-- Tasks:
+---
+author: Stafford Beer
+---
+
+	- Diagrammatic conventions
+	  
+	  Square
+	  : all managerial activity need to run
+	  
+	  Circle
+	  : the relevant operations that produce the viable system
+	  
+	  Amoeboid Shape
+	  : the environment
+	  
+	  Red Arrows
+	  : necessary interactions between the basic entities
+	  
+	  $\oplus$, turned as to be an x ;; or, more recently, a triangle with a positive and negative input
+	  : comparator
+	  - Principals:
+	  
+	  One
+	  : Varieties, diffusing through an institutional system, tend to equate
+	  
+	  Two
+	  : [[Channel capacity]] must be $$\geq$$ the originating subsystem's variety *as* the subsystem creates the variety
+	  
+	  Three
+	  : The variety of a transducer must be $$\geq$$ than the channel capacity
+	  
+	  Four
+	  : The operation of the above must be cyclically maintained through time without hiatus or lags
+	  
+	  Axioms of Management:
+	  
+	  First
+	  : The sum of horizontal variety disposed by all the operational elements EQUALS the sum of vertical variety disposed on the six components of corporate cohesion
+	  - Tasks:
 	-
 	  > In which viable system are you embedded? How many recursive systems can you list before you reach some kind of 'totality'? ... Please make some kind of diagram, so that ... a record of your investigations is begun
 		- Eg, (Total Industry (Heavy Industry (Iron & Steel (Cold Working (Wire (Fine Wire))))))
