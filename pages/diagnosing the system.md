@@ -36,7 +36,8 @@ author: Stafford Beer
   
   First
   : The sum of horizontal variety disposed by all the operational elements EQUALS the sum of vertical variety disposed on the six components of corporate cohesion
-  - Tasks:
+- Tasks:
+  collapsed:: true
 	-
 	  > In which viable system are you embedded? How many recursive systems can you list before you reach some kind of 'totality'? ... Please make some kind of diagram, so that ... a record of your investigations is begun
 		- Eg, (Total Industry (Heavy Industry (Iron & Steel (Cold Working (Wire (Fine Wire))))))
@@ -90,6 +91,7 @@ author: Stafford Beer
 	-
 	  > it was later mathematically proved that such a system must necessarily contain a representation ... of whatever is being regulated
 - On [[epistemology]]
+  collapsed:: true
 	-
 	  > The Handbook reduces the electronics to diagrams. This book reduces cybernetics to diagrams.
 	-
@@ -123,6 +125,7 @@ author: Stafford Beer
 	-
 	  > we cannot tackle everything at once ... [eg] the problems of *measurement* and *filtration* that are dealt with in ... *[[The Brain of the Firm]]* and *[[The Heart of the Enterprise]]*.
 - On the [[[[viable system]] model]]
+  collapsed:: true
 	-
 	  collapsed:: true
 	  > the **set** of these embedments will be known as [[SYSTEM ONE]]
